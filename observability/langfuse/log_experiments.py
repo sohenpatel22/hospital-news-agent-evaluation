@@ -131,20 +131,25 @@ def main():
         pass
     if not (os.getenv("LANGFUSE_PUBLIC_KEY") and os.getenv("LANGFUSE_SECRET_KEY")):
         sys.exit("Set LANGFUSE_PUBLIC_KEY / LANGFUSE_SECRET_KEY (and LANGFUSE_HOST) in .env first.")
-    from langfuse import Langfuse
+    from langfuse import Langfuse, propagate_attributes
     lf = Langfuse()
+    if not lf.auth_check():
+        sys.exit("Langfuse authentication failed - check keys/host in .env")
     for r in recs:
         tid = trace_id(r)
         name = f"{r['experiment']}/{r['prompt_version']}/{r['system']}/{r['task']}"
         tags = [r["experiment"], f"prompt:{r['prompt_version']}", f"system:{_slug(r['system'])}",
                 f"task:{r['task']}", f"gold:{r['gold']}"]
-        with lf.start_as_current_span(name=name, trace_context={"trace_id": tid}) as span:
-            span.update_trace(name=name, session_id=r["experiment"], tags=tags,
-                              input={"system": r["system"], "task": r["task"], "prompt_version": r["prompt_version"]},
-                              metadata={"gold": r["gold"], "window": r["window"], "source": r["source"],
-                                        **r.get("extra", {})})
-            for metric, value in r["metrics"].items():
-                span.score_trace(name=metric, value=value, data_type="NUMERIC")
+        meta = {"gold": r["gold"], "window": r["window"], "source": r["source"], **r.get("extra", {})}
+        with propagate_attributes(trace_name=name, session_id=r["experiment"], tags=tags):
+            with lf.start_as_current_observation(
+                    name=name, as_type="span", trace_context={"trace_id": tid},
+                    input={"system": r["system"], "task": r["task"], "prompt_version": r["prompt_version"]},
+                    metadata=meta, output=r["metrics"]):
+                pass
+        for metric, value in r["metrics"].items():
+            lf.create_score(trace_id=tid, name=metric, value=value, data_type="NUMERIC",
+                            score_id=hashlib.md5(f"{tid}|{metric}".encode()).hexdigest())
     lf.flush()
     print("done -- open your Langfuse project and filter by tag / session")
 
