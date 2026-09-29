@@ -63,7 +63,8 @@ cd experiments/exp04_ceo_5yr_baseline/workspace && python v4_evaluator.py && pyt
 ```bash
 cp .env.example .env            # fill in Langfuse keys
 python observability/langfuse/log_experiments.py --dry-run
-python observability/langfuse/log_experiments.py
+python observability/langfuse/log_experiments.py          # aggregate: experiment x system x task
+python observability/langfuse/log_hospital_traces.py     # exp02 per hospital, with item-level spans
 ```
 
 One trace per *experiment × prompt version × system × task*, grouped by session (= experiment), tagged, with every
