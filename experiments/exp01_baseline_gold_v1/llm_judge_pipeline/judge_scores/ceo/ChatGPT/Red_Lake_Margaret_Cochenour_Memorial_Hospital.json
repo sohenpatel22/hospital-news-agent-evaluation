@@ -1,0 +1,43 @@
+{
+  "relevance": 0,
+  "relevance_reason": "The model returned no extracted events despite declaring results were found, providing no useful information to answer the user's intent about hospital leadership changes.",
+  "groundedness": 0,
+  "groundedness_reason": "No factual claims or sources were provided in the model response, making it impossible to assess groundedness.",
+  "completeness": 0.0,
+  "completeness_reason": "The model covered none of the 23 gold standard items regarding leadership and board changes at Red Lake Margaret Cochenour Memorial Hospital.",
+  "missed_items": [
+    "Angela Bishop - President/CEO (outgoing)",
+    "Sue LeBeau - President/CEO (outgoing resigned)",
+    "Angela Bishop - Interim President/CEO (1st stint)",
+    "Sumeet Kumar - President/CEO (incoming)",
+    "Angela Bishop - Interim President/CEO (2nd stint)",
+    "Jennifer Lawrance - President/CEO (incoming)",
+    "Sonia Green - Board Chair (outgoing resigned)",
+    "John Frostiak - Board Chair (incoming)",
+    "Trevor Zhukrovsky - Board Chair (incoming)",
+    "Shawnda Norlock - Board Director (outgoing)",
+    "Trevor Zhukrovsky - Board Director (incoming - filled Norlock vacancy)",
+    "James Russell - Board Director (incoming)",
+    "Marshall Dumontier - Board Director (outgoing)",
+    "Jennifer Sedlacek - Board Director (incoming)",
+    "James Russell - Board Director (outgoing)",
+    "Eleanor Vachon - Board Director (outgoing 10yr term complete)",
+    "Scott Macumber - Board Director (incoming)",
+    "Donna Williams - Board Director (incoming)",
+    "Ray Hall - Board Director (incoming)",
+    "Ursula DeKeyser - Board Director (incoming)",
+    "Vivian Bruchkowski - Board Director (incoming)",
+    "Jamie Saulnier - Board Director (incoming)",
+    "Arlene Swanwick - Vice-Chair (from Committee Chair)"
+  ],
+  "answer_relevancy": 0.0,
+  "answer_relevancy_reason": "Since the model produced no content, no questions can be generated from the response that would align with the original intent of listing hospital leadership changes.",
+  "generated_questions": [
+    "What information is available about Red Lake Margaret Cochenour Memorial Hospital?",
+    "Did the model find any data at all?",
+    "Why did the model return an empty result?"
+  ],
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "Red Lake Margaret Cochenour Memorial Hospital"
+}

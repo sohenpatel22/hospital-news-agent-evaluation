@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Dan Wilson - Board Director (outgoing)\",\n      \"person_name\": \"Dan Wilson\",\n      \"role\": \"Board Director\",\n      \"directi",
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "Windsor Regional Hospital",
+  "run_number": 1
+}

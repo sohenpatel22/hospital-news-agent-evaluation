@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+python-docx
+matplotlib
+seaborn
+scipy
+anthropic        # exp01 LLM-as-judge pipeline
+langfuse>=3      # observability logging
+python-dotenv

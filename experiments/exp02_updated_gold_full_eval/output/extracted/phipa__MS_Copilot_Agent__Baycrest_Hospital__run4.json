@@ -1,0 +1,14 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "Baycrest Hospital",
+  "run_number": 4,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Baycrest Hospital\\Run 4.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Baycrest Hospital",
+      "refusal_text": "Baycrest Hospital: PHIPA-related news scan\nI found no qualifying, publicly reported PHIPA-related news updates for Baycrest Hospital from January 16 through July 16, 2026, after excluding correction matters as requested."
+    }
+  ]
+}

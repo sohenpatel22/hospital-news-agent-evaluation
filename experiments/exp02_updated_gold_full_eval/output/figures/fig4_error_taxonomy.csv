@@ -1,0 +1,26 @@
+system,category,count,total_tagged,share
+ChatGPT,fabricated_person_or_event,2,72,0.027777777777777776
+Claude,fabricated_person_or_event,0,50,0.0
+Gemini,fabricated_person_or_event,0,42,0.0
+MS Copilot Agent,fabricated_person_or_event,0,70,0.0
+Perplexity,fabricated_person_or_event,0,76,0.0
+ChatGPT,wrong_role,41,72,0.5694444444444444
+Claude,wrong_role,33,50,0.66
+Gemini,wrong_role,26,42,0.6190476190476191
+MS Copilot Agent,wrong_role,41,70,0.5857142857142857
+Perplexity,wrong_role,48,76,0.631578947368421
+ChatGPT,wrong_date,29,72,0.4027777777777778
+Claude,wrong_date,17,50,0.34
+Gemini,wrong_date,16,42,0.38095238095238093
+MS Copilot Agent,wrong_date,29,70,0.4142857142857143
+Perplexity,wrong_date,28,76,0.3684210526315789
+ChatGPT,organisational_confusion,0,72,0.0
+Claude,organisational_confusion,0,50,0.0
+Gemini,organisational_confusion,0,42,0.0
+MS Copilot Agent,organisational_confusion,0,70,0.0
+Perplexity,organisational_confusion,0,76,0.0
+ChatGPT,stale,0,72,0.0
+Claude,stale,0,50,0.0
+Gemini,stale,0,42,0.0
+MS Copilot Agent,stale,0,70,0.0
+Perplexity,stale,0,76,0.0

@@ -1,0 +1,39 @@
+{
+  "relevance": 0,
+  "relevance_reason": "The model returned no extracted events despite declaring results were found, providing no relevant information about North York General Hospital leadership changes.",
+  "groundedness": 0,
+  "groundedness_reason": "No factual claims or sources were provided since the extracted events list is completely empty.",
+  "completeness": 0.0,
+  "completeness_reason": "The model covered none of the 19 gold standard items regarding leadership and board changes at North York General Hospital.",
+  "missed_items": [
+    "Bert Clark - Board Chair (incoming)",
+    "Robert Sankey - Board Governor (incoming)",
+    "Dr. Christine Williams - Board Governor (incoming)",
+    "Toni Rossi - Board Governor (incoming)",
+    "Karyn Popovich - President/CEO retirement announced",
+    "Dr. Everton Gooden - President/CEO (incoming)",
+    "Mitch Frazer - Board Chair (incoming)",
+    "Jonathan Mackey - Board Governor (incoming)",
+    "Gillian Akai - Board Governor (incoming)",
+    "Kristina Fanjoy - Board Governor (incoming)",
+    "George Mavroudis - Board Governor (incoming)",
+    "Paviter Binning - Board Member (incoming)",
+    "Sean Cohan - Board Member (incoming)",
+    "Christine Cruz-Clarke - Board Member (incoming)",
+    "Ted Garrard - Board Member (incoming)",
+    "Vince Imerti - Board Member (incoming)",
+    "Richard So - Board Member (incoming)",
+    "Simone Atungo - Board Governor (incoming)",
+    "Dr. Kathryn Nichol - Board Governor (incoming)"
+  ],
+  "answer_relevancy": 0.0,
+  "answer_relevancy_reason": "Since the response contains no extracted events or content, no meaningful questions can be generated that would align with the original intent of finding hospital leadership changes.",
+  "generated_questions": [
+    "What information did the model find about North York General Hospital?",
+    "Did the model return any data at all?",
+    "Why did the model produce an empty result set?"
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "North York General Hospital"
+}

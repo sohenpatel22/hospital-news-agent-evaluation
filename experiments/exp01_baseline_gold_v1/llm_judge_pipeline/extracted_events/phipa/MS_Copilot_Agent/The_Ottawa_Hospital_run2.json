@@ -1,0 +1,23 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Access to EMR displays and screenshots (PHIPA Decision 340, Complaint HA22-00114)",
+      "phipa_id": "PHIPA Decision 340",
+      "date": "2026-06-25",
+      "source": "Information and Privacy Commissioner of Ontario",
+      "link": "https://decisions.ipc.on.ca"
+    },
+    {
+      "name_or_issue": "Access to records concerning a patient's care - substitute decision-maker request spanning FIPPA and PHIPA (Order PO-4820, Appeal PA22-00389)",
+      "phipa_id": "PO-4820",
+      "date": "2026-04-29",
+      "source": "Information and Privacy Commissioner of Ontario",
+      "link": "https://decisions.ipc.on.ca"
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 2
+}

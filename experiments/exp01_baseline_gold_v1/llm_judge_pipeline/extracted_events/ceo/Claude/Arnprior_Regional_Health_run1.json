@@ -1,0 +1,81 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Eric Hanna - President/CEO (outgoing)",
+      "person_name": "Eric Hanna",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2021-09-30",
+      "source": "Arnprior Regional Health press release",
+      "link": "https://www.arnpriorregionalhealth.ca/arnprior-regional-health-will-welcome-new-president-and-ceo-this-fall/"
+    },
+    {
+      "name_or_issue": "Leah Levesque - President/CEO (incoming)",
+      "person_name": "Leah Levesque",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2021-10-01",
+      "source": "Arnprior Regional Health press release",
+      "link": "https://www.arnpriorregionalhealth.ca/arnprior-regional-health-will-welcome-new-president-and-ceo-this-fall/"
+    },
+    {
+      "name_or_issue": "Leah Levesque - President/CEO (outgoing)",
+      "person_name": "Leah Levesque",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2024-08-01",
+      "source": "Arnprior Regional Health / Boyden press release",
+      "link": "https://www.arnpriorregionalhealth.ca/board-announces-new-ceo/"
+    },
+    {
+      "name_or_issue": "Jeremy Stevenson - President/CEO (incoming)",
+      "person_name": "Jeremy Stevenson",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2024-08-01",
+      "source": "Arnprior Regional Health / Boyden press release",
+      "link": "https://www.arnpriorregionalhealth.ca/board-announces-new-ceo/"
+    },
+    {
+      "name_or_issue": "Cathy Jordan - Board Chair (outgoing)",
+      "person_name": "Cathy Jordan",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2024-07-03",
+      "source": "Arnprior Regional Health press release",
+      "link": "https://www.arnpriorregionalhealth.ca/arh-board-of-directors-appoints-new-board-chair/"
+    },
+    {
+      "name_or_issue": "Cathy Jordan - Board Director (incoming)",
+      "person_name": "Cathy Jordan",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2024-07-03",
+      "source": "Arnprior Regional Health press release",
+      "link": "https://www.arnpriorregionalhealth.ca/arh-board-of-directors-appoints-new-board-chair/"
+    },
+    {
+      "name_or_issue": "Oliver Jacob - Board Chair (incoming)",
+      "person_name": "Oliver Jacob",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2024-07-03",
+      "source": "Arnprior Regional Health press release",
+      "link": "https://www.arnpriorregionalhealth.ca/arh-board-of-directors-appoints-new-board-chair/"
+    },
+    {
+      "name_or_issue": "Jeremy Stevenson - President/CEO (outgoing)",
+      "person_name": "Jeremy Stevenson",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2026-06-02",
+      "source": "Arnprior Regional Health public statement",
+      "link": "https://www.arnpriorregionalhealth.ca/public-statement/"
+    }
+  ],
+  "task": "ceo",
+  "model": "Claude",
+  "hospital": "Arnprior Regional Health",
+  "run_number": 1
+}

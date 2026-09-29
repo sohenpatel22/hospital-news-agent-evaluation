@@ -1,0 +1,6 @@
+Sheet: CEO
+Columns: ['item_id', 'task', 'hospital', 'name_or_issue', 'date (YYYY-MM-DD)', 'source', 'link']
+Number of items: 133
+First 2 items:
+[{'item_id': 'C1', 'task': 'ceo', 'hospital': 'Mackenzie Health', 'name_or_issue': 'Fay Lim-Lambie - Board Chair (incoming)', 'date (YYYY-MM-DD)': '2021-07-14', 'source': 'Mackenzie Health news release: “Mackenzie Health appoints Fay Lim-Lambie, Dean at George Brown, as new board chair” (July 14, 2021 AGM)', 'link': 'https://www.mackenziehealth.ca/about-us/news/~277-Mackenzie-Health-appoints-Fay-Lim-Lambie-Dean-at-George-Brown-as-new-board-chair'}, {'item_id': 'C2', 'task': 'ceo', 'hospital': 'Mackenzie Health', 'name_or_issue': 'Stephanie Zee - Board Vice Chair (incoming)', 'date (YYYY-MM-DD)': '2021-07-14', 'source': 'Mackenzie Health news release: “Mackenzie Health appoints Fay Lim-Lambie, Dean at George Brown, as new board chair” (July 14, 2021 AGM)', 'link': 'https://www.mackenziehealth.ca/about-us/news/~277-Mackenzie-Health-appoints-Fay-Lim-Lambie-Dean-at-George-Brown-as-new-board-chair'}]
+----------------------------------------

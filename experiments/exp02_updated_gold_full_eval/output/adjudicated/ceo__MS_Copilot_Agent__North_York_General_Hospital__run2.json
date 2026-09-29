@@ -1,0 +1,30 @@
+[
+  {
+    "item_index": 21,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8,
+    "needs_human_check": false
+  },
+  {
+    "item_index": 0,
+    "bucket": "A",
+    "reason": "Same Simone Atungo claim -- still pending.",
+    "confidence": 0.6,
+    "needs_human_check": true
+  },
+  {
+    "item_index": 15,
+    "bucket": "A",
+    "reason": "Author review: Dr. Kevin Wasko is a real, current NYGH physician (appears on NYGH's own staff pages), which is meaningfully different from a fabricated name -- but the specific title and exact date could not be independently confirmed since 'The Pulse' isn't publicly indexed. Held pending one more targeted verification pass; not added to gold, not penalized as hallucination.",
+    "confidence": 0.55,
+    "needs_human_check": true
+  },
+  {
+    "item_index": 16,
+    "bucket": "A",
+    "reason": "Same status as Kevin Wasko: Dr. Maral Nadjafi is a real, current NYGH physician, but exact title/date unconfirmed. Held pending.",
+    "confidence": 0.55,
+    "needs_human_check": true
+  }
+]

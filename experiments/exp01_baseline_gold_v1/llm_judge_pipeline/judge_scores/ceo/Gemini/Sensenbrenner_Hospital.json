@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by returning an empty list and declaring no results found for Sensenbrenner Hospital leadership changes.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no factual claims and correctly returns no events, which aligns with the ground truth of zero events, requiring no sources to validate.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard has zero expected events, and the model correctly identified and declared no results, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions about leadership changes at Sensenbrenner Hospital align directly with the original intent of finding CEO and board member changes in the last 5 years.",
+  "generated_questions": [
+    "Have there been any CEO changes at Sensenbrenner Hospital in the last 5 years?",
+    "Who are the current and recent board members of Sensenbrenner Hospital?",
+    "Has Sensenbrenner Hospital had any leadership transitions or executive appointments recently?"
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "Sensenbrenner Hospital"
+}

@@ -1,0 +1,54 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Natalie Côté-Tremblay - Board Chair (incoming)",
+      "person_name": "Natalie Côté-Tremblay",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": null,
+      "source": "Sensenbrenner Hospital leadership page",
+      "link": null
+    },
+    {
+      "name_or_issue": "Denis Bérubé - Board Chair (outgoing)",
+      "person_name": "Denis Bérubé",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": null,
+      "source": "Sensenbrenner Hospital Board of Directors meeting minutes",
+      "link": null
+    },
+    {
+      "name_or_issue": "Robert Daggett - Board Director candidate for re-election",
+      "person_name": "Robert Daggett",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2024-04-23",
+      "source": "Sensenbrenner Hospital Board of Directors meeting minutes",
+      "link": null
+    },
+    {
+      "name_or_issue": "Dominique Tremblay - Board Director candidate for re-election",
+      "person_name": "Dominique Tremblay",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2024-04-23",
+      "source": "Sensenbrenner Hospital Board of Directors meeting minutes",
+      "link": null
+    },
+    {
+      "name_or_issue": "Joanne Battah - Board Director candidate",
+      "person_name": "Joanne Battah",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2024-04-23",
+      "source": "Sensenbrenner Hospital Board of Directors meeting minutes",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Sensenbrenner Hospital",
+  "run_number": 5
+}

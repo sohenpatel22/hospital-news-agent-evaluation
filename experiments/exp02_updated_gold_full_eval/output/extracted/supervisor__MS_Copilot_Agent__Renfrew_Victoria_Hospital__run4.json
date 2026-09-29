@@ -1,0 +1,40 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "supervisor",
+  "hospital": "Renfrew Victoria Hospital",
+  "run_number": 4,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Renfrew Victoria Hospital\\Run 4.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 4,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "supervisor",
+      "direction": "incoming",
+      "date_raw": "June 26, 2024 appointment",
+      "date_normalised": "2024-06-26",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Ministry of Health; corroborated by CBC News and the supervisor’s final report",
+      "verbatim_snippet": "On the recommendation of the Minister of Health, the Lieutenant Governor in Council appointed Altaf Stationwala as supervisor of Renfrew Victoria Hospital under subsection 9(1) of the Public Hospitals Act."
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 4,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "supervisor",
+      "direction": "outgoing",
+      "date_raw": "Terminated June 20, 2025",
+      "date_normalised": "2025-06-20",
+      "citation_url": null,
+      "citation_text": "Order in Council 766/2025: Termination of appointment",
+      "verbatim_snippet": "The appointment was subsequently terminated effective 11:59:59 p.m. on June 20, 2025."
+    }
+  ],
+  "refusals": []
+}

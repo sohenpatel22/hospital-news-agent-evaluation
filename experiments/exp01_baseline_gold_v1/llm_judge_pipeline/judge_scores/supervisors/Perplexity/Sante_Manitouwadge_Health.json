@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by correctly indicating no interim supervisors were appointed to Sante Manitouwadge Health in the last 5 years.",
+  "groundedness": 1,
+  "groundedness_reason": "The model declared no results but provided no cited sources to substantiate the claim that no interim supervisors were appointed, leaving the conclusion unsupported by verifiable references.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly returned an empty list with no hallucinated appointments, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of identifying interim supervisors appointed to Sante Manitouwadge Health.",
+  "generated_questions": [
+    "Have any interim supervisors been appointed by the Government of Ontario to Sante Manitouwadge Health in the last 5 years?",
+    "What is the list of interim supervisors assigned to Sante Manitouwadge Health since 2019?",
+    "Has the Ontario government intervened in the management of Sante Manitouwadge Health through interim supervisor appointments recently?"
+  ],
+  "task": "supervisors",
+  "model": "Perplexity",
+  "hospital": "Sante Manitouwadge Health"
+}

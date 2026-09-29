@@ -1,0 +1,14 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "P1",
+    "match_confidence": "medium",
+    "match_reason": "Epic EMR 'Storyboard'/'Snapshot' screenshot-access theme matches gold P1 (Decision 340 - EMR screenshot access dispute); confirmed by explicit 'PHIPA Decision 340' cite in the parallel run 4/5 items describing the identical fact pattern."
+  },
+  {
+    "item_index": 1,
+    "matched_gold_item_id": "P2",
+    "match_confidence": "medium",
+    "match_reason": "Substitute-decision-maker/son's-care/meeting-records theme matches gold P2 (PO-4820 - records re unnotified care meeting); confirmed by explicit 'Order PO-4820' cite in the parallel run 4/5 items describing the identical fact pattern."
+  }
+]

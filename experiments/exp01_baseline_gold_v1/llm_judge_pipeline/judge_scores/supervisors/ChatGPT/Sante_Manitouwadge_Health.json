@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by declaring no interim supervisors were found for Sante Manitouwadge Health, which aligns with the expected outcome.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no unsupported factual claims and correctly returns an empty list, which is consistent with the ground truth of zero events.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly identified no interim supervisors, covering the full expected result.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions directly relate to the original intent of identifying interim supervisors appointed by the Ontario government to Sante Manitouwadge Health.",
+  "generated_questions": [
+    "Were any interim supervisors appointed by the Government of Ontario to Sante Manitouwadge Health in the last 5 years?",
+    "Has Sante Manitouwadge Health been placed under interim supervision by Ontario's government recently?",
+    "What is the list of government-appointed interim supervisors for Sante Manitouwadge Health since 2019?"
+  ],
+  "task": "supervisors",
+  "model": "ChatGPT",
+  "hospital": "Sante Manitouwadge Health"
+}

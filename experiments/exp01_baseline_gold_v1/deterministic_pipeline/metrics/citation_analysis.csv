@@ -1,0 +1,309 @@
+link,valid,note,credibility_tier
+"2026 AGM Package reproducing the June 26, 2025 resolutions [wrh.on.ca]",False,error_ValueError,4
+Welcoming Dr. Richard Bowry to his new role; Mirams Becker appointment notice,False,error_ValueError,4
+" Mackenzie Health Issue: Board membership additions (2021) Blurb: Alongside the chair transition, the board welcomed new members including Krista Collinson, Head of Direct to Consumer Division at Sams",False,error_URLError,4
+Red Lake hospital hires new CEO; New hospital CEO preparing for growth around Red Lake,False,error_ValueError,4
+2024 AGM Meeting Minutes [wrh.on.ca],False,error_ValueError,4
+WRH executive-changes release / LHSC Board statement,False,error_ValueError,4
+IPC PHIPA Decision 326,False,error_ValueError,4
+"Ontario Newsroom[news.ontario] · Connecting Care Act, s. 27[ontario]",False,error_ValueError,4
+"https://www.senhosp.ca/boardofdirectors.html
+What I could not verify
+No specific announcement, press release, or news article documents a CEO change, a board chair change, or individual board member a",False,error_InvalidURL,5
+"Chair, and several new members joined the board. Date: July 15, 2021 (announced; AGM held July 14, 2021) Source: Mackenzie Health News Source link: https://www.mackenziehealth.ca/about",False,error_URLError,4
+"No appointment-specific source exists in the retrieved public record. The searches included the Government of Ontario Orders in Council collection, Ontario Newsroom coverage concerning Sault Area Hospital, and the hospital’s Accountability and Transparency page.",False,error_ValueError,4
+Mackenzie Health leadership update covering Altaf Stationwala’s departure,False,error_ValueError,4
+Windsor News Today report / WRH September 2023 board package,False,error_ValueError,4
+https://www.nygh.on.ca/accountability/fiscal-accountability/,True,http_200,5
+North York General seeks two new Governors,False,error_ValueError,4
+"https://www.senhosp.ca/accountability.html ; https://211north.ca/record/65308957/agency/
+",False,error_InvalidURL,5
+"Post-AGM Open Meeting Minutes, June 20, 2022",False,error_ValueError,4
+Windsor Regional Hospital says goodbye to President/CEO,False,error_ValueError,4
+Mackenzie Health tribute marking Mary-Agnes Wilson’s final day,False,error_ValueError,4
+Leah Levesque to retire June 2024,False,error_ValueError,4
+ARH media releases: ARH and QCH to implement joint Chief of Staff,False,error_URLError,4
+Order in Council 1219/2024: appointment of David Musyj as Supervisor · LHSC: “Strengthening our governance” · CBC: “Hospital board resigns as province appoints supervisor to clean up financial mess”,False,error_ValueError,4
+RLMCMH Annual Report 2022-2023; Head of third Northwestern Ontario hospital to depart,False,error_ValueError,4
+ARH and QCH to Implement Joint Chief of Staff,False,error_ValueError,4
+2022 AGM minutes and director resolutions,False,error_ValueError,4
+2026 AGM Board Package [wrh.on.ca],False,error_ValueError,4
+Hospital announcement and Sumeet Kumar biography; Red Lake hospital names new CEO,False,error_ValueError,4
+"Agnes Wilson's interim tenure that began following Altaf Stationwala's June 2025 departure. Date: Announced December 2025 (press release dated); effective April 13, 2026 Source: Mackenzie Health News ",False,error_URLError,4
+Official Sumeet Kumar appointment biography; Red Lake hospital names new CEO,False,error_ValueError,4
+WRH welcomes newcomers to Board of Directors [windsorite.ca],False,error_ValueError,4
+WRH Newsroom,False,error_ValueError,4
+"Agnes Wilson was named to serve as Interim President and CEO until a permanent replacement was selected. Date: March 28, 2025 (announcement); effective June 27, 2025 Source: Mackenzie Health News Sour",False,error_URLError,4
+(Red Lake Hospital) RLMCMH Annual Report 2023–24,False,error_ValueError,4
+"Term Care, and Chief Nursing Executive, starting December 12, 2023. Date: December 12, 2023 Source: NYGH Fiscal Accountability disclosures Link: https://www.nygh.on.ca/accountability/fiscal",False,error_URLError,4
+Carmine Stumpo appointed President and CEO,False,error_ValueError,4
+Vacancy: Chief Nursing Executive [redlakehospital.ca],False,error_URLError,4
+Eric Hanna: Retiring after 13 years at the helm of ARH,False,error_URLError,4
+"RLMCMH Newsroom, “Board of Directors Vacancy”",False,error_ValueError,4
+WRH September 2025 board minutes · WRH 2024-25 leadership message · WRH board members,False,error_ValueError,4
+https://www.bradfordtoday.ca/local,False,error_HTTPError,4
+"Public Hospitals Act — hospital supervisor provisions · Ontario Ministry of Health — supervisor reports and hospital investigations · Santé Manitouwadge Health — April 1, 2025 Board Minutes",False,error_ValueError,4
+"Paul Truscott appointed VP Finance, Data Analytics and CFO",False,error_ValueError,4
+https://www.arnpriorregionalhealth.ca/public,False,error_HTTPError,5
+Global News Coverage,False,error_ValueError,4
+Announcing Mackenzie Health’s new President and CEO,False,error_ValueError,4
+"2026, Musyj remained in the Supervisor role, with LHSC only then opening applications to recruit a renewed Board of Directors as a step toward ending supervision.
+Date: September 25, 2024
+Source: CBC ",False,error_URLError,4
+"Welcoming Dr. Richard Bowry to his new role as NYGH’s Vice President, Medical Affairs, Research and Education[nygh.on]",False,error_ValueError,4
+"June 23, 2022 AGM Minutes [wrh.on.ca]",False,error_ValueError,4
+[Link](https://www.mackenziehealth.ca/about-us/news/~403-A-leadership-update-from-Mackenzie-Health),False,error_URLError,4
+New Governors join the NYGH Board,False,error_ValueError,4
+WRH leadership update / Windsor News Today,False,error_ValueError,4
+North York General Announces New Board Members During Historic Time,False,error_ValueError,4
+WRH September 2025 board minutes / WRH Board members,False,error_ValueError,4
+"November 6, 2025 Board Package containing October minutes [wrh.on.ca]",False,error_ValueError,4
+Hospital newsroom,False,error_ValueError,4
+IPC Decisions · Geraldton District Hospital News,False,error_ValueError,4
+WRH AGM record / Longwoods leadership transition,False,error_ValueError,4
+CTV: WRH says goodbye to President and CEO Karen Riddell · WRH 2025-26 board-chair message,False,error_URLError,4
+Santé Manitouwadge Health leadership and board structure · Government of Ontario overview of public-hospital governance,False,error_ValueError,4
+Dr. Everton Gooden appointed President and CEO,False,error_ValueError,4
+Terri Stuart-McEwan announced as VP Clinical Services and Chief Nursing Executive,False,error_ValueError,4
+Board minutes recording Professional Staff Association elections,False,error_ValueError,4
+Dr. Everton Gooden Appointed New President and CEO of North York General Hospital[nygh.on],False,error_ValueError,4
+WRH April 2026 board minutes · CBC: How WRH’s new CEO plans to tackle financial pressures,False,error_URLError,4
+Ontario IPC decisions search and repository; Baycrest News & Insights; Baycrest health records and privacy information,False,error_ValueError,4
+IPC decisions repository · Hospital privacy statement · Hospital access-to-information and PHIPA page,False,error_ValueError,4
+Order in Council 767/2025,False,error_ValueError,4
+"ARH Board meeting minutes, September 22, 2022",False,error_ValueError,4
+WRH memorandum: Retirement of Karen Riddell,False,error_URLError,4
+"A message from Carmine Stumpo, Mackenzie Health’s new President and CEO",False,error_ValueError,4
+CTV News: WRH names new Chief Nursing Executive,False,error_URLError,4
+[Link](https://www.mackenziehealth.ca/about-us/news/~438-announcing-mackenzie-health-s-new-president-and-ceo),False,error_URLError,4
+"level innovation and quality improvement initiatives, and was instrumental in launching the Emergency Department at Cortellucci Vaughan Hospital when it opened in 2021. Date: December 2025 Source: Mac",False,error_URLError,4
+President and Chief Executive Officer recruitment profile [cchl-ccls.ca],False,error_ValueError,4
+PHIPA Decision 338: official IPC decision page · Full text of PHIPA Decision 338,False,error_URLError,4
+"Current Sensenbrenner Hospital leadership page; May 29, 2024 board package; September 18, 2024 board agenda; Dr. Jessica Kwapis professional profile",False,error_ValueError,4
+Public Statement on Jeremy Stevenson’s departure,False,error_ValueError,4
+[sah.on][sah.on][linkedin][sah.on][sah.on][sootoday][canhealth],False,error_ValueError,4
+"Current Board of Directors roster; November 15, 2023 Board of Directors minutes",False,error_ValueError,4
+https://www.cbc.ca/news/canada/windsor/kristin,False,error_TimeoutError,2
+Santé Manitouwadge Health leadership and governance · Santé Manitouwadge Health 2024–25 Annual Report,False,error_ValueError,4
+RLMCMH Annual Report 2022-2023; RLMCMH Annual Report 2023-2024,False,error_ValueError,4
+Foundation and hospital appoint new Board chairs,False,error_ValueError,4
+" Mackenzie Health Issue: VP Digital Health & CIO appointment Blurb: Purvi Desai joined Mackenzie Health as the Vice President Digital Health and Chief Information Officer, providing strategic leadersh",False,error_URLError,4
+Order in Council 1219/2024: David Musyj appointed Supervisor for LHSC · CBC: Province appoints supervisor as LHSC board resigns · LHSC: Strengthening our governance,False,error_ValueError,4
+Order in Council 1271/2024,False,error_ValueError,4
+WRH: Executive changes at Windsor Regional Hospital,False,error_URLError,4
+Natalie Blier’s position history; Sensenbrenner Hospital leadership roster,False,error_ValueError,4
+North York General Hospital welcomes Mitch Frazer as new Chair of Board of Governors[nygh.on],False,error_ValueError,4
+https://www.miltonnow.ca/2024/09/27/ontario,False,error_HTTPError,4
+"2024 AGM Package reproducing the June 22, 2023 resolutions [wrh.on.ca]",False,error_ValueError,4
+Windsor Regional Hospital Board Members,False,error_ValueError,4
+Boyden: New President and CEO Appointed at WRH,False,error_URLError,4
+CBC interview with new WRH CEO Kristin Kennedy; WRH Executive Committee,False,error_ValueError,4
+https://kenoraonline.com/2023/04/04/red,False,error_HTTPError,4
+Sault Area Hospital names Greg Zambusi interim president and CEO,False,error_ValueError,4
+WRH February 2024 board minutes,False,error_ValueError,4
+https://www.arnpriorregionalhealth.ca/arnprior,False,error_HTTPError,5
+Order in Council 767/2025: Carmine Stumpo appointed to succeed Eric Hanna,False,error_ValueError,4
+https://www.arnpriorregionalhealth.ca/board,False,error_HTTPError,5
+New hospital CEO preparing for growth around Red Lake · Red Lake hospital hires new CEO,False,error_ValueError,4
+IPC PHIPA Decision 340,False,error_ValueError,4
+Mitch Frazer appointment notice,False,error_ValueError,4
+Leah Levesque to Retire June 2024,False,error_ValueError,4
+"McEwan began as Vice President, Clinical Services and Chief Nurse Executive on February 11, 2025. Date: February 10–11, 2025 Source: NYGH Fiscal Accountability disclosures Link: https://www.nygh.on.ca",False,error_URLError,4
+"November 15, 2023 Board minutes; Current hospital board roster",False,error_ValueError,4
+"ARH Board meeting minutes, June 16, 2022",False,error_ValueError,4
+WRH October 2025 board minutes / WRH executive announcement,False,error_ValueError,4
+[Ontario Taking the Next Step to Expand Stevenson Memorial Hospital](https://news.ontario.ca/en/release/1006988/ontario-taking-the-next-step-to-expand-stevenson-memorial-hospital),False,error_URLError,4
+WRH AGM / Board minutes,False,error_ValueError,4
+Karyn Popovich announces retirement,False,error_ValueError,4
+"2025 AGM Board Package [wrh.on.ca]; September 4, 2025 Board Minutes [wrh.on.ca]",False,error_ValueError,4
+Mackenzie Health appoints new board chairs,False,error_ValueError,4
+"Announcing North York General’s New Vice President, Quality, Post-Acute Care and Community Integration; Mirams Becker appointment notice for Jennifer Dockery",False,error_ValueError,4
+Leadership update and interim CEO announcement,False,error_ValueError,4
+ARH Board of Directors appoints new Chair,False,error_ValueError,4
+ New President & CEO Announced (Gooden) North York General Hospital announced Dr. Everton Gooden as its next President and CEO following a search process. Dr. Gooden joined NYGH more than 20 years ear,False,error_ValueError,4
+"June 13, 2024 open Board minutes; New Mackenzie Health and Foundation Board chairs",False,error_ValueError,4
+"Hospital newsroom, Board of Directors vacancy; RLMCMH Annual Report 2023-2024",False,error_ValueError,4
+"IPC decisions search portal · Anson General Hospital, MICs Group profile · MICs privacy statement",False,error_ValueError,4
+[Ontario appoints supervisor for Stevenson Memorial Hospital](https://www.southsimcoetoday.ca/2024/09/27/ontario-appoints-supervisor-for-stevenson-memorial-hospital/),False,error_URLError,4
+New Governors Join NYGH Board; Mirams Becker board-change notice,False,error_ValueError,4
+"https://www.cbc.ca/lite/story/1.7207391
+",False,error_TimeoutError,2
+"June 19, 2025 open Board minutes",False,error_ValueError,4
+Annual Report 2022-2023,False,error_ValueError,4
+CBC: Kristin Kennedy named next WRH president and CEO · Windsor Regional appoints new president and CEO,False,error_URLError,4
+WRH Board Members,False,error_ValueError,4
+(GovServ) Northern Ontario Business – New hospital CEO preparing for growth around Red Lake,False,error_ValueError,4
+"February 3, 2022 open Board meeting minutes",False,error_ValueError,4
+PHIPA Decision 338: Hamilton Health Sciences reasonable-search ruling,False,error_URLError,4
+https://www.senhosp.ca/boardofdirectors.html ; https://www.senhosp.ca/leadership,False,error_InvalidURL,5
+The Pulse: March 2023 leadership changes,False,error_URLError,4
+"May 23, 2024 open Board minutes",False,error_ValueError,4
+Boyden Media Release,False,error_ValueError,4
+"1.7248464
+Additional supporting sources:
+Final Supervisor's Report (Government of Ontario, published June 5, 2025): https://www.ontario.ca/files/2025",False,error_URLError,4
+LHSC: Strengthening our governance; CBC News: Hospital board resigns as province appoints supervisor; CBC Lite version,False,error_URLError,4
+WRH AGM record,False,error_ValueError,4
+2023 AGM Board Package [wrh.on.ca]; 2023/24 Message from WRH Leaders [wrh.on.ca],False,error_ValueError,4
+NYGH Newsroom - Mitch Frazer Appointment,False,error_ValueError,4
+IPC Decisions; Baycrest News & Insights,False,error_ValueError,4
+https://www.boyden.com/media/new,False,error_HTTPError,4
+"Hospital newsroom, “Welcome back Angela Bishop”; New hospital CEO preparing for growth around Red Lake",False,error_ValueError,4
+IPC decisions directory; MICs Group news and organizational site,False,error_ValueError,4
+Boyden announcement / WRH January 2026 board minutes,False,error_ValueError,4
+Dr. Everton Gooden Appointed New President and CEO,False,error_ValueError,4
+2024 AGM minutes and board resolutions,False,error_ValueError,4
+https://www.redlakehospital.ca/documents/22/Annual%20Report%202023,False,error_HTTPError,5
+"Ontario Ministry of Health Newsroom; Ontario Orders in Council example showing the formal hospital-supervisor process; Sinai Health Board minutes, June 16, 2022; Sinai Health Board minutes, February 6, 2025",False,error_ValueError,4
+"January 25, 2024 Santé Manitouwadge Health Board Meeting Minutes",False,error_ValueError,4
+https://www.southsimcoetoday.ca/2024/02/08/ontario,False,error_HTTPError,4
+"Welcoming Paul Truscott as NYGH’s new Vice President Finance, Data Analytics & Chief Financial Officer[nygh.on]",False,error_ValueError,4
+"Welcoming Paul Truscott as NYGH’s new VP Finance, Data Analytics and CFO; Boyden appointment announcement",False,error_ValueError,4
+"Order in Council 766/2025, confirming O.C. 886/2024 appointment and termination [ontario.ca] • Renfrew Victoria Hospital Final Supervisor’s Report [ontario.ca] • CBC: Province appoints supervisor amid financial concerns [cbc.ca] • Mackenzie Health: Altaf Stationwala appointed supervisor effective July 8 [mackenziehealth.ca]",False,error_ValueError,4
+"Post-Annual Members Meeting minutes, June 15, 2023",False,error_ValueError,4
+Windsor Regional Hospital’s new president says she is “humbled and excited” [cbc.ca]; New President and CEO appointed at Windsor Regional Hospital [boyden.com],False,error_ValueError,4
+"year term; Clark continued to serve on the North York General Foundation Board. Frazer had joined the NYGH Board of Governors in 2018 and most recently served as Vice Chair. Date: June 18, 2024 Source",False,error_URLError,4
+"Jennifer Dockery appointed inaugural VP, Quality, Post-Acute Care and Community Integration",False,error_ValueError,4
+PHIPA Decision 340: Access to requested Epic EMR screenshots [ipc.on.ca],False,error_URLError,4
+A leadership update from Mackenzie Health; Mackenzie Health announces interim president/CEO,False,error_ValueError,4
+(Red Lake Hospital) RLMCMH Annual Report 2024–25,False,error_ValueError,4
+"Dr. Richard Bowry appointed VP, Medical Affairs, Research and Education",False,error_ValueError,4
+Executive Changes at Windsor Regional Hospital,False,error_ValueError,4
+2026/) [williamoslerhs](https://www.williamoslerhs.ca/news/posts/osler,False,error_ValueError,4
+Welcoming the new Chair of the Mackenzie Health Board of Directors,False,error_ValueError,4
+Dr. Everton Gooden appointed next President and CEO,False,error_ValueError,4
+North York General announces hospital and Foundation board appointments,False,error_ValueError,4
+Official Santé Manitouwadge Health leadership page · Official organizational structure · Santé Manitouwadge Health 2024–25 Annual Report · Ontario Public Appointments Secretariat · Ontario Newsroom,False,error_ValueError,4
+CTV News: CEO David Musyj leaving Windsor Regional Hospital,False,error_URLError,4
+New Governors join the NYG Board,False,error_ValueError,4
+NYGH leader Karyn Popovich announces her retirement; NYGH Board Chair announcement regarding the President and CEO,False,error_ValueError,4
+ARH Appoints Pierre Noel as Interim President and CEO,False,error_ValueError,4
+https://www.arnpriorregionalhealth.ca/foundation/our,False,error_HTTPError,5
+RLMCMH Annual Report 2023-2024,False,error_ValueError,4
+"Acute Care & Community Integration ended November 12, 2025, per NYGH's fiscal accountability disclosure listing. Date: November 12, 2025 Source: NYGH Fiscal Accountability disclosures Link: https://ww",False,error_URLError,4
+ARH Annual Report 2024/25,False,error_ValueError,4
+North York General announces new board members,False,error_ValueError,4
+No appointment-specific source exists in the records located,False,error_ValueError,4
+WRH welcomes new board members,False,error_ValueError,4
+ARH Board of Directors Appoints New Chair,False,error_ValueError,4
+"CBC: Sensenbrenner obstetrics program and comments from Chief of Staff Dr. Jessica Kwapis; September 18, 2024 Board agenda",False,error_URLError,4
+"(Legislative Assembly of Ontario) Ontario Legislature transcript, Jan. 9, 2023",False,error_ValueError,4
+IPC decisions repository; Anson General Hospital profile on the MICs website,False,error_ValueError,4
+Ontario Health Hospital Directory (Archival records),False,error_ValueError,4
+Windsorite report / WRH leadership announcement,False,error_ValueError,4
+Order PO-4820: PHIPA/FIPPA access and reasonable-search findings [decisions.ipc.on.ca],False,error_URLError,4
+WRH 29th AGM record / WRH Board members,False,error_ValueError,4
+"Hospital announcement: Sumeet Kumar biography · Red Lake hospital names new CEO [redlakehospital.ca], [yoursunsetcountry.ca]",False,error_URLError,4
+(Longwoods),False,error_ValueError,4
+Arnprior Regional Health will welcome new President and CEO this fall,False,error_ValueError,4
+RLMCMH Annual Report 2022-2023,False,error_ValueError,4
+"Special Meeting of the Board, June 22, 2023",False,error_ValueError,4
+(Red Lake Hospital) RLMCMH Leadership Team,False,error_ValueError,4
+Current WRH Board Members; 2026 AGM package,False,error_ValueError,4
+"IPC decisions database · MICs Group of Health Services · MICs annual-report library [ipc.on.ca], [micsgroup.com], [micsgroup.com]",False,error_ValueError,4
+Hospital newsroom: “Welcome back Angela Bishop”; Independent confirmation of interim tenure,False,error_URLError,4
+(LinkedIn),False,error_ValueError,4
+"Marie Flanagan's interim term as Chief Communications & External Relations Officer ended January 25, 2026; Serda Evren began in the permanent role January 26, 2026. Serda Evren is a senior communicati",False,error_ValueError,4
+WRH executive-changes release · CBC: Karen Riddell steps into CEO role,False,error_URLError,4
+policy/) [williamoslerhs](https://www.williamoslerhs.ca/privacy,False,error_ValueError,4
+year career at NYGH. Date: March 2023 (announcement); retirement effective ~November/December 2023 Source: NYGH Newsroom / Canadian Healthcare Technology Link: https://www.nygh.on.ca/news/announcement,False,error_URLError,4
+2023–24 BPSAA Attestation Certificate · Hospital travel and expense disclosure · Hospital Directors,False,error_ValueError,4
+Baycrest Health Records and Privacy Information,False,error_ValueError,4
+New hospital CEO preparing for growth around Red Lake; Red Lake hospital hires new CEO; Hospital announcement and retirement post,False,error_ValueError,4
+Board announcement regarding the President and CEO,False,error_ValueError,4
+NYGH welcomes four new Board Governors,False,error_ValueError,4
+"Chairs of the Mackenzie Health board. Date: June 20, 2024 (announcement; AGM June 13, 2024) Source: Mackenzie Health News Source link: https://www.mackenziehealth.ca/about",False,error_URLError,4
+year term the same day. Bert Clark's tenure with the NYGH Board of Governors began in November 2016 when he served as a community member on the Board's newly formed Capital Development Advisory Commit,False,error_ValueError,4
+(Red Lake Hospital) RLMCMH Annual Report 2022–23,False,error_ValueError,4
+Nicole McCahon appointment announcement,False,error_ValueError,4
+Search the IPC’s published decisions [ipc.on.ca]; Baycrest News & Insights [baycrest.org],False,error_ValueError,4
+IPC Decisions search portal · Latest IPC decisions · Geraldton District Hospital access-to-information page,False,error_ValueError,4
+(Arnprior Regional Health),False,error_ValueError,4
+"May 23, 2024 Board minutes documenting planned transition; Board-chair appointment announcement",False,error_ValueError,4
+2026 Hospital Service Accountability Agreement extension,False,error_ValueError,4
+"Current Sensenbrenner Hospital leadership page; November 15, 2023 board minutes; May 29, 2024 board package; September 18, 2024 board agenda",False,error_ValueError,4
+"Board meeting package containing the November 15, 2023 minutes",False,error_ValueError,4
+"Public Hospitals Act — section 9, Hospital supervisor; SAH Hospital Supervisor — Clinical Operations posting; SAH Hospital Supervisor — Patient Flow posting",False,error_ValueError,4
+oma.org,False,error_ValueError,4
+Mackenzie Health CEO appointment announcement; Canadian Healthcare Technology coverage,False,error_ValueError,4
+Order in Council 1219/2024: appointment of David Musyj · LHSC: Strengthening our governance · CBC News: Hospital board resigns as province appoints supervisor,False,error_ValueError,4
+[Link](https://www.mackenziehealth.ca/about-us/news/~278-A-new-era-for-Mackenzie-Health),False,error_URLError,4
+[Link](https://www.mackenziehealth.ca/support-us/foundation/about-us/news/article/~340-Nicole-McCahon-announced-as-Mackenzie-Health-Foundation-s-new-President-and-CEO),False,error_URLError,4
+Mackenzie Health announcement identifying outgoing board members,False,error_ValueError,4
+A leadership update from Mackenzie Health,False,error_ValueError,4
+(Arnprior Calendar),False,error_ValueError,4
+WRH 2026 AGM package containing the 2025 AGM resolutions,False,error_ValueError,4
+CTV News: WRH to launch CEO search,False,error_URLError,4
+Ontario — Classification of hospitals · Sinai Health — Accountability and Quality,False,error_ValueError,4
+Board-chair transition from Stephanie Zee to John Fursey,False,error_ValueError,4
+Arnprior Regional Health Board appoints three new directors,False,error_ValueError,4
+"sunshineliststats.com, senhosp.ca",False,error_ValueError,4
+Osler to launch new hospital information system in October 2026,False,error_ValueError,4
+https://www.arnpriorregionalhealth.ca/arh,False,error_HTTPError,5
+CBC News: Province appoints supervisor to oversee Renfrew hospital · Mackenzie Health: Altaf Stationwala appointed supervisor,False,error_URLError,4
+Government of Ontario example of a statutory hospital-supervisor Order in Council,False,error_ValueError,4
+senhosp.ca/leadership-at-sbh,False,error_ValueError,4
+2026 AGM package reproducing the 2025 director resolutions,False,error_ValueError,4
+Sinai Health Boards and Executive Leadership 2025–2026; Dr. Lynn Mikula appointed President and CEO of Sinai Health; Ontario Orders in Council,False,error_ValueError,4
+"Ontario Orders in Council search result for Sault Area Hospital; SAH Hospital Supervisor, Patient Flow role",False,error_ValueError,4
+" New Board Members Appointed (six governors) NYG and the North York General Foundation announced six new Board members appointed at their board meetings, with Board Chair Mitch Frazer noting the stron",False,error_ValueError,4
+ Mackenzie Health Foundation Issue: Foundation President & CEO appointment Blurb: Mackenzie Health and Mackenzie Health Foundation announced the appointment of Nicole McCahon as the new President and ,False,error_URLError,4
+https://www.cbc.ca/news/canada/windsor/windsor,False,error_TimeoutError,2
+Mackenzie Health appoints Stephanie Zee as Board Chair,False,error_ValueError,4
+"June 20, 2022 post-AGM Board minutes",False,error_ValueError,4
+Information and Privacy Commissioner of Ontario; MICs Group of Health Services,False,error_ValueError,4
+Windsor Regional Hospital president temporarily takes helm at LHSC [cbc.ca],False,error_ValueError,4
+Board announces new CEO,False,error_ValueError,4
+WRH board officer changes reported with September board meeting,False,error_ValueError,4
+"June 19, 2025 open Board minutes; Welcoming John Fursey as Board Chair",False,error_ValueError,4
+Annual Report 2023–2024 [redlakehospital.ca],False,error_ValueError,4
+New Chief Nursing Executive at Windsor Regional Hospital,False,error_ValueError,4
+Ontario Order in Council 1271/2024,False,error_ValueError,4
+(Red Lake Hospital) RLMCMH 2025–26 QIP,False,error_ValueError,4
+WRH Board April 2026 minutes,False,error_ValueError,4
+"Fursey) Blurb: John Fursey, who recently retired as Senior Partner and Vice President at IBM Canada and had been a board member since 2023, was appointed Chair of the Mackenzie Health Board of Directo",False,error_URLError,4
+Annual Report 2022–2023 [redlakehospital.ca],False,error_ValueError,4
+"RLMCMH Newsroom, “Welcome back Angela Bishop” · New hospital CEO preparing for growth around Red Lake",False,error_ValueError,4
+Ontario Newsroom,False,error_ValueError,4
+senhosp.ca/our-foundation,False,error_ValueError,4
+IPC Decisions catalogue · Baycrest News and Insights,False,error_ValueError,4
+Announcing NYG’s New Chief Communications and External Relations Officer; Boyden appointment announcement for Serda Evren,False,error_ValueError,4
+Osler official announcement / Canadian Healthcare Technology coverage,False,error_ValueError,4
+Lucie Lamontagne’s Sensenbrenner Hospital position history,False,error_ValueError,4
+Ontario Order in Council 767/2025,False,error_ValueError,4
+WRH media release,False,error_ValueError,4
+"free loan, a $1.3 million duplicate pension arrangement, and other perks paid to a former CEO, totaling over $1.6 million on top of RVH salary, plus nearly $3 million in executive compensation funnele",False,error_ValueError,4
+"NYG announces inaugural VP, Quality, Post-Acute Care and Community Integration",False,error_ValueError,4
+Announcing Mackenzie Health’s new Chief of Staff,False,error_ValueError,4
+[nwonewswatch],False,error_ValueError,4
+Order in Council 886/2024,False,error_ValueError,4
+https://www.cbc.ca/news/canada/windsor/q,False,error_TimeoutError,2
+Ontario Gazette search and official-copy information; Ontario Celebrates Completion of Historic Mount Sinai Hospital Renovation; Sinai Health Boards and Executive Leadership 2025–2026,False,error_ValueError,4
+" CEO Transition Effective (Gooden begins) Dr. Everton Gooden began his tenure as President and CEO of North York General Hospital on December 1, 2023. Date: December 1, 2023 Source: NYGH Leadership Te",False,error_URLError,4
+—,False,error_ValueError,4
+NYGH Newsroom - Dr. Everton Gooden Appointment,False,error_ValueError,4
+New Governors Join NYGH Board; Mirams Becker reproduction of the board announcement,False,error_ValueError,4
+https://healthcareers.ca/job/326/president,False,error_HTTPError,4
+How Windsor Regional Hospital’s new CEO plans to tackle financial pressures [cbc.ca],False,error_ValueError,4
+HHS MyChart Terms and Conditions,False,error_ValueError,4
+"NYG announces new VP, Clinical Services and Chief Nursing Executive",False,error_ValueError,4
+Annual Report 2022-2023; Head of third Northwestern Ontario hospital to depart,False,error_ValueError,4
+"September 4, 2025 Board Minutes [wrh.on.ca]",False,error_ValueError,4
+WRH October 2025 board minutes,False,error_ValueError,4
+North York General appoints Simone Atungo and Dr. Kathryn Nichol,False,error_ValueError,4
+** [Osler to launch new hospital information system in October 2026](https://www.williamoslerhs.ca/news/posts/osler,False,error_URLError,4
+Order in Council 886/2024 · Renfrew Victoria Hospital final supervisor report,False,error_ValueError,4
+See citations [ontario][ontariohealth][policyoptions.irpp][mychart.hhsc][dbrs.morningstar],False,error_ValueError,4
+Head of third Northwestern Ontario hospital to depart,False,error_ValueError,4
+Ontario IPC search results · MICs Group of Health Services,False,error_ValueError,4
+(Senhosp),False,error_ValueError,4
+(Red Lake Hospital) RLMCMH newsroom – Welcome back Angela Bishop,False,error_ValueError,4
+WRH 30th AGM minutes/package,False,error_ValueError,4
+IPC Decisions search portal [ipc.on.ca],False,error_ValueError,4
+WRH newsroom announcement / Windsorite report,False,error_ValueError,4
+https://www.northernontariobusiness.com/industry,False,error_HTTPError,3
+WRH executive-change announcement; CBC coverage of Riddell assuming the CEO role,False,error_ValueError,4
+IPC decisions database,False,error_ValueError,4
+Order in Council 1271/2024: Eric Hanna appointed Supervisor for Stevenson Memorial Hospital,False,error_ValueError,4
+ARH Board celebrates long-serving directors and appoints new director and committee member,False,error_ValueError,4
+"Board meeting package containing the April 23, 2024 Nominating Committee motion",False,error_ValueError,4

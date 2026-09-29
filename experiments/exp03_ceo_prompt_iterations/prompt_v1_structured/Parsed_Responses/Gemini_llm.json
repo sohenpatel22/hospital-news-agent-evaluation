@@ -1,0 +1,50 @@
+[
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Outgoing President & CEO",
+        "Paragraph blurb": "Jeremy Stevenson stepped down from his position as President and Chief Executive Officer of Arnprior Regional Health. During his tenure, he provided leadership in advancing the organization's strategic goals and regional Epic EMR implementation.",
+        "Date": "June 2, 2026",
+        "Source": "Arnprior Regional Health Public Statement",
+        "Source link": "https://www.arnpriorregionalhealth.ca/author/tholmes/page/8/"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Incoming Acting President & CEO",
+        "Paragraph blurb": "Following the CEO's departure, Raeline McGrath assumed the role of Acting President and CEO to provide immediate organizational stability. She concurrently maintained her substantive responsibilities as Vice President of Patient Care and Chief Nursing Executive.",
+        "Date": "June 3, 2026",
+        "Source": "Arnprior Regional Health News Release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arh-appoints-pierre-noel-as-interim-president-and-ceo/"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Outgoing Acting President & CEO",
+        "Paragraph blurb": "Raeline McGrath concluded her temporary assignment as Acting President and CEO. She facilitated the leadership handover and continued in her permanent role as Vice President of Patient Care and Chief Nursing Executive.",
+        "Date": "July 13, 2026",
+        "Source": "Arnprior Regional Health News Release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arh-appoints-pierre-noel-as-interim-president-and-ceo/"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Incoming Interim President & CEO",
+        "Paragraph blurb": "The Board of Directors appointed Pierre Noel as the new Interim President and Chief Executive Officer. Noel brings over 30 years of executive healthcare experience, previously serving as President and CEO of the Pembroke Regional Hospital for 16 years and completing interim assignments at The Royal Ottawa Mental Health Centre and Renfrew Victoria Hospital.",
+        "Date": "July 13, 2026",
+        "Source": "Arnprior Regional Health News Release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arh-appoints-pierre-noel-as-interim-president-and-ceo/"
+    },
+    {
+        "Hospital": "North York General Hospital",
+        "Issue": "Chief Communications Officer Transition",
+        "Paragraph blurb": "Anne-Marie Flanagan concluded her term as Interim Chief Communications Officer. The following day, Serda Evren took over as the permanent Chief Communications & External Relations Officer, bringing over 14 years of strategic communications and brand leadership experience from her previous executive roles at Mastercard.",
+        "Date": "January 25, 2026 (Flanagan departed); January 26, 2026 (Evren appointed)",
+        "Source": "North York General Hospital Fiscal Accountability",
+        "Source link": "https://www.nygh.on.ca/accountability/fiscal-accountability/"
+    },
+    {
+        "Hospital": "North York General Hospital",
+        "Issue": "Board of Governors Recruitment",
+        "Paragraph blurb": "The hospital initiated an active search for two new experienced Board Governors for the governance year commencing in June 2026. The recruitment specifically targeted candidates with executive-level health administration and clinical expertise to support board oversight during the hospital's major upcoming capital redevelopment projects, which include a new patient care tower and long-term care home development.",
+        "Date": "February 24, 2026",
+        "Source": "North York General Hospital Newsroom",
+        "Source link": "https://www.nygh.on.ca/news/north-york-general-seeks-two-new-governors/"
+    }
+]

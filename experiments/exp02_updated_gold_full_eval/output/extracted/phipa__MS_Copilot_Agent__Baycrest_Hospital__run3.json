@@ -1,0 +1,14 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "Baycrest Hospital",
+  "run_number": 3,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Baycrest Hospital\\Run 3.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Baycrest Hospital",
+      "refusal_text": "Result\nNo qualifying Baycrest Hospital updates were identified for January 16, 2026 through July 16, 2026."
+    }
+  ]
+}

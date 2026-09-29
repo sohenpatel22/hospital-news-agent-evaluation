@@ -1,0 +1,25 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "supervisor",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 2,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\London Health Sciences Centre\\Run 2.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "London Health Sciences Centre",
+      "run_number": 2,
+      "person_or_issue": "David Musyj",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "September 24, 2024",
+      "date_normalised": "2024-09-24",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Order in Council 1219/2024; corroborated by LHSC and CBC News",
+      "verbatim_snippet": "David Musyj was appointed Supervisor under subsection 9(1) of Ontario’s Public Hospitals Act."
+    }
+  ],
+  "refusals": []
+}

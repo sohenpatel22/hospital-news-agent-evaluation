@@ -1,0 +1,14 @@
+{
+  "system": "Perplexity",
+  "task": "phipa",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\Perplexity\\Hamilton Health Sciences Corporation\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Hamilton Health Sciences Corporation",
+      "refusal_text": "Based on my comprehensive search of Ontario hospital PHIPA-related news for Hamilton Health Sciences Corporation between January 16, 2026 and July 16, 2026, I found no PHIPA-specific breach notifications, privacy incidents, or enforcement actions directly involving Hamilton Health Sciences Corporation during this period."
+    }
+  ]
+}

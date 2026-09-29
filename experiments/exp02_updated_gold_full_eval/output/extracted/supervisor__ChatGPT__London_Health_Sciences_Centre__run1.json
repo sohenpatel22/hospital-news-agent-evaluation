@@ -1,0 +1,25 @@
+{
+  "system": "ChatGPT",
+  "task": "supervisor",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\ChatGPT\\London Health Sciences Centre\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "ChatGPT",
+      "task": "supervisor",
+      "hospital": "London Health Sciences Centre",
+      "run_number": 1,
+      "person_or_issue": "David Musyj",
+      "role": "Supervisor of London Health Sciences Centre",
+      "direction": "incoming",
+      "date_raw": "September 24, 2024",
+      "date_normalised": "2024-09-24",
+      "citation_url": null,
+      "citation_text": "Ontario Order in Council 1219/2024",
+      "verbatim_snippet": "On September 24, 2024, Ontario’s Lieutenant Governor in Council appointed David Musyj as Supervisor of London Health Sciences Centre under s. 9(1) of the Public Hospitals Act, on the recommendation of the Minister of Health."
+    }
+  ],
+  "refusals": []
+}

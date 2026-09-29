@@ -1,0 +1,54 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Natalie Côté-Tremblay - Board Chair (incoming)",
+      "person_name": "Natalie Côté-Tremblay",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "Effective date not publicly stated; status observed August 20, 2026",
+      "source": "Sensenbrenner Hospital leadership page; hospital board minutes and agendas",
+      "link": "https://senhosp.ca"
+    },
+    {
+      "name_or_issue": "Denis Bérubé - Board Chair (outgoing)",
+      "person_name": "Denis Bérubé",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "Effective date not publicly stated; last confirmed in role September 18, 2024",
+      "source": "Sensenbrenner Hospital; hospital board minutes and agendas",
+      "link": "https://senhosp.ca"
+    },
+    {
+      "name_or_issue": "Claudette Brouzes - Board Director (incoming)",
+      "person_name": "Claudette Brouzes",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "Dates not publicly stated; changed roster observed August 20, 2026",
+      "source": "Sensenbrenner Hospital; hospital board minutes",
+      "link": "https://senhosp.ca"
+    },
+    {
+      "name_or_issue": "Dr. Valerie Smith - Board Director (incoming)",
+      "person_name": "Dr. Valerie Smith",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "Dates not publicly stated; changed roster observed August 20, 2026",
+      "source": "Sensenbrenner Hospital; hospital board minutes",
+      "link": "https://senhosp.ca"
+    },
+    {
+      "name_or_issue": "Dominique Tremblay - Board Director (outgoing)",
+      "person_name": "Dominique Tremblay",
+      "role": "Board Director",
+      "direction": "outgoing",
+      "date": "Dates not publicly stated; absent from roster observed August 20, 2026",
+      "source": "Sensenbrenner Hospital; hospital board minutes",
+      "link": "https://senhosp.ca"
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Sensenbrenner Hospital",
+  "run_number": 1
+}

@@ -1,0 +1,36 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Bob Daggett - Board Director (incoming)",
+      "person_name": "Bob Daggett",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2024-04-23",
+      "source": "Sensenbrenner Hospital Board of Directors meeting package, hosted by the Municipality of Moonbeam",
+      "link": null
+    },
+    {
+      "name_or_issue": "Dominique Tremblay - Board Director (incoming)",
+      "person_name": "Dominique Tremblay",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2024-04-23",
+      "source": "Sensenbrenner Hospital Board of Directors meeting package, hosted by the Municipality of Moonbeam",
+      "link": null
+    },
+    {
+      "name_or_issue": "Joanne Battah - Board Director (incoming)",
+      "person_name": "Joanne Battah",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2024-04-23",
+      "source": "Sensenbrenner Hospital Board of Directors meeting package, hosted by the Municipality of Moonbeam",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Sensenbrenner Hospital",
+  "run_number": 3
+}

@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The model directly addresses the user's intent by searching for PHIPA-related news updates for Baycrest Hospital and correctly declaring no results found.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no factual claims and correctly returns an empty result set, so there are no unsupported claims to evaluate.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly identified and declared no PHIPA-related events for Baycrest Hospital.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of finding PHIPA-related news for Baycrest Hospital.",
+  "generated_questions": [
+    "Are there any PHIPA-related incidents or news updates involving Baycrest Hospital in the last six months?",
+    "Has Baycrest Hospital been involved in any privacy breaches or PHIPA violations recently?",
+    "What is the PHIPA compliance status or recent regulatory news for Baycrest Hospital in Ontario?"
+  ],
+  "task": "phipa",
+  "model": "Perplexity",
+  "hospital": "Baycrest Hospital"
+}

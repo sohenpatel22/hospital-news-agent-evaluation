@@ -1,0 +1,9 @@
+item_id,task,hospital,hospital_aliases,name_or_issue,date,source,link,in_scope,notes
+S1,supervisors,Stevenson Memorial Hospital,Stevenson Memorial,Janice Skot - Investigator (s.8),2024-02-01,Orders in Council,https://www.ontario.ca/orders-in-council/oc-1952024,False,"FLAGGED - investigator not supervisor; need to confirm scope with Wendy's team before final use | Out of scope based on Wendy's team analysis (s.8 investigator, not supervisor)"
+S2,supervisors,Stevenson Memorial Hospital,Stevenson Memorial,Eric Hanna - Supervisor (s.9),2024-09-26,Orders in Council,https://www.ontario.ca/orders-in-council/oc-12712024,True,ended 2025-06-08 per OC 767/2025
+S3,supervisors,Stevenson Memorial Hospital,Stevenson Memorial,Carmine Stumpo - Supervisor (s.9),2025-06-09,Orders in Council,https://www.ontario.ca/orders-in-council/oc-7672025,True,active
+S4,supervisors,Renfrew Victoria Hospital,Renfrew Victoria,Altaf Stationwala - Supervisor (s.9),2024-06-26,Orders in Council,https://www.ontario.ca/orders-in-council/oc-8862024,True,VERIFIED via OIC primary text - Wendy's team table states Jul 8 2024 (discrepancy - flagged); ended 2025-06-20
+S5,supervisors,London Health Sciences Centre,London Health Sciences;LHSC,David Musyj - Supervisor (s.9),2024-09-24,Orders in Council,https://www.ontario.ca/orders-in-council/oc-12192024,True,active; mandate extended per OC 105/2026
+S6,supervisors,Sault Area Hospital,,No supervisor/investigator found,,,,False,CONFIRMED ZERO
+S7,supervisors,Sante Manitouwadge Health,Manitouwadge,No supervisor/investigator found,,,,False,CONFIRMED ZERO
+S8,supervisors,Sinai Health System,Mount Sinai;Sinai Health,No supervisor/investigator found,,,,False,CONFIRMED ZERO

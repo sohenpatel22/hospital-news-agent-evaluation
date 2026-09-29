@@ -1,0 +1,39 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Janice Skot - Investigator",
+      "person_name": "Janice Skot",
+      "role": "Investigator",
+      "appointment_date": null,
+      "termination_date": null,
+      "order_in_council": null,
+      "source": "Government of Ontario",
+      "link": null
+    },
+    {
+      "name_or_issue": "Eric Hanna - Supervisor (s.9(1))",
+      "person_name": "Eric Hanna",
+      "role": "Supervisor",
+      "appointment_date": "2024-09-26",
+      "termination_date": "2025-06-09",
+      "order_in_council": "Order in Council 1271/2024",
+      "source": "Government of Ontario (Order in Council 1271/2024)",
+      "link": "Order in Council 1271/2024"
+    },
+    {
+      "name_or_issue": "Carmine Stumpo - Supervisor",
+      "person_name": "Carmine Stumpo",
+      "role": "Supervisor",
+      "appointment_date": "2025-06-09",
+      "termination_date": null,
+      "order_in_council": "Order in Council 767/2025",
+      "source": "Government of Ontario (Order in Council 767/2025)",
+      "link": "Order in Council 767/2025"
+    }
+  ],
+  "task": "supervisors",
+  "model": "Gemini",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 1
+}

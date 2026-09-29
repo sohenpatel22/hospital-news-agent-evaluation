@@ -1,0 +1,14 @@
+{
+  "system": "Perplexity",
+  "task": "phipa",
+  "hospital": "Baycrest Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\Perplexity\\Baycrest Hospital\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Baycrest Hospital",
+      "refusal_text": "Based on my comprehensive search of Ontario hospital PHIPA-related news for Baycrest Hospital between January 16, 2026 and July 16, 2026, no PHIPA-related privacy breaches, violations, or enforcement actions involving Baycrest Hospital were reported during this period."
+    }
+  ]
+}

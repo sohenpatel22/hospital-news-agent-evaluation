@@ -1,0 +1,19 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "David Musyj - Supervisor (s.9)",
+      "person_name": "David Musyj",
+      "role": "Supervisor",
+      "appointment_date": "2024-09-24",
+      "termination_date": null,
+      "order_in_council": "Order in Council 1219/2024",
+      "source": "Government of Ontario, with corroboration from LHSC and CBC News",
+      "link": null
+    }
+  ],
+  "task": "supervisors",
+  "model": "MS Copilot Agent",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 4
+}

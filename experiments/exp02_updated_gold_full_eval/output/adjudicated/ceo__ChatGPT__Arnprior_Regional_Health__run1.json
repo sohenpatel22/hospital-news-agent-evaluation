@@ -1,0 +1,9 @@
+[
+  {
+    "item_index": 3,
+    "bucket": "A",
+    "reason": "Specific successor name, exact effective date, and stated 11-year tenure; independently corroborated by MS Copilot Agent (run2, same idx-equivalent item) citing 'February 17, 2022 Board minutes' with matching facts. Cross-system agreement on a specific, checkable fact is a plausibility signal, not verification -- still needs a human to confirm against an actual ARH source, since no citation_url is given by either system.",
+    "confidence": 0.6,
+    "needs_human_check": true
+  }
+]

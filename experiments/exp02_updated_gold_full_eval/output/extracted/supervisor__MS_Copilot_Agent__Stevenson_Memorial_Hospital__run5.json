@@ -1,0 +1,55 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "supervisor",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 5,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 5.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 5,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "September 26, 2024, effective on the date Order in Council 1271/2024 was approved and ordered",
+      "date_normalised": "2024-09-26",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Ministry of Health; Ontario.ca investigation report",
+      "verbatim_snippet": "Eric Hanna was appointed Supervisor after investigator Janice Skot’s June 28, 2024 report made 16 recommendations, including appointing a supervisor."
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 5,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "outgoing",
+      "date_raw": "revokes Hanna’s appointment at the end of June 8, 2025",
+      "date_normalised": "2025-06-08",
+      "citation_url": null,
+      "citation_text": "Order in Council 767/2025",
+      "verbatim_snippet": "Hanna’s appointment was subsequently revoked when he stepped down and a successor was appointed."
+    },
+    {
+      "item_index": 2,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 5,
+      "person_or_issue": "Carmine Stumpo",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "June 9, 2025, effective date; the Order in Council was approved and ordered on June 5, 2025",
+      "date_normalised": "2025-06-09",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Ministry of Health; Ontario.ca Supervisor's Interim Report",
+      "verbatim_snippet": "Carmine Stumpo was appointed to succeed Hanna and continue the supervisor’s duties."
+    }
+  ],
+  "refusals": []
+}

@@ -1,0 +1,55 @@
+{
+  "system": "Claude",
+  "task": "supervisor",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Claude\\Stevenson Memorial Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Claude",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Janice Skot",
+      "role": "investigator",
+      "direction": "incoming",
+      "date_raw": "February 2024",
+      "date_normalised": "2024-02",
+      "citation_url": "https://www.southsimcoetoday.ca/2024/02/08/ontario-appoints-janice-skot-as-investigator-for-stevenson-memorial-hospital-review/",
+      "citation_text": "South Simcoe Today",
+      "verbatim_snippet": "In February 2024, the Ministry of Health appointed Janice Skot as investigator for Stevenson Memorial Hospital to review the hospital's operations and ensure it delivers the best possible care for patients, with Skot previously having served as CEO/president of Royal Victoria Regional Health Centre."
+    },
+    {
+      "item_index": 1,
+      "system": "Claude",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "supervisor",
+      "direction": "incoming",
+      "date_raw": "September 27, 2024",
+      "date_normalised": "2024-09-27",
+      "citation_url": "https://www.miltonnow.ca/2024/09/27/ontario-appoints-supervisor-for-stevenson-memorial-hospital/",
+      "citation_text": "FM101 Milton Now",
+      "verbatim_snippet": "Eric Hanna was appointed as supervisor for Stevenson Memorial Hospital to oversee the hospital's operations and strengthen its governance, accountability, and ability to deliver the best possible care to Ontarians, in response to the final report submitted by investigator Janice Skot."
+    },
+    {
+      "item_index": 2,
+      "system": "Claude",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Carmine Stumpo",
+      "role": "supervisor",
+      "direction": "incoming",
+      "date_raw": "June 2025",
+      "date_normalised": "2025-06",
+      "citation_url": "https://www.bradfordtoday.ca/local-news/orillia-hospital-ceo-to-oversee-stevenson-memorial-hospital-operations-10774551",
+      "citation_text": "Bradford Today",
+      "verbatim_snippet": "Carmine Stumpo, CEO of an Orillia hospital, was appointed supervisor at the Alliston hospital \"to strengthen its governance and accountability,\" with Hanna working with Stumpo prior to his departure to ensure a smooth transition, and Stumpo tasked with providing regular updates to the Ministry of Health and Ontario Health."
+    }
+  ],
+  "refusals": []
+}

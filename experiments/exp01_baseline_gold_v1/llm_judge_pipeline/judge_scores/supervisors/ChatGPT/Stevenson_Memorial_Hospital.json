@@ -1,0 +1,19 @@
+{
+  "relevance": 2,
+  "relevance_reason": "The response directly addresses interim supervisors at Stevenson Memorial Hospital but also includes an investigator (Janice M. Skot) who is not a supervisor, introducing minor irrelevant content.",
+  "groundedness": 3,
+  "groundedness_reason": "Both supervisor appointments cite specific Ontario Orders in Council (1271/2024 and 767/2025) with dates, providing credible and verifiable sources, though the investigator entry has a weaker source citation.",
+  "completeness": 1.0,
+  "completeness_reason": "Both gold standard items (Eric Hanna and Carmine Stumpo as Supervisors) are fully covered in the model response with detailed appointment information.",
+  "missed_items": [],
+  "answer_relevancy": 0.67,
+  "answer_relevancy_reason": "Two of the three generated questions align with the original intent about interim supervisors, but one question concerns the investigator role which falls outside the scope of the user's query about supervisors.",
+  "generated_questions": [
+    "Who were the interim supervisors appointed by the Ontario government to Stevenson Memorial Hospital in the last 5 years?",
+    "What were the appointment and termination dates for supervisors at Stevenson Memorial Hospital?",
+    "Who was appointed as an investigator at Stevenson Memorial Hospital in 2024?"
+  ],
+  "task": "supervisors",
+  "model": "ChatGPT",
+  "hospital": "Stevenson Memorial Hospital"
+}

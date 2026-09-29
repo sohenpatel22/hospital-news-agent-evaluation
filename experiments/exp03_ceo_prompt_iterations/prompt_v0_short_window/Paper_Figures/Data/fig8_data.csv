@@ -1,0 +1,6 @@
+Task,System,Recall,Precision,F1
+CEO Task,ChatGPT,0.44,1.00,0.61
+CEO Task,Claude,0.50,0.89,0.64
+CEO Task,Gemini,0.31,0.83,0.45
+CEO Task,Perplexity,0.31,0.71,0.43
+CEO Task,MS Copilot Agent,0.50,0.80,0.62

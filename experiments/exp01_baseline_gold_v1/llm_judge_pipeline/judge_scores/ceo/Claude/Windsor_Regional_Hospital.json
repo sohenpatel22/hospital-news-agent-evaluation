@@ -1,0 +1,24 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by providing a structured list of leadership and board member changes at Windsor Regional Hospital.",
+  "groundedness": 3,
+  "groundedness_reason": "All extracted events include cited sources with specific URLs to CBC News, WRH AGM Board packages, and Boyden, providing credible attribution for each claim.",
+  "completeness": 0.73,
+  "completeness_reason": "The response covers 8 of 11 gold standard items, capturing all CEO/President transitions and key board chair changes, but missing the three board directors elected at the 2022 AGM (Dr. Laurie Freeman, David Malian, Linda Staudt) and the nuance that David Musyj was confirmed not returning permanently to WRH.",
+  "missed_items": [
+    "Dr. Laurie Freeman - Board Director (elected 2022 AGM)",
+    "David Malian - Board Director (elected 2022 AGM)",
+    "Linda Staudt - Board Director (elected 2022 AGM)",
+    "David Musyj - confirmed not returning to WRH permanent at LHSC (distinct event from secondment)"
+  ],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three questions that this response would answer (Who replaced David Musyj as CEO? Who became the next permanent CEO after Karen Riddell? Who served as Board Chair during 2022-2024?) directly align with the original intent of tracking hospital leadership changes.",
+  "generated_questions": [
+    "Who served as Acting President/CEO of Windsor Regional Hospital when David Musyj was seconded to LHSC?",
+    "Who was appointed as the incoming President/CEO of Windsor Regional Hospital to succeed Karen Riddell?",
+    "Who held the Board Chair position at Windsor Regional Hospital between 2022 and 2024?"
+  ],
+  "task": "ceo",
+  "model": "Claude",
+  "hospital": "Windsor Regional Hospital"
+}

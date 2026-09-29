@@ -1,0 +1,14 @@
+{
+  "system": "Claude",
+  "task": "phipa",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\Claude\\The Ottawa Hospital\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "The Ottawa Hospital",
+      "refusal_text": "I cannot produce an \"exhaustive list\" of PHIPA-related news items specifically naming The Ottawa Hospital between January 16, 2026 and July 16, 2026 — because there don't appear to be any that meet all your criteria."
+    }
+  ]
+}

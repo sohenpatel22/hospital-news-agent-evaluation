@@ -1,0 +1,19 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "David Musyj - Supervisor (London Health Sciences Centre)",
+      "person_name": "David Musyj",
+      "role": "Supervisor",
+      "appointment_date": "2024-09-25",
+      "termination_date": null,
+      "order_in_council": null,
+      "source": "Government of Ontario / Ministry of Health News / CTV News",
+      "link": null
+    }
+  ],
+  "task": "supervisors",
+  "model": "Gemini",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 1
+}

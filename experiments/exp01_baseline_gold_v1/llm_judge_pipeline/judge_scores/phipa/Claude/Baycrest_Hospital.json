@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The model directly addresses the user's intent by correctly reporting no PHIPA-related news events for Baycrest Hospital in the last six months.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no factual claims requiring sources, and its null result is consistent with the ground truth of zero events, so there are no unsupported assertions.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly returned an empty list with no hallucinated events, achieving full coverage.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of finding PHIPA-related news for Baycrest Hospital.",
+  "generated_questions": [
+    "Are there any PHIPA-related news updates for Baycrest Hospital in the last six months?",
+    "Has Baycrest Hospital been involved in any privacy breach incidents under PHIPA recently?",
+    "What PHIPA compliance events or violations have been reported for Baycrest Hospital in Ontario in the past six months?"
+  ],
+  "task": "phipa",
+  "model": "Claude",
+  "hospital": "Baycrest Hospital"
+}

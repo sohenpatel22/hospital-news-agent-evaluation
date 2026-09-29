@@ -1,0 +1,80 @@
+[
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO Transition (retirement)",
+        "Paragraph blurb": "After 13 years leading ARH, Eric Hanna announced his retirement, with the board appointing Leah Levesque, then Vice President of Patient Care and Chief Nursing Executive at Queensway Carleton Hospital and a former six-year ARH senior leader, as his successor, effective October 1, 2021, following Hanna's retirement on September 30, 2021. The board framed her mandate around steering ARH through post-COVID recovery, long-term care program growth, launch of the Ontario Health Team, and strategic technology investment.",
+        "Date": "Announced August 19, 2021; effective October 1, 2021",
+        "Source": "Arnprior Regional Health press release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arnprior-regional-health-will-welcome-new-president-and-ceo-this-fall/",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Claude\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO Transition (recruitment/succession)",
+        "Paragraph blurb": "Following a formal search, ARH's Board of Directors announced Jeremy Stevenson as its next President and CEO, describing him as a results-oriented healthcare leader with acute and long-term care experience. Stevenson came from St. Joseph's General Hospital Elliot Lake, with prior roles as CEO of the North East LHIN, CEO of Mattawa Hospital and Algonquin Nursing Home, and COO of St. Francis Memorial Hospital in Barry's Bay. This transition replaced Levesque (who had led ARH since October 2021) — I did not find a separate public departure notice for Levesque specifically, so her departure timing should be verified directly with ARH.",
+        "Date": "Announced May 10, 2024; Stevenson joined in August 2024",
+        "Source": "Arnprior Regional Health / Boyden press release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/board-announces-new-ceo/",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Claude\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Board Chair Transition",
+        "Paragraph blurb": "After serving as Board Chair for three years, Cathy Jordan completed her term and remained on the board as a director; the Board appointed Oliver Jacob (previously Vice Chair) as the new Chair for a three-year term until June 2027. This coincided with the onboarding of new CEO Jeremy Stevenson.",
+        "Date": "July 3, 2024 (post-AGM)",
+        "Source": "Arnprior Regional Health press release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arh-board-of-directors-appoints-new-board-chair/",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Claude\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO Departure",
+        "Paragraph blurb": "Jeremy Stevenson stepped down as President and CEO on June 2, 2026, with ARH crediting his tenure for advancing the organization's strategic goals and the regional Epic EMR implementation. No successor or interim appointment was named in the public statement I could locate.",
+        "Date": "June 2, 2026",
+        "Source": "Arnprior Regional Health public statement (media contact: Taylor Holmes, Communications Lead)",
+        "Source link": "https://www.arnpriorregionalhealth.ca/public-statement/",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Claude\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "I'll research this for you.Let me dig deeper into board chair changes and other executive/board turnover.I now have solid coverage. Here's the compiled list, organized by hospital",
+        "Issue": "issue",
+        "Paragraph blurb": "blurb",
+        "Date": "date",
+        "Source": "source",
+        "Source link": "link.",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Claude\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Hospital",
+        "Issue": "Issue",
+        "Paragraph blurb": "Blurb",
+        "Date": "Date",
+        "Source": "Source",
+        "Source link": "Link",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Claude\\North York General Hospital\\Run 1.docx",
+            "run": "Run 1"
+        }
+    }
+]

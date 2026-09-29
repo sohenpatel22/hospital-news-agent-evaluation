@@ -1,0 +1,171 @@
+[
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO Retirement & Appointment (2021)",
+        "Paragraph blurb": "Eric Hanna retired after serving as President and CEO for 13 years. The Board of Directors appointed Leah Levesque—previously the Vice President of Patient Care and Chief Nursing Executive at Queensway Carleton Hospital and a former ARH senior leader—as the new President and CEO following a competitive recruitment process.",
+        "Date": "August 19, 2021 (Announcement) / October 1, 2021 (Effective)",
+        "Source": "Arnprior Regional Health News",
+        "Source link": "Link",
+        "_meta": {
+            "file": "Run 3.docx",
+            "path": "Raw LLM Responses\\Gemini\\Arnprior Regional Health\\Run 3.docx",
+            "run": "Run 3"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO Transition (2024)",
+        "Paragraph blurb": "Following the transition of Leah Levesque, the ARH Board of Directors appointed Jeremy Stevenson as the next President and CEO. Stevenson joined ARH with extensive leadership experience across rural Ontario healthcare systems, previously serving as the CEO of St. Joseph's General Hospital Elliot Lake.",
+        "Date": "May 10, 2024 (Announcement) / August 18, 2024 (Effective)",
+        "Source": "Arnprior Regional Health News",
+        "Source link": "Link",
+        "_meta": {
+            "file": "Run 3.docx",
+            "path": "Raw LLM Responses\\Gemini\\Arnprior Regional Health\\Run 3.docx",
+            "run": "Run 3"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Board Chair Transition (2024)",
+        "Paragraph blurb": "After serving a three-year term as Chair of the Board of Directors, Cathy Jordan stepped down from the role while remaining a board member. The ARH Board appointed municipal councillor and community leader Oliver Jacob as the new Board Chair for a three-year term following the 2024 Annual General Meeting.",
+        "Date": "July 3, 2024",
+        "Source": "Arnprior Regional Health News",
+        "Source link": "Link",
+        "_meta": {
+            "file": "Run 3.docx",
+            "path": "Raw LLM Responses\\Gemini\\Arnprior Regional Health\\Run 3.docx",
+            "run": "Run 3"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO Resignation & Interim Appointment (2026)",
+        "Paragraph blurb": "Jeremy Stevenson stepped down from his position as President and CEO. Following a brief interim period managed by Acting CEO Raeline McGrath, the ARH Board appointed veteran healthcare executive Pierre Noel as Interim President and CEO to guide the hospital through key system migrations and operational milestones.",
+        "Date": "June 3, 2026 (Departure Notice) / July 9, 2026 (Interim Appointment)",
+        "Source": "Arnprior Regional Health News",
+        "Source link": "Link",
+        "_meta": {
+            "file": "Run 3.docx",
+            "path": "Raw LLM Responses\\Gemini\\Arnprior Regional Health\\Run 3.docx",
+            "run": "Run 3"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO Departure, Acting Leadership, and Interim Appointment (Jeremy Stevenson to Pierre Noel)",
+        "Paragraph blurb": "Jeremy Stevenson stepped down from his position as President and CEO. Raeline McGrath, Vice President of Patient Care and Chief Nursing Executive, temporarily assumed responsibilities as Acting CEO. Subsequently, the Board appointed veteran health care executive Pierre Noel—former President and CEO of Pembroke Regional Hospital—as Interim President and CEO to ensure operational stability during preparations for upcoming organizational accreditations and the implementation of the regional Epic EMR system.",
+        "Date": "June 2, 2026 (Resignation) & July 13, 2026 (Interim CEO Effective Date)",
+        "Source": "Arnprior Regional Health Public Statement & Media Release",
+        "Source link": "ARH Appoints Pierre Noel as Interim President and CEO",
+        "_meta": {
+            "file": "Run 5.docx",
+            "path": "Raw LLM Responses\\Gemini\\Arnprior Regional Health\\Run 5.docx",
+            "run": "Run 5"
+        }
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Board Chair Appointment (Fay Lim-Lambie)",
+        "Paragraph blurb": "Fay Lim-Lambie, Dean at George Brown College and long-standing board member since 2016, was appointed as the new Chair of the Mackenzie Health Board of Directors during the Annual General Meeting, succeeding outgoing chair Mark Falbo.",
+        "Date": "July 14, 2021",
+        "Source": "Mackenzie Health News",
+        "Source link": "Source Link",
+        "_meta": {
+            "file": "Run 2.docx",
+            "path": "Raw LLM Responses\\Gemini\\Mackenzie Health\\Run 2.docx",
+            "run": "Run 2"
+        }
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Board Chair Appointment (Stephanie Zee)",
+        "Paragraph blurb": "Stephanie Zee, a financial sector executive and board member since 2016, was appointed as the new Chair of the Mackenzie Health Board of Directors at the Annual General Meeting, succeeding Fay Lim-Lambie upon the completion of her term.",
+        "Date": "June 13, 2024",
+        "Source": "Mackenzie Health News",
+        "Source link": "Source Link",
+        "_meta": {
+            "file": "Run 2.docx",
+            "path": "Raw LLM Responses\\Gemini\\Mackenzie Health\\Run 2.docx",
+            "run": "Run 2"
+        }
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "President and CEO Departure (Altaf Stationwala)",
+        "Paragraph blurb": "After more than 14 years of transformative leadership—including overseeing the opening of Cortellucci Vaughan Hospital—President and CEO Altaf Stationwala departed Mackenzie Health to assume the role of President and CEO at Unity Health Toronto.",
+        "Date": "June 27, 2025",
+        "Source": "Mackenzie Health News",
+        "Source link": "Source Link",
+        "_meta": {
+            "file": "Run 2.docx",
+            "path": "Raw LLM Responses\\Gemini\\Mackenzie Health\\Run 2.docx",
+            "run": "Run 2"
+        }
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Interim President and CEO Appointment (Mary-Agnes Wilson)",
+        "Paragraph blurb": "Mary-Agnes Wilson, Executive Vice President, Chief Operating Officer, and Chief Nurse Executive at Mackenzie Health, stepped into the role of Interim President and CEO to ensure leadership stability and operational continuity during the permanent executive search.",
+        "Date": "July 1, 2025",
+        "Source": "Mackenzie Health News",
+        "Source link": "Source Link",
+        "_meta": {
+            "file": "Run 2.docx",
+            "path": "Raw LLM Responses\\Gemini\\Mackenzie Health\\Run 2.docx",
+            "run": "Run 2"
+        }
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Board Chair Appointment (John Fursey)",
+        "Paragraph blurb": "John Fursey, a retired IBM Canada senior partner and financial management expert who joined the board in 2023, was appointed as the new Board Chair during the Annual General Meeting, succeeding Stephanie Zee.",
+        "Date": "June 19, 2025",
+        "Source": "Mackenzie Health News",
+        "Source link": "Source Link",
+        "_meta": {
+            "file": "Run 2.docx",
+            "path": "Raw LLM Responses\\Gemini\\Mackenzie Health\\Run 2.docx",
+            "run": "Run 2"
+        }
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Chief of Staff Transition (Dr. David Rauchwerger succeeding Dr. Steven Jackson)",
+        "Paragraph blurb": "Dr. David Rauchwerger, a veteran physician leader and former Chief of Emergency Medicine at Mackenzie Health, was appointed as Chief of Staff, succeeding Dr. Steven Jackson, who concluded a decade-long tenure in the role.",
+        "Date": "December 15, 2025",
+        "Source": "Mackenzie Health News",
+        "Source link": "Source Link",
+        "_meta": {
+            "file": "Run 2.docx",
+            "path": "Raw LLM Responses\\Gemini\\Mackenzie Health\\Run 2.docx",
+            "run": "Run 2"
+        }
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Permanent President and CEO Appointment (Carmine Stumpo)",
+        "Paragraph blurb": "Carmine Stumpo, former President and CEO of Orillia Soldiers' Memorial Hospital, assumed the role of permanent President and CEO of Mackenzie Health, succeeding Interim CEO Mary-Agnes Wilson following a comprehensive national search.",
+        "Date": "April 13, 2026",
+        "Source": "Mackenzie Health News",
+        "Source link": "Source Link",
+        "_meta": {
+            "file": "Run 2.docx",
+            "path": "Raw LLM Responses\\Gemini\\Mackenzie Health\\Run 2.docx",
+            "run": "Run 2"
+        }
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Permanent Executive Appointment",
+        "Paragraph blurb": "Carmine Stumpo was appointed as the permanent President and Chief Executive Officer of Mackenzie Health, effective April 13, 2026, succeeding Interim CEO Mary-Agnes Wilson. Stumpo transitioned to Mackenzie Health after serving as President and CEO of Orillia Soldiers' Memorial Hospital.",
+        "Date": "December 5, 2025 (Announcement) / April 13, 2026 (Effective)",
+        "Source": "Mackenzie Health News",
+        "Source link": "Mackenzie Health CEO Appointment Release",
+        "_meta": {
+            "file": "Run 5.docx",
+            "path": "Raw LLM Responses\\Gemini\\Mackenzie Health\\Run 5.docx",
+            "run": "Run 5"
+        }
+    }
+]

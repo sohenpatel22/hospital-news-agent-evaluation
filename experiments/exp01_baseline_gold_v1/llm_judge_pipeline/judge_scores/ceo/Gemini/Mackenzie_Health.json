@@ -1,0 +1,28 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by listing hospital leadership and board member changes for Mackenzie Health with roles, directions, and dates.",
+  "groundedness": 3,
+  "groundedness_reason": "All extracted events cite specific Mackenzie Health News sources with article titles, providing credible grounding for each claim.",
+  "completeness": 0.57,
+  "completeness_reason": "The model captured 8 of the 14 gold standard items, missing several including Fay Lim-Lambie as incoming Board Chair, Stephanie Zee as incoming Board Vice Chair, Joby McKenzie as incoming Board 2nd VP and VP Chair, Ruby Philip-Katyal as incoming and outgoing Board VP/Member, Atul Mehta as Board Treasurer, and Fay Lim-Lambie as outgoing Board Member.",
+  "missed_items": [
+    "Fay Lim-Lambie - Board Chair (incoming)",
+    "Stephanie Zee - Board Vice Chair (incoming)",
+    "Joby McKenzie - Board 2nd VP Chair (incoming)",
+    "Joby McKenzie - Board VP Chair (incoming)",
+    "Ruby Philip-Katyal - Board VP Chair (incoming)",
+    "Ruby Philip-Katyal - Board Member (outgoing)",
+    "Fay Lim-Lambie - Board Member (outgoing)",
+    "Atul Mehta - Board Treasurer (incoming)"
+  ],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of finding leadership and board changes at Mackenzie Health.",
+  "generated_questions": [
+    "Who became the President and CEO of Mackenzie Health in recent years?",
+    "What changes were made to the Mackenzie Health Board of Directors in the last 5 years?",
+    "Who replaced Altaf Stationwala as President and CEO of Mackenzie Health?"
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "Mackenzie Health"
+}

@@ -1,0 +1,28 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by listing hospital leadership changes at Arnprior Regional Health, including CEO and Board Chair transitions.",
+  "groundedness": 3,
+  "groundedness_reason": "All extracted events include cited sources with specific URLs pointing to Arnprior Regional Health press releases, lending strong credibility to the claims.",
+  "completeness": 0.54,
+  "completeness_reason": "The model covers 7 of the 13 gold standard items, missing several board director appointments (Beth Ciavaglia, Richard Holock, Peter Kenny, Borys Koba), Leah Levesque's retirement announcement as a distinct event, Jeremy Stevenson stepping down, Raeline McGrath as Acting President/CEO, and Pierre Noel as Interim President/CEO.",
+  "missed_items": [
+    "Beth Ciavaglia - Board Director (incoming)",
+    "Richard Holock - Board Director (incoming)",
+    "Peter Kenny - Board Director (incoming)",
+    "Borys Koba - Board Director (incoming)",
+    "Leah Levesque - President/CEO retirement announced (as distinct event)",
+    "Jeremy Stevenson - President/CEO stepped down",
+    "Raeline McGrath - Acting President/CEO (incoming)",
+    "Pierre Noel - Interim President/CEO (incoming)"
+  ],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions directly align with the original intent of identifying leadership and board changes at Arnprior Regional Health over the last 5 years.",
+  "generated_questions": [
+    "Who were the recent CEOs of Arnprior Regional Health and when did they transition?",
+    "Who has served as Board Chair of Arnprior Regional Health in the last five years?",
+    "What leadership changes occurred at Arnprior Regional Health between 2020 and 2025?"
+  ],
+  "task": "ceo",
+  "model": "Claude",
+  "hospital": "Arnprior Regional Health"
+}

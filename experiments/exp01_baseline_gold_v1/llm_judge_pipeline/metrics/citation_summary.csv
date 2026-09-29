@@ -1,0 +1,4 @@
+model,total_links,valid_links,avg_credibility_tier,citation_accuracy
+Claude,16,15,2.81,0.938
+MS Copilot Agent,14,11,2.57,0.786
+Perplexity,7,6,3.0,0.857

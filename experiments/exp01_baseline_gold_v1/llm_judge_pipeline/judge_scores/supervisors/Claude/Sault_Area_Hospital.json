@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by correctly reporting no interim supervisors were appointed to Sault Area Hospital in the last 5 years.",
+  "groundedness": 3,
+  "groundedness_reason": "The model correctly returns an empty list with no fabricated claims, which aligns with the ground truth of zero events, requiring no sources to support non-existent appointments.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly identified and declared no results, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of identifying interim supervisors appointed to Sault Area Hospital.",
+  "generated_questions": [
+    "Have any interim supervisors been appointed by the Government of Ontario to Sault Area Hospital in the last 5 years?",
+    "What is the list of interim supervisors assigned to Sault Area Hospital since 2019?",
+    "Has the Ontario government ever appointed an interim supervisor to oversee Sault Area Hospital recently?"
+  ],
+  "task": "supervisors",
+  "model": "Claude",
+  "hospital": "Sault Area Hospital"
+}

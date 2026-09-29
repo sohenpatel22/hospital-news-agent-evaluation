@@ -1,0 +1,1 @@
+Figure 6: Field accuracy across Role, Date, and Direction. Accuracy is strictly conditional on an initial entity match. n varies by system (equal to true positive matches). Limitation: Date format discrepancies might rarely be penalized depending on parsing strictness.

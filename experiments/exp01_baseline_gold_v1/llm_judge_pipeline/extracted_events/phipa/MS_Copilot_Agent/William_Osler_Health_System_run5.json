@@ -1,0 +1,16 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "New unified digital health record, patient portal, privacy safeguards, and responsible AI governance (Epic system launch announcement)",
+      "phipa_id": null,
+      "date": "2026-06-15",
+      "source": "William Osler Health System, official media release",
+      "link": null
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "William Osler Health System",
+  "run_number": 5
+}

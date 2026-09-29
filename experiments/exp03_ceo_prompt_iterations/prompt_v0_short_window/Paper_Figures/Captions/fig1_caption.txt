@@ -1,0 +1,1 @@
+Figure 1: Recall by confidence tier (CEO Task only). X-axis represents the system, y-axis is recall. Grouped bars represent Tier A, B, and C items. Error bars represent bootstrap 95% CI. n=35 items. Limitation: Confidence tiers are heavily weighted towards public hospitals.

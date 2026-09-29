@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The model directly addresses the user's intent by searching for PHIPA-related news updates for Baycrest Hospital and correctly concluding that no events were found.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no unsupported factual claims, and its conclusion of no results is consistent with the ground truth expectation of zero events.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly returned an empty list, fully matching the expected outcome.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of finding PHIPA-related news for Baycrest Hospital in the last six months.",
+  "generated_questions": [
+    "Are there any PHIPA-related news updates for Baycrest Hospital in the last six months?",
+    "Has Baycrest Hospital been involved in any privacy breach incidents under PHIPA recently?",
+    "What is the PHIPA compliance status or recent regulatory news for Baycrest Hospital in Ontario?"
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "Baycrest Hospital"
+}

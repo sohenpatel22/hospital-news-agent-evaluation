@@ -1,0 +1,39 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Eric Hanna - Supervisor (s.9(1))",
+      "person_name": "Eric Hanna",
+      "role": "Supervisor",
+      "appointment_date": "2024-09-26",
+      "termination_date": "2025-06-08",
+      "order_in_council": "Order in Council 1271/2024",
+      "source": "Ontario Order in Council 1271/2024; Ministry of Health / contemporaneous reporting",
+      "link": "Ontario Order in Council 1271/2024"
+    },
+    {
+      "name_or_issue": "Carmine Stumpo - Supervisor (s.9(1)), succeeding Eric Hanna",
+      "person_name": "Carmine Stumpo",
+      "role": "Supervisor",
+      "appointment_date": "2025-06-09",
+      "termination_date": null,
+      "order_in_council": "Order in Council 767/2025",
+      "source": "Ontario Order in Council 767/2025; Stevenson Memorial Hospital Supervisor's Interim Report",
+      "link": "Ontario Order in Council 767/2025"
+    },
+    {
+      "name_or_issue": "Janice M. Skot - Investigator (s.8(1))",
+      "person_name": "Janice M. Skot",
+      "role": "Investigator",
+      "appointment_date": "2024-02",
+      "termination_date": null,
+      "order_in_council": null,
+      "source": "Ontario",
+      "link": null
+    }
+  ],
+  "task": "supervisors",
+  "model": "ChatGPT",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 1
+}

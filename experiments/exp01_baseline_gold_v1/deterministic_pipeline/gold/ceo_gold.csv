@@ -1,0 +1,100 @@
+item_id,task,hospital,hospital_aliases,name_or_issue,date,source,link,in_scope,notes
+C1,ceo,Mackenzie Health,,Fay Lim-Lambie - Board Chair (incoming),2023-06-15,Wendy's team (Agent data),,True,
+C2,ceo,Mackenzie Health,,Stephanie Zee - Board Vice Chair (incoming),2023-06-15,Wendy's team (Agent data),,True,
+C3,ceo,Mackenzie Health,,Joby McKenzie - Board 2nd VP Chair (incoming),2023-06-15,Wendy's team (Agent data),,True,
+C4,ceo,Mackenzie Health,,Stephanie Zee - Board Chair (incoming from VP),2024-06-13,Wendy's team (Agent data),,True,
+C5,ceo,Mackenzie Health,,Ruby Philip-Katyal - Board VP Chair (incoming),2024-06-13,Wendy's team (Agent data),,True,
+C6,ceo,Mackenzie Health,,Joby McKenzie - Board VP Chair (incoming),2024-06-13,Wendy's team (Agent data),,True,
+C7,ceo,Mackenzie Health,,Altaf Stationwala - President/CEO (outgoing after 14 yrs),2025-06-27,Mackenzie Health news,,True,
+C8,ceo,Mackenzie Health,,Mary-Agnes Wilson - Interim President/CEO (incoming),2025-04-09,Mackenzie Health news,,True,
+C9,ceo,Mackenzie Health,,Stephanie Zee - Board Chair (outgoing),2025-06-19,Wendy's team (Agent data),,True,
+C10,ceo,Mackenzie Health,,Fay Lim-Lambie - Board Member (outgoing),2025-06-19,Wendy's team (Agent data),,True,
+C11,ceo,Mackenzie Health,,Ruby Philip-Katyal - Board Member (outgoing),2025-06-19,Wendy's team (Agent data),,True,
+C12,ceo,Mackenzie Health,,Atul Mehta - Board Treasurer (incoming),2025-06-19,Wendy's team (Agent data),,True,
+C13,ceo,Mackenzie Health,,John Fursey - Board Chair (incoming),2025-06-19,Mackenzie Health Insider,,True,
+C14,ceo,Mackenzie Health,,Carmine Stumpo - President/CEO (incoming),2026-04-13,Mackenzie Health news,,True,
+C15,ceo,Mackenzie Health,,Dr. David Rauchwerger - Chief of Staff,2025-12-15,,,False,EXCLUDED - out of scope executive role
+C16,ceo,Mackenzie Health,,Purvi Desai - VP Digital Health/CIO,2022-07-01,,,False,EXCLUDED - out of scope executive role
+C17,ceo,Mackenzie Health,,Nicole McCahon - Mackenzie Health Foundation CEO,2023-06-19,,,False,EXCLUDED - Foundation is separate entity from hospital
+C18,ceo,Arnprior Regional Health,ARH,Eric Hanna - President/CEO (outgoing after 13 yrs),2021-09-30,ARH news,,True,
+C19,ceo,Arnprior Regional Health,ARH,Leah Levesque - President/CEO (incoming),2021-10-01,ARH news,,True,
+C20,ceo,Arnprior Regional Health,ARH,Beth Ciavaglia - Board Director (incoming),2022-06-28,Wendy's team (Agent data),,True,
+C21,ceo,Arnprior Regional Health,ARH,Richard Holock - Board Director (incoming),2023-07-18,Wendy's team (Agent data),,True,
+C22,ceo,Arnprior Regional Health,ARH,Peter Kenny - Board Director (incoming),2023-07-18,Wendy's team (Agent data),,True,
+C23,ceo,Arnprior Regional Health,ARH,Borys Koba - Board Director (incoming),2023-07-18,Wendy's team (Agent data),,True,
+C24,ceo,Arnprior Regional Health,ARH,Leah Levesque - President/CEO retirement announced,2023-12-07,Wendy's team (Agent data),,True,exact departure date not confirmed
+C25,ceo,Arnprior Regional Health,ARH,Cathy Jordan - Board Chair (outgoing),2024-06-01,ARH news,,True,date approximate - after AGM 2024
+C26,ceo,Arnprior Regional Health,ARH,Oliver Jacob - Board Chair (incoming),2024-07-03,ARH news,,True,
+C27,ceo,Arnprior Regional Health,ARH,Jeremy Stevenson - President/CEO (incoming),2024-05-10,ARH news,,True,exact start date not confirmed - do NOT use unverified Aug 18 2024 claim
+C28,ceo,Arnprior Regional Health,ARH,Jeremy Stevenson - President/CEO stepped down,2026-06-02,ARH official public statement,,True,primary source confirmed
+C29,ceo,Arnprior Regional Health,ARH,Raeline McGrath - Acting President/CEO (incoming),2026-07-09,Wendy's team (Agent data),,True,
+C30,ceo,Arnprior Regional Health,ARH,Pierre Noel - Interim President/CEO (incoming),2026-07-13,Wendy's team (Agent data),,True,
+C31,ceo,Arnprior Regional Health,ARH,Judith Gilchrist - VP Long-Term Care,2021-01-04,,,False,EXCLUDED - out of scope executive role
+C32,ceo,Arnprior Regional Health,ARH,Dr. Kathi Kovacs - Chief of Staff,2025-08-01,,,False,EXCLUDED - out of scope executive role
+C33,ceo,Sensenbrenner Hospital,,No CEO or Board Chair turnover identified,,,,False,LOW CONFIDENCE NEGATIVE - thin press coverage not a registry check
+C34,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Angela Bishop - President/CEO (outgoing),,AR 2022-23,,True,date not stated
+C35,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Sue LeBeau - President/CEO (outgoing resigned),2022-07-01,AR 2022-23,,True,
+C36,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Angela Bishop - Interim President/CEO (1st stint),2022-01-01,AR 2022-23,,True,approximate date
+C37,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Sumeet Kumar - President/CEO (incoming),2023-05-01,AR 2022-23;AR 2023-24,,True,
+C38,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Angela Bishop - Interim President/CEO (2nd stint),2024-01-01,AR 2024-25;AR 2025-26,,True,approximate date - past two years per AR2025-26
+C39,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Jennifer Lawrance - President/CEO (incoming),2026-06-26,AR 2025-26,,True,
+C40,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Sonia Green - Board Chair (outgoing resigned),2023-01-01,AR 2022-23,,True,approximate date
+C41,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,John Frostiak - Board Chair (incoming),2023-01-01,AR 2022-23;AR 2023-24,,True,approximate date
+C42,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Trevor Zhukrovsky - Board Chair (incoming),2024-06-01,AR 2024-25;AR 2025-26,,True,exact date not stated - between AR2023-24 and AR2024-25
+C43,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Shawnda Norlock - Board Director (outgoing),2023-01-01,AR 2022-23,,True,approximate date
+C44,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Trevor Zhukrovsky - Board Director (incoming - filled Norlock vacancy),2023-01-01,AR 2022-23,,True,approximate date
+C45,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,James Russell - Board Director (incoming),2023-01-01,AR 2023-24,,True,early 2023
+C46,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Marshall Dumontier - Board Director (outgoing),2023-11-01,AR 2023-24,,True,late 2023 approximate
+C47,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Jennifer Sedlacek - Board Director (incoming),2023-11-01,AR 2023-24,,True,late 2023 approximate
+C48,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,James Russell - Board Director (outgoing),2024-05-01,AR 2023-24,,True,
+C49,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Eleanor Vachon - Board Director (outgoing 10yr term complete),2024-01-01,AR 2023-24,,True,approximate date
+C50,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Scott Macumber - Board Director (incoming),2024-06-01,AR 2024-25,,True,between AR2023-24 and AR2024-25
+C51,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Donna Williams - Board Director (incoming),2024-06-01,AR 2024-25,,True,between AR2023-24 and AR2024-25
+C52,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Ray Hall - Board Director (incoming),2024-06-01,AR 2024-25,,True,between AR2023-24 and AR2024-25
+C53,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Ursula DeKeyser - Board Director (incoming),2024-06-01,AR 2024-25,,True,between AR2023-24 and AR2024-25
+C54,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Vivian Bruchkowski - Board Director (incoming),2024-06-01,AR 2024-25,,True,between AR2023-24 and AR2024-25
+C55,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Jamie Saulnier - Board Director (incoming),2024-06-01,AR 2024-25,,True,between AR2023-24 and AR2024-25
+C56,ceo,Red Lake Margaret Cochenour Memorial Hospital,Red Lake Hospital;RLMCMH,Arlene Swanwick - Vice-Chair (from Committee Chair),2024-06-01,AR 2024-25,,True,by AR2024-25
+C57,ceo,North York General Hospital,NYGH,Bert Clark - Board Chair (incoming),2021-06-14,Wendy's team (Perplexity/Claude data),,True,
+C58,ceo,North York General Hospital,NYGH,Robert Sankey - Board Governor (incoming),2022-06-13,Wendy's team (Agent data),,True,
+C59,ceo,North York General Hospital,NYGH,Dr. Christine Williams - Board Governor (incoming),2022-06-13,Wendy's team (Agent data),,True,
+C60,ceo,North York General Hospital,NYGH,Toni Rossi - Board Governor (incoming),2022-06-13,Wendy's team (Agent data),,True,
+C61,ceo,North York General Hospital,NYGH,Karyn Popovich - President/CEO retirement announced,2023-03-07,NYGH news,,True,
+C62,ceo,North York General Hospital,NYGH,Dr. Everton Gooden - President/CEO (incoming),2023-12-01,NYGH news;CanHealth,,True,
+C63,ceo,North York General Hospital,NYGH,Mitch Frazer - Board Chair (incoming),2024-06-17,NYGH news,,True,
+C64,ceo,North York General Hospital,NYGH,Jonathan Mackey - Board Governor (incoming),2024-06-17,Wendy's team (Claude/Gemini data),,True,
+C65,ceo,North York General Hospital,NYGH,Gillian Akai - Board Governor (incoming),2024-06-17,Wendy's team (Claude/Gemini data),,True,
+C66,ceo,North York General Hospital,NYGH,Kristina Fanjoy - Board Governor (incoming),2024-06-17,Wendy's team (Claude/Gemini data),,True,
+C67,ceo,North York General Hospital,NYGH,George Mavroudis - Board Governor (incoming),2024-06-17,Wendy's team (Claude/Gemini data),,True,
+C68,ceo,North York General Hospital,NYGH,Paviter Binning - Board Member (incoming),2025-06-16,NYGH news,,True,
+C69,ceo,North York General Hospital,NYGH,Sean Cohan - Board Member (incoming),2025-06-17,Wendy's team (Perplexity data),,True,
+C70,ceo,North York General Hospital,NYGH,Christine Cruz-Clarke - Board Member (incoming),2025-06-17,Wendy's team (Perplexity data),,True,
+C71,ceo,North York General Hospital,NYGH,Ted Garrard - Board Member (incoming),2025-06-17,Wendy's team (Perplexity data),,True,
+C72,ceo,North York General Hospital,NYGH,Vince Imerti - Board Member (incoming),2025-06-17,Wendy's team (Perplexity data),,True,
+C73,ceo,North York General Hospital,NYGH,Richard So - Board Member (incoming),2025-06-17,Wendy's team (Perplexity data),,True,
+C74,ceo,North York General Hospital,NYGH,Simone Atungo - Board Governor (incoming),,NYGH board page,https://www.nygh.on.ca/board-of-governors/,True,exact date not confirmed
+C75,ceo,North York General Hospital,NYGH,Dr. Kathryn Nichol - Board Governor (incoming),,NYGH board page,https://www.nygh.on.ca/board-of-governors/,True,exact date not confirmed
+C76,ceo,North York General Hospital,NYGH,Serda Evren - CCO,2026-01-26,,,False,EXCLUDED - out of scope executive role
+C77,ceo,North York General Hospital,NYGH,Dr. Richard Bowry - VP Medical Affairs,2025-04-01,,,False,EXCLUDED - out of scope executive role
+C78,ceo,North York General Hospital,NYGH,Terri Stuart-McEwan - VP Clinical/CNE,2025-02-11,,,False,EXCLUDED - out of scope executive role
+C79,ceo,North York General Hospital,NYGH,Paul Truscott Jr. - VP Finance/CFO,2025-01-06,,,False,EXCLUDED - out of scope executive role
+C80,ceo,North York General Hospital,NYGH,Jennifer Dockery - VP Quality,2024-08-19,,,False,EXCLUDED - out of scope executive role
+C81,ceo,North York General Hospital,NYGH,Young Lee - outgoing CFO,2023-05-14,,,False,EXCLUDED - out of scope executive role
+C82,ceo,North York General Hospital,NYGH,Peter Wegener - Interim CFO,2023-05-15,,,False,EXCLUDED - out of scope executive role
+C83,ceo,North York General Hospital,NYGH,Dr. Simon Raphael - outgoing Chief of Staff,2023-06-30,,,False,EXCLUDED - out of scope executive role
+C84,ceo,North York General Hospital,NYGH,Dr. Phil Shin - CMIO,2023-07-01,,,False,EXCLUDED - out of scope executive role
+C85,ceo,North York General Hospital,NYGH,Dr. Donna McRitchie - VP Medical/Academic Affairs,2023-12-11,,,False,EXCLUDED - out of scope executive role
+C86,ceo,North York General Hospital,NYGH,Linda Jussaume - Interim CNE,2023-12-12,,,False,EXCLUDED - out of scope executive role
+C87,ceo,North York General Hospital,NYGH,Seanna Millar - NYGH Foundation CEO,2023-05-08,,,False,EXCLUDED - Foundation is separate entity from hospital
+C88,ceo,Windsor Regional Hospital,WRH,David Musyj - President/CEO seconded to LHSC,2024-05-23,CBC;Global News;CanHealth,,True,
+C89,ceo,Windsor Regional Hospital,WRH,Karen Riddell - Acting President/CEO (incoming),2024-05-23,CBC;CanHealth,,True,
+C90,ceo,Windsor Regional Hospital,WRH,David Musyj - confirmed not returning to WRH permanent at LHSC,2025-07-16,CTV;WindsorNewsToday,,True,
+C91,ceo,Windsor Regional Hospital,WRH,Karen Riddell - President/CEO retirement announced,2026-03-01,AR 2025/26 Chair letter,,True,end of FY2025/26 approximate
+C92,ceo,Windsor Regional Hospital,WRH,Kristin Kennedy - President/CEO (incoming),2026-04-01,windsoriteDOTca;am800;Boyden,,True,effective FY2026-27
+C93,ceo,Windsor Regional Hospital,WRH,Anthony Paniccia - Board Chair,2021-01-01,WRH Annual Reports,,True,FY2021/22-2022/23
+C94,ceo,Windsor Regional Hospital,WRH,Patricia France - Board Chair (incoming),2023-01-01,WRH Annual Reports,,True,FY2023/24-2024/25 - exact transition date not stated
+C95,ceo,Windsor Regional Hospital,WRH,Ian McLeod - Board Chair (incoming),2025-01-01,WRH Annual Reports,,True,FY2025/26 - exact transition date not stated
+C96,ceo,Windsor Regional Hospital,WRH,Dr. Laurie Freeman - Board Director (elected 2022 AGM),2022-06-23,WRH 28th AGM Minutes,,True,verified primary source
+C97,ceo,Windsor Regional Hospital,WRH,David Malian - Board Director (elected 2022 AGM),2022-06-23,WRH 28th AGM Minutes,,True,verified primary source
+C98,ceo,Windsor Regional Hospital,WRH,Linda Staudt - Board Director (elected 2022 AGM),2022-06-23,WRH 28th AGM Minutes,,True,verified primary source
+C99,ceo,Windsor Regional Hospital,WRH,Mark Fathers - outgoing CFO,2022-06-01,WRH 28th AGM Minutes,,False,EXCLUDED - out of scope executive role

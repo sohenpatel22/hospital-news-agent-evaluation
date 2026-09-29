@@ -1,0 +1,287 @@
+[
+    {
+        "item_id": "C13",
+        "task": "ceo",
+        "hospital": "Mackenzie Health",
+        "hospital_aliases": [
+            "Mackenzie Richmond Hill Hospital",
+            "Cortellucci Vaughan Hospital",
+            "Mackenzie Vaughan Hospital",
+            "York Central Hospital",
+            "Mackenzie Health Foundation",
+            "MH"
+        ],
+        "name": "Carmine Stumpo",
+        "role": "President/CEO (incoming)",
+        "date": "2026-04-13",
+        "source": "Mackenzie Health news release: 'Announcing Mackenzie Health's new President and CEO'",
+        "in_scope": true,
+        "status": "Verified by Wendy's team",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C45",
+        "task": "ceo",
+        "hospital": "Arnprior Regional Health",
+        "hospital_aliases": [
+            "ARH",
+            "Arnprior and District Memorial Hospital",
+            "Arnprior Hospital",
+            "The Grove Nursing Home",
+            "Arnprior Regional Health Foundation",
+            "ARHF"
+        ],
+        "name": "Jeremy Stevenson",
+        "role": "President/CEO stepped down",
+        "date": "2026-06-02",
+        "source": "ARH Annual Report to the Community 2025-26",
+        "in_scope": true,
+        "status": "Verified by Wendy's team",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C46",
+        "task": "ceo",
+        "hospital": "Arnprior Regional Health",
+        "hospital_aliases": [
+            "ARH",
+            "Arnprior and District Memorial Hospital",
+            "Arnprior Hospital",
+            "The Grove Nursing Home",
+            "Arnprior Regional Health Foundation",
+            "ARHF"
+        ],
+        "name": "Raeline McGrath",
+        "role": "VP Patient Care & Chief Nursing Executive / Acting President-CEO",
+        "date": "2026-07-09",
+        "source": "ARH 'About Us / Our Senior Team' page",
+        "in_scope": true,
+        "status": "Verified by Wendy's team",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C47",
+        "task": "ceo",
+        "hospital": "Arnprior Regional Health",
+        "hospital_aliases": [
+            "ARH",
+            "Arnprior and District Memorial Hospital",
+            "Arnprior Hospital",
+            "The Grove Nursing Home",
+            "Arnprior Regional Health Foundation",
+            "ARHF"
+        ],
+        "name": "Pierre Noel",
+        "role": "Interim President/CEO (incoming)",
+        "date": "2026-07-13",
+        "source": "ARH 'About Us / Our Senior Team' page",
+        "in_scope": true,
+        "status": "Verified by Wendy's team",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C76",
+        "task": "ceo",
+        "hospital": "North York General Hospital",
+        "hospital_aliases": [
+            "North York General",
+            "NYGH",
+            "North York General Hospital Foundation",
+            "North York General Foundation",
+            "NYGF",
+            "Branson Ambulatory Care Centre",
+            "Seniors' Health Centre"
+        ],
+        "name": "Simone Atungo",
+        "role": "Board Governor (incoming)",
+        "date": "2026-06-26",
+        "source": "NYGH Board of Governors page",
+        "in_scope": true,
+        "status": "Verified by Wendy's team",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C78",
+        "task": "ceo",
+        "hospital": "North York General Hospital",
+        "hospital_aliases": [
+            "North York General",
+            "NYGH",
+            "North York General Hospital Foundation",
+            "North York General Foundation",
+            "NYGF",
+            "Branson Ambulatory Care Centre",
+            "Seniors' Health Centre"
+        ],
+        "name": "Serda Evren",
+        "role": "Chief Communications & External Relations Officer",
+        "date": "2026-01-26",
+        "source": "NYGH Fiscal Accountability page",
+        "in_scope": true,
+        "status": "INCLUDED DUE TO SCOPE CHANGE - please verify",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C100",
+        "task": "ceo",
+        "hospital": "North York General Hospital",
+        "hospital_aliases": [
+            "North York General",
+            "NYGH",
+            "North York General Hospital Foundation",
+            "North York General Foundation",
+            "NYGF",
+            "Branson Ambulatory Care Centre",
+            "Seniors' Health Centre"
+        ],
+        "name": "Dr. Manish Shah",
+        "role": "President, Medical Staff Association (incoming)",
+        "date": "2026-07",
+        "source": "NYGH Board of Governors page",
+        "in_scope": true,
+        "status": "NEWLY ADDED - please verify",
+        "confidence_tier": "C - inferred / approximate date"
+    },
+    {
+        "item_id": "C125",
+        "task": "ceo",
+        "hospital": "North York General Hospital",
+        "hospital_aliases": [
+            "North York General",
+            "NYGH",
+            "North York General Hospital Foundation",
+            "North York General Foundation",
+            "NYGF",
+            "Branson Ambulatory Care Centre",
+            "Seniors' Health Centre"
+        ],
+        "name": "Kristina Fanjoy",
+        "role": "Board Treasurer (incoming)",
+        "date": "2026-06",
+        "source": "NYGH Board of Governors page",
+        "in_scope": true,
+        "status": "Verified by Wendy's team",
+        "confidence_tier": "C - inferred / approximate date"
+    },
+    {
+        "item_id": "C126",
+        "task": "ceo",
+        "hospital": "North York General Hospital",
+        "hospital_aliases": [
+            "North York General",
+            "NYGH"
+        ],
+        "name": "Dr. Kathryn Nichol",
+        "role": "Board Governor",
+        "date": "2026-06",
+        "source": "LLM Discovery Verified",
+        "in_scope": true,
+        "status": "ADDED FROM LLM AUDIT",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C127",
+        "task": "ceo",
+        "hospital": "Arnprior Regional Health",
+        "hospital_aliases": [
+            "ARH"
+        ],
+        "name": "Dr. Matthew Dick",
+        "role": "Board Director",
+        "date": "2026-06",
+        "source": "LLM Discovery Verified",
+        "in_scope": true,
+        "status": "ADDED FROM LLM AUDIT",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C128",
+        "task": "ceo",
+        "hospital": "Arnprior Regional Health",
+        "hospital_aliases": [
+            "ARH"
+        ],
+        "name": "Katrina Roberts",
+        "role": "Board Director",
+        "date": "2026-06",
+        "source": "LLM Discovery Verified",
+        "in_scope": true,
+        "status": "ADDED FROM LLM AUDIT",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C129",
+        "task": "ceo",
+        "hospital": "Arnprior Regional Health",
+        "hospital_aliases": [
+            "ARH"
+        ],
+        "name": "Bill Stevens",
+        "role": "Board Director",
+        "date": "2026-06",
+        "source": "LLM Discovery Verified",
+        "in_scope": true,
+        "status": "ADDED FROM LLM AUDIT",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C130",
+        "task": "ceo",
+        "hospital": "Mackenzie Health",
+        "hospital_aliases": [
+            "MH"
+        ],
+        "name": "Mary-Agnes Wilson",
+        "role": "Interim President and CEO (outgoing)",
+        "date": "2026-04-13",
+        "source": "LLM Discovery Verified",
+        "in_scope": true,
+        "status": "ADDED FROM LLM AUDIT",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C131",
+        "task": "ceo",
+        "hospital": "Mackenzie Health",
+        "hospital_aliases": [
+            "MH"
+        ],
+        "name": "Stav D'Andrea",
+        "role": "VP People Services & CHRO",
+        "date": "2026-02",
+        "source": "LLM Discovery Verified",
+        "in_scope": true,
+        "status": "ADDED FROM LLM AUDIT",
+        "confidence_tier": "B - approximate month"
+    },
+    {
+        "item_id": "C132",
+        "task": "ceo",
+        "hospital": "Mackenzie Health",
+        "hospital_aliases": [
+            "MH"
+        ],
+        "name": "Marissa Salmon",
+        "role": "Interim CHRO",
+        "date": "2026-04-13",
+        "source": "LLM Discovery Verified",
+        "in_scope": true,
+        "status": "ADDED FROM LLM AUDIT",
+        "confidence_tier": "A - dated announcement"
+    },
+    {
+        "item_id": "C133",
+        "task": "ceo",
+        "hospital": "Mackenzie Health",
+        "hospital_aliases": [
+            "MH"
+        ],
+        "name": "David Stolte",
+        "role": "Interim VP People Services",
+        "date": "2026-04-13",
+        "source": "LLM Discovery Verified",
+        "in_scope": true,
+        "status": "ADDED FROM LLM AUDIT",
+        "confidence_tier": "A - dated announcement"
+    }
+]

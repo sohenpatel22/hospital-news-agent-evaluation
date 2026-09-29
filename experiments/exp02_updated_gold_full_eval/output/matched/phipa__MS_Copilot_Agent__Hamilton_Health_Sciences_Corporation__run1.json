@@ -1,0 +1,8 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "P3",
+    "match_confidence": "medium",
+    "match_reason": "Explicit 'PHIPA Decision 338' reference matches gold P3."
+  }
+]

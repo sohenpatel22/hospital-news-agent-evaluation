@@ -1,0 +1,25 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "supervisor",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 4,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\London Health Sciences Centre\\Run 4.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "London Health Sciences Centre",
+      "run_number": 4,
+      "person_or_issue": "David Musyj",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "September 24, 2024, effective appointment date",
+      "date_normalised": "2024-09-24",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, with corroboration from LHSC and CBC News",
+      "verbatim_snippet": "The Lieutenant Governor in Council appointed David Musyj of LaSalle as Supervisor for LHSC under subsection 9(1) of Ontario’s Public Hospitals Act, after determining that an appointment was in the public interest."
+    }
+  ],
+  "refusals": []
+}

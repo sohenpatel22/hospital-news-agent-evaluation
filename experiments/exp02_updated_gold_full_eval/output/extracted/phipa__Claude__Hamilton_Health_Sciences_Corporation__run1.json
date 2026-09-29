@@ -1,0 +1,14 @@
+{
+  "system": "Claude",
+  "task": "phipa",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\Claude\\Hamilton Health Sciences Corporation\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Hamilton Health Sciences Corporation",
+      "refusal_text": "I ran multiple targeted searches (HHS + PHIPA/privacy breach, IPC decisions/news releases, ransomware/cyberattack angles, CBC Hamilton, Global News, Hamilton Spectator) specifically scoped to January 16, 2026 – July 16, 2026 for Hamilton Health Sciences Corporation. I did not find any news items — from HHS's own newsroom, the IPC, or media outlets — reporting a PHIPA-related incident, breach, IPC decision, complaint, or enforcement action involving HHS within that window."
+    }
+  ]
+}

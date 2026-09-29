@@ -1,0 +1,19 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Altaf Stationwala - Supervisor (Public Hospitals Act)",
+      "person_name": "Altaf Stationwala",
+      "role": "Supervisor",
+      "appointment_date": "2024-06-27",
+      "termination_date": "2025-06-20",
+      "order_in_council": null,
+      "source": "Ministry of Health news release / CBC News",
+      "link": "https://www.cbc.ca/news/canada/ottawa/province-appoints-supervisor-to-oversee-renfrew-hospital-amid-financial-concerns-1.7248464"
+    }
+  ],
+  "task": "supervisors",
+  "model": "Claude",
+  "hospital": "Renfrew Victoria Hospital",
+  "run_number": 1
+}

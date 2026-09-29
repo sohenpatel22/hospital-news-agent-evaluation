@@ -1,0 +1,6 @@
+model,recall,precision,f1,relevance,groundedness,completeness,answer_relevancy,citation_accuracy
+ChatGPT,0.436,0.595,0.779,0.667,0.63,0.539,0.667,
+Claude,0.462,0.883,0.839,0.741,0.796,0.682,0.722,0.933
+Gemini,0.457,0.672,0.715,0.796,0.685,0.682,0.759,
+MS Copilot Agent,0.641,0.428,0.592,0.833,0.611,0.713,0.797,0.786
+Perplexity,0.357,0.8,0.839,0.63,0.537,0.568,0.611,0.667

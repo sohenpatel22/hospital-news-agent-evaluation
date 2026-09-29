@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly answers the user's intent by listing all interim supervisors appointed by the Ontario government to Stevenson Memorial Hospital.",
+  "groundedness": 2,
+  "groundedness_reason": "Both supervisors are cited with sources and links, though the Carmine Stumpo entry cites 'contemporaneous local reporting' somewhat vaguely alongside a specific Ontario government URL, and no Order in Council numbers are provided.",
+  "completeness": 1.0,
+  "completeness_reason": "Both gold standard items (Eric Hanna and Carmine Stumpo as Supervisors) are fully covered in the model's response.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three questions that could be generated from this response (who was appointed supervisor, when were they appointed, and what is the current supervisor status) directly align with the original intent of listing interim supervisors at Stevenson Memorial Hospital.",
+  "generated_questions": [
+    "Who has been appointed as supervisor of Stevenson Memorial Hospital by the Ontario government?",
+    "When was Eric Hanna appointed as supervisor of Stevenson Memorial Hospital?",
+    "Who replaced Eric Hanna as supervisor of Stevenson Memorial Hospital?"
+  ],
+  "task": "supervisors",
+  "model": "Perplexity",
+  "hospital": "Stevenson Memorial Hospital"
+}

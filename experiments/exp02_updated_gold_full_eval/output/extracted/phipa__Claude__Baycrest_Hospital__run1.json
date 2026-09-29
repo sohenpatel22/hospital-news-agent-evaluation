@@ -1,0 +1,14 @@
+{
+  "system": "Claude",
+  "task": "phipa",
+  "hospital": "Baycrest Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\Claude\\Baycrest Hospital\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Baycrest Hospital",
+      "refusal_text": "No PHIPA-related news items specifically naming Baycrest Hospital appear in Ontario news, IPC decisions, or Baycrest's own communications between January 16, 2026 and July 16, 2026."
+    }
+  ]
+}

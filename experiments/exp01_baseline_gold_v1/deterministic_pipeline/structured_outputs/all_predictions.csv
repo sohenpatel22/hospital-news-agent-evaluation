@@ -1,0 +1,849 @@
+task,model,hospital_eval,run_number,extracted_hospital,name_or_issue,date,source,link
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,Board Chair – Cathy Jordan appointed,"July 20, 2021",Longwoods; Town of Arnprior,(Longwoods)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,President & CEO – Eric Hanna → Leah Levesque,"Aug. 19, 2021 announcement; Oct. 1, 2021 effective",Arnprior Regional Health,(Arnprior Regional Health)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,Chief of Staff – Dr. Christine Schriver → Dr. Florin Padeanu,"Jan. 1, 2022 effective; Mar. 2, 2022 announced",Arnprior Regional Health,(Arnprior Regional Health)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,Board recruitment / director renewal and expansion,"Apr. 20, 2022",Arnprior Regional Health,(Arnprior Regional Health)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,Board Director – Beth Ciavaglia appointed,"June 16, 2022 / 2022 AGM",Arnprior Regional Health Board minutes,(Arnprior Regional Health)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,Board Directors – Colleen MacPhee and Curtis McGrath join Board,2022 AGM cycle,Arnprior Regional Health; ARH LinkedIn,(LinkedIn)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,"Board succession – Erin Stitt-Cavanagh and Bob McGaraughty retire; Borys Koba, Rick Holock and Pete Kenny recruited","June 22, 2023 / 2023 AGM",Arnprior Regional Health Board minutes,(Arnprior Regional Health)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,Board Chair – Cathy Jordan → Oliver Jacob,"July 3, 2024 announcement; 2024 AGM effective",Arnprior Regional Health,(Arnprior Regional Health)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,President & CEO – Leah Levesque announces retirement,"Dec. 6, 2023 announcement",Town of Arnprior meeting record reproducing ARH Board Chair message,(Arnprior Calendar)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,President & CEO – Leah Levesque → Jeremy Stevenson,"May 10, 2024 announcement; Aug. 2024 transition",Arnprior Regional Health,(Arnprior Regional Health)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,Chief of Staff – Dr. Florin Padeanu → joint ARH/QCH Chief of Staff model with Dr. Kathi Kovacs,"June 27, 2025 announcement; Aug. 1, 2025 effective",Arnprior Regional Health,(Arnprior Regional Health)
+ceo,ChatGPT,Arnprior Regional Health,1,Arnprior Regional Health,"Board turnover – Cathy Jordan, Colleen MacPhee and Curtis McGrath conclude service",2025 AGM / 2025,Arnprior Regional Health Annual Report; ARH LinkedIn,(Arnprior Regional Health)
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","April 2023
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","October 5, 2023
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","October 5, 2023
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","June 13, 2024
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","Following the 2024 AGM, Ruby Philip",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","June 27, 2025
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","July 2025
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","June 19, 2025
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","June 19, 2025
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","June 19, 2025
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","July 2, 2025
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","December 15, 2025
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","December 15, 2025
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","April 13, 2026
+Source",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","On April 13, 2026, Mary",,
+ceo,ChatGPT,Mackenzie Health,1,Mackenzie Health," Mackenzie Health
+Issue","February 2026
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue",,,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","2022–2023 governance year
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue",,,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","July 2023
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","December 1, 2023
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue",,,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital,board composition change during the 2023–2024 governance cycle. The available NYGH annual,"2023–2024 governance cycle
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","June 18, 2024
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","January 6, 2025
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","February 11, 2025
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","April 1, 2025
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue",,,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital,"board list. (Newswire)
+Date","June 16, 2025
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","January 26, 2026
+Source",,
+ceo,ChatGPT,North York General Hospital,1,North York General Hospital," North York General Hospital
+Issue","July 3, 2026
+Source",,
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,CEO resignation: Sue LeBeau,July 2022,RLMCMH Annual Report 2022–23,(Red Lake Hospital) RLMCMH Annual Report 2022–23
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Interim CEO: Angela Bishop,"January 9, 2023",Ontario Legislative Assembly transcript; RLMCMH Annual Report 2022–23,"(Legislative Assembly of Ontario) Ontario Legislature transcript, Jan. 9, 2023"
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Permanent CEO: Sumeet Kumar appointed,May 2023,RLMCMH Annual Report 2022–23; contemporary biographical announcement,(Red Lake Hospital) RLMCMH Annual Report 2022–23
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board Chair: Sonia Green departed; John Frostiak elected Chair,2023; exact election date not located,RLMCMH Annual Report 2022–23 / 2023–24,(Red Lake Hospital) RLMCMH Annual Report 2022–23
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board director: Shawnda Norlock departed; Trevor Zhukrovsky appointed,2023; exact appointment date not located,RLMCMH Annual Report 2022–23,(Red Lake Hospital) RLMCMH Annual Report 2022–23
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board director: Marshall Dumontier departed; Jennifer Sedlacek appointed,Late 2023,RLMCMH Annual Report 2023–24,(Red Lake Hospital) RLMCMH Annual Report 2023–24
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board director: James Russell joined to fill Sonia Green vacancy,Start of FY 2023–24; exact day not located,RLMCMH Annual Report 2023–24,(Red Lake Hospital) RLMCMH Annual Report 2023–24
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board director: James Russell departed,May 2024,RLMCMH Annual Report 2023–24,(Red Lake Hospital) RLMCMH Annual Report 2023–24
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board director: Eleanor Vachon completed term,2024; exact end date not located,RLMCMH Annual Report 2023–24,(Red Lake Hospital) RLMCMH Annual Report 2023–24
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board vacancy / Jamie Saulnier replaces James Russell,"June 26, 2024",Municipality of Red Lake Community Health Care Committee minutes,"(Red Lake Meetings) Community Health Care Committee minutes, June 26, 2024"
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,CEO transition: Sumeet Kumar out; Angela Bishop returns as Interim CEO,"August 1, 2024 announcement; interim service from August 2024",RLMCMH newsroom; OHA / Northern Ontario Business,(Red Lake Hospital) RLMCMH newsroom – Welcome back Angela Bishop
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Nursing executive leadership: Meghan Gilbart → Taylor Smith,By FY 2024–25; exact date not publicly located,RLMCMH Annual Reports 2023–24 and 2024–25,(Red Lake Hospital) RLMCMH Annual Report 2024–25
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board composition expansion/refresh,FY 2024–25; individual appointment dates not all publicly located,RLMCMH Annual Report 2024–25,(Red Lake Hospital) RLMCMH Annual Report 2024–25
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board Chair continuity: Trevor Zhukrovsky,"March 31, 2025; March 24, 2026",RLMCMH QIP; Ontario Health North HSAA extension,(Red Lake Hospital) RLMCMH 2025–26 QIP
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,CEO: Angela Bishop → Jennifer Lawrance,"June 26, 2026",RLMCMH announcement; Northern Ontario Business; Ontario Hospital Association,(GovServ) Northern Ontario Business – New hospital CEO preparing for growth around Red Lake
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Nursing leadership: Taylor Smith → Heather Jeffries (interim),"By July 16, 2026; exact date not located",RLMCMH current leadership/director pages,(Red Lake Hospital) RLMCMH Leadership Team
+ceo,ChatGPT,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Chief of Staff transition: Michael Power → Jessica Kwapis,2022 (2021–2022 Annual Report),"Sensenbrenner Hospital, 2021–2022 Annual Report",(Senhosp)
+ceo,ChatGPT,Sensenbrenner Hospital,1,Sensenbrenner Hospital,CEO continuity — France Dallaire remained CEO,2021–2026,Sensenbrenner Hospital annual report; Ontario Legislative Assembly; Ontario Health atHome/211,(Senhosp)
+ceo,ChatGPT,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Board composition turnover: Kelly Vos and Sébastien Lessard no longer listed; Dominique Tremblay and Guylaine Scherer appear,2021–2022,"Sensenbrenner Hospital, 2020–2021 and 2021–2022 Annual Reports",(Senhosp)
+ceo,ChatGPT,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Board officer change: Kelly Vos → Denis Bérubé as Vice-Chair,2021–2022,Sensenbrenner Hospital Annual Reports,(Senhosp)
+ceo,ChatGPT,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Board chair succession: Gary Fortin → Natalie Côté-Tremblay,"After FY2021–2022 and by July 16, 2026; exact transition date not located",Sensenbrenner Hospital annual report; current Board listing,(Senhosp)
+ceo,ChatGPT,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Board governance model / membership structure confirmed during period,April 2024 by-law revision,Sensenbrenner Hospital Corporate By-Laws,(Senhosp)
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Board: Dan Wilson completes board term,"June 23, 2022",WRH 28th Annual General Meeting minutes,WRH AGM / Board minutes
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,"Board: Linda Staudt, David Malian and Dr. Laurie Freeman appointed","June 23, 2022",WRH 28th Annual General Meeting,WRH AGM record
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Executive: CFO Mark Fathers retires; Malissa Gauthier becomes CFO/VP,April–June 2022,WRH AGM; Longwoods leadership transition; Ontario compensation records,WRH AGM record / Longwoods leadership transition
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,"Board: Chris Lanoue, Dr. Nila Das and Jamie Skutovich appointed","June 22, 2023",WRH 29th Annual General Meeting; current WRH board biographies,WRH 29th AGM record / WRH Board members
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Board leadership: Patricia France becomes Chair; Ian McLeod becomes Vice-Chair; Anthony Paniccia becomes Treasurer,"September 7, 2023",Windsor News Today; WRH September board materials,Windsor News Today report / WRH September 2023 board package
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Redevelopment executive: Paul Landry departs; Brandon Bailey appointed VP Redevelopment,"March 24, 2023",WRH media release,WRH media release
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Board: Nadine Manroe-Wakerell appointed,"July 18, 2024",WRH 30th Annual General Meeting,WRH 30th AGM minutes/package
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,CEO: David Musyj seconded to London Health Sciences Centre; Karen Riddell becomes Acting President & CEO,"May 23, 2024",WRH media release; LHSC Board statement; local reporting,WRH executive-changes release / LHSC Board statement
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Executive: Nicole Krywionek becomes Interim VP during CEO transition,May 2024,Windsorite; WRH executive announcement,Windsorite report / WRH leadership announcement
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,CEO: David Musyj confirms he will not return to WRH,"July 16, 2025",WRH Board statement; Windsor News Today,WRH leadership update / Windsor News Today
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Executive: Kelly Heron appointed VP; Nicole Krywionek appointed CNE/Clinical VP,Fall 2025,WRH Board minutes / executive announcement,WRH October 2025 board minutes / WRH executive announcement
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Board: Anna Maria Kirby and Wes Vickers appointed,"June 26, 2025",WRH 31st AGM cycle; current board biographies,WRH Board members / WRH 31st AGM agenda
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Board leadership: Ian McLeod becomes Chair; Patricia France moves to Past Chair,"By September 4, 2025",WRH September 2025 board minutes; current board profile,WRH September 2025 board minutes / WRH Board members
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,CEO succession: Kristin Kennedy appointed incoming President & CEO,"December 29, 2025; started March 23, 2026",WRH/Boyden recruitment announcement; WRH board minutes,Boyden announcement / WRH January 2026 board minutes
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,CEO: Karen Riddell retires; Kristin Kennedy assumes permanent CEO role,"March 31–April 2, 2026",WRH; WRH Board minutes,WRH Board April 2026 minutes
+ceo,ChatGPT,Windsor Regional Hospital,1,Windsor Regional Hospital,Board: Joe Milicia and Brandon Pottie appointed,"June 25, 2026",WRH newsroom; Windsorite; current WRH board biographies,WRH newsroom announcement / Windsorite report
+ceo,Claude,Arnprior Regional Health,1,Arnprior Regional Health, CEO Transition (retirement),,,https://www.arnpriorregionalhealth.ca/arnprior
+ceo,Claude,Arnprior Regional Health,1,Arnprior Regional Health, CEO Transition (recruitment/succession),,,https://www.arnpriorregionalhealth.ca/board
+ceo,Claude,Arnprior Regional Health,1,Arnprior Regional Health, Board Chair Transition,"July 3, 2024 (post",,https://www.arnpriorregionalhealth.ca/arh
+ceo,Claude,Arnprior Regional Health,1,Arnprior Regional Health, CEO Departure,"June 2, 2026",,https://www.arnpriorregionalhealth.ca/public
+ceo,Claude,Mackenzie Health,1,"Mackenzie Health Issue: Board Chair transition (Falbo → Lim-Lambie) Blurb: Mackenzie Health announced Fay Lim-Lambie, Dean of the Centre for Health Sciences at George Brown College, as the new Chair of the Board of Directors, taking over the post from Mark Falbo, President of Mircom Group of Companies. Stephanie Zee was concurrently named Vice-Chair, and several new members joined the board. Date: July 15, 2021 (announced; AGM held July 14, 2021) Source: Mackenzie Health News Source link: https://www.mackenziehealth.ca/about-us/news/~277-Mackenzie-Health-appoints-Fay-Lim-Lambie-Dean-at-George-Brown-as-new-board-chair","Board Chair transition (Falbo → Lim-Lambie) Blurb: Mackenzie Health announced Fay Lim-Lambie, Dean of the Centre for Health Sciences at George Brown College, as the new Chair of the Board of Directors","July 15, 2021 (announced; AGM held July 14, 2021) ",Mackenzie Health News Source link: https://www.mackenziehealth.ca/about-us/news/~277-Mackenzie-Healt,
+ceo,Claude,North York General Hospital,1,North York General Hospital, Issue,,,
+ceo,Claude,North York General Hospital,1,North York General Hospital," Board Chair Transition (Clark succeeds Elfassy) Bert Clark was named the new Chair of NYGH's Board of Governors, succeeding outgoing Chair Samuel Elfassy, who completed his three",,,year term the same day. Bert Clark's tenure with the NYGH Board of Governors began in November 2016 when he served as a community member on the Board's newly formed Capital Development Advisory Commit
+ceo,Claude,North York General Hospital,1,North York General Hospital," CEO Retirement Announcement (Popovich) Karyn Popovich, NYGH's President & CEO, informed the Board of Governors that after a distinguished 40",,,year career at NYGH. Date: March 2023 (announcement); retirement effective ~November/December 2023 Source: NYGH Newsroom / Canadian Healthcare Technology Link: https://www.nygh.on.ca/news/announcement
+ceo,Claude,North York General Hospital,1,North York General Hospital," Chief of Staff / MAC Chair Transition Dr. Simon Raphael's term as Chief of Staff and Chair of the Medical Advisory Committee ended June 30, 2023, with Dr. Phil Shin starting July 1, 2023 as Chief Med","June 30 – July 1, 2023",NYGH Fiscal Accountability disclosures,https://www.nygh.on.ca/accountability/fiscal-accountability/
+ceo,Claude,North York General Hospital,1,North York General Hospital," CFO Transition (Lee to Interim Wegener) Young Lee's role as Vice President, Corporate Performance & Digital Health Innovation, CFO ended May 14, 2023; Peter Wegener began as Interim CFO on May 15, 20","May 14–15, 2023",NYGH Fiscal Accountability disclosures,https://www.nygh.on.ca/accountability/fiscal-accountability/
+ceo,Claude,North York General Hospital,1,North York General Hospital, New President & CEO Announced (Gooden) North York General Hospital announced Dr. Everton Gooden as its next President and CEO following a search process. Dr. Gooden joined NYGH more than 20 years ear,,, New President & CEO Announced (Gooden) North York General Hospital announced Dr. Everton Gooden as its next President and CEO following a search process. Dr. Gooden joined NYGH more than 20 years ear
+ceo,Claude,North York General Hospital,1,North York General Hospital," CEO Transition Effective (Gooden begins) Dr. Everton Gooden began his tenure as President and CEO of North York General Hospital on December 1, 2023. Date: December 1, 2023 Source: NYGH Leadership Te",,," CEO Transition Effective (Gooden begins) Dr. Everton Gooden began his tenure as President and CEO of North York General Hospital on December 1, 2023. Date: December 1, 2023 Source: NYGH Leadership Te"
+ceo,Claude,North York General Hospital,1,North York General Hospital," Interim Clinical Services / CNE Appointment Linda Jussaume began as Interim Vice President, Clinical Services, Quality & Long",,,"Term Care, and Chief Nursing Executive, starting December 12, 2023. Date: December 12, 2023 Source: NYGH Fiscal Accountability disclosures Link: https://www.nygh.on.ca/accountability/fiscal"
+ceo,Claude,North York General Hospital,1,North York General Hospital," Interim CFO Transition (Wegener to interim role change) Peter Wegener's role as Interim CFO ran from October 2023 to March 2024, per NYGH's fiscal accountability listing (overlapping and following th",October 2023 – March 2024,NYGH Fiscal Accountability disclosures,https://www.nygh.on.ca/accountability/fiscal-accountability/
+ceo,Claude,North York General Hospital,1,North York General Hospital," Board Chair Transition (Frazer succeeds Clark) NYGH announced that Mitch Frazer was elected Chair of the Board of Governors, replacing outgoing Chair Bert Clark after a successful three",,,"year term; Clark continued to serve on the North York General Foundation Board. Frazer had joined the NYGH Board of Governors in 2018 and most recently served as Vice Chair. Date: June 18, 2024 Source"
+ceo,Claude,North York General Hospital,1,North York General Hospital,welcomes,,,
+ceo,Claude,North York General Hospital,1,North York General Hospital," CFO Transition (Interim Wegener to permanent Truscott) Peter Wegener's second stint as Interim CFO ended January 5, 2025, with Paul Truscott Jr. starting as Vice President, Finance, Data Analytics & ","January 5–6, 2025",NYGH Fiscal Accountability disclosures,https://www.nygh.on.ca/accountability/fiscal-accountability/
+ceo,Claude,North York General Hospital,1,North York General Hospital, Chief Nurse Executive Transition (Jussaume to Stuart,,,"McEwan began as Vice President, Clinical Services and Chief Nurse Executive on February 11, 2025. Date: February 10–11, 2025 Source: NYGH Fiscal Accountability disclosures Link: https://www.nygh.on.ca"
+ceo,Claude,North York General Hospital,1,North York General Hospital," New Board Members Appointed (six governors) NYG and the North York General Foundation announced six new Board members appointed at their board meetings, with Board Chair Mitch Frazer noting the stron",,," New Board Members Appointed (six governors) NYG and the North York General Foundation announced six new Board members appointed at their board meetings, with Board Chair Mitch Frazer noting the stron"
+ceo,Claude,North York General Hospital,1,North York General Hospital, Quality/Post,,,"Acute Care & Community Integration ended November 12, 2025, per NYGH's fiscal accountability disclosure listing. Date: November 12, 2025 Source: NYGH Fiscal Accountability disclosures Link: https://ww"
+ceo,Claude,North York General Hospital,1,North York General Hospital," Interim CFO Reappointment Peter Wegener returned as Interim CFO starting August 29, 2025, per NYGH's fiscal accountability disclosure (indicating Paul Truscott Jr.'s tenure as permanent CFO ended aro","August 29, 2025",NYGH Fiscal Accountability disclosures,https://www.nygh.on.ca/accountability/fiscal-accountability/
+ceo,Claude,North York General Hospital,1,North York General Hospital," Communications Leadership Transition (Hopkins to Interim Flanagan) Janine Hopkins's role as Chief Communications Officer ended July 6, 2025; Anne",,,"Marie Flanagan began as Interim Chief Communications & External Relations Officer on July 7, 2025. Date: July 6–7, 2025 Source: NYGH Fiscal Accountability disclosures Link: https://www.nygh.on.ca/acco"
+ceo,Claude,North York General Hospital,1,North York General Hospital, Chief Communications & External Relations Officer Appointment (Evren) Anne,"Mitch Frazer (June 2024).
+C",,"Marie Flanagan's interim term as Chief Communications & External Relations Officer ended January 25, 2026; Serda Evren began in the permanent role January 26, 2026. Serda Evren is a senior communicati"
+ceo,Claude,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Issue,,,
+ceo,Claude,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, CEO Transition (Sue LeBeau,"Reported: April 4, 2023",,https://kenoraonline.com/2023/04/04/red
+ceo,Claude,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,names,,,
+ceo,Claude,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, CEO Tenure Confirmation (Sumeet Kumar),Reflects fiscal year 2023–2024,,https://www.redlakehospital.ca/documents/22/Annual%20Report%202023
+ceo,Claude,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, CEO Departure (Sumeet Kumar),,,https://www.northernontariobusiness.com/industry
+ceo,Claude,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, CEO Recruitment (President & CEO search posting),"Posting active as of: November 4, 2025",,https://healthcareers.ca/job/326/president
+ceo,Claude,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, CEO Transition (Interim Angela Bishop,"Effective: June 26, 2026",,https://www.northernontariobusiness.com/industry
+ceo,Claude,Sensenbrenner Hospital,1,Sensenbrenner Hospital, Issue,,,
+ceo,Claude,Sensenbrenner Hospital,1,Sensenbrenner Hospital," CEO tenure (continuity, not change)",Ongoing 2017–2026,,"https://www.senhosp.ca/accountability.html ; https://211north.ca/record/65308957/agency/
+"
+ceo,Claude,Sensenbrenner Hospital,1,Sensenbrenner Hospital, Chief of Staff transition,,,https://www.senhosp.ca/boardofdirectors.html ; https://www.senhosp.ca/leadership
+ceo,Claude,Sensenbrenner Hospital,1,Sensenbrenner Hospital, Board composition (2021 snapshot only), Board composition (2021 snapshot only),,"https://www.senhosp.ca/boardofdirectors.html
+What I could not verify
+No specific announcement, press release, or news article documents a CEO change, a board chair change, or individual board member a"
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, Issue,,,
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, Board Chair transition (Paniccia,Best available window: 2022–2024,,"https://wrh.on.ca/uploads/BoardMeetings/AGM_Board_Package_2023.pdf
+"
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, CEO secondment — David Musyj to LHSC,"May 17–23, 2024",,https://www.cbc.ca/news/canada/windsor/windsor
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital,president,,,
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, Acting CEO appointment — Karen Riddell,"May 22, 2024",,https://www.cbc.ca/news/canada/windsor/windsor
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital,karen,,,
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, Board Chair confirmed — Patti France,May 2024,,"https://www.cbc.ca/lite/story/1.7207391
+"
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, Riddell confirmed as permanent President & CEO,,,https://www.boyden.com/media/new
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, CEO retirement announcement — Karen Riddell,,,https://www.boyden.com/media/new
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, Next CEO named — Kristin Kennedy,,,https://www.cbc.ca/news/canada/windsor/kristin
+ceo,Claude,Windsor Regional Hospital,1,Windsor Regional Hospital, New CEO assumes post — Kristin Kennedy,"On/around April 20, 2026",,https://www.cbc.ca/news/canada/windsor/q
+ceo,Gemini,Arnprior Regional Health,1,Arnprior Regional Health,Leah Levesque,July 2022,Arnprior Regional Health Corporate Communications / Local Media Archives,
+ceo,Gemini,Mackenzie Health,1,Mackenzie Health,Appointment of Board Chair Stephanie Zee,"June 13, 2024 (Announced June 20, 2024)",Mackenzie Health News,
+ceo,Gemini,Mackenzie Health,1,Mackenzie Health,Appointment of Board Chair John Fursey,"June 19, 2025 (Announced June 20, 2025)",Mackenzie Health News,
+ceo,Gemini,Mackenzie Health,1,Mackenzie Health,Departure of President & CEO Altaf Stationwala and Interim Appointment of Mary-Agnes Wilson,"June 27, 2025 / July 1, 2025",Mackenzie Health News,
+ceo,Gemini,Mackenzie Health,1,Mackenzie Health,Carmine Stumpo,"April 13, 2026 (Announced December 5, 2025)",Mackenzie Health News,
+ceo,Gemini,North York General Hospital,1,North York General Hospital,Departure of Board Chair,"June 17, 2024",North York General Hospital (Fiscal Accountability Disclosure),
+ceo,Gemini,North York General Hospital,1,North York General Hospital,Appointment of New Board Chair,"June 18, 2024",North York General Hospital News,
+ceo,Gemini,North York General Hospital,1,North York General Hospital,Chief Executive Officer Retirement,"December 1, 2023 (Transition finalized; announced ",North York General Hospital News,
+ceo,Gemini,North York General Hospital,1,North York General Hospital,New President and Chief Executive Officer,"December 1, 2023",North York General Hospital News,
+ceo,Gemini,North York General Hospital,1,North York General Hospital,Annual Board Governance Refresh,"June 13, 2022",North York General Hospital News,
+ceo,Gemini,North York General Hospital,1,North York General Hospital,Appointment of Six New Board Governors,"June 16, 2025",North York General Hospital News,
+ceo,Gemini,North York General Hospital,1,North York General Hospital (Foundation),Foundation CEO Leadership Change,"January 31, 2023 (Pursell retirement) / May 8, 202",Cision / Newswire,
+ceo,Gemini,North York General Hospital,1,North York General Hospital,Executive Leadership Addition,July 2024,North York General Hospital News,
+ceo,Gemini,North York General Hospital,1,North York General Hospital,Executive Leadership Addition,"December 9, 2024",North York General Hospital News,
+ceo,Gemini,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Executive Leadership / CEO Transition,Specific Disclosures (2021–2026),,
+ceo,Gemini,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Executive Leadership (CEO & Board Oversight),Ongoing (2021–2026),Ontario Health / Public Hospital Profiles,Ontario Health Hospital Directory (Archival records)
+ceo,Gemini,Windsor Regional Hospital,1,Windsor Regional Hospital,Executive Leadership Secondment / Acting CEO Appointment,"May 23, 2024",Global News / Windsor News Today,
+ceo,Gemini,Windsor Regional Hospital,1,Windsor Regional Hospital,David Musyj,"September 25, 2024",Windsor News Today,
+ceo,Gemini,Windsor Regional Hospital,1,Windsor Regional Hospital,CEO Retirement and Successor Appointment,"December 29, 2025",Boyden / Windsor Regional Hospital News,
+ceo,Gemini,Windsor Regional Hospital,1,Windsor Regional Hospital,Joint Cross-Hospital Executive Shared Leadership Model,"July 21, 2026",CBC News / AM800 CKLW,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, Interim President and CEO appointed; short acting,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, President and CEO departure,"June 2, 2026",,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, Chief of Staff succession and joint medical,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, Board,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, Board Chair transition,"July 3, 2024",,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, New President and CEO appointed; prior CEO retired,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, Board announces new CEO; Annual Report to the Community 2023,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, Three directors appointed; two directors departed,"July 18, 2023",,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, One director appointed; five directors departed,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, ARH Board celebrates long,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health, President and CEO succession,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,1,Arnprior Regional Health," Arnprior Regional Health will welcome new President and CEO this fall [arnpriorre...lhealth.ca]
+Completeness notes
+I found nine publicly documented leadership or governance",,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, Interim President and CEO appointed,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, Acting President and CEO assignment concluded,"Acknowledged July 9, 2026; exact acting",,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, President and CEO stepped down,"June 2, 2026",,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, Chief of Staff transition to joint hospital model,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, Chief of Staff tenure concluded,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, Board directors retired or completed their service,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, Board Chair changed,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, New President and CEO selected,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, President and CEO retirement announced,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, New directors elected,"June 22, 2023",,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, Board Vice,"June 22, 2023",,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, Chief of Staff transition documented,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health, New President and CEO appointed; outgoing CEO retirement,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,2,Arnprior Regional Health," Arnprior Regional Health will welcome new President and CEO this fall
+Coverage note
+This is an exhaustive list of changes that I could verify in publicly accessible, dated sources for the specified i",,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health," leadership and governance changes
+Review period: July 16, 2021 through July 16, 2026
+Arnprior Regional Health is listed in the East Region in the supplied Ontario Hospitals by Region document. ARH en",,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, Interim President and CEO appointed,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, President and CEO departure; acting leadership installed,"June 2, 2026",,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, Chief of Staff transition and joint medical,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, Three directors concluded board service,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, Board Chair succession,"July 3, 2024",,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, New President and CEO appointed,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, President and CEO retirement announced,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, Three new board directors appointed; two directors departed,"July 18, 2023",,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, Board and committee turnover at 2022 AGM,"July 4, 2022",,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, ARH Board celebrates long,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health, CEO succession from Eric Hanna to Leah Levesque,,,
+ceo,MS Copilot Agent,Arnprior Regional Health,3,Arnprior Regional Health," Arnprior Regional Health will welcome new President and CEO this fall and Eric Hanna: Retiring after 13 years at the helm of ARH [arnpriorre...lhealth.ca], [arnpriorre...lhealth.ca]
+Scope and complet",,,
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Pierre Noel appointed Interim President and CEO; Raeline McGrath concludes brief acting assignment,"July 9, 2026 announcement; appointment effective July 13, 2026",Arnprior Regional Health,ARH Appoints Pierre Noel as Interim President and CEO
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Jeremy Stevenson steps down as President and CEO,"June 2, 2026",Arnprior Regional Health,Public Statement on Jeremy Stevenson’s departure
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Joint Chief of Staff model and appointment of Dr. Kathi Kovacs,"June 27, 2025 announcement; effective August 1, 2025",Arnprior Regional Health,ARH and QCH to Implement Joint Chief of Staff
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Dr. Florin Padeanu retires as Chief of Staff,2024/25 reporting year; recognized in the July 2025 annual report,Arnprior Regional Health,ARH Annual Report 2024/25
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,"Three directors conclude board service: Cathy Jordan, Colleen MacPhee and Curtis McGrath",2025 AGM / 2024-25 year end,Arnprior Regional Health,ARH Annual Report 2024/25
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,"New board composition includes Dr. Christina Veale, Jacqueline Asselin, and Shyam Ramrekha","Documented in the 2024/25 annual report, published July 2025",Arnprior Regional Health,ARH Annual Report 2024/25
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Oliver Jacob succeeds Cathy Jordan as Board Chair,"July 3, 2024",Arnprior Regional Health; Oldies 107.7 / Arnprior Today,ARH Board of Directors Appoints New Chair
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Jeremy Stevenson appointed President and CEO,"May 10, 2024 announcement; start date August 18, 2024",Arnprior Regional Health; Oldies 107.7 / Arnprior Today,Board announces new CEO
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Leah Levesque announces retirement,"December 7, 2023 announcement; retirement planned for late June 2024",Arnprior Regional Health,Leah Levesque to Retire June 2024
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Three new directors appointed; two directors depart,"July 18, 2023 release, following the June 22, 2023 AGM",Arnprior Regional Health,Arnprior Regional Health Board appoints three new directors
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Oliver Jacob elected Board Vice-Chair,"June 22, 2023",Arnprior Regional Health Board minutes,"Special Meeting of the Board, June 22, 2023"
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Colleen MacPhee and Bob McGaraughty join the Board,"2022 board year; documented by September 22, 2022",Arnprior Regional Health Board minutes,"ARH Board meeting minutes, September 22, 2022"
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,"Andrea McClymont appointed Vice President, Human Resources","June 16, 2022",Arnprior Regional Health Board minutes,"ARH Board meeting minutes, June 16, 2022"
+ceo,MS Copilot Agent,Arnprior Regional Health,4,Arnprior Regional Health / Arnprior & District Memorial Hospital,Leah Levesque appointed President and CEO; Eric Hanna retires,"August 19, 2021 announcement; transition effective September 30 and October 1, 2021",Arnprior Regional Health; 96.1 Renfrew Today,Arnprior Regional Health will welcome new President and CEO this fall
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Pierre Noel appointed Interim President and CEO,"July 9, 2026",Arnprior Regional Health,ARH Appoints Pierre Noel as Interim President and CEO
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Raeline McGrath served temporarily as Acting President and CEO,"July 9, 2026 announcement",Arnprior Regional Health,ARH Appoints Pierre Noel as Interim President and CEO
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Jeremy Stevenson stepped down as President and CEO,"June 2, 2026",Arnprior Regional Health,Public Statement: Jeremy Stevenson steps down as President and CEO
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Dr. Kathi Kovacs appointed under a joint Chief of Staff model,"June 27, 2025",Arnprior Regional Health,ARH media releases: ARH and QCH to implement joint Chief of Staff
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Jeremy Stevenson appointed President and CEO,"May 10, 2024",Arnprior Regional Health,Board announces new CEO
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Oliver Jacob appointed Chair of the Board,"July 3, 2024",Arnprior Regional Health,ARH Board of Directors appoints new Chair
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Cathy Jordan completed her term as Board Chair,"July 3, 2024",Arnprior Regional Health,ARH Board of Directors appoints new Chair
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Leah Levesque retired as President and CEO,Late June 2024,Arnprior Regional Health,Leah Levesque to retire June 2024
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Leah Levesque announced her intention to retire,"December 7, 2023",Arnprior Regional Health,Leah Levesque to Retire June 2024
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Richard “Rick” Holock appointed Board director,"July 18, 2023",Arnprior Regional Health,Arnprior Regional Health Board appoints three new directors
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Peter “Pete” Kenny appointed Board director,"July 18, 2023",Arnprior Regional Health,Arnprior Regional Health Board appoints three new directors
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Borys Koba appointed Board director,"July 18, 2023",Arnprior Regional Health,Arnprior Regional Health Board appoints three new directors
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Erin Stitt-Cavanagh left the Board,"July 18, 2023",Arnprior Regional Health,Arnprior Regional Health Board appoints three new directors
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Bob McGaraughty left the Board,"July 18, 2023",Arnprior Regional Health,Arnprior Regional Health Board appoints three new directors
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Beth Ciavaglia appointed Board director,"July 4, 2022",Arnprior Regional Health,ARH Board celebrates long-serving directors and appoints new director and committee member
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Barb Darlow left the Board after long service,"July 4, 2022",Arnprior Regional Health,ARH Board celebrates long-serving directors and appoints new director and committee member
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Donna Anderson left the Board,"July 4, 2022",Arnprior Regional Health,ARH Board celebrates long-serving directors and appoints new director and committee member
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Barbara Kieley left the Board,"July 4, 2022",Arnprior Regional Health,ARH Board celebrates long-serving directors and appoints new director and committee member
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Mark MacGown left the Board,"July 4, 2022",Arnprior Regional Health,ARH Board celebrates long-serving directors and appoints new director and committee member
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Tyler Pirie left the Board,"July 4, 2022",Arnprior Regional Health,ARH Board celebrates long-serving directors and appoints new director and committee member
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Maggie Harbert joined the Quality Committee,"July 4, 2022",Arnprior Regional Health,ARH Board celebrates long-serving directors and appoints new director and committee member
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Leah Levesque began as President and CEO,"October 1, 2021",Arnprior Regional Health,Arnprior Regional Health will welcome new President and CEO this fall
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Eric Hanna retired as President and CEO,"September 30, 2021",Arnprior Regional Health,Eric Hanna: Retiring after 13 years at the helm of ARH
+ceo,MS Copilot Agent,Arnprior Regional Health,5,Arnprior Regional Health,Leah Levesque announced as incoming President and CEO,"August 19, 2021",Arnprior Regional Health,Arnprior Regional Health will welcome new President and CEO this fall
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Carmine Stumpo assumes office as President and CEO,"April 13, 2026 effective; announced December 5, 2025",Mackenzie Health,Announcing Mackenzie Health’s new President and CEO
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Mary-Agnes Wilson concludes interim CEO tenure and leaves Mackenzie Health,"April 10, 2026 departure communication",Mackenzie Health,Mackenzie Health tribute marking Mary-Agnes Wilson’s final day
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Dr. David Rauchwerger becomes Chief of Staff,"December 15, 2025 effective; announced November 18, 2025",Mackenzie Health,Announcing Mackenzie Health’s new Chief of Staff
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Carmine Stumpo selected as incoming President and CEO,"December 5, 2025 announcement",Mackenzie Health; Canadian Healthcare Technology,Mackenzie Health CEO appointment announcement; Canadian Healthcare Technology coverage
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,John Fursey becomes Chair of the Board,"June 19, 2025 effective; announced June 20, 2025",Mackenzie Health,Welcoming the new Chair of the Mackenzie Health Board of Directors
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Stephanie Zee completes term as Board Chair,"June 19, 2025",Mackenzie Health,Board-chair transition from Stephanie Zee to John Fursey
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Fay Lim-Lambie and Ruby Philip-Katyal leave the Board of Directors,"June 19, 2025",Mackenzie Health,Mackenzie Health announcement identifying outgoing board members
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Mary-Agnes Wilson appointed Interim President and CEO,"April 9, 2025 announced; interim service began following the June 2025 CEO transition",Mackenzie Health; Canadian Healthcare Technology,A leadership update from Mackenzie Health; Mackenzie Health announces interim president/CEO
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Altaf Stationwala announces departure as President and CEO,"March 28, 2025 original leadership message; June 27, 2025 final day",Mackenzie Health,Mackenzie Health leadership update covering Altaf Stationwala’s departure
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Stephanie Zee becomes Chair of the Board,"June 13, 2024 effective; announced June 20, 2024",Mackenzie Health,Mackenzie Health appoints Stephanie Zee as Board Chair
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Fay Lim-Lambie completes term as Board Chair,"June 13, 2024",Mackenzie Health,"May 23, 2024 Board minutes documenting planned transition; Board-chair appointment announcement"
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,John Fursey joins the Board of Directors,"2023, exact appointment date not stated in the located announcement",Mackenzie Health,John Fursey board and chair profile
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,"Natalie Hovey welcomed as Vice President, Finance and CFO","By February 3, 2022",Mackenzie Health Board of Directors,"February 3, 2022 open Board meeting minutes"
+ceo,MS Copilot Agent,Mackenzie Health,1,Mackenzie Health,Professional Staff Association officer changes affecting ex-officio board representation,"January 19, 2022 election; recorded February 3, 2022",Mackenzie Health Board of Directors,Board minutes recording Professional Staff Association elections
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Carmine Stumpo began as President and CEO,"April 13, 2026",Mackenzie Health,Announcing Mackenzie Health’s new President and CEO
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Carmine Stumpo appointed incoming President and CEO,"December 5, 2025",Mackenzie Health,Carmine Stumpo appointed President and CEO
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Mary-Agnes Wilson assumed interim President and CEO role,July 2025,Mackenzie Health,Leadership update and interim CEO announcement
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Altaf Stationwala departed as President and CEO,"June 27, 2025",Mackenzie Health,A leadership update from Mackenzie Health
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Board chair and officer transition for 2025/26,"June 19, 2025",Mackenzie Health Board minutes; Mackenzie Health news release,"June 19, 2025 open Board minutes; Welcoming John Fursey as Board Chair"
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Three new elected directors joined the Board,"June 19, 2025",Mackenzie Health Board of Directors,"June 19, 2025 open Board minutes"
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Altaf Stationwala departure and interim succession announced,"April 9, 2025",Mackenzie Health,A leadership update from Mackenzie Health
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Stephanie Zee became Board Chair; other officers appointed,"June 13, 2024",Mackenzie Health Board minutes; Mackenzie Health news release,"June 13, 2024 open Board minutes; New Mackenzie Health and Foundation Board chairs"
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Fay Lim-Lambie transitioned out of Board Chair role,"May 23, 2024",Mackenzie Health Board of Directors,"May 23, 2024 open Board minutes"
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Board officer appointments for 2023/24,"June 15, 2023",Mackenzie Health Board of Directors,"June 15, 2023 post-Annual Members Meeting minutes"
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health,Board officer appointments for 2022/23,"June 20, 2022",Mackenzie Health Board of Directors,"June 20, 2022 post-AGM Board minutes"
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health / Mackenzie Health Foundation,Mario Paura became Foundation Board Chair,"June 19, 2024",Mackenzie Health and Mackenzie Health Foundation,Foundation and hospital appoint new Board chairs
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health / Mackenzie Health Foundation,Nicole McCahon became Foundation President and CEO,"June 19, 2023",Mackenzie Health and Mackenzie Health Foundation,Nicole McCahon announced as Foundation President and CEO
+ceo,MS Copilot Agent,Mackenzie Health,2,Mackenzie Health / Mackenzie Health Foundation,Nicole McCahon appointment announced,"May 23, 2023",Mackenzie Health and Mackenzie Health Foundation,Nicole McCahon appointment announcement
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,President and CEO transition completed,"April 13, 2026",Mackenzie Health,"A message from Carmine Stumpo, Mackenzie Health’s new President and CEO"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Permanent President and CEO appointed,"December 5, 2025",Mackenzie Health,Announcing Mackenzie Health’s new President and CEO
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Chief of Staff changed,"December 15, 2025, announced November 18, 2025",Mackenzie Health,Announcing Mackenzie Health’s new Chief of Staff
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,New directors joined the Board,"June 19, 2025",Mackenzie Health Board of Directors,"Open Board Meeting Minutes, June 19, 2025"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Board Chair changed,"June 19, 2025, announced June 20, 2025",Mackenzie Health,Welcoming the new Chair of the Mackenzie Health Board of Directors
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Board Vice-Chair changed,"June 19, 2025",Mackenzie Health Board of Directors,"Open Board Meeting Minutes, June 19, 2025"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Board Treasurer changed,"June 19, 2025",Mackenzie Health Board of Directors,"Open Board Meeting Minutes, June 19, 2025"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Board Secretary designation changed to the office-holder,"June 19, 2025",Mackenzie Health Board of Directors,"Open Board Meeting Minutes, June 19, 2025"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Outgoing directors identified,"June 19, 2025, announced June 20, 2025",Mackenzie Health,Welcoming the new Chair of the Mackenzie Health Board of Directors
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,President and CEO departure announced,"March 28, 2025, republished April 9, 2025; departure June 27, 2025",Mackenzie Health,A leadership update from Mackenzie Health
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Interim President and CEO appointed,"April 9, 2025; interim service began after June 27, 2025",Mackenzie Health,A leadership update from Mackenzie Health
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Board Chair changed,"June 13, 2024, announced June 20, 2024",Mackenzie Health,Mackenzie Health appoints new board chairs
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Two Board Vice-Chairs appointed,"June 2024, announced June 20, 2024",Mackenzie Health,Mackenzie Health appoints new board chairs
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Chair reappointed,"June 15, 2023",Mackenzie Health Board of Directors,"Post-Annual Members Meeting minutes, June 15, 2023"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Vice-Chair leadership expanded,"June 15, 2023",Mackenzie Health Board of Directors,"Post-Annual Members Meeting minutes, June 15, 2023"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Board Treasurer changed,"June 15, 2023",Mackenzie Health Board of Directors,"Post-Annual Members Meeting minutes, June 15, 2023"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Secretary reappointed,"June 15, 2023",Mackenzie Health Board of Directors,"Post-Annual Members Meeting minutes, June 15, 2023"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Chair reappointed,"June 20, 2022",Mackenzie Health Board of Directors,"Post-AGM Open Meeting Minutes, June 20, 2022"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Vice-Chair and Treasurer appointments,"June 20, 2022",Mackenzie Health Board of Directors,"Post-AGM Open Meeting Minutes, June 20, 2022"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,Secretary reappointed,"June 20, 2022",Mackenzie Health Board of Directors,"Post-AGM Open Meeting Minutes, June 20, 2022"
+ceo,MS Copilot Agent,Mackenzie Health,3,Mackenzie Health,"Newly appointed directors acknowledged, but not individually identified as new","June 20, 2022",Mackenzie Health Board of Directors,"Post-AGM Open Meeting Minutes, June 20, 2022"
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, President and CEO transition completed,"April 13, 2026",,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Permanent President and CEO appointed,"December 5, 2025",,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Chief of Staff succession,,,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Board Chair and officer slate changed,"June 19, 2025",,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Three new elected Board members welcomed,"June 19, 2025",,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Chair and directors departed,,,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, New Board Chair announced,,,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Interim President and CEO appointed,"April 9, 2025",,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, President and CEO departure announced,,,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Board Chair changed from Fay Lim,,,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Vice,,,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Treasurer and Secretary appointed for 2024–2025,"June 13, 2024",,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Board Chair transition formally prepared,"May 23, 2024",,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Board officer slate changed for 2023–2024,"June 15, 2023",,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, Post,,,
+ceo,MS Copilot Agent,Mackenzie Health,4,Mackenzie Health, 2021 Chair and director turnover, 2021 Chair and director turnover,,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Permanent President and CEO installed,"April 13, 2026",,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Permanent CEO appointment announced,"December 5, 2025",,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Board chair and board,"June 19, 2025",,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Interim President and CEO appointment,"April 9, 2025",,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, President and CEO departure announced,"March 28, 2025",,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Board chair succession,"June 13, 2024",,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Board officer change,Chair for the 2023–2024 term. Fay Lim,,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Professional Staff Association leadership change affecting ex,"February 3, 2022",,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Finance leadership appointment,"February 3, 2022",,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health, Board vice,The 2022 post,,
+ceo,MS Copilot Agent,Mackenzie Health,5,Mackenzie Health," Post AGM Open Meeting Minutes, June 20, 2022. [mackenziehealth.ca]
+Completeness note
+This is an exhaustive list of changes I could independently verify from publicly accessible, date",,,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Board appointments,"July 3, 2026",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Senior leadership appointment,"January 26, 2026, effective date",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Board appointment,"June 16, 2025",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Senior leadership appointment,"April 1, 2025, effective date",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Senior leadership appointment,"February 11, 2025, effective date",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Senior leadership appointment,"January 6, 2025, effective date",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Senior leadership appointment and new executive portfolio,,,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Board chair succession,"June 17, 2024",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Board appointments,"June 17, 2024",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, CEO succession,,,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, CEO retirement and succession process,"March 15, 2023",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital, Board appointments and departures,"June 13, 2022",,
+ceo,MS Copilot Agent,North York General Hospital,1,North York General Hospital,"level Board, CEO or Senior Leadership Team change between July 16 and December 31, 2021. Bert Clark’s appointment as Board Chair occurred on June 14, 2021 and was announced June 15, one month before t",,,
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,Two new Board Governors appointed,"July 3, 2026",Mirams Becker; North York General,North York General appoints Simone Atungo and Dr. Kathryn Nichol
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,Board recruitment for two vacancies,"February 24, 2026",North York General Hospital,North York General seeks two new Governors
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,New hospital Board Governor,"June 16, 2025 appointment; announced June 17, 2025",North York General / North York General Foundation; CNW,North York General announces new board members
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,"New Vice President, Medical Affairs, Research and Education","April 1, 2025 effective; reported May 1, 2025",North York General Hospital; Mirams Becker,"Dr. Richard Bowry appointed VP, Medical Affairs, Research and Education"
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,"New VP Finance, Data Analytics and CFO; interim CFO transition","January 6, 2025",North York General Hospital; Boyden,"Paul Truscott appointed VP Finance, Data Analytics and CFO"
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,New VP Clinical Services and Chief Nursing Executive,December 2024 announcement; precise publication/effective date not exposed in the retrieved official page,North York General Hospital,Terri Stuart-McEwan announced as VP Clinical Services and Chief Nursing Executive
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,"Inaugural VP, Quality, Post-Acute Care and Community Integration","August 19, 2024 effective; announced July 2, 2024",North York General Hospital; Mirams Becker,"Jennifer Dockery appointed inaugural VP, Quality, Post-Acute Care and Community Integration"
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,Board Chair succession,"June 2024; appointment notice published June 24, 2024",North York General Hospital; The Globe and Mail appointment notice,Mitch Frazer appointment notice
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,Four new Board Governors elected,"June 17, 2024 election; announced June 18, 2024",North York General Hospital; Mirams Becker,NYGH welcomes four new Board Governors
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,President and CEO succession completed,"September 29, 2023 announcement; December 1, 2023 effective",North York General Hospital,Dr. Everton Gooden appointed President and CEO
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,New Chief of Emergency Medicine,"May 1, 2023 effective; announced March 2023","North York General, The Pulse community newsletter",The Pulse: March 2023 leadership changes
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,New Chief of Medicine and Program Medical Director,Announced March 2023; precise effective date not specified,"North York General, The Pulse community newsletter",The Pulse: March 2023 leadership changes
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,President and CEO retirement announced,"March 15, 2023 announcement; December 1, 2023 transition",North York General Hospital; Canadian Healthcare Technology,Karyn Popovich announces retirement
+ceo,MS Copilot Agent,North York General Hospital,2,North York General Hospital,"Three new Governors, one community member and two departures","June 13, 2022 changes; announced June 14, 2022",North York General Hospital; Mirams Becker,New Governors join the NYGH Board
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,Board recruitment: two Governors sought for the 2026–27 board year,"February 24, 2026",North York General Hospital,North York General seeks two new Governors
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,Serda Evren appointed Chief Communications and External Relations Officer,"January 26, 2026, effective date",North York General Hospital; Boyden,NYG announcement: new Chief Communications and External Relations Officer
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,Paviter “Pavi” Binning elected to the Board of Governors,"June 16, 2025",North York General Hospital; Canada Newswire,North York General announces new board members
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,"Dr. Richard Bowry appointed Vice President, Medical Affairs, Research and Education","April 1, 2025, effective date",North York General Hospital; Mirams Becker,NYG welcomes Dr. Richard Bowry as Vice President
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,"Terri Stuart-McEwan appointed Vice President, Clinical Services and Chief Nursing Executive","February 11, 2025, effective date",North York General Hospital; Mirams Becker,"NYG announces new VP, Clinical Services and Chief Nursing Executive"
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,"Paul Truscott Jr. appointed Vice President, Finance, Data Analytics and Chief Financial Officer","January 6, 2025, effective date",North York General Hospital; Boyden,"NYG welcomes Paul Truscott as VP Finance, Data Analytics and CFO"
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,"Jennifer Dockery appointed inaugural Vice President, Quality, Post-Acute Care and Community Integration","August 19, 2024, effective date",North York General Hospital; Mirams Becker,"NYG announces inaugural VP, Quality, Post-Acute Care and Community Integration"
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,Mitch Frazer elected Chair of the Board of Governors,June 2024,North York General Hospital; The Globe and Mail appointment notice,NYG welcomes Mitch Frazer as Chair of the Board of Governors
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,Dr. Everton Gooden became President and CEO,"December 1, 2023, effective date",North York General Hospital,Dr. Everton Gooden appointed President and CEO
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,Dr. Everton Gooden appointed next President and CEO,"September 29, 2023",North York General Hospital,Dr. Everton Gooden appointed next President and CEO
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,Karyn Popovich departed the President and CEO role,"2023, transition completed December 1, 2023",North York General Hospital,Board announcement regarding the President and CEO
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital,Three new Governors elected; two Governors completed their terms,"June 13, 2022",North York General Hospital; Mirams Becker,New Governors join the NYG Board
+ceo,MS Copilot Agent,North York General Hospital,3,North York General Hospital / North York General Foundation,Five new Foundation directors appointed,"June 16, 2025",North York General Hospital; Canada Newswire,North York General announces hospital and Foundation board appointments
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,Chief Communications and External Relations Officer appointment,"January 26, 2026, effective date",North York General Hospital; Boyden,Announcing NYG’s New Chief Communications and External Relations Officer; Boyden appointment announcement for Serda Evren
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,Board governor appointment,"June 16, 2025, appointment; announced June 17, 2025",North York General Hospital / Canada Newswire,North York General Announces New Board Members During Historic Time
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,"Vice President, Medical Affairs, Research and Education appointment","April 1, 2025, effective date; announced May 1, 2025 by placement firm",North York General Hospital; Mirams Becker,Welcoming Dr. Richard Bowry to his new role; Mirams Becker appointment notice
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,"Vice President, Clinical Services and Chief Nursing Executive appointment","February 11, 2025, effective date; announced January 10, 2025",North York General Hospital; Mirams Becker,"Announcing North York General’s New Vice President, Clinical Services and Chief Nursing Executive; Mirams Becker appointment notice for Terri Stuart-McEwan"
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,"Vice President, Finance, Data Analytics and Chief Financial Officer appointment","January 6, 2025, effective date",North York General Hospital; Boyden,"Welcoming Paul Truscott as NYGH’s new VP Finance, Data Analytics and CFO; Boyden appointment announcement"
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,"Vice President, Quality, Post-Acute Care and Community Integration appointment","August 19, 2024, effective date; announced July 2, 2024",North York General Hospital; Mirams Becker,"Announcing North York General’s New Vice President, Quality, Post-Acute Care and Community Integration; Mirams Becker appointment notice for Jennifer Dockery"
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,Board chair succession,"June 2024; appointment notice published June 24, 2024",North York General Hospital; The Globe and Mail appointment notice,NYGH welcomes Mitch Frazer as new Chair; Mitch Frazer appointment notice
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,Four new hospital board governors,"June 17, 2024, election; announced June 18, 2024",North York General Hospital; Mirams Becker,NYGH welcomes four new Board Governors
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,President and CEO succession,"December 1, 2023, effective date; announced September 29, 2023",North York General Hospital,Dr. Everton Gooden Appointed New President and CEO
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,President and CEO retirement and transition,"March 15, 2023, public report; eventual succession effective December 1, 2023",North York General Hospital; Canadian Healthcare Technology,NYGH leader Karyn Popovich announces her retirement; NYGH Board Chair announcement regarding the President and CEO
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,Three new governors and one new board-community member,"June 13, 2022, election; announced June 14, 2022",North York General Hospital; Mirams Becker,New Governors Join NYGH Board; Mirams Becker reproduction of the board announcement
+ceo,MS Copilot Agent,North York General Hospital,4,North York General Hospital,Two governors completed their terms,"June 13, 2022; announced June 14, 2022",North York General Hospital; Mirams Becker,New Governors Join NYGH Board; Mirams Becker board-change notice
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital," leadership, CEO and Board changes
+Coverage period: July 16, 2021 to July 16, 2026
+North York General Hospital is classified in the Toronto Region in the supplied Ontario Hospitals by Region document.","only board changes are excluded.
+2026
+",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital," Two new Board Governors appointed, Simone Atungo and Dr. Kathryn Nichol","July 3, 2026",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital," Board Governor appointment, Paviter “Pavi” Binning","June 16, 2025",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital," New Vice President, Clinical Services and Chief Nursing Executive, Terri Stuart",,,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital, Terri Stuart,,,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital," New Vice President, Finance, Data Analytics and Chief Financial Officer, Paul Truscott Jr.","January 6, 2025",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital," New inaugural Vice President, Quality, Post",,,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital, Four new Board Governors elected,"June 17, 2024",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital, Board Chair transition from Bert Clark to Mitch Frazer,"June 17, 2024",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital," President and CEO transition completed, Dr. Everton Gooden succeeds Karyn Popovich","December 1, 2023",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital, Dr. Everton Gooden appointed next President and CEO,"September 29, 2023",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital," New Chief of Emergency Medicine, Dr. Kevin Wasko","May 1, 2023",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital, Dr. Maral Nadjafi confirmed as Chief of Medicine and Program Medical Director,March 2023 announcement,,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital, President and CEO Karyn Popovich announces retirement,,,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital, Three new Board Governors elected,"June 13, 2022",,
+ceo,MS Copilot Agent,North York General Hospital,5,North York General Hospital, Two Governors complete their terms,"June 13, 2022",,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Jennifer Lawrance appointed President and CEO,"June 26, 2026",,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Angela Bishop concludes second interim CEO assignment,"June 26, 2026",,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, CEO recruitment launched,,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Angela Bishop returns as interim CEO,"August 1, 2024",,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Sumeet Kumar leaves the President and CEO role,,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Senior leadership structure reorganized,In his 2023–24 annual,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Chief Nursing Executive vacancy documented,,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Sumeet Kumar appointed President and CEO,"May 15, 2023",,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Angela Bishop concludes first interim CEO assignment,"May 15, 2023",,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Sue LeBeau resigns as President and CEO,July 2022; exact day not stated,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Board vacancy announced following two departures,"May 2024 / May 27, 2024",,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Jennifer Sedlacek appointed to fill Marshall Dumontier’s seat,Late 2023; exact dates not stated,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, James Russell appointed and subsequently resigns,,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, John Frostiak elected Board Chair,2023; exact election date not stated,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Sonia Green resigns as Board Chair and director,2023; exact resignation date not stated,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Shawnda Norlock resigns; Trevor Zhukrovsky appointed to vacancy,2023; exact dates not stated,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, Sonia Green succeeds Eleanor Vachon as Board Chair,,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital, June 2022 public, June 2022 public,,
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,2,Red Lake Margaret Cochenour Memorial Hospital,Jennifer Lawrance becomes President and CEO; Angela Bishop’s interim tenure concludes,"June 26, 2026",NWONewsWatch; Your Sunset Country,New hospital CEO preparing for growth around Red Lake · Red Lake hospital hires new CEO
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,2,Red Lake Margaret Cochenour Memorial Hospital,Angela Bishop returns from retirement as Interim CEO,"August 1, 2024",Red Lake Margaret Cochenour Memorial Hospital; NWONewsWatch,"RLMCMH Newsroom, “Welcome back Angela Bishop” · New hospital CEO preparing for growth around Red Lake"
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,2,Red Lake Margaret Cochenour Memorial Hospital,Sumeet Kumar becomes President and CEO,"May 15, 2023",Red Lake Margaret Cochenour Memorial Hospital; Your Sunset Country,Official Sumeet Kumar appointment announcement · Red Lake hospital names new CEO
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,2,Red Lake Margaret Cochenour Memorial Hospital,Sue LeBeau departs as President and CEO,"December 2022, exact day not publicly specified",NWONewsWatch,Head of third Northwestern Ontario hospital to depart
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,2,Red Lake Margaret Cochenour Memorial Hospital,Board advertised a director vacancy,"May 27, 2024",Red Lake Margaret Cochenour Memorial Hospital,"RLMCMH Newsroom, “Board of Directors Vacancy”"
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,2,Red Lake Margaret Cochenour Memorial Hospital,"Board chair changed from John Frostiak to Trevor Zhukrovsky, but the effective date is not disclosed","After June 25, 2024 and by the reporting period beginning June 1, 2025; exact date not publicly specified",Red Lake Margaret Cochenour Memorial Hospital,2023–24 BPSAA Attestation Certificate · Hospital travel and expense disclosure · Hospital Directors
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,President and CEO Sue LeBeau announces resignation,"July 2022, exact day not published","Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2022–2023",Annual Report 2022–2023 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Angela Bishop returns as Interim President and CEO,"2022, following the July resignation announcement; exact day not published","Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2022–2023",Annual Report 2022–2023 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Chief Nursing Executive position becomes vacant,December 2022,"Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2023–2024",Annual Report 2023–2024 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Sumeet Kumar appointed President and CEO,"Announced April 4, 2023; effective May 15, 2023",Red Lake Margaret Cochenour Memorial Hospital; Your Sunset Country,"Hospital announcement: Sumeet Kumar biography · Red Lake hospital names new CEO [redlakehospital.ca], [yoursunsetcountry.ca]"
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Board Director Shawnda Norlock resigns; Trevor Zhukrovsky appointed,"2023, exact dates not published","Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2022–2023",Annual Report 2022–2023 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Board Chair Sonia Green resigns; John Frostiak elected Chair,"2023, exact dates not published","Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2022–2023",Annual Report 2022–2023 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,James Russell joins the board to fill Sonia Green’s vacancy,2023–2024 reporting year; exact appointment date not published,"Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2023–2024",Annual Report 2023–2024 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Director Marshall Dumontier resigns; Jennifer Sedlacek appointed,"Late 2023, exact date not published","Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2023–2024",Annual Report 2023–2024 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Senior-management structure reorganized,March 2024,"Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2023–2024",Annual Report 2023–2024 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Director James Russell resigns,"May 2024, exact day not published","Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2023–2024",Annual Report 2023–2024 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Vice-Chair Eleanor Vachon completes maximum board term,"2024, exact date not published","Red Lake Margaret Cochenour Memorial Hospital, Annual Report 2023–2024",Annual Report 2023–2024 [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Sumeet Kumar ceases to be CEO; Angela Bishop begins second interim CEO period,"August 2024, exact day not published",NWONewsWatch; Red Lake Margaret Cochenour Memorial Hospital accountability filing,"New hospital CEO preparing for growth around Red Lake · 2023–2024 BPSAA Attestation Certificate [nwonewswatch.com], [redlakehospital.ca]"
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Chief Nursing Executive recruitment remains active,2024; exact posting date not published,Red Lake Margaret Cochenour Memorial Hospital,Vacancy: Chief Nursing Executive [redlakehospital.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,CEO recruitment launched during Bishop’s interim tenure,November 2025; exact day not stated in the document text,Canadian College of Health Leaders recruitment profile,President and Chief Executive Officer recruitment profile [cchl-ccls.ca]
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,3,Red Lake Margaret Cochenour Memorial Hospital,Jennifer Lawrance appointed President and CEO,"Announced June 15, 2026; effective June 26, 2026",Your Sunset Country; NWONewsWatch,"Red Lake hospital hires new CEO · New hospital CEO preparing for growth around Red Lake [yoursunsetcountry.ca], [nwonewswatch.com]"
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,CEO departure: Sue LeBeau announced her resignation,July 2022 announcement; December 2022 departure,Red Lake Margaret Cochenour Memorial Hospital; NWONewsWatch,RLMCMH Annual Report 2022-2023; Head of third Northwestern Ontario hospital to depart
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Interim CEO appointment: Angela Bishop,2022-23 reporting year; exact appointment date not stated,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2022-2023
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board leadership change: Sonia Green became board chair; Marshall Dumontier became vice-chair,2022-23 governance year; precise election date not stated,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2022-2023; RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board member roster change: Shawnda Norlock added,Listed in 2022-23; no longer listed in 2023-24,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2022-2023; RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,CEO appointment: Sumeet Kumar,"Announcement: April 4, 2023; effective: May 15, 2023",Red Lake Margaret Cochenour Memorial Hospital; Your Sunset Country,Hospital announcement and Sumeet Kumar biography; Red Lake hospital names new CEO
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board chair change: John Frostiak succeeded Sonia Green,2023-24 governance year; exact election date not stated,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2022-2023; RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board vice-chair change: Eleanor Vachon succeeded Marshall Dumontier,2023-24 governance year; exact election date not stated,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2022-2023; RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board appointment: James Russell filled Sonia Green’s vacancy,Start of the 2023-24 reporting year; exact date not stated,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board resignation: Marshall Dumontier,Late 2023,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board appointment: Jennifer Sedlacek filled Dumontier vacancy,After the late-2023 resignation; exact date not stated,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board resignation: James Russell,May 2024; day not stated,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board departure: Eleanor Vachon completed maximum term,2024 annual governance transition; exact date not stated,Red Lake Margaret Cochenour Memorial Hospital,RLMCMH Annual Report 2023-2024
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Board recruitment: two vacancies advertised,"May 27, 2024",Red Lake Margaret Cochenour Memorial Hospital,"Hospital newsroom, Board of Directors vacancy; RLMCMH Annual Report 2023-2024"
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,Interim CEO appointment: Angela Bishop returned from retirement,"August 1, 2024",Red Lake Margaret Cochenour Memorial Hospital; NWONewsWatch,"Hospital newsroom, “Welcome back Angela Bishop”; New hospital CEO preparing for growth around Red Lake"
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,4,Red Lake Margaret Cochenour Memorial Hospital,CEO appointment: Jennifer Lawrance,"Announcement: June 15, 2026; effective: June 26, 2026",Your Sunset Country; NWONewsWatch,Red Lake hospital hires new CEO; New hospital CEO preparing for growth around Red Lake
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,Jennifer Lawrance appointed President and CEO; Angela Bishop’s interim term ends,"June 26, 2026",NWONewsWatch; Your Sunset Country; hospital announcement reproduced online,New hospital CEO preparing for growth around Red Lake; Red Lake hospital hires new CEO; Hospital announcement and retirement post
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,Trevor Zhukrovsky confirmed as Board Chair,"March 24, 2026, confirmed in office",Red Lake Margaret Cochenour Memorial Hospital / Ontario Health accountability agreement,2026 Hospital Service Accountability Agreement extension
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,Angela Bishop appointed interim CEO,"August 1, 2024",Red Lake Margaret Cochenour Memorial Hospital; NWONewsWatch,Hospital newsroom: “Welcome back Angela Bishop”; Independent confirmation of interim tenure
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,Sumeet Kumar ceases to be CEO; transition begins,"By August 1, 2024",Red Lake Margaret Cochenour Memorial Hospital,Hospital newsroom
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,2023-24 Board reconstitution and officer changes,"2023-24 reporting year; John Frostiak confirmed as Chair June 25, 2024",Red Lake Margaret Cochenour Memorial Hospital annual report and compliance declaration,"Annual Report 2023-2024; June 25, 2024 compliance declaration"
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,Sumeet Kumar becomes President and CEO,"May 15, 2023",Red Lake Margaret Cochenour Memorial Hospital; Your Sunset Country,Official Sumeet Kumar appointment biography; Red Lake hospital names new CEO
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,Angela Bishop serves as interim President and CEO following Sue LeBeau,After LeBeau’s December 2022 departure; exact start date not published in the retrieved record,Red Lake Margaret Cochenour Memorial Hospital,Annual Report 2022-2023
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,Sue LeBeau leaves the President and CEO position,December 2022; resignation intention announced July 2022,Red Lake Margaret Cochenour Memorial Hospital; NWONewsWatch,Annual Report 2022-2023; Head of third Northwestern Ontario hospital to depart
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,5,Red Lake Margaret Cochenour Memorial Hospital,2022-23 Board roster and new chair recorded,2022-23 reporting year; exact effective dates not published,Red Lake Margaret Cochenour Memorial Hospital,Annual Report 2022-2023
+ceo,MS Copilot Agent,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Three new directors joined the Sensenbrenner Hospital Foundation Board,"November 15, 2023","Sensenbrenner Hospital Board of Directors open-session minutes, reproduced in the January 16, 2024 meeting package","Board meeting package containing the November 15, 2023 minutes"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,1,Sensenbrenner Hospital,"Chief of Staff transition, Dr. Jessica Kwapis to Dr. Daniel Boucher as interim Chief of Staff","Effective date not publicly stated; status observed August 20, 2026, after the requested cutoff",Sensenbrenner Hospital; hospital board packages; LinkedIn professional profile,"Current Sensenbrenner Hospital leadership page; May 29, 2024 board package; September 18, 2024 board agenda; Dr. Jessica Kwapis professional profile"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,1,Sensenbrenner Hospital,"Board Chair transition, Denis Bérubé to Natalie Côté-Tremblay","Effective date not publicly stated; status observed August 20, 2026, after the requested cutoff",Sensenbrenner Hospital; hospital board minutes and agendas,"Current Sensenbrenner Hospital leadership page; November 15, 2023 board minutes; May 29, 2024 board package; September 18, 2024 board agenda"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,1,Sensenbrenner Hospital,"Hospital Board composition changed by 2026, including Claudette Brouzes and Dr. Valerie Smith","Dates not publicly stated; changed roster observed August 20, 2026",Sensenbrenner Hospital; hospital board minutes,"Current Board of Directors roster; November 15, 2023 Board of Directors minutes"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,2,Sensenbrenner Hospital, Board composition and corporate,"May 29, 2024",,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,2,Sensenbrenner Hospital, Three director candidates advanced for election or re,"April 23, 2024",,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,2,Sensenbrenner Hospital, New Governance Committee established and inaugural members appointed,,,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,2,Sensenbrenner Hospital,"governance matters, including the bylaws. The minutes name Denis Bérubé, Natalie Côté","November 15, 2023",,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,2,Sensenbrenner Hospital, No confirmed CEO change identified,,,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,2,Sensenbrenner Hospital,"board list. [moonbeam.c...vicweb.net]
+The September 2024 material documents board orientation, committee work, and a Medical Advisory Committee recommendation, but does not explicitly describe a hospi",,,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,3,Sensenbrenner Hospital,Three candidates recommended for election to the hospital Board of Directors,"April 23, 2024","Sensenbrenner Hospital Board of Directors meeting package, hosted by the Municipality of Moonbeam","Board meeting package containing the April 23, 2024 Nominating Committee motion"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,4,Sensenbrenner Hospital,Chief Nursing Officer appointment: Lucie Lamontagne,"2021, exact effective date not published","Province of Ontario public-sector disclosure, reproduced by OPENGOVCA",Lucie Lamontagne’s Sensenbrenner Hospital position history
+ceo,MS Copilot Agent,Sensenbrenner Hospital,4,Sensenbrenner Hospital,Chief of Staff appointment: Dr. Jessica Kwapis,"October 31, 2024, earliest explicit public confirmation found",CBC News; Sensenbrenner Hospital Board of Directors packages,"CBC: Sensenbrenner obstetrics program and comments from Chief of Staff Dr. Jessica Kwapis; September 18, 2024 Board agenda"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,4,Sensenbrenner Hospital,Senior patient-care leadership change: Natalie Blier becomes Director of Patient Care,November 2025,LinkedIn professional record; Sensenbrenner Hospital leadership page,Natalie Blier’s position history; Sensenbrenner Hospital leadership roster
+ceo,MS Copilot Agent,Sensenbrenner Hospital,4,Sensenbrenner Hospital,Board chair change: Denis Bérubé to Natalie Côté-Tremblay,"Exact change date not publicly established; Denis Bérubé was still Chair on September 18, 2024",Sensenbrenner Hospital Board of Directors packages; hospital leadership page,"November 15, 2023 Board minutes; September 18, 2024 Board agenda; Hospital leadership and board roster"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,4,Sensenbrenner Hospital,Board officer change: Natalie Côté-Tremblay moves from director to Chair,Exact effective date not found,Sensenbrenner Hospital; MarketScreener,"November 15, 2023 Board minutes; Current hospital board roster"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,4,Sensenbrenner Hospital,Board membership change: Claudette Brouzes added,"After November 15, 2023; exact date not published",Sensenbrenner Hospital,"November 15, 2023 Board minutes; Hospital Board of Directors roster"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,4,Sensenbrenner Hospital,Board membership change: Dr. Valerie Smith added,"After November 15, 2023; exact date not published",Sensenbrenner Hospital,"November 15, 2023 Board minutes; Hospital Board of Directors roster"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,4,Sensenbrenner Hospital,Board membership change: Dominique Tremblay no longer shown on later roster,"After November 15, 2023; exact date and reason not published",Sensenbrenner Hospital,"November 15, 2023 Board minutes; Hospital Board of Directors roster"
+ceo,MS Copilot Agent,Sensenbrenner Hospital,5,Sensenbrenner Hospital," verified leadership and governance changes
+Coverage period: July 16, 2021 through July 16, 2026
+Order: most recent to oldest
+CEO and senior",,,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,5,Sensenbrenner Hospital, Issue,,,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,5,Sensenbrenner Hospital, Board candidate slate advanced for the 2024 Annual Corporation Meeting,"April 23, 2024",,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,5,Sensenbrenner Hospital,"governance structure changed, including a new Foundation ex","May 29, 2024",,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,5,Sensenbrenner Hospital, Governance Committee created and four directors appointed to it,"November 15, 2023",,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,5,Sensenbrenner Hospital, Foundation Board added three members,,,
+ceo,MS Copilot Agent,Sensenbrenner Hospital,5,Sensenbrenner Hospital,director appointment.,"November 15, 2023",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,New board members: Joe Milicia and Brandon Pottie,"June 25, 2026",Windsor Regional Hospital,WRH welcomes new board members
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Kristin Kennedy becomes President and CEO,"April 2, 2026",Windsor Regional Hospital; CBC News,WRH April 2026 board minutes · CBC: How WRH’s new CEO plans to tackle financial pressures
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Karen Riddell retires as President and CEO,"March 20, 2026",CTV News; Windsor Regional Hospital,CTV: WRH says goodbye to President and CEO Karen Riddell · WRH 2025-26 board-chair message
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Kristin Kennedy selected as incoming President and CEO,"December 29, 2025","CBC News; Canadian Healthcare Technology, reporting the WRH announcement",CBC: Kristin Kennedy named next WRH president and CEO · Windsor Regional appoints new president and CEO
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Kelly Heron appointed Vice-President,"October 2, 2025, publicly documented",Windsor Regional Hospital Board of Directors,WRH October 2025 board minutes
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Nicole Krywionek appointed Chief Nursing Executive and Vice-President,"October 2, 2025, publicly documented",Windsor Regional Hospital Board of Directors,WRH October 2025 board minutes
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Board chair transition: Ian McLeod succeeds Patricia France,"September 4, 2025, documented by this date",Windsor Regional Hospital,WRH September 2025 board minutes · WRH 2024-25 leadership message · WRH board members
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Four directors elected to new three-year terms,"June 26, 2025",Windsor Regional Hospital Annual General Meeting,WRH 2026 AGM package containing the 2025 AGM resolutions
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,David Musyj seconded to London Health Sciences Centre,"May 23, 2024",Windsor Regional Hospital,WRH: Executive changes at Windsor Regional Hospital
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Karen Riddell appointed Acting President and CEO,"May 23, 2024",Windsor Regional Hospital; CBC News,WRH executive-changes release · CBC: Karen Riddell steps into CEO role
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Nicole Krywionek promoted to Interim Vice-President,"May 23, 2024",Windsor Regional Hospital,WRH: Executive changes at Windsor Regional Hospital
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Penny Allen resigns from the Board of Directors,"February 1, 2024, publicly announced",Windsor Regional Hospital Board of Directors,WRH February 2024 board minutes
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Michael Lavoie resigns from the Board of Directors,"January 12, 2024",Windsor Regional Hospital Board of Directors,WRH February 2024 board minutes
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Kristi Cecile replaces Teresa Morris in a board-linked position,"February 1, 2024, publicly documented",Windsor Regional Hospital Board of Directors,WRH February 2024 board minutes
+ceo,MS Copilot Agent,Windsor Regional Hospital,1,Windsor Regional Hospital,Board chair transition: Patricia France succeeds Anthony Paniccia,"September 7, 2023, documented by this date",Windsor Regional Hospital,WRH February 2023 board minutes · WRH September 2023 board minutes · WRH 2023-24 leadership message
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Two new directors: Joe Milicia and Brandon Pottie,"July 9, 2026","windsoriteDOTca, reporting WRH’s announcement",WRH welcomes newcomers to Board of Directors [windsorite.ca]
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,2026 AGM governance slate,"June 25, 2026",Windsor Regional Hospital,2026 AGM Board Package [wrh.on.ca]
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Kristin Kennedy formally assumes President and CEO role,"April 2026; publicly confirmed April 20, 2026",CBC News,How Windsor Regional Hospital’s new CEO plans to tackle financial pressures [cbc.ca]
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Kristin Kennedy appointed incoming President and CEO; Karen Riddell to retire,"December 29, 2025",CBC News; Boyden/WRH appointment announcement,Windsor Regional Hospital’s new president says she is “humbled and excited” [cbc.ca]; New President and CEO appointed at Windsor Regional Hospital [boyden.com]
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Kelly Heron appointed Vice-President,"October 2, 2025",Windsor Regional Hospital Board package,"November 6, 2025 Board Package containing October minutes [wrh.on.ca]"
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Ian McLeod succeeds Patricia France as Board Chair,"June 26, 2025",Windsor Regional Hospital,"2025 AGM Board Package [wrh.on.ca]; September 4, 2025 Board Minutes [wrh.on.ca]"
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Four directors elected to three-year terms,"June 26, 2025",Windsor Regional Hospital,"2026 AGM Package reproducing the June 26, 2025 resolutions [wrh.on.ca]"
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Karen Riddell’s status reflected as President and CEO,"September 4, 2025, public record",Windsor Regional Hospital,"September 4, 2025 Board Minutes [wrh.on.ca]"
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Six directors elected; CEO and medical leaders appointed ex officio,"July 18, 2024",Windsor Regional Hospital AGM minutes,2024 AGM Meeting Minutes [wrh.on.ca]
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Karen Riddell becomes Acting President and CEO; David Musyj seconded,"May 17, 2024; effective the following week",CBC News,Windsor Regional Hospital president temporarily takes helm at LHSC [cbc.ca]
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Six directors elected to terms ending in 2026,"June 22, 2023",Windsor Regional Hospital AGM record,"2024 AGM Package reproducing the June 22, 2023 resolutions [wrh.on.ca]"
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Patricia France succeeds Anthony Paniccia as Board Chair,"June 22, 2023 governance transition",Windsor Regional Hospital,2023 AGM Board Package [wrh.on.ca]; 2023/24 Message from WRH Leaders [wrh.on.ca]
+ceo,MS Copilot Agent,Windsor Regional Hospital,2,Windsor Regional Hospital,Dr. Laurie Freeman elected to the Board,"June 23, 2022",Windsor Regional Hospital AGM minutes,"June 23, 2022 AGM Minutes [wrh.on.ca]"
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Board election: Dr. Laurie Freeman elected to a new three-year term,"June 23, 2022",Windsor Regional Hospital,2022 AGM minutes and director resolutions
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Board-officer transition: Patti France became Chair; Ian McLeod became Vice-Chair; Anthony Paniccia became Treasurer,"September 8, 2023",Windsor News Today,WRH board officer changes reported with September board meeting
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Board addition: Chris Lanoue,"2023, exact appointment date not stated on the board biography",Windsor Regional Hospital,WRH Board Members
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,CEO transition: David Musyj seconded to London Health Sciences Centre,"May 17, 2024 announcement; effective May 23, 2024",Windsor Regional Hospital,Executive Changes at Windsor Regional Hospital
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Acting CEO appointment: Karen Riddell,"May 17, 2024 announcement; effective May 23, 2024",Windsor Regional Hospital; CBC News,WRH executive-change announcement; CBC coverage of Riddell assuming the CEO role
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Executive Committee addition: Nicole Krywionek promoted to Interim Vice-President,"May 17, 2024 announcement",Windsor Regional Hospital,Executive Changes at Windsor Regional Hospital
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Board election cycle: six directors began three-year terms,"July 18, 2024",Windsor Regional Hospital,2024 AGM minutes and board resolutions
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Board election cycle: Anna Kirby and Wes Vickers joined the elected slate; Linda Staudt and David Malian began new terms,"June 26, 2025",Windsor Regional Hospital,2026 AGM package reproducing the 2025 director resolutions
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Board Chair transition: Ian McLeod succeeded Patti France,"By June 25, 2026; likely associated with the June 26, 2025 AGM cycle, exact effective date not explicitly stated",Windsor Regional Hospital; Windsor News Today,Current WRH Board Members; 2026 AGM package
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Permanent CNE appointment: Nicole Krywionek succeeded Karen Riddell,"September 15, 2025",Windsor Regional Hospital,New Chief Nursing Executive at Windsor Regional Hospital
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Incoming CEO announced: Kristin Kennedy selected; Karen Riddell’s retirement confirmed,"December 29, 2025",CBC News; Canadian Healthcare Technology,CBC: WRH announces Kristin Kennedy as next CEO; Windsor Regional appoints new president and CEO
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,CEO departure: Karen Riddell retired after 40 years in health care,"March 20, 2026",CTV News Windsor,Windsor Regional Hospital says goodbye to President/CEO
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Kristin Kennedy formally assumed President and CEO role,"April 2026; confirmed April 20, 2026",CBC News; Windsor Regional Hospital,CBC interview with new WRH CEO Kristin Kennedy; WRH Executive Committee
+ceo,MS Copilot Agent,Windsor Regional Hospital,3,Windsor Regional Hospital,Board additions: Joe Milicia and Brandon Pottie,"July 9, 2026",windsoriteDOTca News,WRH welcomes newcomers to Board of Directors
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Two new hospital Board directors appointed,"June 25, 2026",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, New President and CEO takes office,"April 2, 2026",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Karen Riddell concludes CEO tenure and retires,"March 20, 2026",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Kristin Kennedy selected as incoming President and CEO,"December 29, 2025",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Board chair transition from Patricia France to Ian McLeod,"June 26, 2025 governance cycle",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Four directors elected to new three,"June 26, 2025",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Karen Riddell retained as Acting President and CEO through 2025 governance year,"June 26, 2025",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Board election and renewal of six directors,"July 18, 2024",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, CEO secondment; Acting CEO and interim vice,"May 23, 2024",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital," Patricia France confirmed as Board Chair, succeeding Anthony Paniccia",2023–24 governance year,,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Six directors elected to three,"June 22, 2023",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Dr. Laurie Freeman elected to the Board,"June 23, 2022",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,4,Windsor Regional Hospital, Annual ex,"June 23, 2022",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital," Two new elected board members, Joe Milicia and Brandon Pottie","July 9, 2026",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, 2026 AGM governance renewal, 2026 AGM governance renewal,,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Kristin Kennedy formally begins as President and CEO,"April 2, 2026",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Karen Riddell retires as President and CEO,March 2026,,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Kristin Kennedy appointed incoming President and CEO,"December 29, 2025",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Kelly Heron appointed Vice,October 2025,,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Nicole Krywionek appointed Chief Nursing Executive and Vice,President for the portfolio since 2024.,,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Board chair changes from Patricia France to Ian McLeod,"June 26, 2025 AGM cycle",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Four directors elected to terms ending in 2028,"June 26, 2025",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Six directors elected or re,"July 18, 2024",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, David Musyj seconded to LHSC; Karen Riddell becomes Acting President and CEO; Nicole Krywionek promoted to Interim Vice,,,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Six directors elected to terms ending in 2026,"June 22, 2023",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Board chair changes from Anthony Paniccia to Patricia France,"June 22, 2023 AGM cycle",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital, Laurie Freeman elected to the Board; continuing directors reconfirmed,"June 23, 2022",,
+ceo,MS Copilot Agent,Windsor Regional Hospital,5,Windsor Regional Hospital," WRH 2022 AGM minutes and director resolutions [wrh.on.ca]
+Coverage note
+I did not find a reliably documented WRH CEO, senior",,,
+ceo,Perplexity,Arnprior Regional Health,1,Arnprior Regional Health, Issue,,,
+ceo,Perplexity,Arnprior Regional Health,1,Arnprior Regional Health, CEO appointment (Leah Levesque),"August 19, 2021",,https://www.arnpriorregionalhealth.ca/arnprior
+ceo,Perplexity,Arnprior Regional Health,1,Arnprior Regional Health, Board director turnover (AGM 2022), Board director turnover (AGM 2022),,https://www.arnpriorregionalhealth.ca/arh
+ceo,Perplexity,Arnprior Regional Health,1,Arnprior Regional Health, CEO retirement announced (Leah Levesque),"December 7, 2023",,https://www.arnpriorregionalhealth.ca/foundation/our
+ceo,Perplexity,Arnprior Regional Health,1,Arnprior Regional Health, CEO appointment (Jeremy Stevenson),"May 10, 2024",,https://www.arnpriorregionalhealth.ca/board
+ceo,Perplexity,Arnprior Regional Health,1,Arnprior Regional Health, Board Chair transition,"July 3, 2024",,https://www.arnpriorregionalhealth.ca/arh
+ceo,Perplexity,Arnprior Regional Health,1,Arnprior Regional Health, CEO departure (Jeremy Stevenson),"June 3, 2026",,https://www.arnpriorregionalhealth.ca/category/whats
+ceo,Perplexity,Arnprior Regional Health,1,Arnprior Regional Health, Interim CEO appointment (Pierre Noel),"July 9, 2026",,https://www.arnpriorregionalhealth.ca/arh
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health,"March 28, 2025 (announcement); June 27, 2025 (last day)",Mackenzie Health,[Link](https://www.mackenziehealth.ca/about-us/news/~403-A-leadership-update-from-Mackenzie-Health)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health,"December 5, 2025",Mackenzie Health / OSMH,[Link](https://www.mackenziehealth.ca/about-us/news/~438-announcing-mackenzie-health-s-new-president-and-ceo)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health,"July 14, 2021",Mackenzie Health,[Link](https://www.mackenziehealth.ca/about-us/news/~278-A-new-era-for-Mackenzie-Health)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health,"June 13, 2024",Mackenzie Health,[Link](https://www.mackenziehealth.ca/about-us/news/~374-Mackenzie-Health-and-Mackenzie-Health-Foundation-appoint-new-chairs-to-their-board-of-directors)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health,"June 19, 2025",Mackenzie Health,[Link](https://www.mackenziehealth.ca/about-us/news/~413-Welcoming-the-new-Chair-of-the-Mackenzie-Health-Board-of-Directors)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health,"June 20, 2024",Mackenzie Health,[Link](https://www.mackenziehealth.ca/about-us/news/~374-Mackenzie-Health-and-Mackenzie-Health-Foundation-appoint-new-chairs-to-their-board-of-directors)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health,"July 14, 2021",Mackenzie Health,[Link](https://www.mackenziehealth.ca/about-us/news/~278-A-new-era-for-Mackenzie-Health)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health,"June 19, 2025",Mackenzie Health,[Link](https://www.mackenziehealth.ca/about-us/news/~413-Welcoming-the-new-Chair-of-the-Mackenzie-Health-Board-of-Directors)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health Foundation,"May 23, 2023 (announcement); June 19, 2023 (effective)",Mackenzie Health Foundation,[Link](https://www.mackenziehealth.ca/support-us/foundation/about-us/news/article/~340-Nicole-McCahon-announced-as-Mackenzie-Health-Foundation-s-new-President-and-CEO)
+ceo,Perplexity,Mackenzie Health,1,,Mackenzie Health Foundation,"June 19, 2024",Mackenzie Health Foundation,[Link](https://www.mackenziehealth.ca/about-us/news/~374-Mackenzie-Health-and-Mackenzie-Health-Foundation-appoint-new-chairs-to-their-board-of-directors)
+ceo,Perplexity,North York General Hospital,1,North York General Hospital,Retirement announcement of President and CEO Karyn Popovich.,"March 7, 2023",NYGH Board Chair announcement,
+ceo,Perplexity,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,CEO transition: Sue LeBeau to Sumeet Kumar,"April 4, 2023 announcement; predecessor documented July 14, 2021",Red Lake Hospital newsroom; Your Sunset Country,[redlakehospital] [yoursunsetcountry]
+ceo,Perplexity,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Interim CEO appointment: Angela Bishop,"August 1, 2024","Red Lake Margaret Cochenour Memorial Hospital, “Welcome back Angela Bishop”",[redlakehospital]
+ceo,Perplexity,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Permanent CEO transition: Angela Bishop to Jennifer Lawrance,"June 26, 2026","NWOnewswatch, “New hospital CEO preparing for growth around Red Lake”",[nwonewswatch]
+ceo,Perplexity,Red Lake Margaret Cochenour Memorial Hospital,1,Red Lake Margaret Cochenour Memorial Hospital,Board director vacancy; appointment not publicly confirmed,"May 27, 2024","Red Lake Margaret Cochenour Memorial Hospital, “Board of Directors Vacancy”",[redlakehospital]
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,CEO – France Dallaire,2022–2026 (confirmed),Ontario Sunshine List / Hospital website,"sunshineliststats.com, senhosp.ca"
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Board Chair – Natalie Coté-Tremblay,~2025 (confirmed),Hospital website,senhosp.ca/leadership-at-sbh
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Board Chair – Gilbert Peters (Foundation),2023,Hospital Foundation page,senhosp.ca/our-foundation
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Chief of Staff – Dr. Jessica Kwapis,2023,Ontario Medical Association,oma.org
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Interim Chief of Staff – Dr. Daniel Boucher,~2025,Hospital website,senhosp.ca/leadership-at-sbh
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,President of Medical Staff – Dr. Roderick Cheung,~2025,Hospital website,senhosp.ca/leadership-at-sbh
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,VP Corporate Services – Chantal Boyer-Brochu,~2025,Hospital website,senhosp.ca/leadership-at-sbh
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,Director of Patient Care – Natalie Blier,~2025,Hospital website,senhosp.ca/leadership-at-sbh
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,CIO – Jeanette Vaillancourt,~2025,Hospital website,senhosp.ca/leadership-at-sbh
+ceo,Perplexity,Sensenbrenner Hospital,1,Sensenbrenner Hospital,"Director of PM, Quality & Risk – Kelsey Shannon",~2025,Hospital website,senhosp.ca/leadership-at-sbh
+ceo,Perplexity,Sensenbrenner Hospital,1,Role,Name,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Chair,Natalie Coté-Tremblay,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Vice-Chair,Chair,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Treasurer,Yves Labelle,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Secretary,Jaimee Washburn,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Robert Daggett,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Claudette Brouzes,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Dr. Valerie Smith,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Wendy Guillemette,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Denis Bérubé,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Hélène Le Saux Néron,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Jacques Dorval,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Dr. Daniel Boucher,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Dr. Roderick Cheung,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,France Dallaire,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Chantal Boyer-Brochu,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Natalie Blier,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Kelsey Shannon,,,
+ceo,Perplexity,Sensenbrenner Hospital,1,Director,Jeanette Vaillancourt,,,
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,Board leadership: Ian McLeod appointed chair,2021; exact transition date not publicly established in the sources reviewed,"Windsor Regional Hospital, Board of Directors profile",Windsor Regional Hospital Board Members
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,Board renewal: 2022 director appointments,2022; exact dates not publicly established,"Windsor Regional Hospital, Board of Directors profile",Windsor Regional Hospital Board Members
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,Board renewal: 2023 director appointments,2023; exact dates not publicly established,"Windsor Regional Hospital, Board of Directors profile",Windsor Regional Hospital Board Members
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,CEO secondment and interim CEO appointment,"May 17, 2024 announcement; effective May 23, 2024",CTV News Windsor; CBC News,CTV News: CEO David Musyj leaving Windsor Regional Hospital
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,CEO succession decision and Riddell retirement announcement,"July 16, 2025",CTV News Windsor; WRH leadership update,CTV News: WRH to launch CEO search
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,New CEO appointed: Kristin Kennedy,"December 29, 2025 announcement; effective April 2026",Boyden; CBC News,Boyden: New President and CEO Appointed at WRH
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,Chief nursing and clinical executive succession,"September 17, 2025 announcement; succession effective after Riddell’s retirement in March 2026",CTV News Windsor; WRH CEO report,CTV News: WRH names new Chief Nursing Executive
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,CEO transition completed: Karen Riddell retires; Kristin Kennedy assumes office,"March 20–23, 2026",AM800; Windsor Regional Hospital memorandum,WRH memorandum: Retirement of Karen Riddell
+ceo,Perplexity,Windsor Regional Hospital,1,Windsor Regional Hospital,Board renewal: Joe Milicia and Brandon Pottie appointed,"June 25, 2026",Windsor Regional Hospital newsroom; CK News Today,WRH Newsroom
+supervisors,ChatGPT,London Health Sciences Centre,1,London Health Sciences Centre,David Musyj,"September 24, 2024 — appointment effective under O","Ontario Order in Council 1219/2024, appointing David Musyj as Supervisor of London Health Sciences C",
+supervisors,ChatGPT,Renfrew Victoria Hospital,1,Renfrew Victoria Hospital (RVH),"Governance, management and financial-practice concerns; provincial supervisory intervention","June 26, 2024 — appointment by OIC; effective operational start July 8, 2024",Ontario Order in Council 886/2024; Ontario Ministry of Health final supervisor report,Order in Council 886/2024 · Renfrew Victoria Hospital final supervisor report
+supervisors,ChatGPT,Sante Manitouwadge Health,1,Santé Manitouwadge Health,No government-appointed hospital supervisor identified,"July 16, 2021 – July 16, 2026","Ontario Public Hospitals Act, s. 9; Ontario Ministry of Health supervisor reports; Santé Manitouwadge Health board records","Public Hospitals Act — hospital supervisor provisions · Ontario Ministry of Health — supervisor reports and hospital investigations · Santé Manitouwadge Health — April 1, 2025 Board Minutes"
+supervisors,ChatGPT,Sault Area Hospital,1,Sault Area Hospital,No Government-appointed statutory hospital supervisor identified,"July 16, 2021–July 16, 2026","Ontario Public Hospitals Act, s. 9; SAH operational supervisor postings","Public Hospitals Act — section 9, Hospital supervisor; SAH Hospital Supervisor — Clinical Operations posting; SAH Hospital Supervisor — Patient Flow posting"
+supervisors,ChatGPT,Sinai Health System,1,Sinai Health System (Mount Sinai Hospital),No qualifying Government of Ontario interim-supervisor appointment identified,"July 16, 2021–July 16, 2026",Ontario government hospital classification; Ontario supervisor records; Sinai Health governance materials,Ontario — Classification of hospitals · Sinai Health — Accountability and Quality
+supervisors,ChatGPT,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital,Government-appointed Supervisor: Eric Hanna,"September 26, 2024",Ontario Order in Council 1271/2024; Ministry of Health / contemporaneous reporting,Ontario Order in Council 1271/2024
+supervisors,ChatGPT,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital,"Government-appointed Supervisor: Carmine Stumpo, succeeding Eric Hanna","June 9, 2025 (OIC approved June 5, 2025)",Ontario Order in Council 767/2025; Stevenson Memorial Hospital Supervisor’s Interim Report,Ontario Order in Council 767/2025
+supervisors,Claude,London Health Sciences Centre,1,London Health Sciences Centre (LHSC),David Musyj,"September 25, 2024",CBC News,
+supervisors,Claude,Renfrew Victoria Hospital,1,"Renfrew Victoria Hospital (RVH), Renfrew, Ontario",Altaf Stationwala,"Appointed June 27, 2024 (effective July 8, 2024) —",Ministry of Health news release / CBC News,
+supervisors,Claude,Sante Manitouwadge Health,1,Sante Manitouwadge Health, Issue,,,
+supervisors,Claude,Sault Area Hospital,1,UNPARSABLE,"I'll research this directly rather than rely on memory, since this needs to be current and accurate.",,,
+supervisors,Claude,Sinai Health System,1,UNPARSABLE,I'll research this for you.I found the key page — Ontario's Ministry of Health maintains an official,,,
+supervisors,Claude,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital, Investigator appointed (governance/management/patient care review),February 2024,,https://www.southsimcoetoday.ca/2024/02/08/ontario
+supervisors,Claude,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital," Supervisor appointed (first, following investigator's report)","September 27, 2024",,https://www.miltonnow.ca/2024/09/27/ontario
+supervisors,Claude,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital," Supervisor appointed (successor, transition from Hanna)",June 2025,,https://www.bradfordtoday.ca/local
+supervisors,Claude,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital,operations,,,
+supervisors,Gemini,London Health Sciences Centre,1,London Health Sciences Centre (LHSC),David Musyj,"September 25, 2024",Government of Ontario / Ministry of Health News / CTV News,
+supervisors,Gemini,Renfrew Victoria Hospital,1,Renfrew Victoria Hospital,Altaf Stationwala,"June 26, 2024 (Effective July 8, 2024)",Government of Ontario (Order in Council 886/2024),
+supervisors,Gemini,Sante Manitouwadge Health,1,Sante Manitouwadge Health,None (No operational or governance escalations resulting in a provincial supervisor appointment),,Ontario Ministry of Health Newsroom / Public Records,Ontario Newsroom
+supervisors,Gemini,Sault Area Hospital,1,Sault Area Hospital," Provincial Oversight Status (July 16, 2021 – July 16, 2026)
+Finding: There is an exhaustive list of zero interim supervisors appointed by the Government of Ontario to Sault Area Hospital between July",,,
+supervisors,Gemini,Sault Area Hospital,1,Sault Area Hospital, Issue,,,
+supervisors,Gemini,Sinai Health System,1,Sinai Health System," Sinai Health System
+Issue: N/A (No structural, financial, or governance interventions required)
+Paragraph blurb: Between July 16, 2021, and July 16, 2026, the Government of Ontario did not appoint an",,,
+supervisors,Gemini,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital,Eric Hanna,"September 26, 2024",Government of Ontario (Order in Council 1271/2024),
+supervisors,Gemini,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital,Carmine Stumpo,"June 9, 2025",Government of Ontario (Order in Council 767/2025),
+supervisors,MS Copilot Agent,London Health Sciences Centre,1,"London Health Sciences Centre → David Musyj, Supervisor",David Musyj,"September 24, 2024. This is the legal effective date in Order in Council 1219/2024; the appointment was publicly discussed by LHSC and CBC on September 25, 2024. [ontario.ca], [lhsc.on.ca], [cbc.ca]","Government of Ontario, corroborated by London Health Sciences Centre and CBC News",Order in Council 1219/2024: appointment of David Musyj · LHSC: Strengthening our governance · CBC News: Hospital board resigns as province appoints supervisor
+supervisors,MS Copilot Agent,London Health Sciences Centre,2,London Health Sciences Centre," Governance, operations, management practices and concerning financial performance","September 24, 2024",,
+supervisors,MS Copilot Agent,London Health Sciences Centre,3,"London Health Sciences Centre → David Musyj, Supervisor",David Musyj,"September 24, 2024. The appointment was publicly communicated by LHSC and reported in the media on September 25, 2024; the Order in Council was published October 9, 2024. [ontario.ca], [cbc.ca], [lhsc.on.ca]","Government of Ontario, Order in Council 1219/2024. Corroborated by CBC News and LHSC.",Order in Council 1219/2024: David Musyj appointed Supervisor for LHSC · CBC: Province appoints supervisor as LHSC board resigns · LHSC: Strengthening our governance
+supervisors,MS Copilot Agent,London Health Sciences Centre,4,"London Health Sciences Centre → David Musyj, Supervisor",David Musyj,"September 24, 2024, effective appointment date. The appointment was publicly announced by LHSC and reported by CBC on September 25, 2024. [ontario.ca], [lhsc.on.ca], [cbc.ca]","Government of Ontario, with corroboration from LHSC and CBC News",Order in Council 1219/2024: appointment of David Musyj · LHSC: Strengthening our governance · CBC News: Hospital board resigns as province appoints supervisor
+supervisors,MS Copilot Agent,London Health Sciences Centre,5,London Health Sciences Centre → David Musyj appointed Supervisor,David Musyj appointed Supervisor,"September 24, 2024 appointment effective date; publicly announced September 25, 2024. [ontario.ca], [cbc.ca]",Government of Ontario; London Health Sciences Centre; CBC News,Order in Council 1219/2024: appointment of David Musyj as Supervisor · LHSC: “Strengthening our governance” · CBC: “Hospital board resigns as province appoints supervisor to clean up financial mess”
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,1,Renfrew Victoria Hospital,"sector communications, and broader variants of the hospital’s name and acronym.
+Order in Council 886/2024 names only Altaf Stationwala. Order in Council 766/2025 confirms that the same appointment rem",,,
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,1,Renfrew Victoria Hospital, appointed supervisor,,,
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,1,Renfrew Victoria Hospital, Altaf Stationwala,,,
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,2,Renfrew Victoria Hospital,"Hospital governance, management and financial practices involving Renfrew Victoria Hospital and its related entity, Renfrew Health","Appointed: June 26, 2024; effective: July 8, 2024; terminated: June 20, 2025 [ontario.ca], [mackenziehealth.ca]","Government of Ontario, Ministry of Health; CBC News; Mackenzie Health","Order in Council 766/2025, confirming O.C. 886/2024 appointment and termination [ontario.ca] • Renfrew Victoria Hospital Final Supervisor’s Report [ontario.ca] • CBC: Province appoints supervisor amid financial concerns [cbc.ca] • Mackenzie Health: Altaf Stationwala appointed supervisor effective July 8 [mackenziehealth.ca]"
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,3,Renfrew Victoria Hospital, Issue,,,
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,3,Renfrew Victoria Hospital," Governance, management and financial","June 26, 2024",,
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,4,Renfrew Victoria Hospital,"Altaf Stationwala appointed as hospital supervisor following concerns about governance, management and financial practices","June 26, 2024 appointment. The appointment order was published July 11, 2024. Terminated June 20, 2025. [ontario.ca], [ontario.ca]","Government of Ontario, Ministry of Health; corroborated by CBC News and the supervisor’s final report",Order in Council 886/2024: Appointment of Altaf Stationwala [ontario.ca] • CBC News: Province appoints supervisor amid financial concerns [cbc.ca] • Renfrew Victoria Hospital final supervisor’s report [ontario.ca] • Order in Council 766/2025: Termination of appointment [ontario.ca]
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,5,UNPARSABLE,I found one Government of Ontario-appointed hospital supervisor for Renfrew Victoria Hospital within,,,
+supervisors,MS Copilot Agent,Sante Manitouwadge Health,1,Santé Manitouwadge Health,No provincial interim-supervisor appointment identified,"July 16, 2021 to July 16, 2026",Santé Manitouwadge Health; Government of Ontario,"January 25, 2024 Santé Manitouwadge Health Board Meeting Minutes"
+supervisors,MS Copilot Agent,Sante Manitouwadge Health,2,Santé Manitouwadge Health,No Government of Ontario-appointed interim supervisor identified,"July 16, 2021 to July 16, 2026",Santé Manitouwadge Health; Government of Ontario search review,Santé Manitouwadge Health leadership and governance · Santé Manitouwadge Health 2024–25 Annual Report
+supervisors,MS Copilot Agent,Sante Manitouwadge Health,3,Santé Manitouwadge Health,No Government of Ontario supervisor appointment identified,"July 16, 2021 to July 16, 2026: no appointment found",Santé Manitouwadge Health; Government of Ontario; Ontario Newsroom,Official Santé Manitouwadge Health leadership page · Official organizational structure · Santé Manitouwadge Health 2024–25 Annual Report · Ontario Public Appointments Secretariat · Ontario Newsroom
+supervisors,MS Copilot Agent,Sante Manitouwadge Health,4,Santé Manitouwadge Health,No Government of Ontario hospital-supervisor appointment identified,"July 16, 2021 to July 16, 2026",Santé Manitouwadge Health; Government of Ontario,Santé Manitouwadge Health leadership and governance [mh.on.ca]; Ontario Public Hospitals Act [ontario.ca]
+supervisors,MS Copilot Agent,Sante Manitouwadge Health,5,Santé Manitouwadge Health,No Government of Ontario interim-supervisor appointment identified,"N/A, no appointment found from July 16, 2021 through July 16, 2026",Government of Ontario; Santé Manitouwadge Health,Santé Manitouwadge Health leadership and board structure · Government of Ontario overview of public-hospital governance
+supervisors,MS Copilot Agent,Sault Area Hospital,1,Sault Area Hospital, No Government,,,
+supervisors,MS Copilot Agent,Sault Area Hospital,1,Sault Area Hospital, Source links: Ontario Orders in Council search result for “Sault Area Hospital”,,,
+supervisors,MS Copilot Agent,Sault Area Hospital,1,Sault Area Hospital," Executive leadership transition, not provincial supervision","June 27, 2026",,
+supervisors,MS Copilot Agent,Sault Area Hospital,2,Sault Area Hospital,No Government of Ontario interim or hospital supervisor appointment identified,"July 16, 2021 to July 16, 2026",Government of Ontario Orders in Council; Ontario Newsroom; Sault Area Hospital,"No appointment-specific source exists in the retrieved public record. The searches included the Government of Ontario Orders in Council collection, Ontario Newsroom coverage concerning Sault Area Hospital, and the hospital’s Accountability and Transparency page."
+supervisors,MS Copilot Agent,Sault Area Hospital,3,Sault Area Hospital,No Government of Ontario-appointed interim or hospital supervisor identified,"July 16, 2021 to July 16, 2026",Government of Ontario Orders in Council; Ontario Newsroom; Sault Area Hospital; CBC; CTV News; SooToday,Government of Ontario example of a statutory hospital-supervisor Order in Council
+supervisors,MS Copilot Agent,Sault Area Hospital,3,Sault Area Hospital,"Board-appointed interim President and CEO, excluded from the requested list","Appointment announced June 1, 2026; effective June 27, 2026",Sault Area Hospital Board release republished by SooToday; CTV News,Sault Area Hospital names Greg Zambusi interim president and CEO
+supervisors,MS Copilot Agent,Sault Area Hospital,4,Sault Area Hospital,No provincial interim-supervisor appointment identified,"July 16, 2021 to July 16, 2026",Government of Ontario Orders in Council; Ontario Newsroom; Sault Area Hospital,"Ontario Orders in Council search result for Sault Area Hospital; SAH Hospital Supervisor, Patient Flow role"
+supervisors,MS Copilot Agent,Sault Area Hospital,5,Sault Area Hospital,No qualifying government-appointed supervisor found,"July 16, 2021 to July 16, 2026","Government of Ontario, hospital and media-source review",No appointment-specific source exists in the records located
+supervisors,MS Copilot Agent,Sinai Health System,1,Sinai Health System,No interim or hospital supervisor appointment identified,"July 16, 2021 to July 16, 2026",Government of Ontario; Sinai Health,"Ontario Ministry of Health Newsroom; Ontario Orders in Council example showing the formal hospital-supervisor process; Sinai Health Board minutes, June 16, 2022; Sinai Health Board minutes, February 6, 2025"
+supervisors,MS Copilot Agent,Sinai Health System,2,Sinai Health System,No Government of Ontario-appointed hospital supervisor identified,None within requested period,Sinai Health; Government of Ontario Orders in Council,Sinai Health Boards and Executive Leadership 2025–2026; Dr. Lynn Mikula appointed President and CEO of Sinai Health; Ontario Orders in Council
+supervisors,MS Copilot Agent,Sinai Health System,3,Sinai Health System,No qualifying appointment identified,"July 16, 2021 to July 16, 2026",Government of Ontario; Sinai Health; mainstream-media searches,No appointment-specific source exists in the material located
+supervisors,MS Copilot Agent,Sinai Health System,4,Sinai Health System,No interim-supervisor appointment identified,"July 16, 2021–July 16, 2026",Government of Ontario; Sinai Health,Ontario Gazette search and official-copy information; Ontario Celebrates Completion of Historic Mount Sinai Hospital Renovation; Sinai Health Boards and Executive Leadership 2025–2026
+supervisors,MS Copilot Agent,Sinai Health System,5,Sinai Health System,No provincial interim-supervisor appointment identified,"July 16, 2021–July 16, 2026",Ontario Gazette; Ontario Newsroom; Sinai Health,Search the official Ontario Gazette • Sinai Health 2025–2026 governance disclosure • Sinai Health leadership
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital → Eric Hanna,Eric Hanna,"September 26, 2024","Government of Ontario, Order in Council 1271/2024",Order in Council 1271/2024: Eric Hanna appointed Supervisor for Stevenson Memorial Hospital
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,1,Stevenson Memorial Hospital → Carmine Stumpo,Carmine Stumpo,"June 9, 2025 effective date; Order approved June 5, 2025","Government of Ontario, Order in Council 767/2025",Order in Council 767/2025: Carmine Stumpo appointed to succeed Eric Hanna
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,2,Stevenson Memorial Hospital, Government,,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,2,Stevenson Memorial Hospital," Governance, clinical quality, leadership and financial",,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,2,Stevenson Memorial Hospital," Stevenson Memorial Hospital
+Issue",,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,2,Stevenson Memorial Hospital," Continuing remediation, governance stabilization and supervisor succession",,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,2,Stevenson Memorial Hospital," Stevenson Memorial Hospital
+Issue",,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,3,Stevenson Memorial Hospital,"supervisor appointments for Stevenson Memorial Hospital within the closed interval July 16, 2021 through July 16, 2026. The official instruments call them “Supervisors,” rather than “interim superviso",,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,3,Stevenson Memorial Hospital," Governance, management, quality","September 26, 2024",,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,3,Stevenson Memorial Hospital," Continued need for governance, accountability, operational, financial and patient",,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,4,Stevenson Memorial Hospital, government,,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,4,Stevenson Memorial Hospital," Governance, management, quality","September 26, 2024",,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,4,Stevenson Memorial Hospital," Continuation of governance, accountability, financial and patient","June 9, 2025",,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,5,UNPARSABLE,I found two Government of Ontario-appointed hospital supervisors at Stevenson Memorial Hospital duri,,,
+supervisors,Perplexity,London Health Sciences Centre,1,London Health Sciences Centre,"Governance, accountability, operations, management practices and financial performance concerns identified through a third-party review; the hospital was also facing a projected $150-million deficit and the resignation of its board.","September 25, 2024","London Health Sciences Centre, “Strengthening our governance”; CBC News; Ontario Ministry of Health announcement as reported by contemporaneous media",LHSC: Strengthening our governance; CBC News: Hospital board resigns as province appoints supervisor; CBC Lite version
+supervisors,Perplexity,Renfrew Victoria Hospital,1,Renfrew Victoria Hospital,"Governance, management and financial-practice concerns identified through Ontario Health and an independent third-party review","Appointed: June 27–28, 2024; effective: July 8, 2024","Ontario Ministry of Health announcement, as reported by CBC; Mackenzie Health announcement",CBC News: Province appoints supervisor to oversee Renfrew hospital · Mackenzie Health: Altaf Stationwala appointed supervisor
+supervisors,Perplexity,Sante Manitouwadge Health,1,NONE FOUND,NONE FOUND,,,
+supervisors,Perplexity,Sault Area Hospital,1,Sault Area Hospital,No government-appointed interim supervisor,"N/A (July 16, 2021 – July 16, 2026)","Multiple sources (Sault Area Hospital news, Ontario Ministry of Health announcements, news media)",[sah.on][sah.on][linkedin][sah.on][sah.on][sootoday][canhealth]
+supervisors,Perplexity,Sinai Health System,1,No qualifying appointment found,None identified,"July 16, 2021–July 16, 2026",Ontario government sources and legislative record,"Ontario Newsroom[news.ontario] · Connecting Care Act, s. 27[ontario]"
+supervisors,Perplexity,Stevenson Memorial Hospital,1,,Stevenson Memorial Hospital,"September 2024 (reported September 27, 2024; described as having been in the role for approximately one week on October 9, 2024)",Ontario appointment reported by South Simcoe Today; corroborating sector coverage,[Ontario appoints supervisor for Stevenson Memorial Hospital](https://www.southsimcoetoday.ca/2024/09/27/ontario-appoints-supervisor-for-stevenson-memorial-hospital/)
+supervisors,Perplexity,Stevenson Memorial Hospital,1,,Stevenson Memorial Hospital,"June 2025 (reported June 8, 2025; still identified as supervisor on January 30 and March 9, 2026)",Ontario government releases and contemporaneous local reporting,[Ontario Taking the Next Step to Expand Stevenson Memorial Hospital](https://news.ontario.ca/en/release/1006988/ontario-taking-the-next-step-to-expand-stevenson-memorial-hospital)
+phipa,ChatGPT,Anson General Hospital,1,Anson General Hospital,No qualifying PHIPA-related news identified,"Jan. 16–July 16, 2026",Ontario IPC; MICs Group; regional/open-web news search,Ontario IPC search results · MICs Group of Health Services
+phipa,ChatGPT,Baycrest Hospital,1,Baycrest Hospital,No qualifying PHIPA-related news update identified,"Jan. 16–July 16, 2026",Ontario IPC / Baycrest,Baycrest Health Records and Privacy Information
+phipa,ChatGPT,Geraldton District Hospital,1,Geraldton District Hospital,No qualifying PHIPA-related news update identified,"Jan. 16–Jul. 16, 2026",Geraldton District Hospital; Ontario IPC indexed material,Geraldton District Hospital — Access to Information · Geraldton District Hospital — Privacy & Confidentiality · Ontario Information and Privacy Commissioner
+phipa,ChatGPT,Hamilton Health Sciences Corporation,1,Hamilton Health Sciences Corporation,No qualifying PHIPA-related news update identified,"Jan. 16–July 16, 2026",Multiple sources cross-checked,—
+phipa,ChatGPT,Hamilton Health Sciences Corporation,1,Hamilton Health Sciences Corporation,MyChart Terms and Conditions revised,"March 11, 2026",Hamilton Health Sciences — MyChart,HHS MyChart Terms and Conditions
+phipa,ChatGPT,Hamilton Health Sciences Corporation,1,Hamilton Health Sciences Corporation,Directory of Records / Personal Information Bank inventory published,February 2026,Hamilton Health Sciences — Directory of Records & PIB Inventory,HHS Directory of Records & PIB Inventory
+phipa,ChatGPT,The Ottawa Hospital,1,The Ottawa Hospital,PHIPA Decision 326 — correction of an after-visit summary / statement of disagreement,"January 26, 2026","Information and Privacy Commissioner of Ontario — PHIPA Decision 326, Complaint HA23-00094",IPC PHIPA Decision 326
+phipa,ChatGPT,The Ottawa Hospital,1,The Ottawa Hospital,PHIPA Decision 340 — access to electronic medical-record display formats/screenshots,"June 25, 2026",Information and Privacy Commissioner of Ontario — PHIPA Decision 340,IPC PHIPA Decision 340
+phipa,ChatGPT,William Osler Health System,1,William Osler Health System,"Hospital information system modernization, health-record privacy and secure access","June 15, 2026 (Osler); June 17, 2026 (independent coverage)",William Osler Health System; Canadian Healthcare Technology,Osler official announcement / Canadian Healthcare Technology coverage
+phipa,Claude,Anson General Hospital,1,Anson General Hospital," Anson General Hospital in Iroquois Falls, Ontario, part of the MICs Group of Health Services. Now let me search specifically for PHIPA",,,
+phipa,Claude,Baycrest Hospital,1,UNPARSABLE,I'll search for this information.Let me search more specifically for Baycrest-named news within your,,,
+phipa,Claude,Geraldton District Hospital,1,UNPARSABLE,"I'll search for this information now.The first search surfaced a real IPC decision, but I need to co",,,
+phipa,Claude,Hamilton Health Sciences Corporation,1,NONE FOUND,NONE FOUND,,,
+phipa,Claude,The Ottawa Hospital,1,The Ottawa Hospital,specific): the OHA's Hospital Statutory Compliance Guide had a PHIPA,,,
+phipa,Claude,William Osler Health System,1,William Osler Health System,"sector breach trackers (HIPAA Journal, HHS OCR) are U.S.",,,
+phipa,Gemini,Anson General Hospital,1,UNPARSABLE,"A comprehensive review of public records, legal databases, and media reports between January 16, 202",,,
+phipa,Gemini,Baycrest Hospital,1,UNPARSABLE,"Based on public records, regulatory databases, and news archives for the specified period (January 1",,,
+phipa,Gemini,Geraldton District Hospital,1,UNPARSABLE,"A review of public legal updates, regulatory announcements, and Information and Privacy Commissioner",,,
+phipa,Gemini,Hamilton Health Sciences Corporation,1,Hamilton Health Sciences Corporation,PHIPA Access Request and Reasonable Search Complaint,"May 13, 2026",Information and Privacy Commissioner of Ontario (IPC) — PHIPA Decision 338 (Complaint HA25-00348),
+phipa,Gemini,The Ottawa Hospital,1,UNPARSABLE,Hello! Monitoring PHIPA compliance and privacy performance across regional networks like The Ottawa ,,,
+phipa,Gemini,William Osler Health System,1,William Osler Health System,"Hospital Information System (HIS) Digital Transformation, Patient Record Management, and Privacy Governance","June 15, 2026",William Osler Health System News,
+phipa,MS Copilot Agent,Anson General Hospital,1,Anson General Hospital,No qualifying PHIPA-related update found,"January 16 to July 16, 2026 search window",Information and Privacy Commissioner of Ontario; MICs Group of Health Services; mainstream-media search,"IPC decisions database · MICs Group of Health Services · MICs annual-report library [ipc.on.ca], [micsgroup.com], [micsgroup.com]"
+phipa,MS Copilot Agent,Anson General Hospital,2,Anson General Hospital,No qualifying hospital-specific PHIPA news located,"January 16 to July 16, 2026 search window",IPC of Ontario; MICs Group of Health Services; mainstream-media search,"IPC decisions search portal · Anson General Hospital, MICs Group profile · MICs privacy statement"
+phipa,MS Copilot Agent,Anson General Hospital,3,Anson General Hospital,No qualifying PHIPA-related update identified,"Jan. 16 to July 16, 2026",IPC Ontario; MICs Group of Health Services,IPC decisions repository; Anson General Hospital profile on the MICs website
+phipa,MS Copilot Agent,Anson General Hospital,4,Anson General Hospital,No qualifying PHIPA-related update identified,"Word], [micsgroup.com], [micsgroup.com]",N/A,Information and Privacy Commissioner of Ontario; MICs Group of Health Services
+phipa,MS Copilot Agent,Anson General Hospital,5,Anson General Hospital,No qualifying update found,"January 16 to July 16, 2026",IPC Ontario; MICs Group of Health Services; public-news search,IPC decisions directory; MICs Group news and organizational site
+phipa,MS Copilot Agent,Baycrest Hospital,1,Baycrest Centre for Geriatric Care / Baycrest Hospital,No qualifying PHIPA-related news update found,"January 16 to July 16, 2026",Information and Privacy Commissioner of Ontario; Baycrest,IPC Decisions; Baycrest News & Insights
+phipa,MS Copilot Agent,Baycrest Hospital,2,Baycrest Hospital,No qualifying PHIPA-related news identified,N/A,Ontario Information and Privacy Commissioner; Baycrest,Ontario IPC decisions search and repository; Baycrest News & Insights; Baycrest health records and privacy information
+phipa,MS Copilot Agent,Baycrest Hospital,3,Baycrest Hospital,No qualifying PHIPA-related news update found,"January 16 to July 16, 2026",IPC Ontario; Baycrest; CBC; CTV News; Global News; Toronto Star,IPC decisions portal [ipc.on.ca]; Baycrest News and Insights [baycrest.org]
+phipa,MS Copilot Agent,Baycrest Hospital,4,Baycrest Hospital,No qualifying PHIPA-related update identified,"January 16 to July 16, 2026",IPC Ontario; Baycrest; public-news search,IPC Decisions catalogue · Baycrest News and Insights
+phipa,MS Copilot Agent,Baycrest Hospital,5,Baycrest Hospital,No qualifying PHIPA-related update identified,N/A,Information and Privacy Commissioner of Ontario; Baycrest,Search the IPC’s published decisions [ipc.on.ca]; Baycrest News & Insights [baycrest.org]
+phipa,MS Copilot Agent,Geraldton District Hospital,1,Geraldton District Hospital,No qualifying PHIPA-related update located,N/A,Information and Privacy Commissioner of Ontario; Geraldton District Hospital,IPC decisions repository · Hospital privacy statement · Hospital access-to-information and PHIPA page
+phipa,MS Copilot Agent,Geraldton District Hospital,2,Geraldton District Hospital,No qualifying PHIPA-related news identified,"January 16 to July 16, 2026 search window",IPC Ontario; Geraldton District Hospital; public-news search,IPC Decisions search portal · Latest IPC decisions · Geraldton District Hospital access-to-information page
+phipa,MS Copilot Agent,Geraldton District Hospital,3,Geraldton District Hospital, No qualifying PHIPA,,,
+phipa,MS Copilot Agent,Geraldton District Hospital,3,Geraldton District Hospital,"specific PHIPA issue. The hospital’s publicly indexed materials include general privacy, confidentiality, and health",,,
+phipa,MS Copilot Agent,Geraldton District Hospital,3,Geraldton District Hospital,"source check: Geraldton District Hospital states that it is the health information custodian under PHIPA and publishes standing policies covering confidentiality, privacy accountability, consent, safe",,,
+phipa,MS Copilot Agent,Geraldton District Hospital,3,Geraldton District Hospital,"privacy issue and was excluded. [nwonewswatch.com]
+Bottom line
+For hospital performance",,,
+phipa,MS Copilot Agent,Geraldton District Hospital,4,Geraldton District Hospital,No qualifying update identified,N/A,IPC Ontario; Geraldton District Hospital,IPC Decisions · Geraldton District Hospital News
+phipa,MS Copilot Agent,Geraldton District Hospital,5,Geraldton District Hospital,No qualifying update identified,"January 16 to July 16, 2026",IPC of Ontario; Geraldton District Hospital; mainstream-media review,IPC Decisions search portal [ipc.on.ca]
+phipa,MS Copilot Agent,Hamilton Health Sciences Corporation,1,Hamilton Health Sciences Corporation," PHIPA access request: unreasonable search for a child’s personal health information, PHIPA Decision 338, Complaint HA25","May 13, 2026",,
+phipa,MS Copilot Agent,Hamilton Health Sciences Corporation,2,UNPARSABLE,I treated “PHIPA-related” broadly enough to capture both direct PHIPA decisions and IPC access-to-in,,,
+phipa,MS Copilot Agent,Hamilton Health Sciences Corporation,3,Hamilton Health Sciences Corporation,PHIPA Decision 338: inadequate search for a child’s personal health information,"May 13, 2026","Information and Privacy Commissioner of Ontario, PHIPA Decision 338, Complaint HA25-00348",PHIPA Decision 338: official IPC decision page · Full text of PHIPA Decision 338
+phipa,MS Copilot Agent,Hamilton Health Sciences Corporation,4,Hamilton Health Sciences Corporation, Inadequate search for a child’s personal,"May 13, 2026",,
+phipa,MS Copilot Agent,Hamilton Health Sciences Corporation,5,Hamilton Health Sciences Corporation,PHIPA Decision 338: inadequate search for a child’s personal health information,"May 13, 2026","Information and Privacy Commissioner of Ontario, PHIPA Decision 338, Complaint HA25-00348",PHIPA Decision 338: Hamilton Health Sciences reasonable-search ruling
+phipa,MS Copilot Agent,The Ottawa Hospital,1,The Ottawa Hospital, Access to EMR screenshots and non,,,
+phipa,MS Copilot Agent,The Ottawa Hospital,2,The Ottawa Hospital, Access to EMR displays and screenshots,"June 25, 2026
+Source",,
+phipa,MS Copilot Agent,The Ottawa Hospital,3,The Ottawa Hospital, PHIPA,,,
+phipa,MS Copilot Agent,The Ottawa Hospital,3,The Ottawa Hospital, Access to EMR displays and screenshots,"June 25, 2026",,
+phipa,MS Copilot Agent,The Ottawa Hospital,4,The Ottawa Hospital, Issue,,,
+phipa,MS Copilot Agent,The Ottawa Hospital,4,The Ottawa Hospital, Access to screenshots and displays from the Epic electronic medical record,"June 25, 2026",,
+phipa,MS Copilot Agent,The Ottawa Hospital,4,The Ottawa Hospital, Civic Campus,"April 29, 2026",,
+phipa,MS Copilot Agent,The Ottawa Hospital,5,The Ottawa Hospital,"Access to Epic EMR displays and screenshots, PHIPA Decision 340","June 25, 2026",Information and Privacy Commissioner of Ontario,PHIPA Decision 340: Access to requested Epic EMR screenshots [ipc.on.ca]
+phipa,MS Copilot Agent,The Ottawa Hospital,5,"The Ottawa Hospital, Civic Campus","Access to records concerning a patient’s care, interaction between PHIPA and FIPPA, Order PO-4820","April 29, 2026",Information and Privacy Commissioner of Ontario,Order PO-4820: PHIPA/FIPPA access and reasonable-search findings [decisions.ipc.on.ca]
+phipa,MS Copilot Agent,William Osler Health System,1,William Osler Health System, Digital health,"June 15, 2026",,
+phipa,MS Copilot Agent,William Osler Health System,1,William Osler Health System," Osler to launch new hospital information system in October 2026 [williamoslerhs.ca]
+Completeness and exclusions
+IPC decisions: I found no William Osler Health System PHIPA decision published from Jan",,,
+phipa,MS Copilot Agent,William Osler Health System,1,William Osler Health System,information,,,
+phipa,MS Copilot Agent,William Osler Health System,2,William Osler Health System," Consolidated patient record, secure MyChart access, and responsible AI safeguards","June 15, 2026",,
+phipa,MS Copilot Agent,William Osler Health System,2,William Osler Health System," Privacy, security, ethics, and human oversight for AI using clinical information","April 22, 2026",,
+phipa,MS Copilot Agent,William Osler Health System,3,William Osler Health System," Unified electronic patient record, MyChart access, and safeguards for AI tools","June 15, 2026",,
+phipa,MS Copilot Agent,William Osler Health System,3,William Osler Health System, Patient online access to hospital records in Brampton and Etobicoke,"June 15, 2026",,
+phipa,MS Copilot Agent,William Osler Health System,3,William Osler Health System, Epic hospital information system and secure patient portal,"June 17, 2026",,
+phipa,MS Copilot Agent,William Osler Health System,3,William Osler Health System, Generative AI using electronic patient,"June 30, 2026",,
+phipa,MS Copilot Agent,William Osler Health System,4,William Osler Health System,No qualifying update identified,"January 16 to July 16, 2026",IPC Ontario; William Osler Health System; mainstream-media searches,IPC decisions database
+phipa,MS Copilot Agent,William Osler Health System,5,William Osler Health System,"New unified digital health record, patient portal, privacy safeguards, and responsible AI governance","June 15, 2026","William Osler Health System, official media release",Osler to launch new hospital information system in October 2026
+phipa,Perplexity,Anson General Hospital,1,UNPARSABLE,"Based on my comprehensive search of Ontario hospital PHIPA-related news, I was unable to find any PH",,,
+phipa,Perplexity,Baycrest Hospital,1,Baycrest Hospital," No PHIPA incidents reported
+During the specified period (January 16 – July 16, 2026), Baycrest Hospital had no reported:
+Privacy breaches under PHIPA
+IPC investigations or penalties
+Unauthorized acce",,,
+phipa,Perplexity,Baycrest Hospital,1,Baycrest Hospital, No PHIPA,,,
+phipa,Perplexity,Geraldton District Hospital,1,Geraldton District Hospital,"specific privacy breach notifications
+News media coverage of Geraldton District Hospital
+The only Geraldton District Hospital news items found during your specified period were unrelated to PHIPA:
+Inf",,,
+phipa,Perplexity,Geraldton District Hospital,1,Geraldton District Hospital, No PHIPA,,,
+phipa,Perplexity,Hamilton Health Sciences Corporation,1,Hamilton Health Sciences Corporation,No PHIPA incidents identified,N/A,Multiple sources,See citations [ontario][ontariohealth][policyoptions.irpp][mychart.hhsc][dbrs.morningstar]
+phipa,Perplexity,The Ottawa Hospital,1,NONE FOUND,NONE FOUND,,,
+phipa,Perplexity,William Osler Health System,1,William Osler Health System,"** William Osler Health System
+**Issue","** May 25, 2026
+**Source",,privacy) [jobs.smartrecruiters](https://jobs.smartrecruiters.com/WilliamOslerHealthSystem1/744000128259218
+phipa,Perplexity,William Osler Health System,1,William Osler Health System,"** William Osler Health System
+**Issue","** June 15, 2026
+**Source",,** [Osler to launch new hospital information system in October 2026](https://www.williamoslerhs.ca/news/posts/osler
+phipa,Perplexity,William Osler Health System,1,William Osler Health System,information,,,2026/) [williamoslerhs](https://www.williamoslerhs.ca/news/posts/osler
+phipa,Perplexity,William Osler Health System,1,William Osler Health System,information,"2026/)
+***
+**",,
+phipa,Perplexity,William Osler Health System,1,William Osler Health System,"** William Osler Health System
+**Issue","** June 20, 2026
+**Source",,privacy/) [williamoslerhs](https://www.williamoslerhs.ca/visiting
+phipa,Perplexity,William Osler Health System,1,William Osler Health System,"** William Osler Health System
+**Issue","** June 17, 2026
+**Source",,policy/) [williamoslerhs](https://www.williamoslerhs.ca/privacy

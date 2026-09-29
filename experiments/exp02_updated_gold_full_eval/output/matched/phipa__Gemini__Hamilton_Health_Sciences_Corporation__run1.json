@@ -1,0 +1,8 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "P3",
+    "match_confidence": "medium",
+    "match_reason": "Source line explicitly cites 'PHIPA Decision 338 (Complaint HA25-00348)', matching gold P3 (Decision 338 - child medical records access dispute)."
+  }
+]

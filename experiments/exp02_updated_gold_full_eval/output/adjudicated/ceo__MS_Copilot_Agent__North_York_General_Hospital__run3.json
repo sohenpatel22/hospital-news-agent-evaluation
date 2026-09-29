@@ -1,0 +1,9 @@
+[
+  {
+    "item_index": 15,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8,
+    "needs_human_check": false
+  }
+]

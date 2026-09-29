@@ -1,0 +1,30 @@
+[
+  {
+    "item_index": 22,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8,
+    "needs_human_check": false
+  },
+  {
+    "item_index": 0,
+    "bucket": "A",
+    "reason": "Same Simone Atungo claim -- still pending.",
+    "confidence": 0.6,
+    "needs_human_check": true
+  },
+  {
+    "item_index": 16,
+    "bucket": "A",
+    "reason": "Same Kevin Wasko claim as run2 idx15 -- still pending.",
+    "confidence": 0.55,
+    "needs_human_check": true
+  },
+  {
+    "item_index": 17,
+    "bucket": "A",
+    "reason": "Same Maral Nadjafi claim as run2 idx16 -- still pending.",
+    "confidence": 0.55,
+    "needs_human_check": true
+  }
+]

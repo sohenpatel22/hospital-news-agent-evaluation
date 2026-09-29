@@ -1,0 +1,236 @@
+[
+    {
+        "Hospital": "Hospital",
+        "Issue": "Issue",
+        "Paragraph blurb": "Paragraph blurb",
+        "Date": "Date",
+        "Source": "Source",
+        "Source link": "Source link",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO appointment (Leah Levesque)",
+        "Paragraph blurb": "The ARH Board appointed Leah Levesque as President and CEO, succeeding Eric Hanna who retired after 13 years; Levesque’s first day was October 1, 2021, after previously serving at ARH and most recently as VP of Patient Care at Queensway Carleton Hospital.",
+        "Date": "August 19, 2021",
+        "Source": "Arnprior Regional Health media release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arnprior-regional-health-will-welcome-new-president-and-ceo-this-fall/ [linkedin][arnpriorregionalhealth]",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Board director turnover (AGM 2022)",
+        "Paragraph blurb": "At the June 28, 2022 AGM, the Board recognized outgoing directors Barb Darlow (Board Chair 2015–2021), Donna Anderson, Barbara Kieley, Mark MacGown, and Tyler Pirie; Beth Ciavaglia was appointed as a new Board Director and Maggie Harbert joined the Quality Committee.",
+        "Date": "July 4, 2022",
+        "Source": "Arnprior Regional Health media release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arh-board-celebrates-long-serving-directors-and-appoints-new-director-and-committee-member/ [arnpriorregionalhealth]",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO retirement announced (Leah Levesque)",
+        "Paragraph blurb": "The Board Chair announced that President and CEO Leah Levesque would retire in late June 2024 after more than four decades in health care, prompting a CEO recruitment process.",
+        "Date": "December 7, 2023",
+        "Source": "Arnprior Regional Health news post",
+        "Source link": "https://www.arnpriorregionalhealth.ca/foundation/our-latest-news/page/4/ [arnpriorregionalhealth][algonquincollege][algonquincollege]",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO appointment (Jeremy Stevenson)",
+        "Paragraph blurb": "Following a competitive search, the Board named Jeremy Stevenson (then CEO of St. Joseph’s General Hospital Elliot Lake) as the next President and CEO; he started August 18, 2024, succeeding Leah Levesque.",
+        "Date": "May 10, 2024",
+        "Source": "Arnprior Regional Health media release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/board-announces-new-ceo/ [arnpriorregionalhealth][renfrewtoday][boyden]",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Board Chair transition",
+        "Paragraph blurb": "After three years as Chair, Cathy Jordan completed her term; Oliver Jacob was elected Board Chair for a three-year term to June 2027, with Jordan continuing as a Board member.",
+        "Date": "July 3, 2024",
+        "Source": "Arnprior Regional Health media release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arh-board-of-directors-appoints-new-board-chair/ [arnpriorregionalhealth][arnpriorregionalhealth]",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "CEO departure (Jeremy Stevenson)",
+        "Paragraph blurb": "Jeremy Stevenson stepped down from his role as President and CEO on June 2, 2026; the Board thanked him for his leadership on strategic goals and the regional Epic EMR implementation.",
+        "Date": "June 3, 2026",
+        "Source": "Arnprior Regional Health news post",
+        "Source link": "https://www.arnpriorregionalhealth.ca/category/whats-new/page/36/ [arnpriorregionalhealth][arnpriorregionalhealth]",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Interim CEO appointment (Pierre Noel)",
+        "Paragraph blurb": "The Board appointed Pierre Noel (former Pembroke Regional Hospital CEO) as Interim President and CEO, effective July 13, 2026, while a permanent CEO search continues; Raeline McGrath served as Acting President and CEO in the interim period.",
+        "Date": "July 9, 2026",
+        "Source": "Arnprior Regional Health media release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arh-appoints-pierre-noel-as-interim-president-and-ceo/ [arnpriorregionalhealth][arnpriorregionalhealth]",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health",
+        "Issue": "CEO/President Changes",
+        "Paragraph blurb": "Altaf Stationwala departs after 14 years to become President and CEO of Unity Health Toronto; Mary-Agnes Wilson appointed Interim President and CEO",
+        "Date": "March 28, 2025 (announcement); June 27, 2025 (last day)",
+        "Source": "Mackenzie Health",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~403-A-leadership-update-from-Mackenzie-Health) [mackenziehealth](https://www.mackenziehealth.ca/about-us/news/~403-A-leadership-update-from-Mackenzie-Health)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health",
+        "Issue": "CEO/President Changes",
+        "Paragraph blurb": "Carmine Stumpo appointed as new permanent President and CEO, effective April 2026",
+        "Date": "December 5, 2025",
+        "Source": "Mackenzie Health / Orillia Soldiers' Memorial Hospital",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~438-announcing-mackenzie-health-s-new-president-and-ceo) [mackenziehealth](https://www.mackenziehealth.ca/about-us/news/~438-announcing-mackenzie-health-s-new-president-and-ceo)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health",
+        "Issue": "Board Chair Changes",
+        "Paragraph blurb": "Fay Lim-Lambie appointed Chair of the Board of Directors, succeeding Mark Falbo",
+        "Date": "July 14, 2021",
+        "Source": "Mackenzie Health",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~278-A-new-era-for-Mackenzie-Health) [mackenziehealth](https://www.mackenziehealth.ca/about-us/news/~278-A-new-era-for-Mackenzie-Health)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health",
+        "Issue": "Board Chair Changes",
+        "Paragraph blurb": "Stephanie Zee appointed Chair of the Board of Directors, succeeding Fay Lim-Lambie",
+        "Date": "June 13, 2024",
+        "Source": "Mackenzie Health",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~374-Mackenzie-Health-and-Mackenzie-Health-Foundation-appoint-new-chairs-to-their-board-of-directors) [mackenziehealth](https://www.mackenziehealth.ca/support-us/foundation/about-us/board-of-directors)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health",
+        "Issue": "Board Chair Changes",
+        "Paragraph blurb": "John Fursey appointed Chair of the Board of Directors, succeeding Stephanie Zee",
+        "Date": "June 19, 2025",
+        "Source": "Mackenzie Health",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~413-Welcoming-the-new-Chair-of-the-Mackenzie-Health-Board-of-Directors) [mackenziehealth](https://www.mackenziehealth.ca/about-us/news/~417-Mackenzie-Health-Insider-July-2025)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health",
+        "Issue": "Board Vice-Chair Changes",
+        "Paragraph blurb": "Ruby Philip-Katyal and Joby McKenzie appointed Vice-Chairs to the Board of Directors",
+        "Date": "June 20, 2024",
+        "Source": "Mackenzie Health",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~374-Mackenzie-Health-and-Mackenzie-Health-Foundation-appoint-new-chairs-to-their-board-of-directors) [mackenziehealth](https://www.mackenziehealth.ca/about-us/news/~374-Mackenzie-Health-and-Mackenzie-Health-Foundation-appoint-new-chairs-to-their-board-of-directors)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health",
+        "Issue": "Board Member Changes",
+        "Paragraph blurb": "Four new board members welcomed; Mark Falbo, Gary D'Andrea, Anthony Ianni and Len Koroneos complete their terms",
+        "Date": "July 14, 2021",
+        "Source": "Mackenzie Health",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~278-A-new-era-for-Mackenzie-Health) [mackenziehealth](https://www.mackenziehealth.ca/about-us/news/~278-A-new-era-for-Mackenzie-Health)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health",
+        "Issue": "Board Member Changes",
+        "Paragraph blurb": "Fay Lim-Lambie and Ruby Philip-Katyal complete their board service",
+        "Date": "June 19, 2025",
+        "Source": "Mackenzie Health",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~413-Welcoming-the-new-Chair-of-the-Mackenzie-Health-Board-of-Directors) [mackenziehealth](https://www.mackenziehealth.ca/about-us/news/~413-Welcoming-the-new-Chair-of-the-Mackenzie-Health-Board-of-Directors)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health Foundation",
+        "Issue": "President and CEO Changes",
+        "Paragraph blurb": "Nicole McCahon appointed President and CEO of Mackenzie Health Foundation, succeeding Luci Anderson (Interim)",
+        "Date": "May 23, 2023 (announcement); June 19, 2023 (effective date)",
+        "Source": "Mackenzie Health Foundation",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/support-us/foundation/about-us/news/article/~340-Nicole-McCahon-announced-as-Mackenzie-Health-Foundation-s-new-President-and-CEO) [mackenziehealth](https://www.mackenziehealth.ca/support-us/foundation/about-us/news/article/~340-Nicole-McCahon-announced-as-Mackenzie-Health-Foundation-s-new-President-and-CEO)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    },
+    {
+        "Hospital": "## Mackenzie Health Foundation",
+        "Issue": "Board Chair Changes",
+        "Paragraph blurb": "Mario Paura appointed Chair of the Foundation Board of Directors, succeeding Moris Pilla",
+        "Date": "June 19, 2024",
+        "Source": "Mackenzie Health Foundation",
+        "Source link": "[Source link](https://www.mackenziehealth.ca/about-us/news/~374-Mackenzie-Health-and-Mackenzie-Health-Foundation-appoint-new-chairs-to-their-board-of-directors) [mackenziehealth](https://www.mackenziehealth.ca/support-us/foundation/about-us/board-of-directors)",
+        "_meta": {
+            "file": "Run 1.docx",
+            "path": "Raw LLM Responses\\Perplexity\\Mackenzie Health\\Run 1.docx",
+            "run": "Run 1"
+        }
+    }
+]

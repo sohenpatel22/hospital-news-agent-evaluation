@@ -1,0 +1,8 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "P3",
+    "match_confidence": "medium",
+    "match_reason": "Same 'inadequate search for a child's PHI' topic as the Decision-338-labelled items in runs 1/3/5 of this same hospital/system; no other Hamilton gold decision matches this theme."
+  }
+]

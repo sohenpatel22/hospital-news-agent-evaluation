@@ -1,0 +1,37 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Privacy Manager recruitment and PHIPA program oversight",
+      "phipa_id": null,
+      "date": "2026-05-25",
+      "source": "William Osler Health System / SmartRecruiters job posting",
+      "link": "https://jobs.smartrecruiters.com/WilliamOslerHealthSystem1/744000128259218-manager-privacy"
+    },
+    {
+      "name_or_issue": "New Epic hospital information system, electronic records, MyChart access, and AI privacy safeguards",
+      "phipa_id": null,
+      "date": "2026-06-15",
+      "source": "William Osler Health System media release",
+      "link": "https://www.williamoslerhs.ca/news/posts/osler-to-launch-new-hospital-information-system-in-october-2026/"
+    },
+    {
+      "name_or_issue": "Public statement of PHIPA information practices and patient privacy rights",
+      "phipa_id": null,
+      "date": "2026-06-20",
+      "source": "William Osler Health System, \"Protecting Your Privacy\"",
+      "link": "https://www.williamoslerhs.ca/visiting-us/patient-privacy-and-safety/protecting-your-privacy/"
+    },
+    {
+      "name_or_issue": "Website privacy policy referencing PHIPA compliance",
+      "phipa_id": null,
+      "date": "2026-06-17",
+      "source": "William Osler Health System, \"Privacy Policy\"",
+      "link": "https://www.williamoslerhs.ca/privacy-policy/"
+    }
+  ],
+  "task": "phipa",
+  "model": "Perplexity",
+  "hospital": "William Osler Health System",
+  "run_number": 1
+}

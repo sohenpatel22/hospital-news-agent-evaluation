@@ -1,0 +1,91 @@
+task,model,hospital,is_zero_hospital,model_declared_none,abstention_correct,gold_count,extracted_count,matched,recall,precision,f1
+phipa,MS Copilot Agent,Anson General Hospital,True,True,True,0,0,0,,,
+phipa,MS Copilot Agent,Baycrest Hospital,False,True,,0,0,0,,,
+phipa,MS Copilot Agent,Geraldton District Hospital,True,True,True,0,0,0,,,
+phipa,MS Copilot Agent,Hamilton Health Sciences Corporation,False,False,,0,7,0,,0.0,
+phipa,MS Copilot Agent,The Ottawa Hospital,False,False,,2,10,2,1.0,0.2,0.333
+phipa,MS Copilot Agent,William Osler Health System,False,True,,0,10,0,,0.0,
+phipa,ChatGPT,Anson General Hospital,True,True,True,0,0,0,,,
+phipa,ChatGPT,Baycrest Hospital,False,True,,0,0,0,,,
+phipa,ChatGPT,Geraldton District Hospital,True,True,True,0,0,0,,,
+phipa,ChatGPT,Hamilton Health Sciences Corporation,False,True,,0,0,0,,,
+phipa,ChatGPT,The Ottawa Hospital,False,False,,2,2,1,0.5,0.5,0.5
+phipa,ChatGPT,William Osler Health System,False,False,,0,1,0,,0.0,
+phipa,Claude,Anson General Hospital,True,True,True,0,0,0,,,
+phipa,Claude,Baycrest Hospital,False,True,,0,0,0,,,
+phipa,Claude,Geraldton District Hospital,True,True,True,0,0,0,,,
+phipa,Claude,Hamilton Health Sciences Corporation,False,True,,0,0,0,,,
+phipa,Claude,The Ottawa Hospital,False,True,,2,0,0,0.0,,
+phipa,Claude,William Osler Health System,False,True,,0,0,0,,,
+phipa,Gemini,Anson General Hospital,True,True,True,0,0,0,,,
+phipa,Gemini,Baycrest Hospital,False,True,,0,0,0,,,
+phipa,Gemini,Geraldton District Hospital,True,True,True,0,0,0,,,
+phipa,Gemini,Hamilton Health Sciences Corporation,False,False,,0,1,0,,0.0,
+phipa,Gemini,The Ottawa Hospital,False,True,,2,0,0,0.0,,
+phipa,Gemini,William Osler Health System,False,False,,0,1,0,,0.0,
+phipa,Perplexity,Anson General Hospital,True,True,True,0,0,0,,,
+phipa,Perplexity,Baycrest Hospital,False,True,,0,0,0,,,
+phipa,Perplexity,Geraldton District Hospital,True,True,True,0,0,0,,,
+phipa,Perplexity,Hamilton Health Sciences Corporation,False,True,,0,0,0,,,
+phipa,Perplexity,The Ottawa Hospital,False,True,,2,0,0,0.0,,
+phipa,Perplexity,William Osler Health System,False,False,,0,4,0,,0.0,
+ceo,MS Copilot Agent,Arnprior Regional Health,False,False,,13,11,11,0.846,1.0,0.917
+ceo,MS Copilot Agent,Mackenzie Health,False,False,,14,0,0,0.0,,
+ceo,MS Copilot Agent,North York General Hospital,False,False,,19,12,11,0.579,0.917,0.71
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,False,False,,23,8,8,0.348,1.0,0.516
+ceo,MS Copilot Agent,Sensenbrenner Hospital,False,False,,0,18,0,,0.0,
+ceo,MS Copilot Agent,Windsor Regional Hospital,False,False,,11,0,0,0.0,,
+ceo,ChatGPT,Arnprior Regional Health,False,False,,13,0,0,0.0,,
+ceo,ChatGPT,Mackenzie Health,False,False,,14,0,0,0.0,,
+ceo,ChatGPT,North York General Hospital,False,False,,19,8,8,0.421,1.0,0.593
+ceo,ChatGPT,Red Lake Margaret Cochenour Memorial Hospital,False,False,,23,0,0,0.0,,
+ceo,ChatGPT,Sensenbrenner Hospital,False,False,,0,8,0,,0.0,
+ceo,ChatGPT,Windsor Regional Hospital,False,False,,11,0,0,0.0,,
+ceo,Claude,Arnprior Regional Health,False,False,,13,8,8,0.615,1.0,0.762
+ceo,Claude,Mackenzie Health,False,False,,14,0,0,0.0,,
+ceo,Claude,North York General Hospital,False,False,,19,0,0,0.0,,
+ceo,Claude,Red Lake Margaret Cochenour Memorial Hospital,False,False,,23,0,0,0.0,,
+ceo,Claude,Sensenbrenner Hospital,False,False,,0,0,0,,,
+ceo,Claude,Windsor Regional Hospital,False,False,,11,8,6,0.545,0.75,0.632
+ceo,Gemini,Arnprior Regional Health,False,False,,13,2,2,0.154,1.0,0.267
+ceo,Gemini,Mackenzie Health,False,False,,14,8,7,0.5,0.875,0.636
+ceo,Gemini,North York General Hospital,False,False,,19,0,0,0.0,,
+ceo,Gemini,Red Lake Margaret Cochenour Memorial Hospital,False,True,,23,0,0,0.0,,
+ceo,Gemini,Sensenbrenner Hospital,False,True,,0,0,0,,,
+ceo,Gemini,Windsor Regional Hospital,False,False,,11,6,5,0.455,0.833,0.588
+ceo,Perplexity,Arnprior Regional Health,False,False,,13,0,0,0.0,,
+ceo,Perplexity,Mackenzie Health,False,False,,14,0,0,0.0,,
+ceo,Perplexity,North York General Hospital,False,False,,19,0,0,0.0,,
+ceo,Perplexity,Red Lake Margaret Cochenour Memorial Hospital,False,False,,23,5,5,0.217,1.0,0.357
+ceo,Perplexity,Sensenbrenner Hospital,False,False,,0,0,0,,,
+ceo,Perplexity,Windsor Regional Hospital,False,False,,11,0,0,0.0,,
+supervisors,MS Copilot Agent,London Health Sciences Centre,False,False,,1,3,1,1.0,0.333,0.5
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,False,False,,1,3,1,1.0,0.333,0.5
+supervisors,MS Copilot Agent,Sante Manitouwadge Health,True,True,True,0,0,0,,,
+supervisors,MS Copilot Agent,Sault Area Hospital,True,True,True,0,0,0,,,
+supervisors,MS Copilot Agent,Sinai Health System,True,True,True,0,0,0,,,
+supervisors,MS Copilot Agent,Stevenson Memorial Hospital,False,False,,2,4,2,1.0,0.5,0.667
+supervisors,ChatGPT,London Health Sciences Centre,False,False,,1,1,1,1.0,1.0,1.0
+supervisors,ChatGPT,Renfrew Victoria Hospital,False,False,,1,1,1,1.0,1.0,1.0
+supervisors,ChatGPT,Sante Manitouwadge Health,True,True,True,0,0,0,,,
+supervisors,ChatGPT,Sault Area Hospital,True,True,True,0,0,0,,,
+supervisors,ChatGPT,Sinai Health System,True,True,True,0,0,0,,,
+supervisors,ChatGPT,Stevenson Memorial Hospital,False,False,,2,3,2,1.0,0.667,0.8
+supervisors,Claude,London Health Sciences Centre,False,False,,1,1,1,1.0,1.0,1.0
+supervisors,Claude,Renfrew Victoria Hospital,False,False,,1,1,1,1.0,1.0,1.0
+supervisors,Claude,Sante Manitouwadge Health,True,True,True,0,0,0,,,
+supervisors,Claude,Sault Area Hospital,True,True,True,0,0,0,,,
+supervisors,Claude,Sinai Health System,True,True,True,0,0,0,,,
+supervisors,Claude,Stevenson Memorial Hospital,False,False,,2,3,2,1.0,0.667,0.8
+supervisors,Gemini,London Health Sciences Centre,False,False,,1,1,1,1.0,1.0,1.0
+supervisors,Gemini,Renfrew Victoria Hospital,False,False,,1,1,1,1.0,1.0,1.0
+supervisors,Gemini,Sante Manitouwadge Health,True,True,True,0,0,0,,,
+supervisors,Gemini,Sault Area Hospital,True,True,True,0,0,0,,,
+supervisors,Gemini,Sinai Health System,True,True,True,0,0,0,,,
+supervisors,Gemini,Stevenson Memorial Hospital,False,False,,2,3,2,1.0,0.667,0.8
+supervisors,Perplexity,London Health Sciences Centre,False,False,,1,1,1,1.0,1.0,1.0
+supervisors,Perplexity,Renfrew Victoria Hospital,False,False,,1,1,1,1.0,1.0,1.0
+supervisors,Perplexity,Sante Manitouwadge Health,True,True,True,0,0,0,,,
+supervisors,Perplexity,Sault Area Hospital,True,True,True,0,0,0,,,
+supervisors,Perplexity,Sinai Health System,True,True,True,0,0,0,,,
+supervisors,Perplexity,Stevenson Memorial Hospital,False,False,,2,2,2,1.0,1.0,1.0

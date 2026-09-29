@@ -1,0 +1,29 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Eric Hanna - Supervisor (s.9)",
+      "person_name": "Eric Hanna",
+      "role": "Supervisor",
+      "appointment_date": "2024-09-26",
+      "termination_date": "2025-06-08",
+      "order_in_council": "Order in Council 1271/2024",
+      "source": "Government of Ontario, Ministry of Health, Order in Council 1271/2024",
+      "link": "https://www.ontario.ca"
+    },
+    {
+      "name_or_issue": "Carmine Stumpo - Supervisor (s.9)",
+      "person_name": "Carmine Stumpo",
+      "role": "Supervisor",
+      "appointment_date": "2025-06-09",
+      "termination_date": null,
+      "order_in_council": "Order in Council 767/2025",
+      "source": "Government of Ontario, Ministry of Health, Order in Council 767/2025",
+      "link": "https://www.ontario.ca"
+    }
+  ],
+  "task": "supervisors",
+  "model": "MS Copilot Agent",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 4
+}

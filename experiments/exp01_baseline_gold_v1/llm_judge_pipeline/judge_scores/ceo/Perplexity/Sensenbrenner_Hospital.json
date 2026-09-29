@@ -1,0 +1,19 @@
+{
+  "relevance": 1,
+  "relevance_reason": "The model returned an empty events list but did not explicitly declare no results, leaving the response ambiguous rather than directly answering the user's intent about leadership changes at Sensenbrenner Hospital.",
+  "groundedness": 0,
+  "groundedness_reason": "No sources are cited and no factual claims are made, so groundedness cannot be established.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard has zero events, and the model returned zero events, so the response correctly captures the full (empty) ground truth.",
+  "missed_items": [],
+  "answer_relevancy": 0.33,
+  "answer_relevancy_reason": "Because the model returned an empty list without explanation, the questions it would answer (e.g., 'Did this model find any results?' or 'What did the model output?') mostly relate to the model's output format rather than the user's actual intent about hospital leadership changes.",
+  "generated_questions": [
+    "Did the model find any leadership changes at Sensenbrenner Hospital?",
+    "What is the format of the model's output for Sensenbrenner Hospital?",
+    "Were there any CEO or board member changes at Sensenbrenner Hospital in the last 5 years according to this model?"
+  ],
+  "task": "ceo",
+  "model": "Perplexity",
+  "hospital": "Sensenbrenner Hospital"
+}

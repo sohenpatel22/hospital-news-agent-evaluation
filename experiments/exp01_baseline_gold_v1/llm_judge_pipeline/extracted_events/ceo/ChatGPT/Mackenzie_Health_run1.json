@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Rajesh Uttamchandani - Board Director (outgoing)\",\n      \"person_name\": \"Rajesh Uttamchandani\",\n      \"role\": \"Board Direc",
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "Mackenzie Health",
+  "run_number": 1
+}

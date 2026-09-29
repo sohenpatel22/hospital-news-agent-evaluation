@@ -1,0 +1,31 @@
+System,Error Category,Proportion
+ChatGPT,Out of window,0.0
+ChatGPT,Out of scope,0.0
+ChatGPT,Wrong person,0.0
+ChatGPT,Wrong role,0.0
+ChatGPT,Hallucinated person,0.0
+ChatGPT,Date mismatch,0.0
+Claude,Out of window,0.10205097617698483
+Claude,Out of scope,0.08666230480582625
+Claude,Wrong person,0.290536890063139
+Claude,Wrong role,0.3570886249953284
+Claude,Hallucinated person,0.05392366353597906
+Claude,Date mismatch,0.10973754042274242
+Gemini,Out of window,0.04382334041761621
+Gemini,Out of scope,0.4398390410725954
+Gemini,Wrong person,0.026983085006499482
+Gemini,Wrong role,0.048439387316698765
+Gemini,Hallucinated person,0.07520208798038536
+Gemini,Date mismatch,0.3657130582062047
+Perplexity,Out of window,0.007459476597033605
+Perplexity,Out of scope,0.1539085897964174
+Perplexity,Wrong person,0.293948262225839
+Perplexity,Wrong role,0.2275616277834515
+Perplexity,Hallucinated person,0.04376203479919194
+Perplexity,Date mismatch,0.2733600087980666
+MS Copilot Agent,Out of window,0.08129027258206216
+MS Copilot Agent,Out of scope,0.10896169757148051
+MS Copilot Agent,Wrong person,0.25452298889343616
+MS Copilot Agent,Wrong role,0.18904898295943304
+MS Copilot Agent,Hallucinated person,0.2579580995088805
+MS Copilot Agent,Date mismatch,0.10821795848470765

@@ -1,0 +1,20 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "S1",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'janice skot' == 'janice skot'); hospital agrees (Stevenson Memorial Hospital)"
+  },
+  {
+    "item_index": 1,
+    "matched_gold_item_id": "S2",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'eric hanna' == 'eric hanna'); hospital agrees (Stevenson Memorial Hospital)"
+  },
+  {
+    "item_index": 2,
+    "matched_gold_item_id": "S3",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'carmine stumpo' == 'carmine stumpo'); hospital agrees (Stevenson Memorial Hospital)"
+  }
+]

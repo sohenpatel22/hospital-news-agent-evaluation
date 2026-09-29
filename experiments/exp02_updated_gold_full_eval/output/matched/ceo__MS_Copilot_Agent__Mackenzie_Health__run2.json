@@ -1,0 +1,218 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "C13",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'carmine stumpo' == 'carmine stumpo'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 1,
+    "matched_gold_item_id": "C13",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'carmine stumpo' == 'carmine stumpo'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 2,
+    "matched_gold_item_id": "C7",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'mary agnes wilson' == 'mary agnes wilson'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 3,
+    "matched_gold_item_id": "C6",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'atlaf stationwala' == 'atlaf stationwala'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 4,
+    "matched_gold_item_id": "C12",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'john fursey' == 'john fursey'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 5,
+    "matched_gold_item_id": "C17",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C5 ('Joby McKenzie - Board SECOND Vice Chair (incoming)', 2024-06-13) to C17 ('Joby McKenzie - Board Vice Chair (incoming)', 2025-06-19) based on the item's own date_normalised='2025-06-19' and direction='incoming' fitting the new gold row's event better (fit score 6.00 vs 0.94). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 6 gold rows."
+  },
+  {
+    "item_index": 6,
+    "matched_gold_item_id": "C11",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'atul mehta' == 'atul mehta'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 7,
+    "matched_gold_item_id": "C8",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C2 ('Stephanie Zee - Board Vice Chair (incoming)', 2021-07-14) to C8 ('Stephanie Zee - Board Chair (outgoing)', 2025-06-19) based on the item's own date_normalised='2025-06-19' and direction='outgoing' fitting the new gold row's event better (fit score 6.00 vs -6.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 4 gold rows."
+  },
+  {
+    "item_index": 8,
+    "matched_gold_item_id": "C9",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C1 ('Fay Lim-Lambie - Board Chair (incoming)', 2021-07-14) to C9 ('Fay Lim-Lambie - Board Member (outgoing)', 2025-06-19) based on the item's own date_normalised='2025-06-19' and direction='outgoing' fitting the new gold row's event better (fit score 6.00 vs -6.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 3 gold rows."
+  },
+  {
+    "item_index": 9,
+    "matched_gold_item_id": "C10",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C4 ('Ruby Philip-Katyal - Board VP Chair (incoming)', 2024-06-13) to C10 ('Ruby Philip-Katyal - Board Member (outgoing)', 2025-06-19) based on the item's own date_normalised='2025-06-19' and direction='outgoing' fitting the new gold row's event better (fit score 6.00 vs -5.06). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 4 gold rows."
+  },
+  {
+    "item_index": 10,
+    "matched_gold_item_id": "C162",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C21 ('Heidi Francis - Board Director (Confirmed Active)', None) to C162 ('Heidi Francis - Board Director (incoming)', 2025-06-19) based on the item's own date_normalised='2025-06-19' and direction='incoming' fitting the new gold row's event better (fit score 6.00 vs 0.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 3 gold rows."
+  },
+  {
+    "item_index": 11,
+    "matched_gold_item_id": "C163",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C24 ('Viki Lazaris - Board Director (Confirmed Active)', None) to C163 ('Viki Lazaris - Board Director (incoming)', 2025-06-19) based on the item's own date_normalised='2025-06-19' and direction='incoming' fitting the new gold row's event better (fit score 6.00 vs 0.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 2 gold rows."
+  },
+  {
+    "item_index": 12,
+    "matched_gold_item_id": "C164",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C29 ('Dr. Jun Yuan - Board Director (Confirmed Active)', None) to C164 ('Jun Yuan - Board Director (incoming)', 2025-06-19) based on the item's own date_normalised='2025-06-19' and direction='incoming' fitting the new gold row's event better (fit score 6.00 vs 0.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 2 gold rows."
+  },
+  {
+    "item_index": 13,
+    "matched_gold_item_id": "C165",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C23 ('Dr. Kimia Honarmand - VICE President, Professional Staff Association (Confirmed Active, ex-officio)', None) to C165 ('Dr. Kimia Honarmand - Vice President, Professional Staff Association (incoming, ex-officio)', 2025-06-19) based on the item's own date_normalised='2025-06-19' and direction='incoming' fitting the new gold row's event better (fit score 6.00 vs 0.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 2 gold rows."
+  },
+  {
+    "item_index": 14,
+    "matched_gold_item_id": "C6",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'atlaf stationwala' == 'atlaf stationwala'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 15,
+    "matched_gold_item_id": "C7",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'mary agnes wilson' == 'mary agnes wilson'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 16,
+    "matched_gold_item_id": "C3",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C2 ('Stephanie Zee - Board Vice Chair (incoming)', 2021-07-14) to C3 ('Stephanie Zee - Board Chair (incoming from VP)', 2024-06-13) based on the item's own date_normalised='2024-06-13' and direction='incoming' fitting the new gold row's event better (fit score 6.00 vs 0.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 4 gold rows."
+  },
+  {
+    "item_index": 17,
+    "matched_gold_item_id": "C4",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'ruby philip katyal' == 'ruby philip katyal'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 18,
+    "matched_gold_item_id": "C5",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'joby mckenzie' == 'joby mckenzie'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 19,
+    "matched_gold_item_id": "C22",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'peter hargitai' == 'peter hargitai'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 20,
+    "matched_gold_item_id": "C212",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C1 ('Fay Lim-Lambie - Board Chair (incoming)', 2021-07-14) to C212 ('Fay Lim-Lambie - Board Chair (outgoing, stepped down to director role)', 2024-05-23) based on the item's own date_normalised='2024-05-23' and direction='outgoing' fitting the new gold row's event better (fit score 6.00 vs -6.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 3 gold rows."
+  },
+  {
+    "item_index": 21,
+    "matched_gold_item_id": "C1",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'fay lim lambie' == 'fay lim lambie'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 22,
+    "matched_gold_item_id": "C3",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C2 ('Stephanie Zee - Board Vice Chair (incoming)', 2021-07-14) to C3 ('Stephanie Zee - Board Chair (incoming from VP)', 2024-06-13) based on the item's own date_normalised='2023-06-15' and direction='incoming' fitting the new gold row's event better (fit score 0.98 vs 0.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 4 gold rows."
+  },
+  {
+    "item_index": 23,
+    "matched_gold_item_id": "C5",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'joby mckenzie' == 'joby mckenzie'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 24,
+    "matched_gold_item_id": "C209",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C22 ('Peter Hargitai - Board Director (Confirmed Active)', None) to C209 ('Peter Hargitai - Treasurer of the Board (2023/24 and 2024/25 terms)', 2023-06-15) based on the item's own date_normalised='2023-06-15' and direction='incoming' fitting the new gold row's event better (fit score 3.00 vs 0.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 3 gold rows."
+  },
+  {
+    "item_index": 25,
+    "matched_gold_item_id": "C210",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C6 ('Altaf Stationwala - President/CEO (outgoing after 14 yrs)', 2025-06-27) to C210 ('Altaf Stationwala - Secretary of the Board (2023/24 term)', 2023-06-15) based on the item's own date_normalised='2023-06-15' and direction='incoming' fitting the new gold row's event better (fit score 3.00 vs -6.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 2 gold rows."
+  },
+  {
+    "item_index": 26,
+    "matched_gold_item_id": "C1",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'fay lim lambie' == 'fay lim lambie'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 27,
+    "matched_gold_item_id": "C2",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'stephanie zee' == 'stephanie zee'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 28,
+    "matched_gold_item_id": "C210",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C6 ('Altaf Stationwala - President/CEO (outgoing after 14 yrs)', 2025-06-27) to C210 ('Altaf Stationwala - Secretary of the Board (2023/24 term)', 2023-06-15) based on the item's own date_normalised='2022-06-20' and direction='incoming' fitting the new gold row's event better (fit score -2.00 vs -6.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 2 gold rows."
+  },
+  {
+    "item_index": 29,
+    "matched_gold_item_id": "C5",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'joby mckenzie' == 'joby mckenzie'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 30,
+    "matched_gold_item_id": "C208",
+    "match_confidence": "medium",
+    "match_reason": "AUTO-REPAIRED 2026-08-31 (multi-event matching bug fix): re-pointed from C26 ('Mario Paura - Chair, Mackenzie Health Foundation / Board Director (Confirmed Active)', None) to C208 ('Mario Paura - Board Director (incoming as voting Member)', 2024-10-10) based on the item's own date_normalised='2024-06-19' and direction='incoming' fitting the new gold row's event better (fit score 2.37 vs 0.00). Original match was 'exact name, same hospital' with no event-level disambiguation among this person's 3 gold rows."
+  },
+  {
+    "item_index": 31,
+    "matched_gold_item_id": "C110",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'moris pilla' == 'moris pilla'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 32,
+    "matched_gold_item_id": "C111",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'doug williamson' == 'doug williamson'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 33,
+    "matched_gold_item_id": "C16",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'nicole cahon' == 'nicole cahon'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 34,
+    "matched_gold_item_id": "C186",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'luci anderson' == 'luci anderson'); hospital agrees (Mackenzie Health)"
+  },
+  {
+    "item_index": 35,
+    "matched_gold_item_id": "C16",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'nicole cahon' == 'nicole cahon'); hospital agrees (Mackenzie Health)"
+  }
+]

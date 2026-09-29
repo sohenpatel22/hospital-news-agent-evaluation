@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by listing hospital leadership and board member changes for Sensenbrenner Hospital.",
+  "groundedness": 2,
+  "groundedness_reason": "Most claims cite Sensenbrenner Hospital sources (senhosp.ca and Municipality of Moonbeam hosted meeting minutes/packages), but several entries lack direct links and some dates are vague or unverified, reducing full confidence in groundedness.",
+  "completeness": 0.0,
+  "completeness_reason": "The gold standard expects zero events for this hospital, but the model hallucinated 18 events, meaning it fabricated results where none should exist.",
+  "missed_items": [],
+  "answer_relevancy": 0.67,
+  "answer_relevancy_reason": "Two of the three generated questions align with the original intent (board/leadership changes at Sensenbrenner Hospital), but the response's core failure is hallucinating events that don't exist, which undermines its usefulness for the actual task.",
+  "generated_questions": [
+    "Who are the recent board chair changes at Sensenbrenner Hospital?",
+    "Which board directors joined or left Sensenbrenner Hospital's board in the last 5 years?",
+    "What governance committee members were appointed at Sensenbrenner Hospital in 2023?"
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Sensenbrenner Hospital"
+}

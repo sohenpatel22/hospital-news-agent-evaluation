@@ -1,0 +1,11 @@
+System,Type,Recall
+ChatGPT,Overall,0.7557077526567296
+ChatGPT,Independent Provenance,0.6524374660780891
+Claude,Overall,0.8952797613035905
+Claude,Independent Provenance,0.7371845278573479
+Gemini,Overall,0.8527011606120127
+Gemini,Independent Provenance,0.6754473102353837
+Perplexity,Overall,0.677686309783477
+Perplexity,Independent Provenance,0.6159920996914046
+MS Copilot Agent,Overall,0.8157888036556927
+MS Copilot Agent,Independent Provenance,0.710502069075584

@@ -1,0 +1,55 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 2,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 2.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 2,
+      "person_or_issue": "Internal and external paediatric surgery review records withheld under the quality-of-care exemption",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "June 17, 2026",
+      "date_normalised": "2026-06-17",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, Order PO-4849",
+      "verbatim_snippet": "1. Hamilton Health Sciences → Internal and external paediatric surgery review records withheld under the quality-of-care exemption →\nA journalist requested Hamilton Health Sciences’ internal and external review records concerning the deaths of two paediatric patients following tonsil and adenoid surgery. The hospital denied access to four records, including an external review, a Care Journey Review, a Care Journey Review Summary, and an Occurrence Review Report. In Order PO-4849, the Information and Privacy Commissioner of Ontario upheld the hospital’s reliance on section 18(1)(j) of FIPPA, which protects quality-of-health-care information intended for assessment by a hospital committee, and found that the public-interest override did not apply. The order is PHIPA-related because the IPC expressly considered sections 4(1), 4(3), and 8(4) of PHIPA in determining the relationship between personal health information and the records remaining subject to FIPPA. The appeals were dismissed.\nDate: June 17, 2026\nSource: Information and Privacy Commissioner of Ontario, Order PO-4849\nSource link: Order PO-4849: Internal and external reviews concerning paediatric tonsil and adenoid surgery [decisions.ipc.on.ca]"
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 2,
+      "person_or_issue": "Public access to paediatric tonsil and adenoid surgery review reports",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "June 17, 2026",
+      "date_normalised": "2026-06-17",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, Order PO-4850",
+      "verbatim_snippet": "2. Hamilton Health Sciences → Public access to paediatric tonsil and adenoid surgery review reports →\nIn a separate appeal, a journalist sought the report or reports referenced in Hamilton Health Sciences’ September 30, 2024 release concerning paediatric tonsil and adenoid surgeries. Hamilton Health Sciences located four responsive records but withheld them under FIPPA’s quality-of-care exemption. In Order PO-4850, the IPC upheld the hospital’s decision, finding that section 18(1)(j) applied and that the claimed public interest did not override the exemption. The decision expressly considered PHIPA sections 4(1), 4(3), and 8(4), including the legal distinction between personal health information governed by PHIPA and other hospital records governed by FIPPA. The appeal was dismissed.\nDate: June 17, 2026\nSource: Information and Privacy Commissioner of Ontario, Order PO-4850\nSource link: Order PO-4850: Access request for paediatric surgery review reports [decisions.ipc.on.ca]"
+    },
+    {
+      "item_index": 2,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 2,
+      "person_or_issue": "Unreasonable search for a child’s complete personal health-information records",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "May 13, 2026",
+      "date_normalised": "2026-05-13",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, PHIPA Decision 338",
+      "verbatim_snippet": "3. Hamilton Health Sciences → Unreasonable search for a child’s complete personal health-information records →\nThe parents of a child requested their child’s medical records from Hamilton Health Sciences under PHIPA. Although the hospital provided records, the parents maintained that further material existed, including documentation concerning pending, indeterminate, or inconclusive test results; pathology imaging; infectious-disease consultation notes, including consultations initiated through the emergency department; and complete signed and unsigned consent or refusal forms. Hamilton Health Sciences maintained that it could provide only material in the patient chart, directed the parents to individual departments for other records, and stated that system settings prevented it from printing pending or inconclusive items. In PHIPA Decision 338, the IPC found that the hospital had not conducted a reasonable search and ordered it to perform another search for responsive records.\nDate: May 13, 2026\nSource: Information and Privacy Commissioner of Ontario, PHIPA Decision 338\nSource link: PHIPA Decision 338: Reasonable search for a child’s personal health-information records [norma.lexum.com], [decisions.ipc.on.ca]"
+    }
+  ],
+  "refusals": []
+}

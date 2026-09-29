@@ -1,0 +1,20 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "P4",
+    "match_confidence": "medium",
+    "match_reason": "Explicitly cites 'Order PO-4849', one of the three merged orders in gold P4 (PO-4849/PO-4850/PO-4851-F, same underlying event, score as ONE item per gold notes)."
+  },
+  {
+    "item_index": 1,
+    "matched_gold_item_id": "P4",
+    "match_confidence": "medium",
+    "match_reason": "Explicitly cites 'Order PO-4850', part of the same merged gold P4 event."
+  },
+  {
+    "item_index": 2,
+    "matched_gold_item_id": "P3",
+    "match_confidence": "medium",
+    "match_reason": "Explicitly cites 'PHIPA Decision 338' in the source line, matching gold P3, distinct from the PO-4849/4850 pediatric-death-review event (P4) described by the other two items in this same run."
+  }
+]

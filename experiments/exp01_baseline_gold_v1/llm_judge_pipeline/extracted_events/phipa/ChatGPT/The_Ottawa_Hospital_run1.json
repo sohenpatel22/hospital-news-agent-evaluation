@@ -1,0 +1,23 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "PHIPA Decision 326 — correction of an after-visit summary / statement of disagreement (Complaint HA23-00094)",
+      "phipa_id": "PHIPA Decision 326",
+      "date": "2026-01-26",
+      "source": "Information and Privacy Commissioner of Ontario — PHIPA Decision 326, Complaint HA23-00094",
+      "link": "IPC PHIPA Decision 326"
+    },
+    {
+      "name_or_issue": "PHIPA Decision 340 — access to electronic medical-record display formats/screenshots",
+      "phipa_id": "PHIPA Decision 340",
+      "date": "2026-06-25",
+      "source": "Information and Privacy Commissioner of Ontario — PHIPA Decision 340",
+      "link": "IPC PHIPA Decision 340"
+    }
+  ],
+  "task": "phipa",
+  "model": "ChatGPT",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 1
+}

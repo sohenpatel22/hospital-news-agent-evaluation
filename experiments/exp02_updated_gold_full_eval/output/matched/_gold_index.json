@@ -1,0 +1,6131 @@
+[
+  {
+    "gold_item_id": "C1",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Fay Lim-Lambie - Board Chair (incoming)",
+    "core_name_or_issue": "Fay Lim-Lambie",
+    "role_detail": "Board Chair (incoming)",
+    "name_variants": [
+      "fay lim lambie"
+    ],
+    "date": "2021-07-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C2",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Stephanie Zee - Board Vice Chair (incoming)",
+    "core_name_or_issue": "Stephanie Zee",
+    "role_detail": "Board Vice Chair (incoming)",
+    "name_variants": [
+      "stephanie zee"
+    ],
+    "date": "2021-07-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C3",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Stephanie Zee - Board Chair (incoming from VP)",
+    "core_name_or_issue": "Stephanie Zee",
+    "role_detail": "Board Chair (incoming from VP)",
+    "name_variants": [
+      "stephanie zee"
+    ],
+    "date": "2024-06-13",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C4",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Ruby Philip-Katyal - Board VP Chair (incoming)",
+    "core_name_or_issue": "Ruby Philip-Katyal",
+    "role_detail": "Board VP Chair (incoming)",
+    "name_variants": [
+      "ruby philip katyal"
+    ],
+    "date": "2024-06-13",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C5",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Joby McKenzie - Board SECOND Vice Chair (incoming)",
+    "core_name_or_issue": "Joby McKenzie",
+    "role_detail": "Board SECOND Vice Chair (incoming)",
+    "name_variants": [
+      "joby mckenzie"
+    ],
+    "date": "2024-06-13",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "SECOND Vice Chair, a distinct office from Vice Chair - Ruby Philip-Katyal held Vice Chair in 2024/25. McKenzie became Vice Chair only in 2025/26 (C18)."
+  },
+  {
+    "gold_item_id": "C6",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Altaf Stationwala - President/CEO (outgoing after 14 yrs)",
+    "core_name_or_issue": "Altaf Stationwala",
+    "role_detail": "President/CEO (outgoing after 14 yrs)",
+    "name_variants": [
+      "atlaf stationwala"
+    ],
+    "date": "2025-06-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C7",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mary-Agnes Wilson - Interim President/CEO (incoming)",
+    "core_name_or_issue": "Mary-Agnes Wilson",
+    "role_detail": "Interim President/CEO (incoming)",
+    "name_variants": [
+      "mary agnes wilson"
+    ],
+    "date": "2025-04-09",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C8",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Stephanie Zee - Board Chair (outgoing)",
+    "core_name_or_issue": "Stephanie Zee",
+    "role_detail": "Board Chair (outgoing)",
+    "name_variants": [
+      "stephanie zee"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C9",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Fay Lim-Lambie - Board Member (outgoing)",
+    "core_name_or_issue": "Fay Lim-Lambie",
+    "role_detail": "Board Member (outgoing)",
+    "name_variants": [
+      "fay lim lambie"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C10",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Ruby Philip-Katyal - Board Member (outgoing)",
+    "core_name_or_issue": "Ruby Philip-Katyal",
+    "role_detail": "Board Member (outgoing)",
+    "name_variants": [
+      "ruby philip katyal"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C11",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Atul Mehta - Board Treasurer (incoming)",
+    "core_name_or_issue": "Atul Mehta",
+    "role_detail": "Board Treasurer (incoming)",
+    "name_variants": [
+      "atul mehta"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C12",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "John Fursey - Board Chair (incoming)",
+    "core_name_or_issue": "John Fursey",
+    "role_detail": "Board Chair (incoming)",
+    "name_variants": [
+      "john fursey"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C13",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Carmine Stumpo - President/CEO (incoming)",
+    "core_name_or_issue": "Carmine Stumpo",
+    "role_detail": "President/CEO (incoming)",
+    "name_variants": [
+      "carmine stumpo"
+    ],
+    "date": "2026-04-13",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C14",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. David Rauchwerger - Chief of Staff",
+    "core_name_or_issue": "Dr. David Rauchwerger",
+    "role_detail": "Chief of Staff",
+    "name_variants": [
+      "david rauchwerger"
+    ],
+    "date": "2025-12-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C15",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Purvi Desai - VP Digital Health/CIO",
+    "core_name_or_issue": "Purvi Desai",
+    "role_detail": "VP Digital Health/CIO",
+    "name_variants": [
+      "purvi desai"
+    ],
+    "date": "2022-07-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C16",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Nicole McCahon - Mackenzie Health Foundation CEO",
+    "core_name_or_issue": "Nicole McCahon",
+    "role_detail": "Mackenzie Health Foundation CEO",
+    "name_variants": [
+      "nicole cahon"
+    ],
+    "date": "2023-06-19",
+    "in_scope": "FALSE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Excluded: Foundation CEO (or equivalent) - outside the agreed scope."
+  },
+  {
+    "gold_item_id": "C17",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Joby McKenzie - Board Vice Chair (incoming)",
+    "core_name_or_issue": "Joby McKenzie",
+    "role_detail": "Board Vice Chair (incoming)",
+    "name_variants": [
+      "joby mckenzie"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C18",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Joseph Amato - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Joseph Amato",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "joseph amato"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C19",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Azi Boloorchi Drake - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Azi Boloorchi Drake",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "azi boloorchi drake"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C20",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dev Chopra - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Dev Chopra",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "dev chopra"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C21",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Heidi Francis - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Heidi Francis",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "heidi francis"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C22",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Peter Hargitai - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Peter Hargitai",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "peter hargitai"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C23",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Kimia Honarmand - VICE President, Professional Staff Association (Confirmed Active, ex-officio)",
+    "core_name_or_issue": "Dr. Kimia Honarmand",
+    "role_detail": "VICE President, Professional Staff Association (Confirmed Active, ex-officio)",
+    "name_variants": [
+      "kimia honarmand"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "VICE President of the Professional Staff Association, not President. The PSA President in this period was Dr. Sarah Moore, then Dr. Khizer Amin."
+  },
+  {
+    "gold_item_id": "C24",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Viki Lazaris - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Viki Lazaris",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "viki lazaris"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C25",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Jack M. Mintz, C.M. - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Dr. Jack M. Mintz, C.M.",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "jack m mintz cm"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C26",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mario Paura - Chair, Mackenzie Health Foundation / Board Director (Confirmed Active)",
+    "core_name_or_issue": "Mario Paura",
+    "role_detail": "Chair, Mackenzie Health Foundation / Board Director (Confirmed Active)",
+    "name_variants": [
+      "mario paura"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "Foundation Chair/officer, not a Foundation CEO - in scope under the agreed rule."
+  },
+  {
+    "gold_item_id": "C27",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Jordan Silverman - VP, Professional Staff Association (Confirmed Active, ex-officio)",
+    "core_name_or_issue": "Dr. Jordan Silverman",
+    "role_detail": "VP, Professional Staff Association (Confirmed Active, ex-officio)",
+    "name_variants": [
+      "jordan silverman"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C28",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Heather Stewart - Interim EVP Clinical Services & Chief Nurse Executive (Confirmed Active)",
+    "core_name_or_issue": "Heather Stewart",
+    "role_detail": "Interim EVP Clinical Services & Chief Nurse Executive (Confirmed Active)",
+    "name_variants": [
+      "heather stewart"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C29",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Jun Yuan - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Dr. Jun Yuan",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "jun yuan"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C30",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Greg Chow - VP Finance & CFO (Confirmed Active)",
+    "core_name_or_issue": "Greg Chow",
+    "role_detail": "VP Finance & CFO (Confirmed Active)",
+    "name_variants": [
+      "greg chow"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C31",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "David Stolte - EVP Strategy and Clinical Support (Confirmed Active)",
+    "core_name_or_issue": "David Stolte",
+    "role_detail": "EVP Strategy and Clinical Support (Confirmed Active)",
+    "name_variants": [
+      "david stolte"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C32",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Allison Trenholm - VP Public Affairs, Stakeholder Relations & Chief Communications Officer (Confirmed Active)",
+    "core_name_or_issue": "Allison Trenholm",
+    "role_detail": "VP Public Affairs, Stakeholder Relations & Chief Communications Officer (Confirmed Active)",
+    "name_variants": [
+      "allison trenholm"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C33",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Eric Hanna - President/CEO (outgoing after 13 yrs)",
+    "core_name_or_issue": "Eric Hanna",
+    "role_detail": "President/CEO (outgoing after 13 yrs)",
+    "name_variants": [
+      "eric hanna"
+    ],
+    "date": "2021-09-30",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C34",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Leah Levesque - President/CEO (incoming)",
+    "core_name_or_issue": "Leah Levesque",
+    "role_detail": "President/CEO (incoming)",
+    "name_variants": [
+      "leah levesque"
+    ],
+    "date": "2021-10-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C35",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Beth Ciavaglia - Board Director (incoming)",
+    "core_name_or_issue": "Beth Ciavaglia",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "beth ciavaglia"
+    ],
+    "date": "2022-06-28",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C36",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Richard (Rick) Holock - Board Director (incoming)",
+    "core_name_or_issue": "Richard (Rick) Holock",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "richard holock",
+      "rick holock"
+    ],
+    "date": "2023-07-18",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Elected at the AGM on June 22, 2023; announced by news release July 18, 2023. Either date is correct."
+  },
+  {
+    "gold_item_id": "C37",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Pete Kenney (Kenny) - Board Director (incoming)",
+    "core_name_or_issue": "Pete Kenney (Kenny)",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "kenny kenney",
+      "pete kenney"
+    ],
+    "date": "2023-07-18",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Elected at the AGM on June 22, 2023; announced July 18, 2023. Elected for a ONE-YEAR term only, filling a term ending June 2024 - unlike Holock and Koba."
+  },
+  {
+    "gold_item_id": "C38",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Borys Koba - Board Director (incoming)",
+    "core_name_or_issue": "Borys Koba",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "borys koba"
+    ],
+    "date": "2023-07-18",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Elected at the AGM on June 22, 2023; announced July 18, 2023. Does not appear in any annual report roster, but the September 21, 2023 minutes list him as present, confirming he served."
+  },
+  {
+    "gold_item_id": "C39",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Leah Levesque - President/CEO retirement announced (to retire late June 2024)",
+    "core_name_or_issue": "Leah Levesque",
+    "role_detail": "President/CEO retirement announced (to retire late June 2024)",
+    "name_variants": [
+      "leah levesque"
+    ],
+    "date": "2023-12-07",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Announcement of intent to retire; her tenure ended late June 2024."
+  },
+  {
+    "gold_item_id": "C40",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Cathy Jordan - Board Chair (stepped down; remained Director)",
+    "core_name_or_issue": "Cathy Jordan",
+    "role_detail": "Board Chair (stepped down; remained Director)",
+    "name_variants": [
+      "cathy jordan"
+    ],
+    "date": "2024-07-03",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C41",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Curtis McGrath - Board Director (start date unconfirmed; sitting director 2023, retired 2025)",
+    "core_name_or_issue": "Curtis McGrath",
+    "role_detail": "Board Director (start date unconfirmed; sitting director 2023, retired 2025)",
+    "name_variants": [
+      "curtis mcgrath"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "START DATE UNCONFIRMED. No ARH document supports a 2021 start, and the ARH retirement post says he served 'since 2022'. Confirmed as a sitting director through 2023; retired mid-2025 (C128)."
+  },
+  {
+    "gold_item_id": "C42",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Colleen MacPhee - Board Director (re-elected at the 2023 AGM)",
+    "core_name_or_issue": "Colleen MacPhee",
+    "role_detail": "Board Director (re-elected at the 2023 AGM)",
+    "name_variants": [
+      "colleen macphee"
+    ],
+    "date": "2023-06-22",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Re-elected at the 2023 AGM per the June 22, 2023 minutes. Retired mid-2025 (C129)."
+  },
+  {
+    "gold_item_id": "C43",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Oliver Jacob - Board Chair (incoming)",
+    "core_name_or_issue": "Oliver Jacob",
+    "role_detail": "Board Chair (incoming)",
+    "name_variants": [
+      "oliver jacob"
+    ],
+    "date": "2024-07-03",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Board Vice Chair in the May 2024 CEO release; became Board Chair after the 2024 AGM for a term ending June 2027."
+  },
+  {
+    "gold_item_id": "C44",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Jeremy Stevenson - President/CEO (incoming)",
+    "core_name_or_issue": "Jeremy Stevenson",
+    "role_detail": "President/CEO (incoming)",
+    "name_variants": [
+      "jeremy stevenson"
+    ],
+    "date": "2024-08-18",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C45",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Jeremy Stevenson - President/CEO stepped down",
+    "core_name_or_issue": "Jeremy Stevenson",
+    "role_detail": "President/CEO stepped down",
+    "name_variants": [
+      "jeremy stevenson"
+    ],
+    "date": "2026-06-02",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C46",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Raeline McGrath - VP Patient Care & Chief Nursing Executive / Acting President-CEO",
+    "core_name_or_issue": "Raeline McGrath",
+    "role_detail": "VP Patient Care & Chief Nursing Executive / Acting President-CEO",
+    "name_variants": [
+      "raeline mcgrath"
+    ],
+    "date": "2026-07-09",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Served as Acting President/CEO for a few weeks between Stevenson's departure and Noel's interim appointment, while continuing as VP."
+  },
+  {
+    "gold_item_id": "C47",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Pierre Noel - Interim President/CEO (incoming)",
+    "core_name_or_issue": "Pierre Noel",
+    "role_detail": "Interim President/CEO (incoming)",
+    "name_variants": [
+      "pierre noel"
+    ],
+    "date": "2026-07-13",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C48",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Judith Gilchrist - VP Long-Term Care",
+    "core_name_or_issue": "Judith Gilchrist",
+    "role_detail": "VP Long-Term Care",
+    "name_variants": [
+      "judith gilchrist"
+    ],
+    "date": "2021-01-04",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C49",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Dr. Kathi Kovacs - Chief of Staff (incoming, joint QCH/ARH model)",
+    "core_name_or_issue": "Dr. Kathi Kovacs",
+    "role_detail": "Chief of Staff (incoming, joint QCH/ARH model)",
+    "name_variants": [
+      "kathi kovacs"
+    ],
+    "date": "2025-08-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C50",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Shyam Ramrekha - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Shyam Ramrekha",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "shyam ramrekha"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C51",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Dr. Christina Veale - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Dr. Christina Veale",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "christina veale"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C52",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Jennifer Nicholson - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Jennifer Nicholson",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "jennifer nicholson"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C53",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Jean-Pierre Blais - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Jean-Pierre Blais",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "jean pierre blais"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C54",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Dr. Matthew Dick, MBA, PharmD, RPh - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Dr. Matthew Dick, MBA, PharmD, RPh",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "matthew dick mba pharmd rph"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C55",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Sue Balmer - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Sue Balmer",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "sue balmer"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C56",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Jacqueline Asselin - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Jacqueline Asselin",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "jacqueline asselin"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "Not on the current ARH board page - departure not announced and undated. Verify status."
+  },
+  {
+    "gold_item_id": "C57",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Dr. Florin Padeanu - Chief of Staff (outgoing)",
+    "core_name_or_issue": "Dr. Florin Padeanu",
+    "role_detail": "Chief of Staff (outgoing)",
+    "name_variants": [
+      "florin padeanu"
+    ],
+    "date": "2025-08-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C58",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Janice Dunn - VP Long-Term Care and Seniors' Care",
+    "core_name_or_issue": "Janice Dunn",
+    "role_detail": "VP Long-Term Care and Seniors' Care",
+    "name_variants": [
+      "janice dunn"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C59",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Bert Clark - Board Chair (incoming)",
+    "core_name_or_issue": "Bert Clark",
+    "role_detail": "Board Chair (incoming)",
+    "name_variants": [
+      "bert clark"
+    ],
+    "date": "2021-06-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C60",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Robert Sankey - Board Governor (incoming)",
+    "core_name_or_issue": "Robert Sankey",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "robert sankey"
+    ],
+    "date": "2022-06-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C61",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Christine Williams - Board Governor (incoming)",
+    "core_name_or_issue": "Dr. Christine Williams",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "christine williams"
+    ],
+    "date": "2022-06-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C62",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Toni Rossi - Board Governor (incoming)",
+    "core_name_or_issue": "Toni Rossi",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "toni rossi"
+    ],
+    "date": "2022-06-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C63",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Karyn Popovich - President/CEO retirement announced",
+    "core_name_or_issue": "Karyn Popovich",
+    "role_detail": "President/CEO retirement announced",
+    "name_variants": [
+      "karyn popovich"
+    ],
+    "date": "2023-03-07",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C64",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Everton Gooden - President/CEO (incoming)",
+    "core_name_or_issue": "Dr. Everton Gooden",
+    "role_detail": "President/CEO (incoming)",
+    "name_variants": [
+      "everton gooden"
+    ],
+    "date": "2023-12-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C65",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Mitch Frazer - Board Chair (incoming)",
+    "core_name_or_issue": "Mitch Frazer",
+    "role_detail": "Board Chair (incoming)",
+    "name_variants": [
+      "mitch frazer"
+    ],
+    "date": "2024-06-17",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Elected Chair at the June 17, 2024 AGM; the expense disclosures record him taking office June 18. Either date is correct."
+  },
+  {
+    "gold_item_id": "C66",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Jonathan Mackey - Board Governor (incoming)",
+    "core_name_or_issue": "Jonathan Mackey",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "jonathan mackey"
+    ],
+    "date": "2024-06-17",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C67",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Gillian Akai - Board Governor (incoming)",
+    "core_name_or_issue": "Gillian Akai",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "gillian akai"
+    ],
+    "date": "2024-06-17",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C68",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Kristina Fanjoy - Board Governor (incoming)",
+    "core_name_or_issue": "Kristina Fanjoy",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "kristina fanjoy"
+    ],
+    "date": "2024-06-17",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C69",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "George Mavroudis - Board Governor (incoming)",
+    "core_name_or_issue": "George Mavroudis",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "george mavroudis"
+    ],
+    "date": "2024-06-17",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C70",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Paviter (Pavi) Binning - Board Governor (incoming)",
+    "core_name_or_issue": "Paviter (Pavi) Binning",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "pavi binning",
+      "paviter binning"
+    ],
+    "date": "2025-06-16",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C71",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Sean Cohan - Foundation Board Member (incoming)",
+    "core_name_or_issue": "Sean Cohan",
+    "role_detail": "Foundation Board Member (incoming)",
+    "name_variants": [
+      "sean cohan"
+    ],
+    "date": "2025-06-16",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C72",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Christine Cruz-Clarke - Foundation Board Member (incoming)",
+    "core_name_or_issue": "Christine Cruz-Clarke",
+    "role_detail": "Foundation Board Member (incoming)",
+    "name_variants": [
+      "christine cruz clarke"
+    ],
+    "date": "2025-06-16",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C73",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Ted Garrard - Foundation Board Member (incoming)",
+    "core_name_or_issue": "Ted Garrard",
+    "role_detail": "Foundation Board Member (incoming)",
+    "name_variants": [
+      "ted garrard"
+    ],
+    "date": "2025-06-16",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C74",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Vince Imerti - Foundation Board Member (incoming)",
+    "core_name_or_issue": "Vince Imerti",
+    "role_detail": "Foundation Board Member (incoming)",
+    "name_variants": [
+      "vince imerti"
+    ],
+    "date": "2025-06-16",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C75",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Richard So - Foundation Board Member (incoming)",
+    "core_name_or_issue": "Richard So",
+    "role_detail": "Foundation Board Member (incoming)",
+    "name_variants": [
+      "richard so"
+    ],
+    "date": "2025-06-16",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C76",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Simone Atungo, MES, ICD.D, AccBD - Board Governor (incoming)",
+    "core_name_or_issue": "Simone Atungo, MES, ICD.D, AccBD",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "simone atungo mes icdd accbd"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C77",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Kathryn Nichol - Board Governor (incoming)",
+    "core_name_or_issue": "Dr. Kathryn Nichol",
+    "role_detail": "Board Governor (incoming)",
+    "name_variants": [
+      "kathryn nichol"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C78",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Serda Evren - Chief Communications & External Relations Officer",
+    "core_name_or_issue": "Serda Evren",
+    "role_detail": "Chief Communications & External Relations Officer",
+    "name_variants": [
+      "serda evren"
+    ],
+    "date": "2026-01-26",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C79",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Richard Bowry - VP Medical Affairs, Research and Education",
+    "core_name_or_issue": "Dr. Richard Bowry",
+    "role_detail": "VP Medical Affairs, Research and Education",
+    "name_variants": [
+      "richard bowry"
+    ],
+    "date": "2025-04-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Title differs by source: 'VP, Medical Affairs, Research and Education' on the Leadership Team page; 'VP, Medical & Academic Affairs' in the expense disclosures."
+  },
+  {
+    "gold_item_id": "C80",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Terri Stuart-McEwan - VP Clinical Services, Quality and Chief Nursing Executive",
+    "core_name_or_issue": "Terri Stuart-McEwan",
+    "role_detail": "VP Clinical Services, Quality and Chief Nursing Executive",
+    "name_variants": [
+      "terri stuart mcewan"
+    ],
+    "date": "2025-02-11",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Title differs by source: 'Chief Nursing Executive' on the Leadership Team page; 'Chief Nurse Executive' in the expense disclosures."
+  },
+  {
+    "gold_item_id": "C81",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Paul Truscott (also published as Paul Truscott Jr.) - VP Finance, Data Analytics & CFO",
+    "core_name_or_issue": "Paul Truscott (also published as Paul Truscott Jr.)",
+    "role_detail": "VP Finance, Data Analytics & CFO",
+    "name_variants": [
+      "also published as paul truscott truscott",
+      "paul truscott"
+    ],
+    "date": "2025-01-06",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Name differs by source: 'Paul Truscott' on the Leadership Team page; 'Paul Truscott Jr.' in the expense disclosures. Either is correct."
+  },
+  {
+    "gold_item_id": "C82",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Jennifer Dockery - inaugural VP Quality, Post-Acute Care & Community Integration",
+    "core_name_or_issue": "Jennifer Dockery",
+    "role_detail": "inaugural VP Quality, Post-Acute Care & Community Integration",
+    "name_variants": [
+      "jennifer dockery"
+    ],
+    "date": "2024-08-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "News release says the role began August 19, 2024; the expense disclosures say August 18. Either date is correct."
+  },
+  {
+    "gold_item_id": "C83",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Young Lee - VP Corporate Performance & Digital Health Innovation, CFO (outgoing)",
+    "core_name_or_issue": "Young Lee",
+    "role_detail": "VP Corporate Performance & Digital Health Innovation, CFO (outgoing)",
+    "name_variants": [
+      "young lee"
+    ],
+    "date": "2023-05-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C84",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Peter Wegener - Interim CFO (first term, incoming)",
+    "core_name_or_issue": "Peter Wegener",
+    "role_detail": "Interim CFO (first term, incoming)",
+    "name_variants": [
+      "peter wegener"
+    ],
+    "date": "2023-05-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C85",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Simon Raphael - Chief of Staff and Chair of the Medical Advisory Committee (outgoing)",
+    "core_name_or_issue": "Dr. Simon Raphael",
+    "role_detail": "Chief of Staff and Chair of the Medical Advisory Committee (outgoing)",
+    "name_variants": [
+      "simon raphael"
+    ],
+    "date": "2023-06-30",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Only the Chief of Staff and MAC Chair role ended. He remains at NYGH as Chief Pathologist and Director of Laboratories (Clinical Chiefs page)."
+  },
+  {
+    "gold_item_id": "C86",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Phil Shin - Chief Medical Information Officer, Chair, Medical Advisory Committee, Critical Care and Internal Medicine (incoming)",
+    "core_name_or_issue": "Dr. Phil Shin",
+    "role_detail": "Chief Medical Information Officer, Chair, Medical Advisory Committee, Critical Care and Internal Medicine (incoming)",
+    "name_variants": [
+      "phil shin"
+    ],
+    "date": "2023-07-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C87",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Donna McRitchie - VP Medical & Academic Affairs (outgoing)",
+    "core_name_or_issue": "Dr. Donna McRitchie",
+    "role_detail": "VP Medical & Academic Affairs (outgoing)",
+    "name_variants": [
+      "donna mcritchie"
+    ],
+    "date": "2023-12-11",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C88",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Linda Jussaume - Interim VP Clinical Services, Quality & Long-Term Care, Chief Nursing Executive (incoming)",
+    "core_name_or_issue": "Linda Jussaume",
+    "role_detail": "Interim VP Clinical Services, Quality & Long-Term Care, Chief Nursing Executive (incoming)",
+    "name_variants": [
+      "linda jussaume"
+    ],
+    "date": "2023-12-12",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C89",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Seanna Millar - NYGH Foundation CEO",
+    "core_name_or_issue": "Seanna Millar",
+    "role_detail": "NYGH Foundation CEO",
+    "name_variants": [
+      "seanna millar"
+    ],
+    "date": "2023-05-08",
+    "in_scope": "FALSE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Excluded: Foundation CEO (or equivalent) - outside the agreed scope."
+  },
+  {
+    "gold_item_id": "C90",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Lloyd Smith - VP Medical & Academic Affairs (incoming)",
+    "core_name_or_issue": "Dr. Lloyd Smith",
+    "role_detail": "VP Medical & Academic Affairs (incoming)",
+    "name_variants": [
+      "lloyd smith"
+    ],
+    "date": "2023-12-12",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Listed as 'Vice President, Medical & Academic Affairs' in the expense disclosures but described as INTERIM VP in the Bowry appointment release. Also Chief of Surgery per the Clinical Chiefs page."
+  },
+  {
+    "gold_item_id": "C91",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "John Walsh - Board Vice Chair (Officer 2026-27, Governor since June 2019)",
+    "core_name_or_issue": "John Walsh",
+    "role_detail": "Board Vice Chair (Officer 2026-27, Governor since June 2019)",
+    "name_variants": [
+      "john walsh"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C92",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Mark O'Connell - Board Secretary (Officer 2026-27)",
+    "core_name_or_issue": "Mark O'Connell",
+    "role_detail": "Board Secretary (Officer 2026-27)",
+    "name_variants": [
+      "mark o'connell"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C93",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Brad Badeau - Board Governor (Confirmed Active)",
+    "core_name_or_issue": "Brad Badeau",
+    "role_detail": "Board Governor (Confirmed Active)",
+    "name_variants": [
+      "brad badeau"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C94",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Janet Beed - Board Governor (Confirmed Active)",
+    "core_name_or_issue": "Janet Beed",
+    "role_detail": "Board Governor (Confirmed Active)",
+    "name_variants": [
+      "janet beed"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C95",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Robert Palter - Board Governor (Confirmed Active)",
+    "core_name_or_issue": "Robert Palter",
+    "role_detail": "Board Governor (Confirmed Active)",
+    "name_variants": [
+      "robert palter"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C96",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Aayaz Pira - Board Governor (Confirmed Active)",
+    "core_name_or_issue": "Aayaz Pira",
+    "role_detail": "Board Governor (Confirmed Active)",
+    "name_variants": [
+      "aayaz pira"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C97",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Michael Zahra - Board Governor (Confirmed Active), Vice-Chair Audit & Finance Committee",
+    "core_name_or_issue": "Michael Zahra",
+    "role_detail": "Board Governor (Confirmed Active), Vice-Chair Audit & Finance Committee",
+    "name_variants": [
+      "michael zahra"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C98",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Blair Cowan - Chair, NYGH Foundation / Ex-Officio Governor (Confirmed Active)",
+    "core_name_or_issue": "Blair Cowan",
+    "role_detail": "Chair, NYGH Foundation / Ex-Officio Governor (Confirmed Active)",
+    "name_variants": [
+      "blair cowan"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "Foundation Chair/officer, not a Foundation CEO - in scope under the agreed rule."
+  },
+  {
+    "gold_item_id": "C99",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Elyse Lackie - Chair, Medical Advisory Committee / Ex-Officio Governor (Confirmed Active)",
+    "core_name_or_issue": "Dr. Elyse Lackie",
+    "role_detail": "Chair, Medical Advisory Committee / Ex-Officio Governor (Confirmed Active)",
+    "name_variants": [
+      "elyse lackie"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C100",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Manish Shah - President, Medical Staff Association (incoming)",
+    "core_name_or_issue": "Dr. Manish Shah",
+    "role_detail": "President, Medical Staff Association (incoming)",
+    "name_variants": [
+      "manish shah"
+    ],
+    "date": "2026-07",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C101",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Rudy Dahdal - EVP Clinical Programs & Chief Planning and Redevelopment Officer (Confirmed Active)",
+    "core_name_or_issue": "Rudy Dahdal",
+    "role_detail": "EVP Clinical Programs & Chief Planning and Redevelopment Officer (Confirmed Active)",
+    "name_variants": [
+      "rudy dahdal"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "Title differs by source: 'Executive Vice President, Clinical Programs and Chief Planning & Redevelopment Officer' on the Leadership Team page; 'Vice President, Planning, Redevelopment & Clinical Support' in the expense disclosures."
+  },
+  {
+    "gold_item_id": "C102",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Mitch Birken - VP People and Culture & Chief Human Resources Officer (Confirmed Active)",
+    "core_name_or_issue": "Mitch Birken",
+    "role_detail": "VP People and Culture & Chief Human Resources Officer (Confirmed Active)",
+    "name_variants": [
+      "mitch birken"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "Title differs by source: 'VP, People and Culture & Chief Human Resources Officer' on the Leadership Team page; 'VP, Chief Human Resources Officer' in the expense disclosures. Rejoined NYGH July 2019."
+  },
+  {
+    "gold_item_id": "C103",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Duska Kennedy - VP Strategy, Digital Health and CDO (Confirmed Active)",
+    "core_name_or_issue": "Duska Kennedy",
+    "role_detail": "VP Strategy, Digital Health and CDO (Confirmed Active)",
+    "name_variants": [
+      "duska kennedy"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C104",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Samuel Elfassy - Board Chair (outgoing, completed 3-year term)",
+    "core_name_or_issue": "Samuel Elfassy",
+    "role_detail": "Board Chair (outgoing, completed 3-year term)",
+    "name_variants": [
+      "samuel elfassy"
+    ],
+    "date": "2021-06-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C105",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Bert Clark - Board Chair (outgoing)",
+    "core_name_or_issue": "Bert Clark",
+    "role_detail": "Board Chair (outgoing)",
+    "name_variants": [
+      "bert clark"
+    ],
+    "date": "2024-06-17",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C106",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Terry Pursell - NYGH Foundation CEO (outgoing, retired)",
+    "core_name_or_issue": "Terry Pursell",
+    "role_detail": "NYGH Foundation CEO (outgoing, retired)",
+    "name_variants": [
+      "terry pursell"
+    ],
+    "date": "2023-01-31",
+    "in_scope": "FALSE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Excluded: Foundation CEO (or equivalent) - outside the agreed scope."
+  },
+  {
+    "gold_item_id": "C107",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mark Falbo - Board Chair (outgoing)",
+    "core_name_or_issue": "Mark Falbo",
+    "role_detail": "Board Chair (outgoing)",
+    "name_variants": [
+      "mark falbo"
+    ],
+    "date": "2021-07-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C108",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Krista Collinson - Board Director (incoming)",
+    "core_name_or_issue": "Krista Collinson",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "krista collinson"
+    ],
+    "date": "2021-07-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C109",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Deryn Rizzi - Board Director (incoming)",
+    "core_name_or_issue": "Deryn Rizzi",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "deryn rizzi"
+    ],
+    "date": "2021-07-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C110",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Moris Pilla - Chair, Mackenzie Health Foundation (outgoing)",
+    "core_name_or_issue": "Moris Pilla",
+    "role_detail": "Chair, Mackenzie Health Foundation (outgoing)",
+    "name_variants": [
+      "moris pilla"
+    ],
+    "date": "2024-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Foundation Chair/officer, not a Foundation CEO - in scope under the agreed rule."
+  },
+  {
+    "gold_item_id": "C111",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Doug Williamson - Vice-Chair, Mackenzie Health Foundation (incoming)",
+    "core_name_or_issue": "Doug Williamson",
+    "role_detail": "Vice-Chair, Mackenzie Health Foundation (incoming)",
+    "name_variants": [
+      "doug williamson"
+    ],
+    "date": "2024-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Foundation Chair/officer, not a Foundation CEO - in scope under the agreed rule."
+  },
+  {
+    "gold_item_id": "C112",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Steven Jackson - Chief of Staff (outgoing after a decade)",
+    "core_name_or_issue": "Dr. Steven Jackson",
+    "role_detail": "Chief of Staff (outgoing after a decade)",
+    "name_variants": [
+      "steven jackson"
+    ],
+    "date": "2025-12-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C113",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Barb Darlow - Board Director (outgoing)",
+    "core_name_or_issue": "Barb Darlow",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "barb darlow"
+    ],
+    "date": "2022-06-28",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C114",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Donna Anderson - Board Director (outgoing)",
+    "core_name_or_issue": "Donna Anderson",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "donna anderson"
+    ],
+    "date": "2022-06-28",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C115",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Barbara Kieley - Board Director (outgoing)",
+    "core_name_or_issue": "Barbara Kieley",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "barbara kieley"
+    ],
+    "date": "2022-06-28",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C116",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Mark MacGowan - Board Director (outgoing)",
+    "core_name_or_issue": "Mark MacGowan",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "mark macgowan"
+    ],
+    "date": "2022-06-28",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C117",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Tyler Pirie - Board Director (outgoing)",
+    "core_name_or_issue": "Tyler Pirie",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "tyler pirie"
+    ],
+    "date": "2022-06-28",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C118",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Erin Stitt-Cavanagh - Board Director (outgoing)",
+    "core_name_or_issue": "Erin Stitt-Cavanagh",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "erin stitt cavanagh"
+    ],
+    "date": "2023-07-18",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Retired at the AGM on June 22, 2023; announced July 18, 2023. Either date is correct."
+  },
+  {
+    "gold_item_id": "C119",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Bob McGaraughty - Board Director (outgoing)",
+    "core_name_or_issue": "Bob McGaraughty",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "bob mcgaraughty"
+    ],
+    "date": "2023-07-18",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Retired at the AGM on June 22, 2023; announced July 18, 2023. Joined the Board in 2022."
+  },
+  {
+    "gold_item_id": "C120",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Cathy Jordan - Board Director (outgoing, left Board entirely)",
+    "core_name_or_issue": "Cathy Jordan",
+    "role_detail": "Board Director (outgoing, left Board entirely)",
+    "name_variants": [
+      "cathy jordan"
+    ],
+    "date": "2025-06",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C121",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Curtis McGrath - Board Director (outgoing)",
+    "core_name_or_issue": "Curtis McGrath",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "curtis mcgrath"
+    ],
+    "date": "2025-06",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C122",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Colleen MacPhee - Board Director (outgoing)",
+    "core_name_or_issue": "Colleen MacPhee",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "colleen macphee"
+    ],
+    "date": "2025-06",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C123",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Louise Lemieux-Charles - Board Governor (outgoing)",
+    "core_name_or_issue": "Dr. Louise Lemieux-Charles",
+    "role_detail": "Board Governor (outgoing)",
+    "name_variants": [
+      "louise lemieux charles"
+    ],
+    "date": "2022-06-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C124",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Sheila Jarvis - Board Governor (outgoing)",
+    "core_name_or_issue": "Sheila Jarvis",
+    "role_detail": "Board Governor (outgoing)",
+    "name_variants": [
+      "sheila jarvis"
+    ],
+    "date": "2022-06-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C125",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Kristina Fanjoy - Board Treasurer (incoming)",
+    "core_name_or_issue": "Kristina Fanjoy",
+    "role_detail": "Board Treasurer (incoming)",
+    "name_variants": [
+      "kristina fanjoy"
+    ],
+    "date": "2026-06",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C126",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Katrina Roberts, CPA, CGA - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Katrina Roberts, CPA, CGA",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "katrina roberts cpa cga"
+    ],
+    "date": "2026",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C127",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Bill Stevens - Board Director (Confirmed Active)",
+    "core_name_or_issue": "Bill Stevens",
+    "role_detail": "Board Director (Confirmed Active)",
+    "name_variants": [
+      "bill stevens"
+    ],
+    "date": "2026",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C128",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Dr. Janice Yau - President, Medical Staff (Confirmed Active, board seat)",
+    "core_name_or_issue": "Dr. Janice Yau",
+    "role_detail": "President, Medical Staff (Confirmed Active, board seat)",
+    "name_variants": [
+      "janice yau"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C129",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Jeff Letourneau, CPA CMA, CFA - VP Finance & Support Services, CFO (Confirmed Active)",
+    "core_name_or_issue": "Jeff Letourneau, CPA CMA, CFA",
+    "role_detail": "VP Finance & Support Services, CFO (Confirmed Active)",
+    "name_variants": [
+      "jeff letourneau cpa cma cfa"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C130",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Andrea McClymont - VP Human Resources, Health Information Services & Decision Support, Chief Privacy Officer (Confirmed Active)",
+    "core_name_or_issue": "Andrea McClymont",
+    "role_detail": "VP Human Resources, Health Information Services & Decision Support, Chief Privacy Officer (Confirmed Active)",
+    "name_variants": [
+      "andrea mcclymont"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C131",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Jennifer (Jen) Powley - VP Seniors Care, Community Programs & Long-Term Care",
+    "core_name_or_issue": "Jennifer (Jen) Powley",
+    "role_detail": "VP Seniors Care, Community Programs & Long-Term Care",
+    "name_variants": [
+      "jen powley",
+      "jennifer powley"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "Absent from the current ARH Senior Team page - departure undated."
+  },
+  {
+    "gold_item_id": "C132",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Dr. Florin Padeanu - Interim Chief of Staff (returned to role)",
+    "core_name_or_issue": "Dr. Florin Padeanu",
+    "role_detail": "Interim Chief of Staff (returned to role)",
+    "name_variants": [
+      "florin padeanu"
+    ],
+    "date": "2026",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Dr. Padeanu is listed as Interim Chief of Staff again on the current Senior Team page, indicating the joint QCH/ARH model under Dr. Kovacs (C50) has ended."
+  },
+  {
+    "gold_item_id": "C133",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Gary D'Andrea - Board Director (outgoing)",
+    "core_name_or_issue": "Gary D'Andrea",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "gary d'andrea"
+    ],
+    "date": "2021-07-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C134",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Anthony Ianni - Board Director (outgoing)",
+    "core_name_or_issue": "Anthony Ianni",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "anthony ianni"
+    ],
+    "date": "2021-07-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C135",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Len Koroneos - Board Director (outgoing)",
+    "core_name_or_issue": "Len Koroneos",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "len koroneos"
+    ],
+    "date": "2021-07-14",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C136",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Marion Kirsh - Board Director",
+    "core_name_or_issue": "Marion Kirsh",
+    "role_detail": "Board Director",
+    "name_variants": [
+      "marion kirsh"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C137",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "David Steinberg - Board Director (continuously active 2023-2025)",
+    "core_name_or_issue": "David Steinberg",
+    "role_detail": "Board Director (continuously active 2023-2025)",
+    "name_variants": [
+      "david steinberg"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Re-elected for a 3-year term at the 2023 AGM and still active: chairs Planning and Development in 2025/26 and attended the October 2025 meeting."
+  },
+  {
+    "gold_item_id": "C138",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Nikila Ravindran - Board Director",
+    "core_name_or_issue": "Dr. Nikila Ravindran",
+    "role_detail": "Board Director",
+    "name_variants": [
+      "nikila ravindran"
+    ],
+    "date": "2023-10-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C139",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Raj Uttamchandani - Board Director",
+    "core_name_or_issue": "Raj Uttamchandani",
+    "role_detail": "Board Director",
+    "name_variants": [
+      "raj uttamchandani"
+    ],
+    "date": "2023-04",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C140",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Khizer Amin - Board Director (incoming)",
+    "core_name_or_issue": "Dr. Khizer Amin",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "khizer amin"
+    ],
+    "date": "2024-10-10",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C141",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Jen Chyang Lai - Board Director (outgoing)",
+    "core_name_or_issue": "Dr. Jen Chyang Lai",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "jen chyang lai"
+    ],
+    "date": "2024-06-13",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "A voting Member in May 2024 but absent from the October and December 2024 rosters, placing her departure at the June 2024 AGM."
+  },
+  {
+    "gold_item_id": "C142",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Sarah Moore - Board Director (outgoing)",
+    "core_name_or_issue": "Dr. Sarah Moore",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "sarah moore"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Her board seat was ex-officio through the PSA presidency, which passed to Dr. Khizer Amin - a handover of that office rather than resignation from an elected seat."
+  },
+  {
+    "gold_item_id": "C143",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Joby McKenzie - Chair, Mackenzie Innovation Institute (Mi2) Board",
+    "core_name_or_issue": "Dr. Joby McKenzie",
+    "role_detail": "Chair, Mackenzie Innovation Institute (Mi2) Board",
+    "name_variants": [
+      "joby mckenzie"
+    ],
+    "date": "2021-05-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Mackenzie Innovation Institute is a separate affiliated entity, not a Mackenzie Health board office."
+  },
+  {
+    "gold_item_id": "C144",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Harcharan (Harry) Singh - Board Governor",
+    "core_name_or_issue": "Harcharan (Harry) Singh",
+    "role_detail": "Board Governor",
+    "name_variants": [
+      "harcharan singh",
+      "harry singh"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Listed on the 2022 NYGH board/leadership roster; no separate appointment or departure announcement exists."
+  },
+  {
+    "gold_item_id": "C145",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Cynthia Devine - Board Governor",
+    "core_name_or_issue": "Cynthia Devine",
+    "role_detail": "Board Governor",
+    "name_variants": [
+      "cynthia devine"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Listed on the 2022 NYGH board/leadership roster; no separate appointment or departure announcement exists."
+  },
+  {
+    "gold_item_id": "C146",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Debbie Fischer - Board Governor",
+    "core_name_or_issue": "Debbie Fischer",
+    "role_detail": "Board Governor",
+    "name_variants": [
+      "debbie fischer"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Listed on the 2022 NYGH board/leadership roster; no separate appointment or departure announcement exists."
+  },
+  {
+    "gold_item_id": "C147",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Jamil Jivani - Board Governor",
+    "core_name_or_issue": "Jamil Jivani",
+    "role_detail": "Board Governor",
+    "name_variants": [
+      "jamil jivani"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Listed on the 2022 NYGH board/leadership roster; no separate appointment or departure announcement exists."
+  },
+  {
+    "gold_item_id": "C148",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Arun Sayal - Board Governor",
+    "core_name_or_issue": "Arun Sayal",
+    "role_detail": "Board Governor",
+    "name_variants": [
+      "arun sayal"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Listed on the 2022 NYGH board/leadership roster; no separate appointment or departure announcement exists."
+  },
+  {
+    "gold_item_id": "C149",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Nicole German - Chair, North York General Foundation Board of Governors",
+    "core_name_or_issue": "Nicole German",
+    "role_detail": "Chair, North York General Foundation Board of Governors",
+    "name_variants": [
+      "nicole german"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Foundation Chair/officer, not a Foundation CEO - in scope under the agreed rule."
+  },
+  {
+    "gold_item_id": "C150",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Susan Woollard - Board Governor and Leadership Team member",
+    "core_name_or_issue": "Susan Woollard",
+    "role_detail": "Board Governor and Leadership Team member",
+    "name_variants": [
+      "susan woollard"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Listed on the 2022 NYGH board/leadership roster; no separate appointment or departure announcement exists."
+  },
+  {
+    "gold_item_id": "C151",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Kaiyan Fu - Board Governor",
+    "core_name_or_issue": "Kaiyan Fu",
+    "role_detail": "Board Governor",
+    "name_variants": [
+      "kaiyan fu"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Listed on the 2022 NYGH board/leadership roster; no separate appointment or departure announcement exists."
+  },
+  {
+    "gold_item_id": "C152",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Janine Hopkins - Leadership Team member",
+    "core_name_or_issue": "Janine Hopkins",
+    "role_detail": "Leadership Team member",
+    "name_variants": [
+      "janine hopkins"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Listed on the 2022 NYGH board/leadership roster; no separate appointment or departure announcement exists."
+  },
+  {
+    "gold_item_id": "C153",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Karyn Popovich - President/CEO (incoming, from interim)",
+    "core_name_or_issue": "Karyn Popovich",
+    "role_detail": "President/CEO (incoming, from interim)",
+    "name_variants": [
+      "karyn popovich"
+    ],
+    "date": "2021",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C154",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Joshua Tepper - President and Chief Executive Officer (outgoing)",
+    "core_name_or_issue": "Joshua Tepper",
+    "role_detail": "President and Chief Executive Officer (outgoing)",
+    "name_variants": [
+      "joshua tepper"
+    ],
+    "date": "2020",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Identified only through public salary disclosure; no hospital announcement or directory entry found."
+  },
+  {
+    "gold_item_id": "C155",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Bessy Leung-Hui - VP, Performance and Financial Strategy, Chief Financial Officer",
+    "core_name_or_issue": "Bessy Leung-Hui",
+    "role_detail": "VP, Performance and Financial Strategy, Chief Financial Officer",
+    "name_variants": [
+      "bessy leung hui"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "Identified only through public salary disclosure; no hospital announcement or directory entry found."
+  },
+  {
+    "gold_item_id": "C156",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dean Martin - VP, Finance, Information Technology and Chief Financial Officer",
+    "core_name_or_issue": "Dean Martin",
+    "role_detail": "VP, Finance, Information Technology and Chief Financial Officer",
+    "name_variants": [
+      "dean martin"
+    ],
+    "date": null,
+    "in_scope": "TRUE",
+    "confidence_tier": "B - directory confirmed, undated",
+    "notes": "Identified only through public salary disclosure; no hospital announcement or directory entry found."
+  },
+  {
+    "gold_item_id": "C157",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Susan Woollard - VP, Clinical Services, Quality, Risk, Long Term Care and Chief Nursing Officer",
+    "core_name_or_issue": "Susan Woollard",
+    "role_detail": "VP, Clinical Services, Quality, Risk, Long Term Care and Chief Nursing Officer",
+    "name_variants": [
+      "susan woollard"
+    ],
+    "date": "2024",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Identified only through public salary disclosure; no hospital announcement or directory entry found."
+  },
+  {
+    "gold_item_id": "C158",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Kevin Katz - Director (Medical Microbiology / Infection Prevention and Control)",
+    "core_name_or_issue": "Dr. Kevin Katz",
+    "role_detail": "Director (Medical Microbiology / Infection Prevention and Control)",
+    "name_variants": [
+      "kevin katz"
+    ],
+    "date": "2024",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Identified only through public salary disclosure; no hospital announcement or directory entry found."
+  },
+  {
+    "gold_item_id": "C159",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Richard Tam - Executive Vice President (outgoing)",
+    "core_name_or_issue": "Richard Tam",
+    "role_detail": "Executive Vice President (outgoing)",
+    "name_variants": [
+      "richard tam"
+    ],
+    "date": "2021",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Identified only through public salary disclosure; no hospital announcement or directory entry found."
+  },
+  {
+    "gold_item_id": "C160",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Brad Hilker - VP Finance and Support Services, Chief Financial Officer (outgoing)",
+    "core_name_or_issue": "Brad Hilker",
+    "role_detail": "VP Finance and Support Services, Chief Financial Officer (outgoing)",
+    "name_variants": [
+      "brad hilker"
+    ],
+    "date": "2022",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Identified only through public salary disclosure; no hospital announcement or directory entry found."
+  },
+  {
+    "gold_item_id": "C161",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Judith Gilchrist - VP Long Term Care, Administrator (salary-confirmed)",
+    "core_name_or_issue": "Judith Gilchrist",
+    "role_detail": "VP Long Term Care, Administrator (salary-confirmed)",
+    "name_variants": [
+      "judith gilchrist"
+    ],
+    "date": "2021",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Identified only through public salary disclosure; no hospital announcement or directory entry found."
+  },
+  {
+    "gold_item_id": "C162",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Heidi Francis - Board Director (incoming)",
+    "core_name_or_issue": "Heidi Francis",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "heidi francis"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C163",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Viki Lazaris - Board Director (incoming)",
+    "core_name_or_issue": "Viki Lazaris",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "viki lazaris"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C164",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Jun Yuan - Board Director (incoming)",
+    "core_name_or_issue": "Jun Yuan",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "jun yuan"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C165",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Kimia Honarmand - Vice President, Professional Staff Association (incoming, ex-officio)",
+    "core_name_or_issue": "Dr. Kimia Honarmand",
+    "role_detail": "Vice President, Professional Staff Association (incoming, ex-officio)",
+    "name_variants": [
+      "kimia honarmand"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C166",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Stav D'Andrea - VP People Services & Chief Human Resources Officer (Executive Leadership Team)",
+    "core_name_or_issue": "Stav D'Andrea",
+    "role_detail": "VP People Services & Chief Human Resources Officer (Executive Leadership Team)",
+    "name_variants": [
+      "stav d'andrea"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C167",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Deryn Rizzi - Chair, Governance Committee (2025/26 term)",
+    "core_name_or_issue": "Deryn Rizzi",
+    "role_detail": "Chair, Governance Committee (2025/26 term)",
+    "name_variants": [
+      "deryn rizzi"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C168",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "David Steinberg - Chair, Planning and Development Committee (2025/26 term)",
+    "core_name_or_issue": "David Steinberg",
+    "role_detail": "Chair, Planning and Development Committee (2025/26 term)",
+    "name_variants": [
+      "david steinberg"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C169",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Azi Boloorchi - Chair, Human Resources Committee and Vice Chair, Finance and Audit Committee (2025/26 term)",
+    "core_name_or_issue": "Azi Boloorchi",
+    "role_detail": "Chair, Human Resources Committee and Vice Chair, Finance and Audit Committee (2025/26 term)",
+    "name_variants": [
+      "azi boloorchi"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C170",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Steven Jackson - Chair, Medical Advisory Committee (2025/26 term)",
+    "core_name_or_issue": "Dr. Steven Jackson",
+    "role_detail": "Chair, Medical Advisory Committee (2025/26 term)",
+    "name_variants": [
+      "steven jackson"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C171",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Peter Hargitai - Vice Chair, Governance Committee (2025/26 term)",
+    "core_name_or_issue": "Peter Hargitai",
+    "role_detail": "Vice Chair, Governance Committee (2025/26 term)",
+    "name_variants": [
+      "peter hargitai"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C172",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Joseph Amato - Vice Chair, Planning and Development Committee (2025/26 term)",
+    "core_name_or_issue": "Joseph Amato",
+    "role_detail": "Vice Chair, Planning and Development Committee (2025/26 term)",
+    "name_variants": [
+      "joseph amato"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C173",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dev Chopra - Vice Chair, Human Resources Committee (2025/26 term)",
+    "core_name_or_issue": "Dev Chopra",
+    "role_detail": "Vice Chair, Human Resources Committee (2025/26 term)",
+    "name_variants": [
+      "dev chopra"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C174",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Jack Mintz - Vice Chair, Quality, Safety & Risk Committee (2025/26 term)",
+    "core_name_or_issue": "Dr. Jack Mintz",
+    "role_detail": "Vice Chair, Quality, Safety & Risk Committee (2025/26 term)",
+    "name_variants": [
+      "jack mintz"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C175",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Joby McKenzie - Chair, Quality, Safety & Risk Committee and Executive Committee Vice Chair (2025/26 term)",
+    "core_name_or_issue": "Dr. Joby McKenzie",
+    "role_detail": "Chair, Quality, Safety & Risk Committee and Executive Committee Vice Chair (2025/26 term)",
+    "name_variants": [
+      "joby mckenzie"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C176",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Atul Mehta - Chair, Finance and Audit Committee (2025/26 term)",
+    "core_name_or_issue": "Atul Mehta",
+    "role_detail": "Chair, Finance and Audit Committee (2025/26 term)",
+    "name_variants": [
+      "atul mehta"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C177",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Khizer Amin - President, Professional Staff Association (ex-officio board seat)",
+    "core_name_or_issue": "Dr. Khizer Amin",
+    "role_detail": "President, Professional Staff Association (ex-officio board seat)",
+    "name_variants": [
+      "khizer amin"
+    ],
+    "date": "2025-10-16",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C178",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Moris Pilla - Mackenzie Health Board Director (in addition to Foundation Chair)",
+    "core_name_or_issue": "Moris Pilla",
+    "role_detail": "Mackenzie Health Board Director (in addition to Foundation Chair)",
+    "name_variants": [
+      "moris pilla"
+    ],
+    "date": "2024-03-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Sat on the HOSPITAL board as well as chairing the Foundation."
+  },
+  {
+    "gold_item_id": "C179",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mary-Agnes Wilson - Board Director (post-interim-CEO)",
+    "core_name_or_issue": "Mary-Agnes Wilson",
+    "role_detail": "Board Director (post-interim-CEO)",
+    "name_variants": [
+      "mary agnes wilson"
+    ],
+    "date": "2025-10-16",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Returned to board membership after her interim President/CEO term; a Guest in June 2025, a voting Member by October 2025."
+  },
+  {
+    "gold_item_id": "C180",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Azi Boloorchi - Chair, Quality, Safety and Risk Committee (2023/24 term)",
+    "core_name_or_issue": "Azi Boloorchi",
+    "role_detail": "Chair, Quality, Safety and Risk Committee (2023/24 term)",
+    "name_variants": [
+      "azi boloorchi"
+    ],
+    "date": "2024-03-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C181",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Joby McKenzie - Chair, Human Resources Committee (2023/24 term)",
+    "core_name_or_issue": "Dr. Joby McKenzie",
+    "role_detail": "Chair, Human Resources Committee (2023/24 term)",
+    "name_variants": [
+      "joby mckenzie"
+    ],
+    "date": "2024-03-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C182",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Ruby Philip-Katyal - Vice Chair, Finance and Audit Committee (2023/24 term)",
+    "core_name_or_issue": "Ruby Philip-Katyal",
+    "role_detail": "Vice Chair, Finance and Audit Committee (2023/24 term)",
+    "name_variants": [
+      "ruby philip katyal"
+    ],
+    "date": "2024-03-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C183",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Sarah Moore - Board Director (confirmed in post)",
+    "core_name_or_issue": "Dr. Sarah Moore",
+    "role_detail": "Board Director (confirmed in post)",
+    "name_variants": [
+      "sarah moore"
+    ],
+    "date": "2024-03-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C184",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Jen Chyang Lai - Board Director (confirmed in post)",
+    "core_name_or_issue": "Dr. Jen Chyang Lai",
+    "role_detail": "Board Director (confirmed in post)",
+    "name_variants": [
+      "jen chyang lai"
+    ],
+    "date": "2024-03-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C185",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Nicole McCahon - Foundation CEO on Mackenzie Health Executive Leadership Team (absent by Oct 2025)",
+    "core_name_or_issue": "Nicole McCahon",
+    "role_detail": "Foundation CEO on Mackenzie Health Executive Leadership Team (absent by Oct 2025)",
+    "name_variants": [
+      "nicole cahon"
+    ],
+    "date": "2025-10-16",
+    "in_scope": "FALSE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Excluded: Foundation CEO (or equivalent) - outside the agreed scope."
+  },
+  {
+    "gold_item_id": "C186",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Luci Anderson - Executive Leadership Team member",
+    "core_name_or_issue": "Luci Anderson",
+    "role_detail": "Executive Leadership Team member",
+    "name_variants": [
+      "luci anderson"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C187",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Natalie Hovey - Executive Leadership Team member",
+    "core_name_or_issue": "Natalie Hovey",
+    "role_detail": "Executive Leadership Team member",
+    "name_variants": [
+      "natalie hovey"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C188",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dev Chopra - Chair, Finance and Audit Committee (2022/23 term)",
+    "core_name_or_issue": "Dev Chopra",
+    "role_detail": "Chair, Finance and Audit Committee (2022/23 term)",
+    "name_variants": [
+      "dev chopra"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C189",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Ruby Philip-Katyal - Chair, Governance Committee (2022/23 term)",
+    "core_name_or_issue": "Ruby Philip-Katyal",
+    "role_detail": "Chair, Governance Committee (2022/23 term)",
+    "name_variants": [
+      "ruby philip katyal"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C190",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mary-Agnes Wilson - Chair, Quality, Safety and Risk Committee and Chief Nursing Executive (2022/23)",
+    "core_name_or_issue": "Mary-Agnes Wilson",
+    "role_detail": "Chair, Quality, Safety and Risk Committee and Chief Nursing Executive (2022/23)",
+    "name_variants": [
+      "mary agnes wilson"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C191",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Joby McKenzie - Chair, Human Resources Committee (2022/23 term)",
+    "core_name_or_issue": "Joby McKenzie",
+    "role_detail": "Chair, Human Resources Committee (2022/23 term)",
+    "name_variants": [
+      "joby mckenzie"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C192",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mario Paura - Vice Chair, Mackenzie Health Foundation",
+    "core_name_or_issue": "Mario Paura",
+    "role_detail": "Vice Chair, Mackenzie Health Foundation",
+    "name_variants": [
+      "mario paura"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Foundation Chair/officer, not a Foundation CEO - in scope under the agreed rule."
+  },
+  {
+    "gold_item_id": "C193",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Krista Collinson - Board Director (confirmed in post)",
+    "core_name_or_issue": "Krista Collinson",
+    "role_detail": "Board Director (confirmed in post)",
+    "name_variants": [
+      "krista collinson"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C194",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Marion Kirsh - Board Director (confirmed in post)",
+    "core_name_or_issue": "Marion Kirsh",
+    "role_detail": "Board Director (confirmed in post)",
+    "name_variants": [
+      "marion kirsh"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C195",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Nikila Ravindran - Board Director (confirmed in post)",
+    "core_name_or_issue": "Dr. Nikila Ravindran",
+    "role_detail": "Board Director (confirmed in post)",
+    "name_variants": [
+      "nikila ravindran"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C196",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Raj Uttamchandani - Board Director (confirmed in post)",
+    "core_name_or_issue": "Raj Uttamchandani",
+    "role_detail": "Board Director (confirmed in post)",
+    "name_variants": [
+      "raj uttamchandani"
+    ],
+    "date": "2023-03-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C197",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Raj Uttamchandani - Board Director (resigned)",
+    "core_name_or_issue": "Raj Uttamchandani",
+    "role_detail": "Board Director (resigned)",
+    "name_variants": [
+      "raj uttamchandani"
+    ],
+    "date": "2023-04",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": "Resignation accepted by formal resolution, effective April 2023."
+  },
+  {
+    "gold_item_id": "C198",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "John Fursey - Board Director (incoming, elected 3-year term)",
+    "core_name_or_issue": "John Fursey",
+    "role_detail": "Board Director (incoming, elected 3-year term)",
+    "name_variants": [
+      "john fursey"
+    ],
+    "date": "2023-10-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Elected at a SPECIAL Members Meeting on October 5, 2023, not at an AGM."
+  },
+  {
+    "gold_item_id": "C199",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Jack Mintz - Board Director (incoming, elected 3-year term)",
+    "core_name_or_issue": "Dr. Jack Mintz",
+    "role_detail": "Board Director (incoming, elected 3-year term)",
+    "name_variants": [
+      "jack mintz"
+    ],
+    "date": "2023-10-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Elected at the same Special Members Meeting on October 5, 2023."
+  },
+  {
+    "gold_item_id": "C200",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Atul Mehta - Board Director (incoming, elected 3-year term)",
+    "core_name_or_issue": "Atul Mehta",
+    "role_detail": "Board Director (incoming, elected 3-year term)",
+    "name_variants": [
+      "atul mehta"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C201",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Deryn Rizzi - Board Director (re-elected 3-year term)",
+    "core_name_or_issue": "Deryn Rizzi",
+    "role_detail": "Board Director (re-elected 3-year term)",
+    "name_variants": [
+      "deryn rizzi"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C202",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "David Steinberg - Board Director (re-elected 3-year term)",
+    "core_name_or_issue": "David Steinberg",
+    "role_detail": "Board Director (re-elected 3-year term)",
+    "name_variants": [
+      "david steinberg"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C203",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Krista Collinson - Board Director (outgoing)",
+    "core_name_or_issue": "Krista Collinson",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "krista collinson"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C204",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Marion Kirsh - Board Director (outgoing)",
+    "core_name_or_issue": "Marion Kirsh",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "marion kirsh"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C205",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Nikila Ravindran - Board Director (outgoing)",
+    "core_name_or_issue": "Dr. Nikila Ravindran",
+    "role_detail": "Board Director (outgoing)",
+    "name_variants": [
+      "nikila ravindran"
+    ],
+    "date": "2023-10-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C206",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Sarah Moore - Board Director (incoming)",
+    "core_name_or_issue": "Dr. Sarah Moore",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "sarah moore"
+    ],
+    "date": "2023-10-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C207",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Khizer Amin - Board Director (incoming)",
+    "core_name_or_issue": "Dr. Khizer Amin",
+    "role_detail": "Board Director (incoming)",
+    "name_variants": [
+      "khizer amin"
+    ],
+    "date": "2024-10-10",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Joined in the 2024 AGM cycle - a voting Member from October 10, 2024 onward."
+  },
+  {
+    "gold_item_id": "C208",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mario Paura - Board Director (incoming as voting Member)",
+    "core_name_or_issue": "Mario Paura",
+    "role_detail": "Board Director (incoming as voting Member)",
+    "name_variants": [
+      "mario paura"
+    ],
+    "date": "2024-10-10",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C209",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Peter Hargitai - Treasurer of the Board (2023/24 and 2024/25 terms)",
+    "core_name_or_issue": "Peter Hargitai",
+    "role_detail": "Treasurer of the Board (2023/24 and 2024/25 terms)",
+    "name_variants": [
+      "peter hargitai"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C210",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Altaf Stationwala - Secretary of the Board (2023/24 term)",
+    "core_name_or_issue": "Altaf Stationwala",
+    "role_detail": "Secretary of the Board (2023/24 term)",
+    "name_variants": [
+      "atlaf stationwala"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C211",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Dr. Sarah Moore - President, Professional Staff Association",
+    "core_name_or_issue": "Dr. Sarah Moore",
+    "role_detail": "President, Professional Staff Association",
+    "name_variants": [
+      "sarah moore"
+    ],
+    "date": "2025-02-13",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C212",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Fay Lim-Lambie - Board Chair (outgoing, stepped down to director role)",
+    "core_name_or_issue": "Fay Lim-Lambie",
+    "role_detail": "Board Chair (outgoing, stepped down to director role)",
+    "name_variants": [
+      "fay lim lambie"
+    ],
+    "date": "2024-05-23",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C213",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Fay Lim-Lambie and Stephanie Zee - reaching maximum board term limits",
+    "core_name_or_issue": "Fay Lim-Lambie and Stephanie Zee",
+    "role_detail": "reaching maximum board term limits",
+    "name_variants": [
+      "fay lim lambie and stephanie zee"
+    ],
+    "date": "2024-12-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Governance Committee report recording both directors reaching maximum term limits - the documented origin of the June 2025 departures (C9, C10)."
+  },
+  {
+    "gold_item_id": "C214",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Azi Boloorchi, Peter Hargitai and Dr. Joby McKenzie - completing second three-year terms",
+    "core_name_or_issue": "Azi Boloorchi, Peter Hargitai and Dr. Joby McKenzie",
+    "role_detail": "completing second three-year terms",
+    "name_variants": [
+      "azi boloorchi peter hargitai and joby mckenzie"
+    ],
+    "date": "2024-12-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C215",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Joseph Amato, Dev Chopra and Ruby Philip-Katyal - director re-appointments",
+    "core_name_or_issue": "Joseph Amato, Dev Chopra and Ruby Philip-Katyal",
+    "role_detail": "director re-appointments",
+    "name_variants": [
+      "joseph amato dev chopra and ruby philip katyal"
+    ],
+    "date": "2024-06-13",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C216",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Azi Boloorchi, Dr. Joby McKenzie and Peter Hargitai - re-elected for third three-year terms",
+    "core_name_or_issue": "Azi Boloorchi, Dr. Joby McKenzie and Peter Hargitai",
+    "role_detail": "re-elected for third three-year terms",
+    "name_variants": [
+      "azi boloorchi joby mckenzie and peter hargitai"
+    ],
+    "date": "2025-06-19",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C217",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Heidi Francis, Viki Lazaris and Jun Yuan - recommended for election as directors",
+    "core_name_or_issue": "Heidi Francis, Viki Lazaris and Jun Yuan",
+    "role_detail": "recommended for election as directors",
+    "name_variants": [
+      "heidi francis viki lazaris and jun yuan"
+    ],
+    "date": "2025-05-29",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C218",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mary-Agnes Wilson - farewell remarks as EVP, COO and Chief Nursing Executive",
+    "core_name_or_issue": "Mary-Agnes Wilson",
+    "role_detail": "farewell remarks as EVP, COO and Chief Nursing Executive",
+    "name_variants": [
+      "mary agnes wilson"
+    ],
+    "date": "2025-03-27",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Farewell remarks as EVP/COO/CNE; she then served as interim President/CEO (C8) and later returned as a director (C189)."
+  },
+  {
+    "gold_item_id": "C219",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Heather Stewart - Chief Nursing Executive (incoming) and Board Member",
+    "core_name_or_issue": "Heather Stewart",
+    "role_detail": "Chief Nursing Executive (incoming) and Board Member",
+    "name_variants": [
+      "heather stewart"
+    ],
+    "date": "2025-05-29",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Succeeded Mary-Agnes Wilson as Chief Nursing Executive (C228)."
+  },
+  {
+    "gold_item_id": "C220",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Greg Chow - Executive Leadership Team member (VP Finance and CFO)",
+    "core_name_or_issue": "Greg Chow",
+    "role_detail": "Executive Leadership Team member (VP Finance and CFO)",
+    "name_variants": [
+      "greg chow"
+    ],
+    "date": "2023-10-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C221",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Terry Villella - Executive Leadership Team member",
+    "core_name_or_issue": "Terry Villella",
+    "role_detail": "Executive Leadership Team member",
+    "name_variants": [
+      "terry villella"
+    ],
+    "date": "2023-06-15",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C222",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Moris Pilla - Board Director (confirmed in post)",
+    "core_name_or_issue": "Moris Pilla",
+    "role_detail": "Board Director (confirmed in post)",
+    "name_variants": [
+      "moris pilla"
+    ],
+    "date": "2024-02-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C223",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Stephanie Zee - Chair, Governance Committee (2023/24 term)",
+    "core_name_or_issue": "Stephanie Zee",
+    "role_detail": "Chair, Governance Committee (2023/24 term)",
+    "name_variants": [
+      "stephanie zee"
+    ],
+    "date": "2024-02-01",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C224",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Janine Hopkins - Chief Communications Officer (outgoing)",
+    "core_name_or_issue": "Janine Hopkins",
+    "role_detail": "Chief Communications Officer (outgoing)",
+    "name_variants": [
+      "janine hopkins"
+    ],
+    "date": "2025-07-06",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C225",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Anne-Marie Flanagan - Interim Chief Communications & External Relations Officer",
+    "core_name_or_issue": "Anne-Marie Flanagan",
+    "role_detail": "Interim Chief Communications & External Relations Officer",
+    "name_variants": [
+      "anne marie flanagan"
+    ],
+    "date": "2025-07-07",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Bridged Janine Hopkins (C238) and Serda Evren (C79). Appears in no directory, leadership page or news release - only the expense disclosures."
+  },
+  {
+    "gold_item_id": "C226",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Jennifer Dockery - VP Quality, Post-Acute Care & Community Integration (outgoing)",
+    "core_name_or_issue": "Jennifer Dockery",
+    "role_detail": "VP Quality, Post-Acute Care & Community Integration (outgoing)",
+    "name_variants": [
+      "jennifer dockery"
+    ],
+    "date": "2025-11-12",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C227",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Peter Wegener - Interim CFO (second term, incoming)",
+    "core_name_or_issue": "Peter Wegener",
+    "role_detail": "Interim CFO (second term, incoming)",
+    "name_variants": [
+      "peter wegener"
+    ],
+    "date": "2025-08-29",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "A SECOND interim CFO term - his first ended January 5, 2025 (C242)."
+  },
+  {
+    "gold_item_id": "C228",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Peter Wegener - Interim CFO (first term, outgoing)",
+    "core_name_or_issue": "Peter Wegener",
+    "role_detail": "Interim CFO (first term, outgoing)",
+    "name_variants": [
+      "peter wegener"
+    ],
+    "date": "2025-01-05",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C229",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Linda Jussaume - Interim VP Clinical Services, Quality & Long-Term Care, CNE (outgoing)",
+    "core_name_or_issue": "Linda Jussaume",
+    "role_detail": "Interim VP Clinical Services, Quality & Long-Term Care, CNE (outgoing)",
+    "name_variants": [
+      "linda jussaume"
+    ],
+    "date": "2025-02-10",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C230",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Bert Clark - Chair, Board of Governors (outgoing)",
+    "core_name_or_issue": "Bert Clark",
+    "role_detail": "Chair, Board of Governors (outgoing)",
+    "name_variants": [
+      "bert clark"
+    ],
+    "date": "2024-06-17",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C231",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Mitch Frazer - Chair, Board of Governors (incoming)",
+    "core_name_or_issue": "Mitch Frazer",
+    "role_detail": "Chair, Board of Governors (incoming)",
+    "name_variants": [
+      "mitch frazer"
+    ],
+    "date": "2024-06-18",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Took office June 18, 2024, the day after the AGM at which he was elected (see C66)."
+  },
+  {
+    "gold_item_id": "C232",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Jennifer Dockery - VP Quality, Post-Acute Care & Community Integration (incoming)",
+    "core_name_or_issue": "Jennifer Dockery",
+    "role_detail": "VP Quality, Post-Acute Care & Community Integration (incoming)",
+    "name_variants": [
+      "jennifer dockery"
+    ],
+    "date": "2024-08-18",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Payroll start date August 18, 2024; the news release says August 19 (see C83)."
+  },
+  {
+    "gold_item_id": "C233",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Dr. Lloyd Smith - VP Medical & Academic Affairs",
+    "core_name_or_issue": "Dr. Lloyd Smith",
+    "role_detail": "VP Medical & Academic Affairs",
+    "name_variants": [
+      "lloyd smith"
+    ],
+    "date": "2024-09",
+    "in_scope": "TRUE",
+    "confidence_tier": "C - inferred / approximate date",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C234",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Allison Trenholm - VP Public Affairs and Stakeholder Relations (title per org chart)",
+    "core_name_or_issue": "Allison Trenholm",
+    "role_detail": "VP Public Affairs and Stakeholder Relations (title per org chart)",
+    "name_variants": [
+      "allison trenholm"
+    ],
+    "date": "2025-07-02",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C235",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "David Stolte - Executive VP Strategy and Clinical Support Services (title per org chart)",
+    "core_name_or_issue": "David Stolte",
+    "role_detail": "Executive VP Strategy and Clinical Support Services (title per org chart)",
+    "name_variants": [
+      "david stolte"
+    ],
+    "date": "2025-07-02",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C236",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "hospital_aliases": [
+      "cortellucci vaughan hospital",
+      "mackenzie health",
+      "mackenzie health foundation",
+      "mackenzie richmond hill hospital",
+      "mackenzie vaughan hospital",
+      "mh",
+      "york central hospital"
+    ],
+    "name_or_issue": "Mary-Agnes Wilson - approving authority on the corporate organizational structure as interim President and CEO",
+    "core_name_or_issue": "Mary-Agnes Wilson",
+    "role_detail": "approving authority on the corporate organizational structure as interim President and CEO",
+    "name_variants": [
+      "mary agnes wilson"
+    ],
+    "date": "2025-07-02",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C237",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Robin Sully - Board Director",
+    "core_name_or_issue": "Robin Sully",
+    "role_detail": "Board Director",
+    "name_variants": [
+      "robin sully"
+    ],
+    "date": "2023-09-21",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C238",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Jenny Buckley - Board Director",
+    "core_name_or_issue": "Jenny Buckley",
+    "role_detail": "Board Director",
+    "name_variants": [
+      "jenny buckley"
+    ],
+    "date": "2023-09-21",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": null
+  },
+  {
+    "gold_item_id": "C239",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Terry Wright - Chair, ARH Foundation Board",
+    "core_name_or_issue": "Terry Wright",
+    "role_detail": "Chair, ARH Foundation Board",
+    "name_variants": [
+      "terry wright"
+    ],
+    "date": "2023-06-22",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Foundation Chair/officer, not a Foundation CEO - in scope under the agreed rule."
+  },
+  {
+    "gold_item_id": "C240",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Katherine Luckette - Vice-Chair, ARH Foundation Board",
+    "core_name_or_issue": "Katherine Luckette",
+    "role_detail": "Vice-Chair, ARH Foundation Board",
+    "name_variants": [
+      "katherine luckette"
+    ],
+    "date": "2023-06-22",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Foundation Chair/officer, not a Foundation CEO - in scope under the agreed rule."
+  },
+  {
+    "gold_item_id": "C241",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "hospital_aliases": [
+      "arh",
+      "arhf",
+      "arnprior and district memorial hospital",
+      "arnprior hospital",
+      "arnprior regional health",
+      "arnprior regional health foundation",
+      "the grove nursing home"
+    ],
+    "name_or_issue": "Ben Gardiner - Executive Director, ARH Foundation",
+    "core_name_or_issue": "Ben Gardiner",
+    "role_detail": "Executive Director, ARH Foundation",
+    "name_variants": [
+      "ben gardiner"
+    ],
+    "date": "2023-06-22",
+    "in_scope": "FALSE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Foundation Executive Director - the ARH equivalent of a Foundation CEO, which the scope rule excludes."
+  },
+  {
+    "gold_item_id": "C242",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Susan Woollard - VP Clinical Services, Quality & Long-Term Care, Chief Nursing Executive (outgoing)",
+    "core_name_or_issue": "Susan Woollard",
+    "role_detail": "VP Clinical Services, Quality & Long-Term Care, Chief Nursing Executive (outgoing)",
+    "name_variants": [
+      "susan woollard"
+    ],
+    "date": "2023-12-11",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Departure date; Linda Jussaume took over as interim the following day (C89)."
+  },
+  {
+    "gold_item_id": "C243",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "hospital_aliases": [
+      "branson ambulatory care centre",
+      "north york general",
+      "north york general foundation",
+      "north york general hospital",
+      "north york general hospital foundation",
+      "nygf",
+      "nygh",
+      "seniors' health centre"
+    ],
+    "name_or_issue": "Karyn Popovich - President & Chief Executive Officer (outgoing)",
+    "core_name_or_issue": "Karyn Popovich",
+    "role_detail": "President & Chief Executive Officer (outgoing)",
+    "name_variants": [
+      "karyn popovich"
+    ],
+    "date": "2023-11-30",
+    "in_scope": "TRUE",
+    "confidence_tier": "A - dated announcement",
+    "notes": "Her tenure END date. The retirement ANNOUNCEMENT is recorded separately at C64."
+  },
+  {
+    "gold_item_id": "P1",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "hospital_aliases": [
+      "ottawa hospital",
+      "the ottawa hospital"
+    ],
+    "name_or_issue": "PHIPA Decision 340 - EMR screenshot access dispute",
+    "core_name_or_issue": "PHIPA Decision 340",
+    "role_detail": "EMR screenshot access dispute",
+    "name_variants": [
+      "phipa decision 340"
+    ],
+    "date": "2026-06-25 00:00:00",
+    "in_scope": "TRUE",
+    "confidence_tier": null,
+    "notes": "confirmed independently by Wendy's team"
+  },
+  {
+    "gold_item_id": "P2",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "hospital_aliases": [
+      "ottawa hospital",
+      "the ottawa hospital"
+    ],
+    "name_or_issue": "PO-4820 - records re unnotified care meeting",
+    "core_name_or_issue": "PO-4820",
+    "role_detail": "records re unnotified care meeting",
+    "name_variants": [
+      "po 4820"
+    ],
+    "date": "2026-04-29 00:00:00",
+    "in_scope": "TRUE",
+    "confidence_tier": null,
+    "notes": "confirmed independently by Wendy's team"
+  },
+  {
+    "gold_item_id": "P3",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences",
+    "hospital_aliases": [
+      "hamilton health sciences",
+      "hamilton health sciences corporation",
+      "hamilton heath sciences"
+    ],
+    "name_or_issue": "PHIPA Decision 338 - child medical records access dispute",
+    "core_name_or_issue": "PHIPA Decision 338",
+    "role_detail": "child medical records access dispute",
+    "name_variants": [
+      "phipa decision 338"
+    ],
+    "date": "2026-05-13 00:00:00",
+    "in_scope": "TRUE",
+    "confidence_tier": null,
+    "notes": "confirmed independently by Wendy's team"
+  },
+  {
+    "gold_item_id": "P4",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences",
+    "hospital_aliases": [
+      "hamilton health sciences",
+      "hamilton health sciences corporation",
+      "hamilton heath sciences"
+    ],
+    "name_or_issue": "Pediatric death review records - PO-4849/PO-4850/PO-4851-F (merged - one event)",
+    "core_name_or_issue": "Pediatric death review records",
+    "role_detail": "PO-4849/PO-4850/PO-4851-F (merged - one event)",
+    "name_variants": [
+      "pediatric death review records"
+    ],
+    "date": "2026-06-17 00:00:00",
+    "in_scope": "FALSE",
+    "confidence_tier": null,
+    "notes": "same underlying event across all 3 - score as ONE item,  Out of scope based on Wendy's team analysis (FIPPA, not PHIPA) - confirmed independently by Wendy's team"
+  },
+  {
+    "gold_item_id": "P6",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "hospital_aliases": [
+      "ottawa hospital",
+      "the ottawa hospital"
+    ],
+    "name_or_issue": "PHIPA Decision 326 - correction request",
+    "core_name_or_issue": "PHIPA Decision 326",
+    "role_detail": "correction request",
+    "name_variants": [
+      "phipa decision 326"
+    ],
+    "date": "2026-01-26 00:00:00",
+    "in_scope": "FALSE",
+    "confidence_tier": null,
+    "notes": "EXCLUDED - correction request"
+  },
+  {
+    "gold_item_id": "P9",
+    "task": "phipa",
+    "hospital": "Baycrest Health Sciences",
+    "hospital_aliases": [
+      "baycrest",
+      "baycrest health sciences",
+      "baycrest hospital"
+    ],
+    "name_or_issue": "No PHIPA event found",
+    "core_name_or_issue": "No PHIPA event found",
+    "role_detail": null,
+    "name_variants": [
+      "no phipa event found"
+    ],
+    "date": null,
+    "in_scope": "FALSE",
+    "confidence_tier": null,
+    "notes": "CONFIRMED ZERO"
+  },
+  {
+    "gold_item_id": "S1",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "hospital_aliases": [
+      "stevenson memorial",
+      "stevenson memorial hospital"
+    ],
+    "name_or_issue": "Janice Skot - Investigator (s.8)",
+    "core_name_or_issue": "Janice Skot",
+    "role_detail": "Investigator (s.8)",
+    "name_variants": [
+      "janice skot"
+    ],
+    "date": "2024-02-01 00:00:00",
+    "in_scope": "FALSE",
+    "confidence_tier": null,
+    "notes": "FLAGGED - investigator not supervisor; Out of scope based on Wendy's team analysis (s.8 investigator, not supervisor) - confirmed independently by Wendy's team"
+  },
+  {
+    "gold_item_id": "S2",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "hospital_aliases": [
+      "stevenson memorial",
+      "stevenson memorial hospital"
+    ],
+    "name_or_issue": "Eric Hanna - Supervisor (s.9)",
+    "core_name_or_issue": "Eric Hanna",
+    "role_detail": "Supervisor (s.9)",
+    "name_variants": [
+      "eric hanna"
+    ],
+    "date": "2024-09-26 00:00:00",
+    "in_scope": "TRUE",
+    "confidence_tier": null,
+    "notes": "ended 2025-06-08 per OC 767/2025"
+  },
+  {
+    "gold_item_id": "S3",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "hospital_aliases": [
+      "stevenson memorial",
+      "stevenson memorial hospital"
+    ],
+    "name_or_issue": "Carmine Stumpo - Supervisor (s.9)",
+    "core_name_or_issue": "Carmine Stumpo",
+    "role_detail": "Supervisor (s.9)",
+    "name_variants": [
+      "carmine stumpo"
+    ],
+    "date": "2025-06-09 00:00:00",
+    "in_scope": "TRUE",
+    "confidence_tier": null,
+    "notes": "active"
+  },
+  {
+    "gold_item_id": "S4",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "hospital_aliases": [
+      "renfrew victoria",
+      "renfrew victoria hospital"
+    ],
+    "name_or_issue": "Altaf Stationwala - Supervisor (s.9)",
+    "core_name_or_issue": "Altaf Stationwala",
+    "role_detail": "Supervisor (s.9)",
+    "name_variants": [
+      "atlaf stationwala"
+    ],
+    "date": "2024-07-08 00:00:00",
+    "in_scope": "TRUE",
+    "confidence_tier": null,
+    "notes": "Date confirmed as commencement date. OIC order date is June 26, 2024 and the appointment was announced June 27, 2024; the supervisor report states it \"commenced July 8, 2024\". Ended 2025-06-20."
+  },
+  {
+    "gold_item_id": "S5",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "hospital_aliases": [
+      "lhsc",
+      "london health sciences",
+      "london health sciences centre"
+    ],
+    "name_or_issue": "David Musyj - Supervisor (s.9)",
+    "core_name_or_issue": "David Musyj",
+    "role_detail": "Supervisor (s.9)",
+    "name_variants": [
+      "david musyj"
+    ],
+    "date": "2024-09-24 00:00:00",
+    "in_scope": "TRUE",
+    "confidence_tier": null,
+    "notes": "active; extended per OC 105/2026"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by correctly reporting that no interim supervisors were appointed to Sinai Health System in the last 5 years.",
+  "groundedness": 1,
+  "groundedness_reason": "The model returned an empty list with no cited sources to support the claim that no interim supervisors were appointed, though the claim itself is correct per the gold standard.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly identified zero events, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of identifying interim supervisors appointed to Sinai Health System.",
+  "generated_questions": [
+    "Have any interim supervisors been appointed by the Ontario government to Sinai Health System in the last 5 years?",
+    "What is the list of interim supervisors assigned to Sinai Health System by the Government of Ontario recently?",
+    "Has the Ontario government intervened at Sinai Health System by appointing an interim supervisor?"
+  ],
+  "task": "supervisors",
+  "model": "MS Copilot Agent",
+  "hospital": "Sinai Health System"
+}

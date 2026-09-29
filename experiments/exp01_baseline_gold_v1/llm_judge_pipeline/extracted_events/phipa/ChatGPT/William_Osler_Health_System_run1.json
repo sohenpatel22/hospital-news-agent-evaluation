@@ -1,0 +1,16 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Hospital information system modernization, health-record privacy and secure access (Epic EHR implementation)",
+      "phipa_id": null,
+      "date": "2026-06-15",
+      "source": "William Osler Health System; Canadian Healthcare Technology",
+      "link": null
+    }
+  ],
+  "task": "phipa",
+  "model": "ChatGPT",
+  "hospital": "William Osler Health System",
+  "run_number": 1
+}

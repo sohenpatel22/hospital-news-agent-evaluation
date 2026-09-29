@@ -1,0 +1,44 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "AI-enabled electronic health record: privacy, security, and governance safeguards",
+      "phipa_id": null,
+      "date": "2026-04-22",
+      "source": "Hospital News",
+      "link": "https://hospitalnews.com"
+    },
+    {
+      "name_or_issue": "Unified electronic patient record, MyChart access, and safeguards for AI tools",
+      "phipa_id": null,
+      "date": "2026-06-15",
+      "source": "William Osler Health System",
+      "link": "https://williamoslerhs.ca"
+    },
+    {
+      "name_or_issue": "Patient online access to hospital records in Brampton and Etobicoke",
+      "phipa_id": null,
+      "date": "2026-06-15",
+      "source": "INsauga",
+      "link": "https://insauga.com"
+    },
+    {
+      "name_or_issue": "Epic hospital information system and secure patient portal",
+      "phipa_id": null,
+      "date": "2026-06-17",
+      "source": "Canadian Healthcare Technology",
+      "link": "https://canhealth.com"
+    },
+    {
+      "name_or_issue": "Generative AI using electronic patient-chart information",
+      "phipa_id": null,
+      "date": "2026-06-30",
+      "source": "Canadian Healthcare Technology",
+      "link": "https://canhealth.com"
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "William Osler Health System",
+  "run_number": 3
+}

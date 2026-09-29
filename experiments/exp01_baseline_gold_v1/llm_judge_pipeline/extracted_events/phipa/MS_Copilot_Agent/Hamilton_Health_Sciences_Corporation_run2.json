@@ -1,0 +1,30 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Internal and external paediatric surgery review records withheld under the quality-of-care exemption (Order PO-4849)",
+      "phipa_id": "PO-4849",
+      "date": "2026-06-17",
+      "source": "Information and Privacy Commissioner of Ontario, Order PO-4849",
+      "link": "https://decisions.ipc.on.ca"
+    },
+    {
+      "name_or_issue": "Public access to paediatric tonsil and adenoid surgery review reports (Order PO-4850)",
+      "phipa_id": "PO-4850",
+      "date": "2026-06-17",
+      "source": "Information and Privacy Commissioner of Ontario, Order PO-4850",
+      "link": "https://decisions.ipc.on.ca"
+    },
+    {
+      "name_or_issue": "Unreasonable search for a child's complete personal health-information records (PHIPA Decision 338)",
+      "phipa_id": "PHIPA Decision 338",
+      "date": "2026-05-13",
+      "source": "Information and Privacy Commissioner of Ontario, PHIPA Decision 338",
+      "link": "https://decisions.ipc.on.ca"
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 2
+}

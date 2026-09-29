@@ -1,0 +1,16 @@
+[
+  {
+    "item_index": 20,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8,
+    "needs_human_check": false
+  },
+  {
+    "item_index": 0,
+    "bucket": "A",
+    "reason": "Same Simone Atungo claim as the ChatGPT run1 idx21 item -- still pending independent confirmation of the exact appointment date; not yet added to gold.",
+    "confidence": 0.6,
+    "needs_human_check": true
+  }
+]

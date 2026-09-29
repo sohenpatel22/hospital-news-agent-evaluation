@@ -1,0 +1,45 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Paviter Binning - Board of Governors (incoming)",
+      "person_name": "Paviter Binning",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2025-06-16",
+      "source": "North York General Hospital; Canada Newswire",
+      "link": null
+    },
+    {
+      "name_or_issue": "Mitch Frazer - Board Chair (incoming)",
+      "person_name": "Mitch Frazer",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2024-06-24",
+      "source": "North York General Hospital; The Globe and Mail",
+      "link": null
+    },
+    {
+      "name_or_issue": "Bert Clark - Board Chair (outgoing)",
+      "person_name": "Bert Clark",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2024-06-24",
+      "source": "North York General Hospital; The Globe and Mail",
+      "link": null
+    },
+    {
+      "name_or_issue": "Dr. Everton Gooden - President and CEO (incoming)",
+      "person_name": "Dr. Everton Gooden",
+      "role": "President and CEO",
+      "direction": "incoming",
+      "date": null,
+      "source": "North York General Hospital",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "North York General Hospital",
+  "run_number": 3
+}

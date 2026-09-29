@@ -1,0 +1,43 @@
+{
+  "relevance": 0,
+  "relevance_reason": "The model returned no results whatsoever, failing to address the user's intent to find hospital leadership changes.",
+  "groundedness": 0,
+  "groundedness_reason": "No claims or sources were provided, so groundedness cannot be established.",
+  "completeness": 0.0,
+  "completeness_reason": "The model extracted zero events, missing all 23 gold standard leadership change items.",
+  "missed_items": [
+    "Angela Bishop - President/CEO (outgoing)",
+    "Sue LeBeau - President/CEO (outgoing resigned)",
+    "Angela Bishop - Interim President/CEO (1st stint)",
+    "Sumeet Kumar - President/CEO (incoming)",
+    "Angela Bishop - Interim President/CEO (2nd stint)",
+    "Jennifer Lawrance - President/CEO (incoming)",
+    "Sonia Green - Board Chair (outgoing resigned)",
+    "John Frostiak - Board Chair (incoming)",
+    "Trevor Zhukrovsky - Board Chair (incoming)",
+    "Shawnda Norlock - Board Director (outgoing)",
+    "Trevor Zhukrovsky - Board Director (incoming - filled Norlock vacancy)",
+    "James Russell - Board Director (incoming)",
+    "Marshall Dumontier - Board Director (outgoing)",
+    "Jennifer Sedlacek - Board Director (incoming)",
+    "James Russell - Board Director (outgoing)",
+    "Eleanor Vachon - Board Director (outgoing 10yr term complete)",
+    "Scott Macumber - Board Director (incoming)",
+    "Donna Williams - Board Director (incoming)",
+    "Ray Hall - Board Director (incoming)",
+    "Ursula DeKeyser - Board Director (incoming)",
+    "Vivian Bruchkowski - Board Director (incoming)",
+    "Jamie Saulnier - Board Director (incoming)",
+    "Arlene Swanwick - Vice-Chair (from Committee Chair)"
+  ],
+  "answer_relevancy": 0.0,
+  "answer_relevancy_reason": "Since the model declared no results and provided an empty response, no questions can be generated that would align with the original intent of finding leadership changes.",
+  "generated_questions": [
+    "Did the model find any leadership changes at Red Lake Margaret Cochenour Memorial Hospital?",
+    "Did the model confirm there are no hospital leadership records available?",
+    "Did the model provide any information about the hospital at all?"
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "Red Lake Margaret Cochenour Memorial Hospital"
+}

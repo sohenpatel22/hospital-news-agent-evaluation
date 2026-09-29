@@ -1,0 +1,19 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "David Musyj - Supervisor",
+      "person_name": "David Musyj",
+      "role": "Supervisor",
+      "appointment_date": "2024-09-25",
+      "termination_date": null,
+      "order_in_council": null,
+      "source": "London Health Sciences Centre, \"Strengthening our governance\"; CBC News; Ontario Ministry of Health announcement as reported by contemporaneous media",
+      "link": "https://www.lhsc.on.ca/strengthening-our-governance"
+    }
+  ],
+  "task": "supervisors",
+  "model": "Perplexity",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 1
+}

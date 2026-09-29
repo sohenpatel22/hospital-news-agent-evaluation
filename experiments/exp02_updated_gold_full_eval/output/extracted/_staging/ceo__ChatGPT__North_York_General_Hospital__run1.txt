@@ -1,0 +1,98 @@
+I found 13 publicly documented leadership, CEO, medical-leadership, and hospital Board of Governors changes at North York General Hospital (NYGH) between July 16, 2021 and July 16, 2026. I treated “board changes” as the hospital’s Board of Governors, not changes limited to the North York General Foundation board. I also included material senior-leadership transitions that directly affect hospital governance and operational accountability.
+One caution: some NYGH annual-review documents show the board composition for a fiscal/year-in-review period rather than giving an exact appointment date for each individual governor. Where the exact effective date is not publicly documented, I identify the change as occurring during the documented year/AGM cycle rather than inventing a date.
+1
+Hospital → North York General Hospital
+Issue → Board of Governors turnover / three governors no longer listed
+Paragraph blurb → NYGH’s 2021–2022 Board roster included Cynthia Devine, Sheila Jarvis and Dr. Louise Lemieux-Charles. The subsequent 2022–2023 roster no longer included those three governors, while the remainder of the elected-governor roster was substantially retained. This is therefore a documented board-composition change occurring across the 2022 AGM/year transition, although the public material I found does not specify each individual’s exact departure date or whether each change reflected term expiry, retirement or another governance mechanism. (North York General Hospital)
+Date → 2022 AGM / 2021–2022 to 2022–2023 governance transition
+Source → North York General Hospital, Year in Review 2021–2022 and Year in Review 2022–2023
+Source link → NYGH Year in Review 2021–2022 · NYGH Year in Review 2022–2023
+2
+Hospital → North York General Hospital
+Issue → President, Medical Staff Association changed
+Paragraph blurb → In the 2021–2022 governance roster, Dr. Arun Sayal was listed as President of the Medical Staff Association. In the 2022–2023 roster, Dr. Benjamin Bell held that position instead. Because the position is an ex-officio connection to the hospital’s governance structure, this represents a medical-leadership change relevant to Board oversight, even though it is not a corporate Board seat. (North York General Hospital)
+Date → 2022–2023 governance year
+Source → North York General Hospital, Year in Review 2021–2022 and Year in Review 2022–2023
+Source link → NYGH 2021–2022 Year in Review · NYGH 2022–2023 Year in Review
+3
+Hospital → North York General Hospital
+Issue → CFO departure; interim financial leadership
+Paragraph blurb → Young Lee, NYGH’s Vice President, Corporate Performance & Digital Health Innovation and Chief Financial Officer, was still in the role for the reporting period ending May 15, 2023, but later left NYGH for SickKids. The 2023–2024 NYGH governance record lists Peter Wegener as Interim CFO, documenting the resulting transition in one of the hospital’s key executive-accountability positions. (North York General Hospital)
+Date → May 2023 departure / interim succession in 2023
+Source → NYGH executive-expense disclosure; SickKids biography; NYGH 2023–2024 Governance and Leadership
+Source link → NYGH executive expense disclosure for Young Lee · SickKids biography of Young Lee · NYGH 2023–2024 governance record
+4
+Hospital → North York General Hospital
+Issue → Medical Advisory Committee Chair / Chief of Staff succession
+Paragraph blurb → Dr. Simon Raphael was the Chair of NYGH’s Medical Advisory Committee and Chief of Staff through the earlier 2022–2023 governance year. The 2023–2024 governance record identifies Dr. Phil Shin as Chair of the Medical Advisory Committee from July 2023 onward, while Raphael is identified as the former chair through July 2023. This was a significant physician-governance transition. (North York General Hospital)
+Date → July 2023
+Source → North York General Hospital, 2023–2024 Governance and Leadership
+Source link → NYGH 2023–2024 Year in Review
+5
+Hospital → North York General Hospital
+Issue → President and CEO succession — Karyn Popovich to Dr. Everton Gooden
+Paragraph blurb → Karyn Popovich retired as President and CEO after a more than 40-year NYGH career, with the 2023–2024 Year in Review identifying her as CEO up to November 2023. Dr. Everton Gooden, a longtime NYGH surgeon and former medical leader, became President and CEO December 1, 2023. This is the principal CEO succession in the review period and one of the most significant governance transitions at NYGH. (North York General Hospital)
+Date → December 1, 2023
+Source → North York General Hospital Year in Review 2023–2024; University of Toronto Department of Otolaryngology
+Source link → NYGH 2023–2024 Year in Review · University of Toronto announcement/profile
+6
+Hospital → North York General Hospital
+Issue → Board of Governors composition — Robert Palter added
+Paragraph blurb → Robert Palter appears on NYGH’s 2023–2024 Board of Governors roster but not on the 2022–2023 roster. His addition is therefore a documented hospital-board composition change during the 2023–2024 governance cycle. The available NYGH annual-report material establishes the change in membership but does not specify the precise appointment date. (North York General Hospital)
+Date → 2023–2024 governance cycle
+Source → North York General Hospital, Year in Review 2022–2023 and 2023–2024 Governance and Leadership
+Source link → NYGH 2022–2023 governance roster · NYGH 2023–2024 governance roster
+7
+Hospital → North York General Hospital
+Issue → Board Chair succession — Bert Clark to Mitch Frazer
+Paragraph blurb → Bert Clark completed his three-year term as Chair of the NYGH Board of Governors, and Mitch Frazer succeeded him as Board Chair. NYGH’s current strategic materials identify Frazer as Chair, while contemporary documentation records the transition as taking effect June 18, 2024. This was the principal Board-governance leadership change in 2024. (LinkedIn)
+Date → June 18, 2024
+Source → NYGH governance/fiscal-accountability documentation; Mitch Frazer and Bert Clark public statements
+Source link → NYGH governance/fiscal-accountability record · Mitch Frazer transition announcement
+8
+Hospital → North York General Hospital
+Issue → Permanent CFO appointment — Paul Truscott
+Paragraph blurb → Following Peter Wegener’s interim CFO tenure, NYGH appointed Paul Truscott Jr. as Vice President, Finance, Data Analytics & Chief Financial Officer. He was announced on October 16, 2024 and began the position January 6, 2025. NYGH specifically thanked Wegener for his interim financial stewardship and transition support. (Boyden)
+Date → January 6, 2025
+Source → Boyden / original NYGH appointment announcement
+Source link → Paul Truscott appointment announcement
+9
+Hospital → North York General Hospital
+Issue → Chief Nursing Executive / Clinical Services leadership succession
+Paragraph blurb → NYGH appointed Terri Stuart-McEwan as Vice President, Clinical Services and Chief Nursing Executive, beginning February 11, 2025. The appointment followed her role at Oak Valley Health and represented a significant transition in NYGH’s clinical-services and nursing executive leadership. (Mirams Becker)
+Date → February 11, 2025
+Source → Mirams Becker / original NYGH appointment announcement
+Source link → Terri Stuart-McEwan appointment announcement
+10
+Hospital → North York General Hospital
+Issue → VP Medical Affairs / Research and Education succession
+Paragraph blurb → NYGH announced Dr. Richard Bowry as its next Vice President, Medical Affairs, Research and Education, effective April 1, 2025. He succeeded the interim arrangement led by Dr. Lloyd Smith, whom NYGH credited with 14 months of interim leadership and with helping shape the hospital’s 10-year Vision and Strategic Plan. (North York General Hospital)
+Date → April 1, 2025
+Source → North York General Hospital
+Source link → NYGH — Richard Bowry appointment
+11
+Hospital → North York General Hospital
+Issue → Board of Governors appointment — Paviter (Pavi) Binning
+Paragraph blurb → At the June 16, 2025 Annual General Meeting, NYGH announced Paviter (Pavi) Binning, Deputy Chairman and Director of Wittington Investments, as a new member of the North York General Board of Governors. The same announcement named five new North York General Foundation directors; those five were Foundation appointments rather than hospital Board appointments and are therefore excluded from this hospital-board list. (Newswire)
+Date → June 16, 2025
+Source → North York General Hospital / North York General Foundation announcement
+Source link → NYGH Board appointment announcement · NYGH Foundation version
+12
+Hospital → North York General Hospital
+Issue → Chief Communications and External Relations Officer appointment
+Paragraph blurb → Serda Evren was appointed NYGH’s next Chief Communications and External Relations Officer, starting January 26, 2026. The role sits on the Senior Leadership Team and is responsible for internal and external communications, issues and crisis management, government and community relations, and brand/reputation. The appointment represents a senior leadership transition in a core corporate-function portfolio. (Boyden)
+Date → January 26, 2026
+Source → Boyden / original NYGH announcement
+Source link → Serda Evren appointment announcement
+13
+Hospital → North York General Hospital
+Issue → Board of Governors appointments — Simone Atungo and Dr. Kathryn Nichol
+Paragraph blurb → NYGH appointed Simone Atungo and Dr. Kathryn Nichol to its Board of Governors in July 2026. The retained-search firm that conducted the appointment process reported the appointments on July 3, 2026, placing them squarely within the requested review period. The recruitment material had advertised two Board seats commencing in June 2026, and the final appointment announcement identifies Atungo, founder/CEO of Onuera Consulting, and Nichol, President and CEO of VHA Home HealthCare, as the two new governors. (LinkedIn)
+Date → July 3, 2026
+Source → Mirams Becker, North York General Board appointment announcement
+Source link → Mirams Becker — Simone Atungo and Dr. Kathryn Nichol appointments
+Executive/governance status at the end of the review period
+As of July 16, 2026, the public record supports Dr. Everton Gooden as President and CEO, Mitch Frazer as Chair of the Board of Governors, Paul Truscott as VP Finance, Data Analytics & CFO, Terri Stuart-McEwan as VP Clinical Services/Chief Nursing Executive, Dr. Richard Bowry as VP Medical Affairs, Research and Education, and Serda Evren as Chief Communications and External Relations Officer. Current public material also confirms Frazer as Board Chair in 2026. (NYGH Strategic Plan)
+Important source-quality note
+There is a data-quality discrepancy in one Ontario Health accountability letter dated February 13, 2025, which still names Bert Clark as Board Chair even though NYGH’s governance record and subsequent public materials identify Mitch Frazer as Chair effective June 18, 2024. I regard the accountability-letter reference as a stale/template governance field rather than evidence that Clark remained Chair. (North York General Hospital)
+I also found no evidence of an Ontario government-appointed supervisor or other statutory intervention at NYGH during this period; this list is therefore focused on ordinary Board, CEO and senior-leadership succession rather than supervisory appointments.

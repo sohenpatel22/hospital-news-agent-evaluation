@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Pierre Noel - Interim President and CEO (incoming)\",\n      \"person_name\": \"Pierre Noel\",\n      \"role\": \"Interim President/",
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Arnprior Regional Health",
+  "run_number": 1
+}

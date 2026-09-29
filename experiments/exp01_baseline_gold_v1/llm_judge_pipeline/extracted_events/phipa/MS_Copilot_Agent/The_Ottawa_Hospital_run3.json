@@ -1,0 +1,23 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "PHIPA Decision 340: access to Epic EMR displays and screenshots",
+      "phipa_id": "PHIPA Decision 340",
+      "date": "2026-06-25",
+      "source": "Information and Privacy Commissioner of Ontario",
+      "link": "ipc.on.ca"
+    },
+    {
+      "name_or_issue": "Order PO-4820: access to care-related emails and meeting minutes (Ottawa Hospital Civic Campus)",
+      "phipa_id": "PO-4820",
+      "date": "2026-04-29",
+      "source": "Information and Privacy Commissioner of Ontario",
+      "link": "decisions.ipc.on.ca"
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 3
+}

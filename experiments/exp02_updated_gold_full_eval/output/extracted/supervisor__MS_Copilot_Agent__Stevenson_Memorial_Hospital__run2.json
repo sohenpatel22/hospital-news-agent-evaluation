@@ -1,0 +1,55 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "supervisor",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 2,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 2.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 2,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "September 26, 2024, effective the date the Order in Council was approved",
+      "date_normalised": "2024-09-26",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Order in Council 1271/2024; Government of Ontario, Stevenson Memorial Hospital Investigation Report",
+      "verbatim_snippet": "On the recommendation of the Minister of Health, the Lieutenant Governor in Council appointed Eric Hanna as Supervisor for Stevenson Memorial Hospital under subsection 9(1) of the Public Hospitals Act."
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 2,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "outgoing",
+      "date_raw": "revoked effective at the end of June 8, 2025",
+      "date_normalised": "2025-06-08",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Order in Council 767/2025",
+      "verbatim_snippet": "Hanna’s appointment continued until June 8, 2025, when it was revoked because he wished to step down and the government appointed a successor."
+    },
+    {
+      "item_index": 2,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 2,
+      "person_or_issue": "Carmine Stumpo",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "June 9, 2025, effective appointment date",
+      "date_normalised": "2025-06-09",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Order in Council 767/2025; Interim Report, Supervisor, Stevenson Memorial Hospital, Carmine Stumpo, January 2026",
+      "verbatim_snippet": "Order in Council 767/2025 revoked Hanna’s appointment at the end of June 8, 2025 and appointed Carmine Stumpo as his successor, effective June 9, 2025."
+    }
+  ],
+  "refusals": []
+}

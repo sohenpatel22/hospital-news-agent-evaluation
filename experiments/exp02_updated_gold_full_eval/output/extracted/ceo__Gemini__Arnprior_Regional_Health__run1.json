@@ -1,0 +1,40 @@
+{
+  "system": "Gemini",
+  "task": "ceo",
+  "hospital": "Arnprior Regional Health",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\CEOs\\Gemini\\Arnprior Regional Health\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Gemini",
+      "task": "ceo",
+      "hospital": "Arnprior Regional Health",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "President and CEO",
+      "direction": "outgoing",
+      "date_raw": "July 2022",
+      "date_normalised": "2022-07",
+      "citation_url": null,
+      "citation_text": "Arnprior Regional Health Corporate Communications / Local Media Archives; Source link: Arnprior Regional Health Official Website",
+      "verbatim_snippet": "Arnprior Regional Health underwent a pivotal executive leadership change with the retirement of long-time President and CEO Eric Hanna."
+    },
+    {
+      "item_index": 1,
+      "system": "Gemini",
+      "task": "ceo",
+      "hospital": "Arnprior Regional Health",
+      "run_number": 1,
+      "person_or_issue": "Leah Levesque",
+      "role": "President and Chief Executive Officer",
+      "direction": "incoming",
+      "date_raw": "July 2022",
+      "date_normalised": "2022-07",
+      "citation_url": null,
+      "citation_text": "Arnprior Regional Health Corporate Communications / Local Media Archives; Source link: Arnprior Regional Health Official Website",
+      "verbatim_snippet": "To ensure seamless continuity in regional healthcare delivery and strategic alignment with Ontario Health's mandates, the ARH Board of Directors appointed Leah Levesque—who previously served as the hospital's Vice President of Clinical Services and Chief Nursing Executive—as the new President and Chief Executive Officer."
+    }
+  ],
+  "refusals": []
+}

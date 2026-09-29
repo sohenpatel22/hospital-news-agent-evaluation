@@ -1,0 +1,40 @@
+{
+  "system": "ChatGPT",
+  "task": "supervisor",
+  "hospital": "Renfrew Victoria Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\ChatGPT\\Renfrew Victoria Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "ChatGPT",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 1,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "supervisor of Renfrew Victoria Hospital",
+      "direction": "incoming",
+      "date_raw": "June 26, 2024",
+      "date_normalised": "2024-06-26",
+      "citation_url": null,
+      "citation_text": "Ontario Order in Council 886/2024",
+      "verbatim_snippet": "Altaf Stationwala was appointed on June 26, 2024, under subsection 9(1) of the Public Hospitals Act."
+    },
+    {
+      "item_index": 1,
+      "system": "ChatGPT",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 1,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "supervisor of Renfrew Victoria Hospital",
+      "direction": "outgoing",
+      "date_raw": "11:59:59 p.m. on June 20, 2025",
+      "date_normalised": "2025-06-20",
+      "citation_url": null,
+      "citation_text": "Order in Council 766/2025",
+      "verbatim_snippet": "The appointment was subsequently terminated effective 11:59:59 p.m. on June 20, 2025 by Order in Council 766/2025."
+    }
+  ],
+  "refusals": []
+}

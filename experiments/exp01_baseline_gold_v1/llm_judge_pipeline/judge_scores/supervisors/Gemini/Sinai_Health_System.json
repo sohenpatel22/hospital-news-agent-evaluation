@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by correctly indicating that no interim supervisors were appointed to Sinai Health System in the last 5 years.",
+  "groundedness": 3,
+  "groundedness_reason": "The model declared no results, which aligns with the gold standard of zero events, so there are no unsupported factual claims to evaluate.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard contains zero events, and the model correctly returned an empty list, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions directly relate to the original intent of finding interim supervisors appointed to Sinai Health System.",
+  "generated_questions": [
+    "Have any interim supervisors been appointed by the Government of Ontario to Sinai Health System in the last 5 years?",
+    "What is the list of interim supervisors assigned to Sinai Health System by Ontario's government recently?",
+    "Has Sinai Health System been placed under provincial supervision in the past 5 years?"
+  ],
+  "task": "supervisors",
+  "model": "Gemini",
+  "hospital": "Sinai Health System"
+}

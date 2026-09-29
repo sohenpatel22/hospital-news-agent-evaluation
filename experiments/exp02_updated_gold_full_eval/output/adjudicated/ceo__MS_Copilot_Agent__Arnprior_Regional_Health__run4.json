@@ -1,0 +1,16 @@
+[
+  {
+    "item_index": 25,
+    "bucket": "E",
+    "reason": "Administrative staff \u2014 explicitly OUT of scope",
+    "confidence": 0.8,
+    "needs_human_check": false
+  },
+  {
+    "item_index": 26,
+    "bucket": "B",
+    "reason": "Author-verified 2026-08-31 against ARH's own board/website records and general search: no trace of a 'Brenda Donnelly' associated with ARH anywhere. The co-mentioned 'Christine Waite (Executive Assistant)' in the same sentence resolves to a real person, but she is Executive Director of an unrelated Ottawa mental-health nonprofit -- a real name from an unrelated context stitched into a fabricated ARH scene. Reclassified from provisional A to confirmed hallucination (bucket B).",
+    "confidence": 0.85,
+    "needs_human_check": true
+  }
+]

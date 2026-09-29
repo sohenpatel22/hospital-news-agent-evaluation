@@ -1,0 +1,102 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "extraction_item",
+  "description": "One structured item extracted from a single raw system response file (one system/task/hospital/run).",
+  "type": "object",
+  "properties": {
+    "item_index": {
+      "type": "integer",
+      "description": "0-based index of this item within its source file's items list."
+    },
+    "system": {
+      "type": "string",
+      "enum": ["MS Copilot Agent", "Perplexity", "Claude", "ChatGPT", "Gemini"]
+    },
+    "task": {
+      "type": "string",
+      "enum": ["ceo", "phipa", "supervisor"]
+    },
+    "hospital": {
+      "type": "string",
+      "description": "Hospital name exactly as named in the raw folder structure (not normalised/aliased)."
+    },
+    "run_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "person_or_issue": {
+      "type": "string",
+      "description": "Person's name (CEO/supervisor/board tasks) or the issue name (PHIPA task), copied as stated in the response."
+    },
+    "role": {
+      "type": ["string", "null"],
+      "description": "Title/role as stated in the response, verbatim. Null if not stated."
+    },
+    "direction": {
+      "type": "string",
+      "enum": ["incoming", "outgoing", "unclear"]
+    },
+    "date_raw": {
+      "type": ["string", "null"],
+      "description": "Date exactly as it appears in the response text. Null if no date given."
+    },
+    "date_normalised": {
+      "type": ["string", "null"],
+      "description": "Normalised date. One of YYYY-MM-DD, YYYY-MM, YYYY, or null if date_raw is null or unparseable.",
+      "pattern": "^(\\d{4}-\\d{2}-\\d{2}|\\d{4}-\\d{2}|\\d{4})$"
+    },
+    "citation_url": {
+      "type": ["string", "null"],
+      "description": "URL exactly as given in the response. Null if no link was provided. Never invented."
+    },
+    "citation_text": {
+      "type": ["string", "null"],
+      "description": "Source/publication name or anchor text tied to the citation, if given. Null if none."
+    },
+    "verbatim_snippet": {
+      "type": "string",
+      "description": "The exact sentence(s) from the response this item was extracted from. Copied verbatim, not paraphrased."
+    }
+  },
+  "required": [
+    "item_index",
+    "system",
+    "task",
+    "hospital",
+    "run_number",
+    "person_or_issue",
+    "role",
+    "direction",
+    "date_raw",
+    "date_normalised",
+    "citation_url",
+    "citation_text",
+    "verbatim_snippet"
+  ],
+  "additionalProperties": false,
+  "file_level_schema": {
+    "description": "Each /output/extracted/*.json file (one per system/task/hospital/run) has this shape.",
+    "type": "object",
+    "properties": {
+      "system": { "type": "string" },
+      "task": { "type": "string" },
+      "hospital": { "type": "string" },
+      "run_number": { "type": "integer" },
+      "source_file": { "type": "string", "description": "Relative path of the raw file this was extracted from." },
+      "items": { "type": "array", "items": { "$ref": "#" } },
+      "refusals": {
+        "type": "array",
+        "description": "List of hospitals/entries for which the response explicitly stated it could not find information. Each entry: {hospital, refusal_text}.",
+        "items": {
+          "type": "object",
+          "properties": {
+            "hospital": { "type": "string" },
+            "refusal_text": { "type": "string" }
+          },
+          "required": ["hospital", "refusal_text"]
+        }
+      }
+    },
+    "required": ["system", "task", "hospital", "run_number", "source_file", "items", "refusals"]
+  }
+}

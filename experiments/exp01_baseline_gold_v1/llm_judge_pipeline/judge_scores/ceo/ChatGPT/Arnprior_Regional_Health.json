@@ -1,0 +1,33 @@
+{
+  "relevance": 0,
+  "relevance_reason": "The model returned no extracted events despite declaring it had results, providing no useful information addressing the user's intent about hospital leadership changes.",
+  "groundedness": 0,
+  "groundedness_reason": "No factual claims or sources were provided in the response, making it impossible to assess groundedness.",
+  "completeness": 0.0,
+  "completeness_reason": "The model captured none of the 13 gold standard leadership change events for Arnprior Regional Health.",
+  "missed_items": [
+    "Eric Hanna - President/CEO (outgoing after 13 yrs)",
+    "Leah Levesque - President/CEO (incoming)",
+    "Beth Ciavaglia - Board Director (incoming)",
+    "Richard Holock - Board Director (incoming)",
+    "Peter Kenny - Board Director (incoming)",
+    "Borys Koba - Board Director (incoming)",
+    "Leah Levesque - President/CEO retirement announced",
+    "Cathy Jordan - Board Chair (outgoing)",
+    "Oliver Jacob - Board Chair (incoming)",
+    "Jeremy Stevenson - President/CEO (incoming)",
+    "Jeremy Stevenson - President/CEO stepped down",
+    "Raeline McGrath - Acting President/CEO (incoming)",
+    "Pierre Noel - Interim President/CEO (incoming)"
+  ],
+  "answer_relevancy": 0.0,
+  "answer_relevancy_reason": "Since the response contains no extracted events or information, no meaningful questions relevant to the original intent can be generated from it.",
+  "generated_questions": [
+    "What information did the model provide about Arnprior Regional Health?",
+    "Did the model return any data at all in its response?",
+    "Why did the model fail to extract any leadership change events?"
+  ],
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "Arnprior Regional Health"
+}

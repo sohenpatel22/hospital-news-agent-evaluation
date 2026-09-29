@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly identifies the interim supervisor appointed to Renfrew Victoria Hospital, which is exactly what the user requested.",
+  "groundedness": 3,
+  "groundedness_reason": "The claim is supported by a specific cited source (Order in Council 886/2024) from the Government of Ontario, providing a credible and verifiable reference.",
+  "completeness": 1.0,
+  "completeness_reason": "The response covers the only gold standard item (Altaf Stationwala as Supervisor) with additional details including appointment date and order number.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of identifying interim supervisors appointed to Renfrew Victoria Hospital.",
+  "generated_questions": [
+    "Who was appointed as interim supervisor to Renfrew Victoria Hospital by the Government of Ontario?",
+    "What is the Order in Council number associated with the supervisor appointment at Renfrew Victoria Hospital?",
+    "When was Altaf Stationwala appointed as supervisor to Renfrew Victoria Hospital?"
+  ],
+  "task": "supervisors",
+  "model": "Gemini",
+  "hospital": "Renfrew Victoria Hospital"
+}

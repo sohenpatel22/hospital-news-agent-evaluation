@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Samuel Elfassy - Board Chair (outgoing)\",\n      \"person_name\": \"Samuel Elfassy\",\n      \"role\": \"Board Chair\",\n      \"direc",
+  "task": "ceo",
+  "model": "Claude",
+  "hospital": "North York General Hospital",
+  "run_number": 1
+}

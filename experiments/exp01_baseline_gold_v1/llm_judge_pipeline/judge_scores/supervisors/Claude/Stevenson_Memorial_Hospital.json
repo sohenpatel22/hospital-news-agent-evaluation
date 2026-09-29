@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by listing supervisors appointed to Stevenson Memorial Hospital, including both gold standard supervisors plus an additional investigator.",
+  "groundedness": 3,
+  "groundedness_reason": "All three extracted events include specific cited sources with URLs from credible local news outlets (South Simcoe Today, Milton Now, Bradford Today).",
+  "completeness": 1.0,
+  "completeness_reason": "Both gold standard items (Eric Hanna and Carmine Stumpo as Supervisors) are covered in the model's response.",
+  "missed_items": [],
+  "answer_relevancy": 0.67,
+  "answer_relevancy_reason": "Two of the three questions generated from this response align with the original intent about supervisors, but one question would concern the investigator appointment (Janice Skot), which is outside the scope of 'interim supervisors' as specified in the user intent.",
+  "generated_questions": [
+    "Who were the supervisors appointed by the Ontario government to Stevenson Memorial Hospital?",
+    "Who was appointed as an investigator for Stevenson Memorial Hospital in early 2024?",
+    "When was Eric Hanna appointed as supervisor of Stevenson Memorial Hospital?"
+  ],
+  "task": "supervisors",
+  "model": "Claude",
+  "hospital": "Stevenson Memorial Hospital"
+}

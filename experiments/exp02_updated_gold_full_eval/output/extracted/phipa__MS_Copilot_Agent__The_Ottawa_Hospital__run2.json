@@ -1,0 +1,40 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 2,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\The Ottawa Hospital\\Run 2.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "The Ottawa Hospital",
+      "run_number": 2,
+      "person_or_issue": "Access to EMR displays and screenshots",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "June 25, 2026",
+      "date_normalised": "2026-06-25",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, PHIPA Decision 340, Complaint HA22-00114",
+      "verbatim_snippet": "1. The Ottawa Hospital → Access to EMR displays and screenshots →\nA patient requested screenshots or “samples” of 25 Epic electronic-medical-record displays, including “Storyboard” and “Snapshot.” The hospital offered printed copies of the personal health information displayed by those functions but declined to create screenshots. The IPC found that screenshots could, in principle, qualify as “records” under PHIPA, but that The Ottawa Hospital did not create or maintain the requested screenshots and was not required to create them. The adjudicator considered the hospital’s proposed alternatives reasonable and dismissed the complaint in its entirety, including additional allegations concerning a previous access request, alleged PHIPA offences, bias, and procedural unfairness. For performance management, the decision is relevant to defining the limits of the right of access when the requested representation of information does not already exist, while underscoring the value of reasonable alternative formats.\nDate → June 25, 2026\nSource → Information and Privacy Commissioner of Ontario, PHIPA Decision 340, Complaint HA22-00114\nSource link → PHIPA Decision 340: The Ottawa Hospital and requested Epic screenshots [decisions.ipc.on.ca], [ipc.on.ca]"
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "The Ottawa Hospital",
+      "run_number": 2,
+      "person_or_issue": "Access to records concerning a patient’s care",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "April 29, 2026",
+      "date_normalised": "2026-04-29",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, Order PO-4820, Appeal PA22-00389",
+      "verbatim_snippet": "2. The Ottawa Hospital, Civic Campus → Access to records concerning a patient’s care →\nA substitute decision-maker sought records concerning his son’s care under both FIPPA and PHIPA, including material related to a meeting between hospital staff and Ministry of Health representatives. The IPC determined that the records contained the son’s personal health information, although some records were not dedicated primarily to that information for PHIPA purposes. The adjudicator upheld the hospital’s reliance on applicable FIPPA exclusions and exemptions for portions of the records, but found that the hospital’s search for responsive records was not reasonable and ordered a further search. For performance management, the operational issue is records-search completeness in a request spanning clinical information, internal communications, and employment-related material, together with the correct handling of records governed through PHIPA’s FIPPA “flow-through” provision.\nDate → April 29, 2026\nSource → Information and Privacy Commissioner of Ontario, Order PO-4820, Appeal PA22-00389\nSource link → Order PO-4820: The Ottawa Hospital, Civic Campus records-access appeal [decisions.ipc.on.ca]"
+    }
+  ],
+  "refusals": []
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "item_index": 16,
+    "bucket": "A",
+    "reason": "Same underlying claim as ceo__ChatGPT__Arnprior Regional Health__run1__idx3 (outgoing Chief of Staff Christine Schriver, replaced by Florin Padeanu), independently extracted from a different system's response with matching facts and an explicit citation to 'February 17, 2022 Board minutes' -- treat as the same provisional call.",
+    "confidence": 0.6,
+    "needs_human_check": true
+  }
+]

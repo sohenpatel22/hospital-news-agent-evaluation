@@ -1,0 +1,81 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Anthony Paniccia - Board Chair (outgoing)",
+      "person_name": "Anthony Paniccia",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2022-2024",
+      "source": "WRH AGM Board Package 2023",
+      "link": "https://wrh.on.ca/uploads/BoardMeetings/AGM_Board_Package_2023.pdf"
+    },
+    {
+      "name_or_issue": "Patti France - Board Chair (incoming)",
+      "person_name": "Patti France",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2022-2024",
+      "source": "WRH AGM Board Package 2023 / CBC News",
+      "link": "https://www.cbc.ca/lite/story/1.7207391"
+    },
+    {
+      "name_or_issue": "David Musyj - President/CEO (outgoing to secondment)",
+      "person_name": "David Musyj",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2024-05-17",
+      "source": "CBC News",
+      "link": "https://www.cbc.ca/news/canada/windsor/windsor-regional-hospital-president-to-temporarily-take-helm-at-london-health-sciences-centre-1.7207391"
+    },
+    {
+      "name_or_issue": "Karen Riddell - Acting President/CEO (incoming)",
+      "person_name": "Karen Riddell",
+      "role": "Acting President/CEO",
+      "direction": "incoming",
+      "date": "2024-05-22",
+      "source": "CBC News",
+      "link": "https://www.cbc.ca/news/canada/windsor/windsor-regional-hospital-karen-riddell-1.7211553"
+    },
+    {
+      "name_or_issue": "Karen Riddell - President/CEO permanent (incoming)",
+      "person_name": "Karen Riddell",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2024",
+      "source": "Boyden",
+      "link": "https://www.boyden.com/media/new-president-and-ceo-appointed-at-windsor-regional-hospital-56784111/"
+    },
+    {
+      "name_or_issue": "Karen Riddell - President/CEO (outgoing retirement)",
+      "person_name": "Karen Riddell",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2025-12-29",
+      "source": "Boyden",
+      "link": "https://www.boyden.com/media/new-president-and-ceo-appointed-at-windsor-regional-hospital-56784111/"
+    },
+    {
+      "name_or_issue": "Kristin Kennedy - President/CEO (incoming announced)",
+      "person_name": "Kristin Kennedy",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2025-12-29",
+      "source": "CBC News",
+      "link": "https://www.cbc.ca/news/canada/windsor/kristin-kennedy-windsor-regional-hospita-9.7029476"
+    },
+    {
+      "name_or_issue": "Kristin Kennedy - President/CEO (incoming assumed post)",
+      "person_name": "Kristin Kennedy",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2026-04-20",
+      "source": "CBC News",
+      "link": "https://www.cbc.ca/news/canada/windsor/q-and-a-windsor-regional-hospital-new-ceo-kristin-kennedy-9.7168898"
+    }
+  ],
+  "task": "ceo",
+  "model": "Claude",
+  "hospital": "Windsor Regional Hospital",
+  "run_number": 1
+}

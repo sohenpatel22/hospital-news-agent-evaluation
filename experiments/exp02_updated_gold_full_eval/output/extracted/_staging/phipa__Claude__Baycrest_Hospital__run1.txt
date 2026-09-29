@@ -1,0 +1,10 @@
+I'll search for this information.Let me search more specifically for Baycrest-named news within your date window.Let me try a couple more targeted searches before concluding.I've done a thorough search across the IPC's decision database, news aggregators, and Baycrest's own news channels for the specified window. I want to be straightforward with you about what I found rather than padding a list.
+No PHIPA-related news items specifically naming Baycrest Hospital appear in Ontario news, IPC decisions, or Baycrest's own communications between January 16, 2026 and July 16, 2026.
+Here's what the searches actually surfaced, for transparency:
+Baycrest's own news hub (checked directly) shows only research, clinical program, and community-recognition stories in this window (e.g., a July 28, 2026 Oracle Health digital infrastructure partnership announcement, brain research findings, dementia care initiatives) — nothing privacy- or breach-related.
+IPC decisions and news releases in this period involve other Ontario hospitals and organizations — e.g., an unnamed hospital physician access case (PHIPA Decision 325, Feb 2026), the AI scribe guidance (Jan 28, 2026), and prior AMP/ransomware cases (SickKids, TransForm/TSSO, Simcoe Muskoka) — none reference Baycrest.
+Generic PHIPA compliance guides and cybersecurity roundups reference the broader Ontario hospital sector but don't mention Baycrest by name.
+A few possibilities worth considering:
+The Oracle Health digital infrastructure announcement (July 28, 2026) could have downstream privacy/security implications worth monitoring even though it wasn't framed as a PHIPA story.
+If you have an internal incident on file that hasn't been publicly reported, it wouldn't appear in open-source search — IPC breach notifications to affected individuals and OH itself often predate any public IPC decision by months or years.
+Would it help if I pulled the full detail on the Oracle Health/Baycrest item, or checked IPC's advanced decision search directly by respondent name in case indexing lags behind decision dates?

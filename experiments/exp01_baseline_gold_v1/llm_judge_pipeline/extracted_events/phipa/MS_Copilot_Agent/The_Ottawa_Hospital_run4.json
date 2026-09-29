@@ -1,0 +1,23 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Access to screenshots and displays from the Epic electronic medical record (PHIPA Decision 340)",
+      "phipa_id": "PHIPA Decision 340",
+      "date": "2026-06-25",
+      "source": "Information and Privacy Commissioner of Ontario",
+      "link": "https://www.ipc.on.ca"
+    },
+    {
+      "name_or_issue": "Access to records containing personal health information and application of PHIPA's FIPPA flow-through provision (Order PO-4820)",
+      "phipa_id": "PO-4820",
+      "date": "2026-04-29",
+      "source": "Information and Privacy Commissioner of Ontario",
+      "link": "https://decisions.ipc.on.ca"
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 4
+}

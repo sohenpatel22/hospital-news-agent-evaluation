@@ -1,0 +1,16 @@
+[
+  {
+    "item_index": 0,
+    "bucket": "B",
+    "reason": "Author decision 2026-08-31: penalize as incorrect. Not an adjudicated PHIPA decision/complaint (the gold set's PHIPA scope is IPC decisions/orders on individual access disputes) -- presenting a policy-document revision/publication as a 'PHIPA event' mischaracterizes what the task is tracking. Reclassified from provisional E to B (counts against hallucination rate / precision) per explicit author instruction.",
+    "confidence": 0.9,
+    "needs_human_check": false
+  },
+  {
+    "item_index": 1,
+    "bucket": "B",
+    "reason": "Author decision 2026-08-31: penalize as incorrect. Not an adjudicated PHIPA decision/complaint (the gold set's PHIPA scope is IPC decisions/orders on individual access disputes) -- presenting a policy-document revision/publication as a 'PHIPA event' mischaracterizes what the task is tracking. Reclassified from provisional E to B (counts against hallucination rate / precision) per explicit author instruction.",
+    "confidence": 0.9,
+    "needs_human_check": false
+  }
+]

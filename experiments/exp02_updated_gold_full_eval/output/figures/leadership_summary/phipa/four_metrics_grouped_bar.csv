@@ -1,0 +1,21 @@
+system,metric,value
+ChatGPT,Recall,0.3333333333333333
+Claude,Recall,0
+Gemini,Recall,0.3333333333333333
+MS Copilot Agent,Recall,1.0
+Perplexity,Recall,0
+ChatGPT,Precision,0.3333333333333333
+Claude,Precision,0
+Gemini,Precision,1.0
+MS Copilot Agent,Precision,1.0
+Perplexity,Precision,0
+ChatGPT,F1,0.3333333333333333
+Claude,F1,0
+Gemini,F1,0.5
+MS Copilot Agent,F1,1.0
+Perplexity,F1,0
+ChatGPT,Hallucination rate,0.5
+Claude,Hallucination rate,0
+Gemini,Hallucination rate,0
+MS Copilot Agent,Hallucination rate,0
+Perplexity,Hallucination rate,0

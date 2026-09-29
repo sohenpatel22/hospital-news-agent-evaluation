@@ -1,0 +1,8 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "S4",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'atlaf stationwala' == 'atlaf stationwala'); hospital agrees (Renfrew Victoria Hospital)"
+  }
+]

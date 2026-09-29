@@ -1,0 +1,64 @@
+EXTRACTION STAGE — PROMPT / RULES LOG (for paper appendix)
+============================================================
+
+METHOD DISCLOSURE (read this first)
+------------------------------------
+No LLM API key (Anthropic, OpenAI, or otherwise) was configured in the
+execution environment for this evaluation run. Per an explicit decision made
+by the study author on 2026-08-30 (recorded when this choice was presented as
+a blocking question), the extraction step below was performed directly by
+Claude (the agentic coding assistant, model "claude-sonnet-5") reading each
+staged response file and producing the schema-conforming JSON, rather than by
+a standalone script calling a model API with a fixed temperature/seed.
+
+Practical consequence for the methods section: this is NOT a bit-for-bit
+reproducible batch API call. There is no temperature/seed to report in the
+conventional sense, and a re-run by a different operator/session could differ
+at the margins (though the rules below were followed literally and
+mechanically, with no correction or filtering of extracted content).
+Disclose this as a limitation: extraction was single-pass, single-annotator
+(LLM), not independently re-run for reproducibility checking. This is exactly
+the kind of judge/annotator reliability question Stage 5 (judge validation)
+exists to quantify — the same caveat applies here to extraction, not just to
+matching/adjudication, and should be named in the limitations section
+alongside the Stage 5 kappa.
+
+EXTRACTION PROMPT (applied per raw response file)
+--------------------------------------------------
+You are extracting structured leadership/CEO/board/supervisor/PHIPA items
+from ONE AI system's free-text response about ONE hospital, for ONE run.
+
+Extract every distinct leadership/CEO/board/supervisor/PHIPA item mentioned
+in the response, including ones you think are wrong, outdated, or
+inconsistent with other parts of the same response. Do NOT filter, correct,
+deduplicate, or "fix" anything the response says — the evaluation harness
+scores the system's actual output, errors included.
+
+Rules:
+1. One item per person (or per issue, for the PHIPA task) PER EVENT. If a
+   person has both an incoming ("became X") and an outgoing ("stepped down
+   as Y") event mentioned, that is TWO items, not one.
+2. Never invent a citation. If the response gives no link for an item,
+   citation_url = null. If it gives a source name but no URL,
+   citation_url = null and citation_text carries the source name.
+3. verbatim_snippet must be copied EXACTLY (character for character) from the
+   response text — never paraphrased, summarized, or reworded.
+4. If the response explicitly states it could not find information for a
+   given hospital (a refusal), emit ZERO items for that hospital and instead
+   record one entry in a separate `refusals` list with the hospital name and
+   the exact refusal text.
+5. date_raw is the date exactly as written in the response. date_normalised
+   is one of YYYY-MM-DD / YYYY-MM / YYYY / null, derived from date_raw only
+   (never inferred from outside knowledge of when the change "actually"
+   happened).
+6. role is the title exactly as stated (verbatim), or null if no title given.
+7. direction is "incoming" (person taking on the role), "outgoing" (person
+   leaving/stepping down), or "unclear" if the response does not make the
+   direction clear.
+8. Output strictly conforms to /eval/schema/extraction_schema.json — both the
+   per-item shape and the per-file wrapper shape
+   ({system, task, hospital, run_number, source_file, items, refusals}).
+
+Output ONE JSON file per (system, task, hospital, run_number), written to
+/eval/output/extracted/<task>__<system>__<hospital>__run<N>.json, matching
+the manifest at /eval/output/extracted/_manifest.json.

@@ -1,0 +1,23 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses hospital leadership changes at Arnprior Regional Health, covering CEO and board member transitions as requested.",
+  "groundedness": 1,
+  "groundedness_reason": "While sources are listed as 'Arnprior Regional Health', no specific URLs or documents are cited, and the dates appear precise without verifiable citation links, making full grounding difficult to confirm.",
+  "completeness": 0.85,
+  "completeness_reason": "The model covers 11 of 13 gold standard items, missing Eric Hanna (outgoing President/CEO after 13 years) and Leah Levesque incoming appointment, and also missing Beth Ciavaglia as incoming Board Director.",
+  "missed_items": [
+    "Eric Hanna - President/CEO (outgoing after 13 yrs)",
+    "Leah Levesque - President/CEO (incoming)",
+    "Beth Ciavaglia - Board Director (incoming)"
+  ],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions directly align with the original intent of identifying hospital leadership changes at Arnprior Regional Health in the last 5 years.",
+  "generated_questions": [
+    "Who were the recent CEOs and acting CEOs of Arnprior Regional Health in the last 5 years?",
+    "Which board members joined or left Arnprior Regional Health's board recently?",
+    "What leadership transitions occurred at Arnprior Regional Health between 2020 and 2025?"
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Arnprior Regional Health"
+}

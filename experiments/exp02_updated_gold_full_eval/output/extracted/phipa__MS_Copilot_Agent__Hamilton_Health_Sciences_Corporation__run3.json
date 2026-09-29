@@ -1,0 +1,25 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 3,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 3.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 3,
+      "person_or_issue": "PHIPA Decision 338: inadequate search for a child’s personal health information",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "May 13, 2026",
+      "date_normalised": "2026-05-13",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, PHIPA Decision 338, Complaint HA25-00348",
+      "verbatim_snippet": "Hamilton Health Sciences Corporation | PHIPA Decision 338: inadequate search for a child’s personal health information | The parents of a child requested the child’s medical records under PHIPA. Although Hamilton Health Sciences provided responsive records, the parents maintained that further records existed, including internal material relating to pending, indeterminate or inconclusive test results, pathology imaging, infectious-disease consultation notes and consent documentation. The Information and Privacy Commissioner of Ontario found that the hospital had not conducted a reasonable search and ordered it to conduct another search for records responsive to the request. The decision was made under sections 53 and 54 of PHIPA. This was an access and reasonable-search matter, not a request to correct a health record, so it remains within scope after applying the requested corrections exclusion. [ipc.on.ca], [decisions.ipc.on.ca], [norma.lexum.com] | May 13, 2026 | Information and Privacy Commissioner of Ontario, PHIPA Decision 338, Complaint HA25-00348 | PHIPA Decision 338: official IPC decision page · Full text of PHIPA Decision 338"
+    }
+  ],
+  "refusals": []
+}

@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Simone Atungo - Board Director (incoming)\",\n      \"person_name\": \"Simone Atungo\",\n      \"role\": \"Board Director (Board of ",
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "North York General Hospital",
+  "run_number": 1
+}

@@ -1,0 +1,25 @@
+{
+  "system": "Perplexity",
+  "task": "supervisor",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Perplexity\\London Health Sciences Centre\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Perplexity",
+      "task": "supervisor",
+      "hospital": "London Health Sciences Centre",
+      "run_number": 1,
+      "person_or_issue": "David Musyj",
+      "role": "supervisor",
+      "direction": "incoming",
+      "date_raw": "September 25, 2024",
+      "date_normalised": "2024-09-25",
+      "citation_url": null,
+      "citation_text": "London Health Sciences Centre, “Strengthening our governance”; CBC News; Ontario Ministry of Health announcement as reported by contemporaneous media",
+      "verbatim_snippet": "The Ontario government appointed David Musyj as supervisor of LHSC."
+    }
+  ],
+  "refusals": []
+}

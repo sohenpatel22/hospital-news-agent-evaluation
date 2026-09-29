@@ -1,0 +1,40 @@
+{
+  "system": "Perplexity",
+  "task": "supervisor",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Perplexity\\Stevenson Memorial Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Perplexity",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "hospital supervisor",
+      "direction": "incoming",
+      "date_raw": "September 2024 (reported September 27, 2024; described as having been in the role for approximately one week on October 9, 2024)",
+      "date_normalised": "2024-09",
+      "citation_url": "https://www.southsimcoetoday.ca/2024/09/27/ontario-appoints-supervisor-for-stevenson-memorial-hospital/",
+      "citation_text": "Ontario appointment reported by South Simcoe Today; corroborating sector coverage",
+      "verbatim_snippet": "Eric Hanna was appointed by Ontario as hospital supervisor after investigator Janice Skot’s final report identified concerns involving the hospital’s governance, leadership, quality of care, operations and financial performance."
+    },
+    {
+      "item_index": 1,
+      "system": "Perplexity",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Carmine Stumpo",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "June 2025 (reported June 8, 2025; still identified as supervisor on January 30 and March 9, 2026)",
+      "date_normalised": "2025-06",
+      "citation_url": "https://news.ontario.ca/en/release/1006988/ontario-taking-the-next-step-to-expand-stevenson-memorial-hospital",
+      "citation_text": "Ontario government releases and contemporaneous local reporting",
+      "verbatim_snippet": "Carmine Stumpo was appointed as Hanna’s successor in 2025."
+    }
+  ],
+  "refusals": []
+}

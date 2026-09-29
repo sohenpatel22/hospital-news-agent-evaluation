@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by listing hospital leadership and board member changes for Sensenbrenner Hospital over the relevant period.",
+  "groundedness": 1,
+  "groundedness_reason": "Sources are cited as 'Sensenbrenner Hospital Annual Reports' but no links are provided, and given that the gold standard expects zero events, these claims appear to be fabricated or unverifiable, making the sourcing dubious.",
+  "completeness": 0.0,
+  "completeness_reason": "The gold standard expects zero events, but the model hallucinated 8 events, resulting in a completeness score of 0.0.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of finding leadership and board changes at Sensenbrenner Hospital.",
+  "generated_questions": [
+    "Who were the board members that joined or left Sensenbrenner Hospital between 2021 and 2022?",
+    "Has the Board Chair of Sensenbrenner Hospital changed in the last five years?",
+    "What leadership transitions occurred at Sensenbrenner Hospital in recent years?"
+  ],
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "Sensenbrenner Hospital"
+}

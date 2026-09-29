@@ -1,0 +1,9 @@
+[
+  {
+    "item_index": 7,
+    "bucket": "E",
+    "reason": "Author-confirmed 2026-08-31: real person, correct date (2022-06-13), correctly excluded -- same entity already covered in gold as a non-voting community-member board seat. No gold change needed; bucket E confirmed, no longer a low-confidence guess.",
+    "confidence": 0.85,
+    "needs_human_check": true
+  }
+]

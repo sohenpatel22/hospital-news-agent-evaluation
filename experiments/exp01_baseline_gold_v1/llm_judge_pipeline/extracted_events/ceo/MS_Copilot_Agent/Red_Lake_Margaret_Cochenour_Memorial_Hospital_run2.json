@@ -1,0 +1,81 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Jennifer Lawrance - President/CEO (incoming)",
+      "person_name": "Jennifer Lawrance",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2026-06-26",
+      "source": "NWONewsWatch; Your Sunset Country",
+      "link": "https://www.nwonewswatch.com"
+    },
+    {
+      "name_or_issue": "Angela Bishop - Interim CEO (outgoing)",
+      "person_name": "Angela Bishop",
+      "role": "Interim President/CEO",
+      "direction": "outgoing",
+      "date": "2026-06-26",
+      "source": "NWONewsWatch; Your Sunset Country",
+      "link": "https://www.nwonewswatch.com"
+    },
+    {
+      "name_or_issue": "Angela Bishop - Interim CEO (incoming)",
+      "person_name": "Angela Bishop",
+      "role": "Interim President/CEO",
+      "direction": "incoming",
+      "date": "2024-08-01",
+      "source": "Red Lake Margaret Cochenour Memorial Hospital; NWONewsWatch",
+      "link": "https://www.redlakehospital.ca"
+    },
+    {
+      "name_or_issue": "Sumeet Kumar - President/CEO (outgoing)",
+      "person_name": "Sumeet Kumar",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2024-08-01",
+      "source": "Red Lake Margaret Cochenour Memorial Hospital; NWONewsWatch",
+      "link": "https://www.redlakehospital.ca"
+    },
+    {
+      "name_or_issue": "Sumeet Kumar - President/CEO (incoming)",
+      "person_name": "Sumeet Kumar",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2023-05-15",
+      "source": "Red Lake Margaret Cochenour Memorial Hospital; Your Sunset Country",
+      "link": "https://www.redlakehospital.ca"
+    },
+    {
+      "name_or_issue": "Sue LeBeau - President/CEO (outgoing)",
+      "person_name": "Sue LeBeau",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "December 2022",
+      "source": "NWONewsWatch",
+      "link": "https://www.nwonewswatch.com"
+    },
+    {
+      "name_or_issue": "John Frostiak - Board Chair (outgoing)",
+      "person_name": "John Frostiak",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "After June 25, 2024, exact date not publicly specified",
+      "source": "Red Lake Margaret Cochenour Memorial Hospital",
+      "link": "https://www.redlakehospital.ca"
+    },
+    {
+      "name_or_issue": "Trevor Zhukrovsky - Board Chair (incoming)",
+      "person_name": "Trevor Zhukrovsky",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "After June 25, 2024, by June 1, 2025; exact date not publicly specified",
+      "source": "Red Lake Margaret Cochenour Memorial Hospital",
+      "link": "https://www.redlakehospital.ca"
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Red Lake Margaret Cochenour Memorial Hospital",
+  "run_number": 2
+}

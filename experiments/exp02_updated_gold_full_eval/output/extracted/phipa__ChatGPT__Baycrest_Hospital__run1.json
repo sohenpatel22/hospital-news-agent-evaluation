@@ -1,0 +1,14 @@
+{
+  "system": "ChatGPT",
+  "task": "phipa",
+  "hospital": "Baycrest Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\ChatGPT\\Baycrest Hospital\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Baycrest Hospital",
+      "refusal_text": "I found no qualifying, publicly reported Baycrest Hospital PHIPA-related news updates between January 16, 2026 and July 16, 2026, after cross-checking the Ontario Information and Privacy Commissioner (IPC), Baycrest’s news/publication pages, and broader web coverage. I excluded correction-only items and material outside the date window."
+    }
+  ]
+}

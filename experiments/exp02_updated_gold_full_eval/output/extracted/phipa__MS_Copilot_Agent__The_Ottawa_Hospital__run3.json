@@ -1,0 +1,40 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 3,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\The Ottawa Hospital\\Run 3.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "The Ottawa Hospital",
+      "run_number": 3,
+      "person_or_issue": "Access to EMR displays and screenshots",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "June 25, 2026",
+      "date_normalised": "2026-06-25",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, PHIPA Decision 340",
+      "verbatim_snippet": "1. The Ottawa Hospital → Access to EMR displays and screenshots → The complainant requested “samples” or screenshots of 25 display items, including “Storyboard” and “Snapshot,” from her health record in the hospital’s Epic electronic medical record system. The hospital offered printed copies of the personal health information shown by the displays but declined to create screenshots. The IPC found that screenshots could, in principle, qualify as records under PHIPA, but that the hospital did not create or maintain the requested screenshots and was not obligated to create them in these circumstances. The IPC also found that the hospital had proposed reasonable alternatives. Additional allegations concerning an earlier access request, alleged PHIPA offences, bias, and procedural unfairness were dismissed, and the complaint was dismissed in its entirety. → June 25, 2026 → Information and Privacy Commissioner of Ontario, PHIPA Decision 340 → PHIPA Decision 340: access to Epic EMR displays and screenshots [ipc.on.ca]"
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "The Ottawa Hospital",
+      "run_number": 3,
+      "person_or_issue": "Access to records concerning a patient’s care, including emails and draft meeting minutes",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "April 29, 2026",
+      "date_normalised": "2026-04-29",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, Order PO-4820",
+      "verbatim_snippet": "2. The Ottawa Hospital, Civic Campus → Access to records concerning a patient’s care, including emails and draft meeting minutes → A substitute decision-maker sought records relating to his son’s care under both PHIPA and FIPPA. The IPC found that the records contained the son’s personal health information. It determined that the draft meeting minutes were dedicated primarily to that information, while the emails were primarily administrative or communicative records. Through PHIPA’s FIPPA “flow-through” provision, the IPC upheld the hospital’s reliance on applicable exclusions and exemptions for the withheld information, including provisions concerning employment-related records and advice or recommendations. However, the IPC did not uphold the hospital’s search as reasonable and ordered it to conduct a further search for responsive records. → April 29, 2026 → Information and Privacy Commissioner of Ontario, Order PO-4820 → Order PO-4820: access to care-related emails and meeting minutes [decisions.ipc.on.ca]"
+    }
+  ],
+  "refusals": []
+}

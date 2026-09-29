@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Cathy Jordan - Board Chair (incoming)\",\n      \"person_name\": \"Cathy Jordan\",\n      \"role\": \"Board Chair\",\n      \"direction",
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "Arnprior Regional Health",
+  "run_number": 1
+}

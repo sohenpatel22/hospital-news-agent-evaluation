@@ -1,0 +1,33 @@
+{
+  "relevance": 0,
+  "relevance_reason": "The model returned no extracted events despite claiming results were found (Model declared no results: False), meaning the response contains no relevant information about Arnprior Regional Health leadership changes.",
+  "groundedness": 0,
+  "groundedness_reason": "No factual claims or sources were provided in the response, making it impossible to assess groundedness.",
+  "completeness": 0.0,
+  "completeness_reason": "None of the 13 gold standard items were covered in the empty response.",
+  "missed_items": [
+    "Eric Hanna - President/CEO (outgoing after 13 yrs)",
+    "Leah Levesque - President/CEO (incoming)",
+    "Beth Ciavaglia - Board Director (incoming)",
+    "Richard Holock - Board Director (incoming)",
+    "Peter Kenny - Board Director (incoming)",
+    "Borys Koba - Board Director (incoming)",
+    "Leah Levesque - President/CEO retirement announced",
+    "Cathy Jordan - Board Chair (outgoing)",
+    "Oliver Jacob - Board Chair (incoming)",
+    "Jeremy Stevenson - President/CEO (incoming)",
+    "Jeremy Stevenson - President/CEO stepped down",
+    "Raeline McGrath - Acting President/CEO (incoming)",
+    "Pierre Noel - Interim President/CEO (incoming)"
+  ],
+  "answer_relevancy": 0.0,
+  "answer_relevancy_reason": "Since the response contains no extracted events or information, no meaningful questions can be generated that align with the original intent of listing hospital leadership changes.",
+  "generated_questions": [
+    "What information did the model find about Arnprior Regional Health?",
+    "Why did the model return no results for Arnprior Regional Health leadership changes?",
+    "Is there any data available from the model about this hospital?"
+  ],
+  "task": "ceo",
+  "model": "Perplexity",
+  "hospital": "Arnprior Regional Health"
+}

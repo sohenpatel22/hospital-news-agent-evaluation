@@ -1,0 +1,1 @@
+Figure 4: Breakdown of error types for each system, normalized to 100%. n varies by system based on error count. Limitation: Categorization is subject to the evaluator's interpretation of edge cases.

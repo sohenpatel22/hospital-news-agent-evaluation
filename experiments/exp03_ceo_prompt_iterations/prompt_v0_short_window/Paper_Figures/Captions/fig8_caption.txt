@@ -1,0 +1,1 @@
+Figure 8: Per-task metric table for Recall, Precision, and F1 across systems. n=35 items (CEO), n=20 items (Board). Limitation: Metrics are aggregated and do not show granular field-level variations.

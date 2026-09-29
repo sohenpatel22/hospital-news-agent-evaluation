@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by correctly reporting no interim supervisors were appointed to Sault Area Hospital in the last 5 years.",
+  "groundedness": 3,
+  "groundedness_reason": "The model's claim of no results is consistent with the ground truth, and making no unsupported factual assertions means there are no ungrounded claims to penalize.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly returned an empty list with no hallucinated events, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of identifying interim supervisors appointed to Sault Area Hospital.",
+  "generated_questions": [
+    "Have any interim supervisors been appointed by the Government of Ontario to Sault Area Hospital in the last 5 years?",
+    "What is the list of interim supervisors assigned to Sault Area Hospital by Ontario's government recently?",
+    "Has the Ontario government intervened at Sault Area Hospital through supervisor appointments in the past 5 years?"
+  ],
+  "task": "supervisors",
+  "model": "MS Copilot Agent",
+  "hospital": "Sault Area Hospital"
+}

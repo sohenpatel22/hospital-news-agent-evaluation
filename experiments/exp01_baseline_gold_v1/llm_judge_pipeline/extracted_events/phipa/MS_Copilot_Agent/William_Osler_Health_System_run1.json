@@ -1,0 +1,16 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Epic hospital information system launch announcement — digital health record modernization, information sharing and privacy governance",
+      "phipa_id": null,
+      "date": "2026-06-15",
+      "source": "William Osler Health System",
+      "link": "https://www.williamoslerhs.ca"
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "William Osler Health System",
+  "run_number": 1
+}

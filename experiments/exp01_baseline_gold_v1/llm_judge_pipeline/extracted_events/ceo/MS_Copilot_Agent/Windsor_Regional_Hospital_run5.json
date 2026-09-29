@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Joe Milicia - Board Director (incoming)\",\n      \"person_name\": \"Joe Milicia\",\n      \"role\": \"Board Director\",\n      \"direc",
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Windsor Regional Hospital",
+  "run_number": 5
+}

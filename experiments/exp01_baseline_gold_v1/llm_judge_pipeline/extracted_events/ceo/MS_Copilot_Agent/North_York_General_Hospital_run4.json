@@ -1,0 +1,72 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Paviter Binning - Board Governor (incoming)",
+      "person_name": "Paviter Binning",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2025-06-16",
+      "source": "North York General Hospital / Canada Newswire",
+      "link": "https://www.newswire.ca"
+    },
+    {
+      "name_or_issue": "Mitch Frazer - Board Chair (incoming)",
+      "person_name": "Mitch Frazer",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2024-06-24",
+      "source": "North York General Hospital; The Globe and Mail",
+      "link": "https://www.theglobeandmail.com"
+    },
+    {
+      "name_or_issue": "Bert Clark - Board Chair (outgoing)",
+      "person_name": "Bert Clark",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2024-06-24",
+      "source": "North York General Hospital; The Globe and Mail",
+      "link": "https://www.theglobeandmail.com"
+    },
+    {
+      "name_or_issue": "Jonathan Mackey - Board Governor (incoming)",
+      "person_name": "Jonathan Mackey",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2024-06-17",
+      "source": "North York General Hospital; Mirams Becker",
+      "link": "https://www.miramsbecker.com"
+    },
+    {
+      "name_or_issue": "Gillian Akai - Board Governor (incoming)",
+      "person_name": "Gillian Akai",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2024-06-17",
+      "source": "North York General Hospital; Mirams Becker",
+      "link": "https://www.miramsbecker.com"
+    },
+    {
+      "name_or_issue": "Kristina Fanjoy - Board Governor (incoming)",
+      "person_name": "Kristina Fanjoy",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2024-06-17",
+      "source": "North York General Hospital; Mirams Becker",
+      "link": "https://www.miramsbecker.com"
+    },
+    {
+      "name_or_issue": "George Mavroudis - Board Governor (incoming)",
+      "person_name": "George Mavroudis",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2024-06-17",
+      "source": "North York General Hospital; Mirams Becker",
+      "link": "https://www.miramsbecker.com"
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "North York General Hospital",
+  "run_number": 4
+}

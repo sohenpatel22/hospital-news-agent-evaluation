@@ -1,0 +1,38 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses hospital leadership changes at Red Lake Margaret Cochenour Memorial Hospital, covering CEO and Board Chair changes as requested.",
+  "groundedness": 2,
+  "groundedness_reason": "Most claims cite recognizable sources like NWONewsWatch, Your Sunset Country, and the hospital's own website, but some dates are explicitly noted as unverified ('exact date not publicly specified'), indicating minor gaps in source support.",
+  "completeness": 0.35,
+  "completeness_reason": "The model captured 8 of the 23 gold standard items, missing the majority of board director changes, Angela Bishop's first interim stint, Sonia Green's resignation, and many incoming/outgoing board directors.",
+  "missed_items": [
+    "Angela Bishop - President/CEO (outgoing)",
+    "Angela Bishop - Interim President/CEO (1st stint)",
+    "Sonia Green - Board Chair (outgoing resigned)",
+    "John Frostiak - Board Chair (incoming)",
+    "Shawnda Norlock - Board Director (outgoing)",
+    "Trevor Zhukrovsky - Board Director (incoming - filled Norlock vacancy)",
+    "James Russell - Board Director (incoming)",
+    "Marshall Dumontier - Board Director (outgoing)",
+    "Jennifer Sedlacek - Board Director (incoming)",
+    "James Russell - Board Director (outgoing)",
+    "Eleanor Vachon - Board Director (outgoing 10yr term complete)",
+    "Scott Macumber - Board Director (incoming)",
+    "Donna Williams - Board Director (incoming)",
+    "Ray Hall - Board Director (incoming)",
+    "Ursula DeKeyser - Board Director (incoming)",
+    "Vivian Bruchkowski - Board Director (incoming)",
+    "Jamie Saulnier - Board Director (incoming)",
+    "Arlene Swanwick - Vice-Chair (from Committee Chair)"
+  ],
+  "answer_relevancy": 0.67,
+  "answer_relevancy_reason": "The response answers questions about CEO transitions and Board Chair changes well, but does not adequately address the board director-level changes which form a large portion of the original intent.",
+  "generated_questions": [
+    "Who were the recent CEOs and interim CEOs of Red Lake Margaret Cochenour Memorial Hospital?",
+    "Who served as Board Chair of Red Lake Margaret Cochenour Memorial Hospital in the last 5 years?",
+    "What board director changes occurred at Red Lake Margaret Cochenour Memorial Hospital recently?"
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Red Lake Margaret Cochenour Memorial Hospital"
+}

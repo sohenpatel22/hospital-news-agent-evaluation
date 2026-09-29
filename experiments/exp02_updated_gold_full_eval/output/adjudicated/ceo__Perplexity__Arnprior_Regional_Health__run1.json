@@ -1,0 +1,9 @@
+[
+  {
+    "item_index": 8,
+    "bucket": "E",
+    "reason": "Committee-only member without a stated board seat \u2014 explicitly OUT of scope",
+    "confidence": 0.8,
+    "needs_human_check": false
+  }
+]

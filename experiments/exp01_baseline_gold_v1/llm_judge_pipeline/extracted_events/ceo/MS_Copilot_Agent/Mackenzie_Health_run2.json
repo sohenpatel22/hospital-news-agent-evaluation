@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Carmine Stumpo - President and CEO (incoming, start date)\",\n      \"person_name\": \"Carmine Stumpo\",\n      \"role\": \"Presiden",
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Mackenzie Health",
+  "run_number": 2
+}

@@ -1,0 +1,16 @@
+model,task,recall,precision,f1,relevance,groundedness,completeness,answer_relevancy,citation_accuracy
+ChatGPT,ceo,0.084,0.5,0.593,0.333,0.167,0.035,0.333,
+ChatGPT,phipa,0.5,0.25,0.5,0.722,0.778,0.583,0.722,
+ChatGPT,supervisors,1.0,0.889,0.933,0.944,0.944,1.0,0.945,
+Claude,ceo,0.232,0.875,0.697,0.444,0.5,0.378,0.445,1.0
+Claude,phipa,0.0,,,0.778,1.0,0.667,0.777,
+Claude,supervisors,1.0,0.889,0.933,1.0,0.889,1.0,0.945,0.889
+Gemini,ceo,0.222,0.903,0.497,0.667,0.5,0.378,0.557,
+Gemini,phipa,0.0,0.0,,0.778,0.611,0.667,0.777,
+Gemini,supervisors,1.0,0.889,0.933,0.944,0.944,1.0,0.945,
+MS Copilot Agent,ceo,0.355,0.729,0.714,0.667,0.389,0.305,0.557,1.0
+MS Copilot Agent,phipa,1.0,0.067,0.333,0.833,0.667,0.833,0.833,0.5
+MS Copilot Agent,supervisors,1.0,0.389,0.556,1.0,0.778,1.0,1.0,1.0
+Perplexity,ceo,0.043,1.0,0.357,0.222,0.111,0.203,0.167,
+Perplexity,phipa,0.0,0.0,,0.666,0.778,0.5,0.665,1.0
+Perplexity,supervisors,1.0,1.0,1.0,1.0,0.722,1.0,1.0,0.5

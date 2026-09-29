@@ -1,0 +1,31 @@
+{
+  "relevance": 0,
+  "relevance_reason": "The model returned no extracted events despite declaring it had results, providing no relevant information about Windsor Regional Hospital leadership changes.",
+  "groundedness": 0,
+  "groundedness_reason": "No factual claims or sources were provided in the response, making it impossible to assess groundedness.",
+  "completeness": 0.0,
+  "completeness_reason": "The model covered none of the 11 gold standard items regarding Windsor Regional Hospital leadership and board changes.",
+  "missed_items": [
+    "David Musyj - President/CEO seconded to LHSC",
+    "Karen Riddell - Acting President/CEO (incoming)",
+    "David Musyj - confirmed not returning to WRH permanent at LHSC",
+    "Karen Riddell - President/CEO retirement announced",
+    "Kristin Kennedy - President/CEO (incoming)",
+    "Anthony Paniccia - Board Chair",
+    "Patricia France - Board Chair (incoming)",
+    "Ian McLeod - Board Chair (incoming)",
+    "Dr. Laurie Freeman - Board Director (elected 2022 AGM)",
+    "David Malian - Board Director (elected 2022 AGM)",
+    "Linda Staudt - Board Director (elected 2022 AGM)"
+  ],
+  "answer_relevancy": 0.0,
+  "answer_relevancy_reason": "Since the model produced no content, no questions can be generated that would align with the original intent of listing hospital leadership changes.",
+  "generated_questions": [
+    "What information is available about Windsor Regional Hospital?",
+    "Did the model find any results for the query?",
+    "Was the search for Windsor Regional Hospital completed?"
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Windsor Regional Hospital"
+}

@@ -1,0 +1,25 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 1,
+      "person_or_issue": "PHIPA access request: unreasonable search for a child’s personal health information, PHIPA Decision 338, Complaint HA25-00348",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "May 13, 2026",
+      "date_normalised": "2026-05-13",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario",
+      "verbatim_snippet": "Hamilton Health Sciences Corporation → PHIPA access request: unreasonable search for a child’s personal health information, PHIPA Decision 338, Complaint HA25-00348 → The parents of a child requested the child’s medical records from Hamilton Health Sciences under PHIPA. Although the hospital provided records, the parents maintained that additional material existed, including internal documentation concerning pending or inconclusive test results, pathology imaging, infectious-disease consultation notes, and complete consent documentation. The Information and Privacy Commissioner of Ontario found that Hamilton Health Sciences had not demonstrated a reasonable search for all responsive records and ordered the hospital to conduct another search. The decision addressed the hospital’s search obligations under sections 53 and 54 of PHIPA. → May 13, 2026 → Information and Privacy Commissioner of Ontario → PHIPA Decision 338: Hamilton Health Sciences ordered to conduct another search for responsive records | Full decision text [ipc.on.ca], [norma.lexum.com], [norma.lexum.com]"
+    }
+  ],
+  "refusals": []
+}

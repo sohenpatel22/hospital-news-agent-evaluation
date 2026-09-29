@@ -1,0 +1,18 @@
+Based on my comprehensive search of news sources, regulatory filings, and The Ottawa Hospital’s own communications between January 16, 2026 and July 16, 2026, I found no PHIPA-related news updates, privacy breaches, or data security incidents specifically involving The Ottawa Hospital during that period.[ottawahospital.on][ottawahospital.on][ottawahospital.on][ctvnews][ctvnews][cbc][rankiteo][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on]
+Search scope and findings
+I searched across:
+The Ottawa Hospital’s newsroom and official announcements[ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on]
+Ontario Information and Privacy Commissioner (IPC) decisions and penalty announcements[lawtimesnews][torkin][carters][rosensunshine][balanced][cantechletter][linkedin]
+Major Ottawa and Ontario news outlets (CBC, CTV, Law Times, etc.)[ctvnews][ctvnews][cbc][businesswire][odtn][cbc][cbc][cbc]
+Healthcare privacy and breach trackers[hipaajournal][hipaapulse][hipaajournal]
+General web searches for “Ottawa Hospital PHIPA,” “privacy breach,” “unauthorized access,” and related terms[rankiteo][lawtimesnews][torkin][carters][balanced][cbc][aiinfox][ontariohealth][ontariohealth][bdplaw][hipaajournal][orthopedics]
+Key observations:
+Multiple PHIPA-related stories appeared in this timeframe, but they involved other organizations (e.g., CHEO, a medical centre affected by flooding, an Ontario hospital that used Otter.ai without approval, Northern Care Health Services, Waterloo Regional Health Network).[lawtimesnews][torkin][carters][odtn][cbc]
+The Ottawa Hospital had significant news in this period (workforce reductions, new campus updates, royal visit, AI transcription pilot with Microsoft DAX Copilot), but none of these stories involved PHIPA breaches, investigations, or penalties.[ctvnews][ctvnews][cbc][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][ottawahospital.on][businesswire]
+One privacy-adjacent item: The Ottawa Hospital’s August 2026 announcement about Microsoft AI (DAX Copilot) explicitly notes that patients must consent before appointments are recorded and that records remain confidential—this is a proactive privacy safeguard, not a PHIPA incident, and it falls outside your requested date range (announced August 14–20, 2026).[ottawahospital.on][ottawahospital.on]
+Result
+No PHIPA-related news updates for The Ottawa Hospital were identified between January 16, 2026 and July 16, 2026.
+If you’d like, I can:
+Expand the search window (e.g., late 2025 or August 2026 onward).
+Search for PHIPA incidents at other Ontario hospitals (e.g., CHEO, Waterloo Regional, etc.) for benchmarking.
+Provide a summary of Ontario-wide PHIPA enforcement trends in 2026 for regional performance context.[torkin][carters][rosensunshine][balanced][linkedin]

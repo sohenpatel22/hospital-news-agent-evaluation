@@ -1,0 +1,31 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses leadership changes at Arnprior Regional Health, specifically CEO transitions, which is exactly what the user requested.",
+  "groundedness": 1,
+  "groundedness_reason": "Sources are cited generically as 'Arnprior Regional Health Corporate Communications / Local Media Archives' with no specific links or verifiable references, making the claims difficult to independently verify.",
+  "completeness": 0.15,
+  "completeness_reason": "The response only captures 2 of the 13 gold standard items (Eric Hanna outgoing and Leah Levesque incoming as CEO), missing the vast majority of board and leadership changes.",
+  "missed_items": [
+    "Beth Ciavaglia - Board Director (incoming)",
+    "Richard Holock - Board Director (incoming)",
+    "Peter Kenny - Board Director (incoming)",
+    "Borys Koba - Board Director (incoming)",
+    "Leah Levesque - President/CEO retirement announced",
+    "Cathy Jordan - Board Chair (outgoing)",
+    "Oliver Jacob - Board Chair (incoming)",
+    "Jeremy Stevenson - President/CEO (incoming)",
+    "Jeremy Stevenson - President/CEO stepped down",
+    "Raeline McGrath - Acting President/CEO (incoming)",
+    "Pierre Noel - Interim President/CEO (incoming)"
+  ],
+  "answer_relevancy": 0.67,
+  "answer_relevancy_reason": "Two of the three generated questions align with the original intent of finding leadership changes at Arnprior Regional Health, but the narrow scope of the response limits full alignment with the exhaustive list requested.",
+  "generated_questions": [
+    "Who replaced Eric Hanna as President/CEO of Arnprior Regional Health?",
+    "When did Eric Hanna leave his role at Arnprior Regional Health?",
+    "What board member changes occurred at Arnprior Regional Health in the last 5 years?"
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "Arnprior Regional Health"
+}

@@ -1,0 +1,108 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Pierre Noel - Interim President and CEO (incoming)",
+      "person_name": "Pierre Noel",
+      "role": "Interim President and CEO",
+      "direction": "incoming",
+      "date": "2026-07-13",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Raeline McGrath - Acting President and CEO (incoming)",
+      "person_name": "Raeline McGrath",
+      "role": "Acting President and CEO",
+      "direction": "incoming",
+      "date": null,
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Raeline McGrath - Acting President and CEO (outgoing)",
+      "person_name": "Raeline McGrath",
+      "role": "Acting President and CEO",
+      "direction": "outgoing",
+      "date": "2026-07-13",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Jeremy Stevenson - President and CEO (outgoing)",
+      "person_name": "Jeremy Stevenson",
+      "role": "President and CEO",
+      "direction": "outgoing",
+      "date": "2026-06-02",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Jeremy Stevenson - President and CEO (incoming)",
+      "person_name": "Jeremy Stevenson",
+      "role": "President and CEO",
+      "direction": "incoming",
+      "date": "2024-08-18",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Oliver Jacob - Board Chair (incoming)",
+      "person_name": "Oliver Jacob",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2024-07-03",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Cathy Jordan - Board Chair (outgoing)",
+      "person_name": "Cathy Jordan",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2024-07-03",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Leah Levesque - President and CEO (outgoing)",
+      "person_name": "Leah Levesque",
+      "role": "President and CEO",
+      "direction": "outgoing",
+      "date": "Late June 2024",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Richard Holock - Board Director (incoming)",
+      "person_name": "Richard Holock",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2023-07-18",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Peter Kenny - Board Director (incoming)",
+      "person_name": "Peter Kenny",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2023-07-18",
+      "source": "Arnprior Regional Health",
+      "link": null
+    },
+    {
+      "name_or_issue": "Borys Koba - Board Director (incoming)",
+      "person_name": "Borys Koba",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2023-07-18",
+      "source": "Arnprior Regional Health",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Arnprior Regional Health",
+  "run_number": 5
+}

@@ -1,0 +1,36 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses leadership and board member changes at North York General Hospital, covering CEO transitions and board governance changes.",
+  "groundedness": 2,
+  "groundedness_reason": "Most claims cite NYGH Year in Review documents and other institutional sources, but some entries like 'Robert Palter' and 'Bert Clark outgoing' lack specific verifiable links, and the direction assigned to Bert Clark (outgoing) contradicts the gold standard which lists him as incoming.",
+  "completeness": 0.21,
+  "completeness_reason": "The response covers only 4 of 19 gold standard items (Karyn Popovich retirement, Dr. Everton Gooden incoming, Mitch Frazer incoming, and partially Bert Clark), missing the vast majority of board governor and board member changes.",
+  "missed_items": [
+    "Bert Clark - Board Chair (incoming) [model lists as outgoing]",
+    "Robert Sankey - Board Governor (incoming)",
+    "Dr. Christine Williams - Board Governor (incoming)",
+    "Toni Rossi - Board Governor (incoming)",
+    "Jonathan Mackey - Board Governor (incoming)",
+    "Gillian Akai - Board Governor (incoming)",
+    "Kristina Fanjoy - Board Governor (incoming)",
+    "George Mavroudis - Board Governor (incoming)",
+    "Paviter Binning - Board Member (incoming)",
+    "Sean Cohan - Board Member (incoming)",
+    "Christine Cruz-Clarke - Board Member (incoming)",
+    "Ted Garrard - Board Member (incoming)",
+    "Vince Imerti - Board Member (incoming)",
+    "Richard So - Board Member (incoming)",
+    "Simone Atungo - Board Governor (incoming)",
+    "Dr. Kathryn Nichol - Board Governor (incoming)"
+  ],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three questions that this response would answer—who succeeded Karyn Popovich as CEO, who became Board Chair after Bert Clark, and what board changes occurred at NYGH in recent years—align directly with the original intent of listing hospital leadership changes.",
+  "generated_questions": [
+    "Who replaced Karyn Popovich as President and CEO of North York General Hospital?",
+    "Who became the Board Chair of North York General Hospital in 2024?",
+    "What board of governors changes occurred at North York General Hospital between 2022 and 2024?"
+  ],
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "North York General Hospital"
+}

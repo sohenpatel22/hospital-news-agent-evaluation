@@ -1,0 +1,25 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 5,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 5.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 5,
+      "person_or_issue": "PHIPA Decision 338: inadequate search for a child’s personal health information",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "May 13, 2026",
+      "date_normalised": "2026-05-13",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario, PHIPA Decision 338, Complaint HA25-00348",
+      "verbatim_snippet": "Hamilton Health Sciences Corporation | PHIPA Decision 338: inadequate search for a child’s personal health information | The parents of a child requested medical records under PHIPA. Although the hospital released records, the parents maintained that additional material existed, including pending or inconclusive test information, pathology imaging, infectious-disease consultation records, consent documentation and other records held outside the patient chart. The IPC found that the hospital’s search was limited to its Health Records Department and the Epic electronic record, rather than extending to responsive records elsewhere in the hospital’s custody or control. The IPC therefore concluded that the search was not reasonable and ordered the hospital to conduct a further organization-wide search within 30 days, issue a new access decision, describe the additional search and its results, and explain why any specifically identified records could not be found. The applicable provisions were PHIPA sections 53 and 54, with the order made under section 61(1). [decisions.ipc.on.ca], [ipc.on.ca] | May 13, 2026 | Information and Privacy Commissioner of Ontario, PHIPA Decision 338, Complaint HA25-00348 | PHIPA Decision 338: Hamilton Health Sciences reasonable-search ruling"
+    }
+  ],
+  "refusals": []
+}

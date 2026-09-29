@@ -1,0 +1,14 @@
+system,task,recall,precision
+ChatGPT,ceo,0.25925925925925924,1.0
+Claude,ceo,0.18106995884773663,1.0
+Gemini,ceo,0.12757201646090535,1.0
+MS Copilot Agent,ceo,0.25925925925925924,1.0
+Perplexity,ceo,0.23045267489711935,1.0
+ChatGPT,phipa,0.3333333333333333,0.3333333333333333
+Gemini,phipa,0.3333333333333333,1.0
+MS Copilot Agent,phipa,1.0,1.0
+ChatGPT,supervisor,1.0,1.0
+Claude,supervisor,1.0,1.0
+Gemini,supervisor,1.0,1.0
+MS Copilot Agent,supervisor,1.0,1.0
+Perplexity,supervisor,1.0,1.0

@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by confirming no interim supervisors were appointed to Sault Area Hospital in the last 5 years.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no unsupported factual claims and correctly reports an empty result consistent with the ground truth, so there are no fabricated claims to evaluate.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly declared no results, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of identifying interim supervisors appointed to Sault Area Hospital.",
+  "generated_questions": [
+    "Were any interim supervisors appointed by the Government of Ontario to Sault Area Hospital in the last 5 years?",
+    "Has Sault Area Hospital been placed under interim supervision by Ontario's government recently?",
+    "What is the list of government-appointed interim supervisors for Sault Area Hospital since 2019?"
+  ],
+  "task": "supervisors",
+  "model": "ChatGPT",
+  "hospital": "Sault Area Hospital"
+}

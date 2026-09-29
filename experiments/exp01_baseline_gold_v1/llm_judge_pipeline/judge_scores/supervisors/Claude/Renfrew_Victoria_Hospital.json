@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly answers the user's intent by identifying the interim supervisor appointed by the Government of Ontario to Renfrew Victoria Hospital, including relevant details such as role, dates, and source.",
+  "groundedness": 2,
+  "groundedness_reason": "The key claim about Altaf Stationwala's appointment is supported by a cited CBC News source, though the termination date of 2025-06-20 and the appointment date lack a direct Ministry of Health Order in Council citation.",
+  "completeness": 1.0,
+  "completeness_reason": "The single gold standard item (Altaf Stationwala as Supervisor) is fully covered in the model's response.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align closely with the original intent of identifying interim supervisors appointed to Renfrew Victoria Hospital by the Ontario government.",
+  "generated_questions": [
+    "Who was appointed as supervisor to Renfrew Victoria Hospital by the Government of Ontario?",
+    "When was Altaf Stationwala appointed as supervisor to Renfrew Victoria Hospital?",
+    "What role did the Ontario government assign to oversee Renfrew Victoria Hospital amid financial concerns?"
+  ],
+  "task": "supervisors",
+  "model": "Claude",
+  "hospital": "Renfrew Victoria Hospital"
+}

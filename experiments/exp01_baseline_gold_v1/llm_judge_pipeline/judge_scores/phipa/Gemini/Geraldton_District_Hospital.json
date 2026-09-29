@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The model directly addresses the user's intent by searching for PHIPA-related news updates for Geraldton District Hospital and correctly declaring no results found.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no factual claims and correctly reports an empty result set, which requires no source citation and avoids fabrication.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly returned zero events with no hallucinations.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align with the original intent of finding PHIPA-related news for Geraldton District Hospital in the last six months.",
+  "generated_questions": [
+    "Are there any PHIPA-related incidents or news updates for Geraldton District Hospital in the last six months?",
+    "Has Geraldton District Hospital reported any privacy breaches under PHIPA recently?",
+    "What is the PHIPA compliance status or news for Geraldton District Hospital in Ontario?"
+  ],
+  "task": "phipa",
+  "model": "Gemini",
+  "hospital": "Geraldton District Hospital"
+}

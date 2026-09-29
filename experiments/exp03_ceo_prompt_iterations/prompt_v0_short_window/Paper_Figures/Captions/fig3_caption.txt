@@ -1,0 +1,1 @@
+Figure 3: Overall recall compared to independent-provenance subset recall. Demonstrates circularity control. n=35 items. Limitation: Provenance mapping relies on indexed web dates which can occasionally be inaccurate.

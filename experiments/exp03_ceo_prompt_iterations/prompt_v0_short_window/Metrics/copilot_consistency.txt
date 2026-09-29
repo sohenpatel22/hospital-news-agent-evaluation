@@ -1,0 +1,3 @@
+MS Copilot Consistency:
+Mean Pairwise Jaccard: 0.02
+Per-item Stability (% in all 5): 0.00%

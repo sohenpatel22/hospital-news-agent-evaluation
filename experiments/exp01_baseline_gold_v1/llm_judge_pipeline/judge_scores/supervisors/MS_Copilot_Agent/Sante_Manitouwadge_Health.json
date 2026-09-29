@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by searching for interim supervisors at Sante Manitouwadge Health and correctly concluding that none were found.",
+  "groundedness": 3,
+  "groundedness_reason": "The model declared no results, which aligns with the ground truth of zero events, and makes no unsupported factual claims.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard has zero items and the model correctly identified no interim supervisors, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions would align directly with the original intent of identifying interim supervisors appointed to Sante Manitouwadge Health.",
+  "generated_questions": [
+    "Have any interim supervisors been appointed by the Ontario government to Sante Manitouwadge Health in the last 5 years?",
+    "What is the list of government-appointed interim supervisors at Sante Manitouwadge Health?",
+    "Has the Ontario government ever intervened at Sante Manitouwadge Health by appointing an interim supervisor?"
+  ],
+  "task": "supervisors",
+  "model": "MS Copilot Agent",
+  "hospital": "Sante Manitouwadge Health"
+}

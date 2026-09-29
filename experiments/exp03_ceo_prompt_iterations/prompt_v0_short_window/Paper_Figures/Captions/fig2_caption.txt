@@ -1,0 +1,1 @@
+Figure 2: Precision vs Recall across systems and tasks. Diagonal light grey lines indicate iso-F1 contours. n=2 tasks per system. Limitation: Results may vary based on exact task formulation.

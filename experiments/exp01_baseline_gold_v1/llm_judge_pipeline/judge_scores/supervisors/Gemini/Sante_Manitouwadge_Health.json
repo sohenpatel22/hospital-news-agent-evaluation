@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The model directly addresses the user's intent by returning an empty list and declaring no results found for interim supervisors at Sante Manitouwadge Health.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no factual claims beyond the absence of results, which is consistent with the ground truth and requires no citations to support.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard expects zero events, and the model correctly identifies zero events, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions would align with the original intent of finding interim supervisors appointed to Sante Manitouwadge Health.",
+  "generated_questions": [
+    "Have any interim supervisors been appointed by the Government of Ontario to Sante Manitouwadge Health in the last 5 years?",
+    "What is the list of government-appointed interim supervisors at Sante Manitouwadge Health?",
+    "Has Sante Manitouwadge Health been placed under provincial supervision recently?"
+  ],
+  "task": "supervisors",
+  "model": "Gemini",
+  "hospital": "Sante Manitouwadge Health"
+}

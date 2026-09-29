@@ -1,0 +1,27 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Eric Hanna - President/CEO (outgoing)",
+      "person_name": "Eric Hanna",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2022-07",
+      "source": "Arnprior Regional Health Corporate Communications / Local Media Archives",
+      "link": null
+    },
+    {
+      "name_or_issue": "Leah Levesque - President/CEO (incoming)",
+      "person_name": "Leah Levesque",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2022-07",
+      "source": "Arnprior Regional Health Corporate Communications / Local Media Archives",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "Arnprior Regional Health",
+  "run_number": 1
+}

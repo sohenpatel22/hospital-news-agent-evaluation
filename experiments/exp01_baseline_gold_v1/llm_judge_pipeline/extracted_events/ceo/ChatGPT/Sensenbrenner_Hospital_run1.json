@@ -1,0 +1,81 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Kelly Vos - Board Vice-Chair (outgoing)",
+      "person_name": "Kelly Vos",
+      "role": "Board Vice-Chair",
+      "direction": "outgoing",
+      "date": "2021-2022",
+      "source": "Sensenbrenner Hospital Annual Reports",
+      "link": null
+    },
+    {
+      "name_or_issue": "Denis Bérubé - Board Vice-Chair (incoming)",
+      "person_name": "Denis Bérubé",
+      "role": "Board Vice-Chair",
+      "direction": "incoming",
+      "date": "2021-2022",
+      "source": "Sensenbrenner Hospital Annual Reports",
+      "link": null
+    },
+    {
+      "name_or_issue": "Kelly Vos - Board Director (outgoing)",
+      "person_name": "Kelly Vos",
+      "role": "Board Director",
+      "direction": "outgoing",
+      "date": "2021-2022",
+      "source": "Sensenbrenner Hospital, 2020-2021 and 2021-2022 Annual Reports",
+      "link": null
+    },
+    {
+      "name_or_issue": "Sébastien Lessard - Board Director (outgoing)",
+      "person_name": "Sébastien Lessard",
+      "role": "Board Director",
+      "direction": "outgoing",
+      "date": "2021-2022",
+      "source": "Sensenbrenner Hospital, 2020-2021 and 2021-2022 Annual Reports",
+      "link": null
+    },
+    {
+      "name_or_issue": "Dominique Tremblay - Board Director (incoming)",
+      "person_name": "Dominique Tremblay",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2021-2022",
+      "source": "Sensenbrenner Hospital, 2020-2021 and 2021-2022 Annual Reports",
+      "link": null
+    },
+    {
+      "name_or_issue": "Guylaine Scherer - Board Director (incoming)",
+      "person_name": "Guylaine Scherer",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "2021-2022",
+      "source": "Sensenbrenner Hospital, 2020-2021 and 2021-2022 Annual Reports",
+      "link": null
+    },
+    {
+      "name_or_issue": "Gary Fortin - Board Chair (outgoing)",
+      "person_name": "Gary Fortin",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "After FY2021-2022 and by July 16, 2026; exact transition date not located",
+      "source": "Sensenbrenner Hospital annual report; current Board listing",
+      "link": null
+    },
+    {
+      "name_or_issue": "Natalie Côté-Tremblay - Board Chair (incoming)",
+      "person_name": "Natalie Côté-Tremblay",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "After FY2021-2022 and by July 16, 2026; exact transition date not located",
+      "source": "Sensenbrenner Hospital annual report; current Board listing",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "Sensenbrenner Hospital",
+  "run_number": 1
+}

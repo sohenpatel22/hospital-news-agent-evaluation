@@ -1,0 +1,81 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Stephanie Zee - Board Chair (incoming)",
+      "person_name": "Stephanie Zee",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2024-06-13",
+      "source": "Mackenzie Health News",
+      "link": "Mackenzie Health and Mackenzie Health Foundation appoint new chairs to their board of directors"
+    },
+    {
+      "name_or_issue": "Fay Lim-Lambie - Board Chair (outgoing)",
+      "person_name": "Fay Lim-Lambie",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2024-06-13",
+      "source": "Mackenzie Health News",
+      "link": "Mackenzie Health and Mackenzie Health Foundation appoint new chairs to their board of directors"
+    },
+    {
+      "name_or_issue": "John Fursey - Board Chair (incoming)",
+      "person_name": "John Fursey",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2025-06-19",
+      "source": "Mackenzie Health News",
+      "link": "Welcoming the new Chair of the Mackenzie Health Board of Directors"
+    },
+    {
+      "name_or_issue": "Stephanie Zee - Board Chair (outgoing)",
+      "person_name": "Stephanie Zee",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2025-06-19",
+      "source": "Mackenzie Health News",
+      "link": "Welcoming the new Chair of the Mackenzie Health Board of Directors"
+    },
+    {
+      "name_or_issue": "Altaf Stationwala - President & CEO (outgoing)",
+      "person_name": "Altaf Stationwala",
+      "role": "President & CEO",
+      "direction": "outgoing",
+      "date": "2025-06-27",
+      "source": "Mackenzie Health News",
+      "link": "A leadership update from Mackenzie Health"
+    },
+    {
+      "name_or_issue": "Mary-Agnes Wilson - Interim President & CEO (incoming)",
+      "person_name": "Mary-Agnes Wilson",
+      "role": "Interim President & CEO",
+      "direction": "incoming",
+      "date": "2025-07-01",
+      "source": "Mackenzie Health News",
+      "link": "A leadership update from Mackenzie Health"
+    },
+    {
+      "name_or_issue": "Carmine Stumpo - President & CEO (incoming)",
+      "person_name": "Carmine Stumpo",
+      "role": "President & CEO",
+      "direction": "incoming",
+      "date": "2026-04-13",
+      "source": "Mackenzie Health News",
+      "link": "Announcing Mackenzie Health's new President and CEO"
+    },
+    {
+      "name_or_issue": "Mary-Agnes Wilson - Interim President & CEO (outgoing)",
+      "person_name": "Mary-Agnes Wilson",
+      "role": "Interim President & CEO",
+      "direction": "outgoing",
+      "date": "2026-04-13",
+      "source": "Mackenzie Health News",
+      "link": "Announcing Mackenzie Health's new President and CEO"
+    }
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "Mackenzie Health",
+  "run_number": 1
+}

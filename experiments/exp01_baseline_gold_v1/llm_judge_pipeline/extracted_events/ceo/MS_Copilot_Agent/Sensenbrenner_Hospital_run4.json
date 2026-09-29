@@ -1,0 +1,45 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Natalie Côté-Tremblay - Board Chair (incoming)",
+      "person_name": "Natalie Côté-Tremblay",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "After 2024-09-18",
+      "source": "Sensenbrenner Hospital Board of Directors packages; hospital leadership page",
+      "link": null
+    },
+    {
+      "name_or_issue": "Denis Bérubé - Board Chair (outgoing)",
+      "person_name": "Denis Bérubé",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "After 2024-09-18",
+      "source": "Sensenbrenner Hospital Board of Directors packages; hospital leadership page",
+      "link": null
+    },
+    {
+      "name_or_issue": "Claudette Brouzes - Board Director (incoming)",
+      "person_name": "Claudette Brouzes",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "After 2023-11-15",
+      "source": "Sensenbrenner Hospital Board of Directors packages; hospital leadership page",
+      "link": null
+    },
+    {
+      "name_or_issue": "Dr. Valerie Smith - Board Director (incoming)",
+      "person_name": "Dr. Valerie Smith",
+      "role": "Board Director",
+      "direction": "incoming",
+      "date": "After 2023-11-15",
+      "source": "Sensenbrenner Hospital Board of Directors packages; hospital leadership page",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Sensenbrenner Hospital",
+  "run_number": 4
+}

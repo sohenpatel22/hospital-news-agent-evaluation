@@ -1,0 +1,99 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Simone Atungo - Board Governor (incoming)",
+      "person_name": "Simone Atungo",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2026-07-03",
+      "source": "Mirams Becker; North York General",
+      "link": null
+    },
+    {
+      "name_or_issue": "Kathryn Nichol - Board Governor (incoming)",
+      "person_name": "Dr. Kathryn Nichol",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2026-07-03",
+      "source": "Mirams Becker; North York General",
+      "link": null
+    },
+    {
+      "name_or_issue": "Paviter Binning - Board Governor (incoming)",
+      "person_name": "Paviter Binning",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2025-06-16",
+      "source": "North York General / North York General Foundation; CNW",
+      "link": null
+    },
+    {
+      "name_or_issue": "Mitch Frazer - Board Chair (incoming)",
+      "person_name": "Mitch Frazer",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2024-06-24",
+      "source": "North York General Hospital; The Globe and Mail",
+      "link": null
+    },
+    {
+      "name_or_issue": "Bert Clark - Board Chair (outgoing)",
+      "person_name": "Bert Clark",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2024-06-24",
+      "source": "North York General Hospital",
+      "link": null
+    },
+    {
+      "name_or_issue": "Jonathan Mackey - Board Governor (incoming)",
+      "person_name": "Jonathan Mackey",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2024-06-17",
+      "source": "North York General Hospital; Mirams Becker",
+      "link": null
+    },
+    {
+      "name_or_issue": "Gillian Akai - Board Governor (incoming)",
+      "person_name": "Gillian Akai",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2024-06-17",
+      "source": "North York General Hospital; Mirams Becker",
+      "link": null
+    },
+    {
+      "name_or_issue": "Kristina Fanjoy - Board Governor (incoming)",
+      "person_name": "Kristina Fanjoy",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2024-06-17",
+      "source": "North York General Hospital; Mirams Becker",
+      "link": null
+    },
+    {
+      "name_or_issue": "George Mavroudis - Board Governor (incoming)",
+      "person_name": "George Mavroudis",
+      "role": "Board Governor",
+      "direction": "incoming",
+      "date": "2024-06-17",
+      "source": "North York General Hospital; Mirams Becker",
+      "link": null
+    },
+    {
+      "name_or_issue": "Everton Gooden - President and CEO (incoming)",
+      "person_name": "Dr. Everton Gooden",
+      "role": "President and CEO",
+      "direction": "incoming",
+      "date": "2023-12-01",
+      "source": "North York General Hospital",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "North York General Hospital",
+  "run_number": 2
+}

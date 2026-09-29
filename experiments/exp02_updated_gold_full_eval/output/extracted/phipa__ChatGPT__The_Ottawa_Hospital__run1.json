@@ -1,0 +1,40 @@
+{
+  "system": "ChatGPT",
+  "task": "phipa",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\ChatGPT\\The Ottawa Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "ChatGPT",
+      "task": "phipa",
+      "hospital": "The Ottawa Hospital",
+      "run_number": 1,
+      "person_or_issue": "PHIPA Decision 326 — correction of an after-visit summary / statement of disagreement",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "January 26, 2026",
+      "date_normalised": "2026-01-26",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario — PHIPA Decision 326, Complaint HA23-00094",
+      "verbatim_snippet": "The Ottawa Hospital | PHIPA Decision 326 — correction of an after-visit summary / statement of disagreement | A patient asked The Ottawa Hospital to correct portions of an after-visit summary under PHIPA and subsequently requested that a statement of disagreement be attached to the record under s. 55(13). The hospital declined to make the requested corrections because it was not required to do so under the Act, but added the statement of disagreement to the patient’s electronic health record. On January 26, 2026, the Ontario IPC upheld the hospital’s position, finding that the hospital had no duty to make the requested corrections and had satisfied its obligation by attaching the disagreement statement to the electronic record. The adjudicator also found that the hospital was not required to make the statement accessible through the patient portal and dismissed the complaint. (IPC Ontario) | January 26, 2026 | Information and Privacy Commissioner of Ontario — PHIPA Decision 326, Complaint HA23-00094 | IPC PHIPA Decision 326"
+    },
+    {
+      "item_index": 1,
+      "system": "ChatGPT",
+      "task": "phipa",
+      "hospital": "The Ottawa Hospital",
+      "run_number": 1,
+      "person_or_issue": "PHIPA Decision 340 — access to electronic medical-record display formats/screenshots",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "June 25, 2026",
+      "date_normalised": "2026-06-25",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario — PHIPA Decision 340",
+      "verbatim_snippet": "The Ottawa Hospital | PHIPA Decision 340 — access to electronic medical-record display formats/screenshots | A patient requested “samples” or screenshots of 25 electronic medical-record displays, including items such as “Storyboard” and “Snapshot,” from The Ottawa Hospital’s EMR. The hospital offered printed copies of the personal health information that would be displayed but declined to produce screenshots. In PHIPA Decision 340, dated June 25, 2026, the IPC found that the requested screenshots could potentially qualify as “records” under PHIPA, but the hospital did not create or maintain the screenshots and therefore was not required to create them in response to the access request. The adjudicator concluded that the hospital had proposed reasonable alternatives for providing access to the underlying information and dismissed the complaint, along with additional allegations concerning PHIPA offences, the hospital’s response to an earlier access request, and procedural fairness. (IPC Ontario) | June 25, 2026 | Information and Privacy Commissioner of Ontario — PHIPA Decision 340 | IPC PHIPA Decision 340"
+    }
+  ],
+  "refusals": []
+}

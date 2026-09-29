@@ -1,0 +1,34 @@
+{
+  "relevance": 0,
+  "relevance_reason": "The model response contains no extracted events whatsoever, providing no information about Mackenzie Health leadership or board changes.",
+  "groundedness": 0,
+  "groundedness_reason": "There are no factual claims or cited sources in the empty response.",
+  "completeness": 0.0,
+  "completeness_reason": "The model returned zero events, covering none of the 14 gold standard leadership change items.",
+  "missed_items": [
+    "Fay Lim-Lambie - Board Chair (incoming)",
+    "Stephanie Zee - Board Vice Chair (incoming)",
+    "Joby McKenzie - Board 2nd VP Chair (incoming)",
+    "Stephanie Zee - Board Chair (incoming from VP)",
+    "Ruby Philip-Katyal - Board VP Chair (incoming)",
+    "Joby McKenzie - Board VP Chair (incoming)",
+    "Altaf Stationwala - President/CEO (outgoing after 14 yrs)",
+    "Mary-Agnes Wilson - Interim President/CEO (incoming)",
+    "Stephanie Zee - Board Chair (outgoing)",
+    "Fay Lim-Lambie - Board Member (outgoing)",
+    "Ruby Philip-Katyal - Board Member (outgoing)",
+    "Atul Mehta - Board Treasurer (incoming)",
+    "John Fursey - Board Chair (incoming)",
+    "Carmine Stumpo - President/CEO (incoming)"
+  ],
+  "answer_relevancy": 0.0,
+  "answer_relevancy_reason": "Since the response is empty, no questions can be generated that align with the original intent of listing Mackenzie Health leadership changes.",
+  "generated_questions": [
+    "What information is available about Mackenzie Health?",
+    "Did the model find any hospital data?",
+    "Why did the model return no results?"
+  ],
+  "task": "ceo",
+  "model": "Perplexity",
+  "hospital": "Mackenzie Health"
+}

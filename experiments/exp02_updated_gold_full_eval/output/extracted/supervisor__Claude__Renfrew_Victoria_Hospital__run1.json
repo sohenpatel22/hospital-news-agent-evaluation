@@ -1,0 +1,40 @@
+{
+  "system": "Claude",
+  "task": "supervisor",
+  "hospital": "Renfrew Victoria Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Claude\\Renfrew Victoria Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Claude",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 1,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "supervisor of Renfrew Victoria Hospital",
+      "direction": "incoming",
+      "date_raw": "Appointed June 27, 2024 (effective July 8, 2024)",
+      "date_normalised": "2024-06-27",
+      "citation_url": "https://www.cbc.ca/news/canada/ottawa/province-appoints-supervisor-to-oversee-renfrew-hospital-amid-financial-concerns-1.7248464",
+      "citation_text": "Ministry of Health news release / CBC News",
+      "verbatim_snippet": "In June 2024, the Ontario Ministry of Health appointed Altaf Stationwala, then President and CEO of Mackenzie Health, as supervisor of Renfrew Victoria Hospital under the Public Hospitals Act."
+    },
+    {
+      "item_index": 1,
+      "system": "Claude",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 1,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "supervisor of Renfrew Victoria Hospital",
+      "direction": "outgoing",
+      "date_raw": "June 20, 2025",
+      "date_normalised": "2025-06-20",
+      "citation_url": "https://www.ontario.ca/files/2025-06/moh-renfrew-victoria-hospital-final-supervisor-report-en-2025-06-05.pdf",
+      "citation_text": "Final Supervisor's Report (Government of Ontario, published June 5, 2025)",
+      "verbatim_snippet": "Stationwala remained at RVH working alongside incoming president and CEO Suzanne Madore until June 20, 2025, marking the end of the supervisory mandate."
+    }
+  ],
+  "refusals": []
+}

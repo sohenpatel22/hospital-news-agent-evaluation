@@ -1,0 +1,34 @@
+{
+  "relevance": 0,
+  "relevance_reason": "The model response contains no extracted events and provided no information about Mackenzie Health leadership or board changes, failing to address the user's intent at all.",
+  "groundedness": 0,
+  "groundedness_reason": "No factual claims were made and no sources were cited, as the model returned an empty result set.",
+  "completeness": 0.0,
+  "completeness_reason": "None of the 14 gold standard leadership and board change items were covered in the model's empty response.",
+  "missed_items": [
+    "Fay Lim-Lambie - Board Chair (incoming)",
+    "Stephanie Zee - Board Vice Chair (incoming)",
+    "Joby McKenzie - Board 2nd VP Chair (incoming)",
+    "Stephanie Zee - Board Chair (incoming from VP)",
+    "Ruby Philip-Katyal - Board VP Chair (incoming)",
+    "Joby McKenzie - Board VP Chair (incoming)",
+    "Altaf Stationwala - President/CEO (outgoing after 14 yrs)",
+    "Mary-Agnes Wilson - Interim President/CEO (incoming)",
+    "Stephanie Zee - Board Chair (outgoing)",
+    "Fay Lim-Lambie - Board Member (outgoing)",
+    "Ruby Philip-Katyal - Board Member (outgoing)",
+    "Atul Mehta - Board Treasurer (incoming)",
+    "John Fursey - Board Chair (incoming)",
+    "Carmine Stumpo - President/CEO (incoming)"
+  ],
+  "answer_relevancy": 0.0,
+  "answer_relevancy_reason": "Because the response is empty, no questions can be generated that would align with the original intent of listing Mackenzie Health leadership changes.",
+  "generated_questions": [
+    "What information did the model find about Mackenzie Health?",
+    "Did the model return any search results?",
+    "Why did the model return no extracted events?"
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "Mackenzie Health"
+}

@@ -1,0 +1,81 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Cynthia Devine - Board of Governors (outgoing)",
+      "person_name": "Cynthia Devine",
+      "role": "Board Director (Governor)",
+      "direction": "outgoing",
+      "date": "2022 AGM / 2022-2023 governance transition",
+      "source": "North York General Hospital, Year in Review 2021-2022 and Year in Review 2022-2023",
+      "link": null
+    },
+    {
+      "name_or_issue": "Sheila Jarvis - Board of Governors (outgoing)",
+      "person_name": "Sheila Jarvis",
+      "role": "Board Director (Governor)",
+      "direction": "outgoing",
+      "date": "2022 AGM / 2022-2023 governance transition",
+      "source": "North York General Hospital, Year in Review 2021-2022 and Year in Review 2022-2023",
+      "link": null
+    },
+    {
+      "name_or_issue": "Dr. Louise Lemieux-Charles - Board of Governors (outgoing)",
+      "person_name": "Dr. Louise Lemieux-Charles",
+      "role": "Board Director (Governor)",
+      "direction": "outgoing",
+      "date": "2022 AGM / 2022-2023 governance transition",
+      "source": "North York General Hospital, Year in Review 2021-2022 and Year in Review 2022-2023",
+      "link": null
+    },
+    {
+      "name_or_issue": "Karyn Popovich - President and CEO (outgoing)",
+      "person_name": "Karyn Popovich",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2023-11-30",
+      "source": "North York General Hospital Year in Review 2023-2024",
+      "link": null
+    },
+    {
+      "name_or_issue": "Dr. Everton Gooden - President and CEO (incoming)",
+      "person_name": "Dr. Everton Gooden",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2023-12-01",
+      "source": "North York General Hospital Year in Review 2023-2024; University of Toronto Department of Otolaryngology",
+      "link": null
+    },
+    {
+      "name_or_issue": "Robert Palter - Board of Governors (incoming)",
+      "person_name": "Robert Palter",
+      "role": "Board Director (Governor)",
+      "direction": "incoming",
+      "date": "2023-2024 governance cycle",
+      "source": "North York General Hospital, Year in Review 2022-2023 and 2023-2024 Governance and Leadership",
+      "link": null
+    },
+    {
+      "name_or_issue": "Bert Clark - Board Chair (outgoing)",
+      "person_name": "Bert Clark",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date": "2024-06-18",
+      "source": "NYGH governance/fiscal-accountability documentation",
+      "link": null
+    },
+    {
+      "name_or_issue": "Mitch Frazer - Board Chair (incoming)",
+      "person_name": "Mitch Frazer",
+      "role": "Board Chair",
+      "direction": "incoming",
+      "date": "2024-06-18",
+      "source": "NYGH governance/fiscal-accountability documentation",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "ChatGPT",
+  "hospital": "North York General Hospital",
+  "run_number": 1
+}

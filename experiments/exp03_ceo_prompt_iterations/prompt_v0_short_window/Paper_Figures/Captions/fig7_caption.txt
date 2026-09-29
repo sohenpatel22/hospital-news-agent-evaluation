@@ -1,0 +1,1 @@
+Figure 7: Copilot repeat-run consistency across 5 iterations. Panel A displays the item-presence matrix for gold items. Panel B displays the pairwise Jaccard similarity. n=15 gold items. Limitation: This reflects single-system reliability (stochasticity) only, not a cross-system comparison.

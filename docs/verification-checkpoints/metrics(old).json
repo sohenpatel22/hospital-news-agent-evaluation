@@ -1,0 +1,1545 @@
+{
+  "generated_at": "2026-08-31",
+  "run_scoping": "cross-system metrics use MS Copilot Agent Run 1 only; consistency uses Runs 1-5 separately",
+  "systems": {
+    "ChatGPT": {
+      "recall": {
+        "ceo": {
+          "A - dated announcement": {
+            "point": 0.25882352941176473,
+            "ci_low": 0.19411764705882353,
+            "ci_high": 0.3235294117647059,
+            "n_gold": 170
+          },
+          "B - directory confirmed, undated": {
+            "point": 0.11363636363636363,
+            "ci_low": 0.022727272727272728,
+            "ci_high": 0.20454545454545456,
+            "n_gold": 44
+          },
+          "C - inferred / approximate date": {
+            "point": 0.1111111111111111,
+            "ci_low": 0.0,
+            "ci_high": 0.25925925925925924,
+            "n_gold": 27
+          },
+          "overall": {
+            "point": 0.2157676348547718,
+            "ci_low": 0.16182572614107885,
+            "ci_high": 0.2697095435684647,
+            "n_gold": 241
+          },
+          "independent": {
+            "point": 0.1111111111111111,
+            "ci_low": 0.0625,
+            "ci_high": 0.16666666666666666,
+            "n_gold": 144
+          }
+        },
+        "phipa": {
+          "overall": {
+            "point": 0.3333333333333333,
+            "ci_low": 0.0,
+            "ci_high": 1.0,
+            "n_gold": 3
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        },
+        "supervisor": {
+          "overall": {
+            "point": 1.0,
+            "ci_low": 1.0,
+            "ci_high": 1.0,
+            "n_gold": 4
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        }
+      },
+      "precision": {
+        "ceo": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 67,
+          "tp": 66,
+          "bucket_A": 1,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "phipa": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 1,
+          "tp": 1,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "supervisor": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 6,
+          "tp": 6,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        }
+      },
+      "hallucination_rate": {
+        "ceo": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 68,
+          "bucket_B": 0
+        },
+        "phipa": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 4,
+          "bucket_B": 0
+        },
+        "supervisor": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 6,
+          "bucket_B": 0
+        }
+      },
+      "field_accuracy": {
+        "ceo": {
+          "role": {
+            "correct": 31,
+            "n": 66,
+            "accuracy": 0.4696969696969697
+          },
+          "date": {
+            "correct": 26,
+            "n": 60,
+            "accuracy": 0.43333333333333335
+          },
+          "direction": {
+            "correct": 35,
+            "n": 44,
+            "accuracy": 0.7954545454545454
+          }
+        },
+        "phipa": {
+          "role": {
+            "correct": 0,
+            "n": 1,
+            "accuracy": 0.0
+          },
+          "date": {
+            "correct": 1,
+            "n": 1,
+            "accuracy": 1.0
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        },
+        "supervisor": {
+          "role": {
+            "correct": 3,
+            "n": 6,
+            "accuracy": 0.5
+          },
+          "date": {
+            "correct": 3,
+            "n": 6,
+            "accuracy": 0.5
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        }
+      },
+      "specificity": {
+        "ceo": {
+          "mean": 2.727272727272727,
+          "pct_scoring_3": 0.7272727272727273,
+          "n": 66
+        },
+        "phipa": {
+          "mean": 2.0,
+          "pct_scoring_3": 0.0,
+          "n": 1
+        },
+        "supervisor": {
+          "mean": 3.0,
+          "pct_scoring_3": 1.0,
+          "n": 6
+        }
+      },
+      "omission_rate": {
+        "ceo": {
+          "rate": 1.0,
+          "n": 66,
+          "omitted": 66
+        },
+        "phipa": {
+          "rate": 1.0,
+          "n": 1,
+          "omitted": 1
+        },
+        "supervisor": {
+          "rate": 1.0,
+          "n": 6,
+          "omitted": 6
+        }
+      },
+      "completeness": {
+        "ceo": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "hospitals_expected": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "both_directions_seen": true
+        },
+        "phipa": {
+          "all_hospitals_covered": false,
+          "hospitals_covered": [
+            "Hamilton Health Sciences Corporation",
+            "The Ottawa Hospital"
+          ],
+          "hospitals_expected": [
+            "Baycrest Health Sciences",
+            "Hamilton Health Sciences",
+            "The Ottawa Hospital"
+          ],
+          "both_directions_seen": false
+        },
+        "supervisor": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "hospitals_expected": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "both_directions_seen": true
+        }
+      },
+      "error_taxonomy": {
+        "ceo": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 35,
+          "wrong_date": 34,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "phipa": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 1,
+          "wrong_date": 0,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "supervisor": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 3,
+          "wrong_date": 3,
+          "organisational_confusion": 0,
+          "stale": 0
+        }
+      }
+    },
+    "Claude": {
+      "recall": {
+        "ceo": {
+          "A - dated announcement": {
+            "point": 0.19411764705882353,
+            "ci_low": 0.13529411764705881,
+            "ci_high": 0.25882352941176473,
+            "n_gold": 170
+          },
+          "B - directory confirmed, undated": {
+            "point": 0.022727272727272728,
+            "ci_low": 0.0,
+            "ci_high": 0.06818181818181818,
+            "n_gold": 44
+          },
+          "C - inferred / approximate date": {
+            "point": 0.037037037037037035,
+            "ci_low": 0.0,
+            "ci_high": 0.1111111111111111,
+            "n_gold": 27
+          },
+          "overall": {
+            "point": 0.14522821576763487,
+            "ci_low": 0.1037344398340249,
+            "ci_high": 0.1908713692946058,
+            "n_gold": 241
+          },
+          "independent": {
+            "point": 0.04861111111111111,
+            "ci_low": 0.013888888888888888,
+            "ci_high": 0.08333333333333333,
+            "n_gold": 144
+          }
+        },
+        "phipa": {
+          "overall": {
+            "point": 0.0,
+            "ci_low": 0.0,
+            "ci_high": 0.0,
+            "n_gold": 3
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        },
+        "supervisor": {
+          "overall": {
+            "point": 1.0,
+            "ci_low": 1.0,
+            "ci_high": 1.0,
+            "n_gold": 4
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        }
+      },
+      "precision": {
+        "ceo": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 48,
+          "tp": 48,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "phipa": {
+          "point": null,
+          "ci_low": null,
+          "ci_high": null,
+          "n": 0,
+          "tp": 0,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "supervisor": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 5,
+          "tp": 5,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        }
+      },
+      "hallucination_rate": {
+        "ceo": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 49,
+          "bucket_B": 0
+        },
+        "phipa": {
+          "point": null,
+          "ci_low": null,
+          "ci_high": null,
+          "n": 0,
+          "bucket_B": 0
+        },
+        "supervisor": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 6,
+          "bucket_B": 0
+        }
+      },
+      "field_accuracy": {
+        "ceo": {
+          "role": {
+            "correct": 18,
+            "n": 48,
+            "accuracy": 0.375
+          },
+          "date": {
+            "correct": 27,
+            "n": 47,
+            "accuracy": 0.574468085106383
+          },
+          "direction": {
+            "correct": 26,
+            "n": 35,
+            "accuracy": 0.7428571428571429
+          }
+        },
+        "phipa": {
+          "role": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          },
+          "date": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        },
+        "supervisor": {
+          "role": {
+            "correct": 2,
+            "n": 5,
+            "accuracy": 0.4
+          },
+          "date": {
+            "correct": 1,
+            "n": 5,
+            "accuracy": 0.2
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        }
+      },
+      "specificity": {
+        "ceo": {
+          "mean": 2.7916666666666665,
+          "pct_scoring_3": 0.8125,
+          "n": 48
+        },
+        "phipa": {
+          "mean": null,
+          "pct_scoring_3": null,
+          "n": 0
+        },
+        "supervisor": {
+          "mean": 2.8,
+          "pct_scoring_3": 0.8,
+          "n": 5
+        }
+      },
+      "omission_rate": {
+        "ceo": {
+          "rate": 0.10416666666666667,
+          "n": 48,
+          "omitted": 5
+        },
+        "phipa": {
+          "rate": null,
+          "n": 0,
+          "omitted": 0
+        },
+        "supervisor": {
+          "rate": 0.0,
+          "n": 5,
+          "omitted": 0
+        }
+      },
+      "completeness": {
+        "ceo": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "hospitals_expected": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "both_directions_seen": true
+        },
+        "phipa": {
+          "all_hospitals_covered": false,
+          "hospitals_covered": [],
+          "hospitals_expected": [
+            "Baycrest Health Sciences",
+            "Hamilton Health Sciences",
+            "The Ottawa Hospital"
+          ],
+          "both_directions_seen": false
+        },
+        "supervisor": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "hospitals_expected": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "both_directions_seen": true
+        }
+      },
+      "error_taxonomy": {
+        "ceo": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 30,
+          "wrong_date": 20,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "phipa": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 0,
+          "wrong_date": 0,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "supervisor": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 3,
+          "wrong_date": 4,
+          "organisational_confusion": 0,
+          "stale": 0
+        }
+      }
+    },
+    "Gemini": {
+      "recall": {
+        "ceo": {
+          "A - dated announcement": {
+            "point": 0.1588235294117647,
+            "ci_low": 0.10588235294117647,
+            "ci_high": 0.21764705882352942,
+            "n_gold": 170
+          },
+          "B - directory confirmed, undated": {
+            "point": 0.0,
+            "ci_low": 0.0,
+            "ci_high": 0.0,
+            "n_gold": 44
+          },
+          "C - inferred / approximate date": {
+            "point": 0.0,
+            "ci_low": 0.0,
+            "ci_high": 0.0,
+            "n_gold": 27
+          },
+          "overall": {
+            "point": 0.11203319502074689,
+            "ci_low": 0.07468879668049792,
+            "ci_high": 0.15352697095435686,
+            "n_gold": 241
+          },
+          "independent": {
+            "point": 0.013888888888888888,
+            "ci_low": 0.0,
+            "ci_high": 0.034722222222222224,
+            "n_gold": 144
+          }
+        },
+        "phipa": {
+          "overall": {
+            "point": 0.3333333333333333,
+            "ci_low": 0.0,
+            "ci_high": 1.0,
+            "n_gold": 3
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        },
+        "supervisor": {
+          "overall": {
+            "point": 1.0,
+            "ci_low": 1.0,
+            "ci_high": 1.0,
+            "n_gold": 4
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        }
+      },
+      "precision": {
+        "ceo": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 31,
+          "tp": 31,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "phipa": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 1,
+          "tp": 1,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "supervisor": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 5,
+          "tp": 5,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        }
+      },
+      "hallucination_rate": {
+        "ceo": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 34,
+          "bucket_B": 0
+        },
+        "phipa": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 1,
+          "bucket_B": 0
+        },
+        "supervisor": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 5,
+          "bucket_B": 0
+        }
+      },
+      "field_accuracy": {
+        "ceo": {
+          "role": {
+            "correct": 5,
+            "n": 31,
+            "accuracy": 0.16129032258064516
+          },
+          "date": {
+            "correct": 12,
+            "n": 31,
+            "accuracy": 0.3870967741935484
+          },
+          "direction": {
+            "correct": 22,
+            "n": 28,
+            "accuracy": 0.7857142857142857
+          }
+        },
+        "phipa": {
+          "role": {
+            "correct": 0,
+            "n": 1,
+            "accuracy": 0.0
+          },
+          "date": {
+            "correct": 1,
+            "n": 1,
+            "accuracy": 1.0
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        },
+        "supervisor": {
+          "role": {
+            "correct": 3,
+            "n": 5,
+            "accuracy": 0.6
+          },
+          "date": {
+            "correct": 2,
+            "n": 5,
+            "accuracy": 0.4
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        }
+      },
+      "specificity": {
+        "ceo": {
+          "mean": 2.6129032258064515,
+          "pct_scoring_3": 0.7419354838709677,
+          "n": 31
+        },
+        "phipa": {
+          "mean": 2.0,
+          "pct_scoring_3": 0.0,
+          "n": 1
+        },
+        "supervisor": {
+          "mean": 2.8,
+          "pct_scoring_3": 0.8,
+          "n": 5
+        }
+      },
+      "omission_rate": {
+        "ceo": {
+          "rate": 1.0,
+          "n": 31,
+          "omitted": 31
+        },
+        "phipa": {
+          "rate": 1.0,
+          "n": 1,
+          "omitted": 1
+        },
+        "supervisor": {
+          "rate": 1.0,
+          "n": 5,
+          "omitted": 5
+        }
+      },
+      "completeness": {
+        "ceo": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "hospitals_expected": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "both_directions_seen": true
+        },
+        "phipa": {
+          "all_hospitals_covered": false,
+          "hospitals_covered": [
+            "Hamilton Health Sciences Corporation"
+          ],
+          "hospitals_expected": [
+            "Baycrest Health Sciences",
+            "Hamilton Health Sciences",
+            "The Ottawa Hospital"
+          ],
+          "both_directions_seen": false
+        },
+        "supervisor": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "hospitals_expected": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "both_directions_seen": true
+        }
+      },
+      "error_taxonomy": {
+        "ceo": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 26,
+          "wrong_date": 19,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "phipa": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 1,
+          "wrong_date": 0,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "supervisor": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 2,
+          "wrong_date": 3,
+          "organisational_confusion": 0,
+          "stale": 0
+        }
+      }
+    },
+    "MS Copilot Agent": {
+      "recall": {
+        "ceo": {
+          "A - dated announcement": {
+            "point": 0.31176470588235294,
+            "ci_low": 0.24705882352941178,
+            "ci_high": 0.38823529411764707,
+            "n_gold": 170
+          },
+          "B - directory confirmed, undated": {
+            "point": 0.045454545454545456,
+            "ci_low": 0.0,
+            "ci_high": 0.11363636363636363,
+            "n_gold": 44
+          },
+          "C - inferred / approximate date": {
+            "point": 0.0,
+            "ci_low": 0.0,
+            "ci_high": 0.0,
+            "n_gold": 27
+          },
+          "overall": {
+            "point": 0.22821576763485477,
+            "ci_low": 0.17842323651452283,
+            "ci_high": 0.27800829875518673,
+            "n_gold": 241
+          },
+          "independent": {
+            "point": 0.09722222222222222,
+            "ci_low": 0.04861111111111111,
+            "ci_high": 0.14583333333333334,
+            "n_gold": 144
+          }
+        },
+        "phipa": {
+          "overall": {
+            "point": 1.0,
+            "ci_low": 1.0,
+            "ci_high": 1.0,
+            "n_gold": 3
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        },
+        "supervisor": {
+          "overall": {
+            "point": 1.0,
+            "ci_low": 1.0,
+            "ci_high": 1.0,
+            "n_gold": 4
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        }
+      },
+      "precision": {
+        "ceo": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 64,
+          "tp": 63,
+          "bucket_A": 1,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "phipa": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 3,
+          "tp": 3,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "supervisor": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 6,
+          "tp": 6,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        }
+      },
+      "hallucination_rate": {
+        "ceo": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 66,
+          "bucket_B": 0
+        },
+        "phipa": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 3,
+          "bucket_B": 0
+        },
+        "supervisor": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 6,
+          "bucket_B": 0
+        }
+      },
+      "field_accuracy": {
+        "ceo": {
+          "role": {
+            "correct": 25,
+            "n": 63,
+            "accuracy": 0.3968253968253968
+          },
+          "date": {
+            "correct": 32,
+            "n": 61,
+            "accuracy": 0.5245901639344263
+          },
+          "direction": {
+            "correct": 40,
+            "n": 49,
+            "accuracy": 0.8163265306122449
+          }
+        },
+        "phipa": {
+          "role": {
+            "correct": 0,
+            "n": 3,
+            "accuracy": 0.0
+          },
+          "date": {
+            "correct": 3,
+            "n": 3,
+            "accuracy": 1.0
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        },
+        "supervisor": {
+          "role": {
+            "correct": 6,
+            "n": 6,
+            "accuracy": 1.0
+          },
+          "date": {
+            "correct": 3,
+            "n": 6,
+            "accuracy": 0.5
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        }
+      },
+      "specificity": {
+        "ceo": {
+          "mean": 2.888888888888889,
+          "pct_scoring_3": 0.9365079365079365,
+          "n": 63
+        },
+        "phipa": {
+          "mean": 2.0,
+          "pct_scoring_3": 0.0,
+          "n": 3
+        },
+        "supervisor": {
+          "mean": 3.0,
+          "pct_scoring_3": 1.0,
+          "n": 6
+        }
+      },
+      "omission_rate": {
+        "ceo": {
+          "rate": 1.0,
+          "n": 63,
+          "omitted": 63
+        },
+        "phipa": {
+          "rate": 1.0,
+          "n": 3,
+          "omitted": 3
+        },
+        "supervisor": {
+          "rate": 1.0,
+          "n": 6,
+          "omitted": 6
+        }
+      },
+      "completeness": {
+        "ceo": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "hospitals_expected": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "both_directions_seen": true
+        },
+        "phipa": {
+          "all_hospitals_covered": false,
+          "hospitals_covered": [
+            "Hamilton Health Sciences Corporation",
+            "The Ottawa Hospital"
+          ],
+          "hospitals_expected": [
+            "Baycrest Health Sciences",
+            "Hamilton Health Sciences",
+            "The Ottawa Hospital"
+          ],
+          "both_directions_seen": false
+        },
+        "supervisor": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "hospitals_expected": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "both_directions_seen": true
+        }
+      },
+      "error_taxonomy": {
+        "ceo": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 38,
+          "wrong_date": 29,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "phipa": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 3,
+          "wrong_date": 0,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "supervisor": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 0,
+          "wrong_date": 3,
+          "organisational_confusion": 0,
+          "stale": 0
+        }
+      }
+    },
+    "Perplexity": {
+      "recall": {
+        "ceo": {
+          "A - dated announcement": {
+            "point": 0.2823529411764706,
+            "ci_low": 0.21176470588235294,
+            "ci_high": 0.35294117647058826,
+            "n_gold": 170
+          },
+          "B - directory confirmed, undated": {
+            "point": 0.022727272727272728,
+            "ci_low": 0.0,
+            "ci_high": 0.06818181818181818,
+            "n_gold": 44
+          },
+          "C - inferred / approximate date": {
+            "point": 0.0,
+            "ci_low": 0.0,
+            "ci_high": 0.0,
+            "n_gold": 27
+          },
+          "overall": {
+            "point": 0.2033195020746888,
+            "ci_low": 0.15352697095435686,
+            "ci_high": 0.25311203319502074,
+            "n_gold": 241
+          },
+          "independent": {
+            "point": 0.09722222222222222,
+            "ci_low": 0.04861111111111111,
+            "ci_high": 0.14583333333333334,
+            "n_gold": 144
+          }
+        },
+        "phipa": {
+          "overall": {
+            "point": 0.0,
+            "ci_low": 0.0,
+            "ci_high": 0.0,
+            "n_gold": 3
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        },
+        "supervisor": {
+          "overall": {
+            "point": 1.0,
+            "ci_low": 1.0,
+            "ci_high": 1.0,
+            "n_gold": 4
+          },
+          "independent": {
+            "point": null,
+            "ci_low": null,
+            "ci_high": null,
+            "n_gold": 0
+          }
+        }
+      },
+      "precision": {
+        "ceo": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 56,
+          "tp": 56,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "phipa": {
+          "point": null,
+          "ci_low": null,
+          "ci_high": null,
+          "n": 0,
+          "tp": 0,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        },
+        "supervisor": {
+          "point": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0,
+          "n": 4,
+          "tp": 4,
+          "bucket_A": 0,
+          "bucket_B": 0,
+          "bucket_C": 0
+        }
+      },
+      "hallucination_rate": {
+        "ceo": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 59,
+          "bucket_B": 0
+        },
+        "phipa": {
+          "point": null,
+          "ci_low": null,
+          "ci_high": null,
+          "n": 0,
+          "bucket_B": 0
+        },
+        "supervisor": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n": 4,
+          "bucket_B": 0
+        }
+      },
+      "field_accuracy": {
+        "ceo": {
+          "role": {
+            "correct": 11,
+            "n": 56,
+            "accuracy": 0.19642857142857142
+          },
+          "date": {
+            "correct": 23,
+            "n": 55,
+            "accuracy": 0.41818181818181815
+          },
+          "direction": {
+            "correct": 37,
+            "n": 47,
+            "accuracy": 0.7872340425531915
+          }
+        },
+        "phipa": {
+          "role": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          },
+          "date": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        },
+        "supervisor": {
+          "role": {
+            "correct": 3,
+            "n": 4,
+            "accuracy": 0.75
+          },
+          "date": {
+            "correct": 3,
+            "n": 4,
+            "accuracy": 0.75
+          },
+          "direction": {
+            "correct": 0,
+            "n": 0,
+            "accuracy": null
+          }
+        }
+      },
+      "specificity": {
+        "ceo": {
+          "mean": 2.9464285714285716,
+          "pct_scoring_3": 0.9642857142857143,
+          "n": 56
+        },
+        "phipa": {
+          "mean": null,
+          "pct_scoring_3": null,
+          "n": 0
+        },
+        "supervisor": {
+          "mean": 2.5,
+          "pct_scoring_3": 0.5,
+          "n": 4
+        }
+      },
+      "omission_rate": {
+        "ceo": {
+          "rate": 0.4107142857142857,
+          "n": 56,
+          "omitted": 23
+        },
+        "phipa": {
+          "rate": null,
+          "n": 0,
+          "omitted": 0
+        },
+        "supervisor": {
+          "rate": 0.5,
+          "n": 4,
+          "omitted": 2
+        }
+      },
+      "completeness": {
+        "ceo": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "hospitals_expected": [
+            "Arnprior Regional Health",
+            "Mackenzie Health",
+            "North York General Hospital"
+          ],
+          "both_directions_seen": true
+        },
+        "phipa": {
+          "all_hospitals_covered": false,
+          "hospitals_covered": [],
+          "hospitals_expected": [
+            "Baycrest Health Sciences",
+            "Hamilton Health Sciences",
+            "The Ottawa Hospital"
+          ],
+          "both_directions_seen": false
+        },
+        "supervisor": {
+          "all_hospitals_covered": true,
+          "hospitals_covered": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "hospitals_expected": [
+            "London Health Sciences Centre",
+            "Renfrew Victoria Hospital",
+            "Stevenson Memorial Hospital"
+          ],
+          "both_directions_seen": false
+        }
+      },
+      "error_taxonomy": {
+        "ceo": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 45,
+          "wrong_date": 32,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "phipa": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 0,
+          "wrong_date": 0,
+          "organisational_confusion": 0,
+          "stale": 0
+        },
+        "supervisor": {
+          "fabricated_person_or_event": 0,
+          "wrong_role": 1,
+          "wrong_date": 1,
+          "organisational_confusion": 0,
+          "stale": 0
+        }
+      }
+    }
+  },
+  "error_taxonomy_note": "6th category 'unsupported citation' not computed this round (citation validity excluded, see 1.4 addendum). 'stale' is counted as 0 throughout -- no automated heuristic was implemented for it; treat as not-yet-measured, not as zero occurrences, and flag for manual review.",
+  "consistency": {
+    "label": "SINGLE-SYSTEM RELIABILITY (MS Copilot Agent only) -- NOT a cross-system comparison",
+    "by_task": {
+      "ceo": {
+        "pairwise_jaccard": [
+          {
+            "run_a": 1,
+            "run_b": 2,
+            "jaccard": 0.56
+          },
+          {
+            "run_a": 1,
+            "run_b": 3,
+            "jaccard": 0.676056338028169
+          },
+          {
+            "run_a": 1,
+            "run_b": 4,
+            "jaccard": 0.5487804878048781
+          },
+          {
+            "run_a": 1,
+            "run_b": 5,
+            "jaccard": 0.7936507936507936
+          },
+          {
+            "run_a": 2,
+            "run_b": 3,
+            "jaccard": 0.5789473684210527
+          },
+          {
+            "run_a": 2,
+            "run_b": 4,
+            "jaccard": 0.6
+          },
+          {
+            "run_a": 2,
+            "run_b": 5,
+            "jaccard": 0.6056338028169014
+          },
+          {
+            "run_a": 3,
+            "run_b": 4,
+            "jaccard": 0.6049382716049383
+          },
+          {
+            "run_a": 3,
+            "run_b": 5,
+            "jaccard": 0.6111111111111112
+          },
+          {
+            "run_a": 4,
+            "run_b": 5,
+            "jaccard": 0.4939759036144578
+          }
+        ],
+        "mean_pairwise_jaccard": 0.6073094077052301,
+        "n_pairs": 10,
+        "per_item_stability": 0.3333333333333333,
+        "n_distinct_entities_any_run": 96,
+        "n_stable_in_all_5_runs": 32
+      },
+      "phipa": {
+        "pairwise_jaccard": [
+          {
+            "run_a": 1,
+            "run_b": 2,
+            "jaccard": 0.75
+          },
+          {
+            "run_a": 1,
+            "run_b": 3,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 1,
+            "run_b": 4,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 1,
+            "run_b": 5,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 2,
+            "run_b": 3,
+            "jaccard": 0.75
+          },
+          {
+            "run_a": 2,
+            "run_b": 4,
+            "jaccard": 0.75
+          },
+          {
+            "run_a": 2,
+            "run_b": 5,
+            "jaccard": 0.75
+          },
+          {
+            "run_a": 3,
+            "run_b": 4,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 3,
+            "run_b": 5,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 4,
+            "run_b": 5,
+            "jaccard": 1.0
+          }
+        ],
+        "mean_pairwise_jaccard": 0.9,
+        "n_pairs": 10,
+        "per_item_stability": 0.75,
+        "n_distinct_entities_any_run": 4,
+        "n_stable_in_all_5_runs": 3
+      },
+      "supervisor": {
+        "pairwise_jaccard": [
+          {
+            "run_a": 1,
+            "run_b": 2,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 1,
+            "run_b": 3,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 1,
+            "run_b": 4,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 1,
+            "run_b": 5,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 2,
+            "run_b": 3,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 2,
+            "run_b": 4,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 2,
+            "run_b": 5,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 3,
+            "run_b": 4,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 3,
+            "run_b": 5,
+            "jaccard": 1.0
+          },
+          {
+            "run_a": 4,
+            "run_b": 5,
+            "jaccard": 1.0
+          }
+        ],
+        "mean_pairwise_jaccard": 1.0,
+        "n_pairs": 10,
+        "per_item_stability": 1.0,
+        "n_distinct_entities_any_run": 4,
+        "n_stable_in_all_5_runs": 4
+      }
+    }
+  },
+  "checkpoint_independent_lower_than_overall": [
+    "ceo: overall=0.228 independent=0.097 independent<=overall: True"
+  ]
+}

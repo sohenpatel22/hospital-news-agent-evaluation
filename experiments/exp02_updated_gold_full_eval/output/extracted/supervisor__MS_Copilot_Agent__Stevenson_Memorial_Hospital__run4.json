@@ -1,0 +1,55 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "supervisor",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 4,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 4.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 4,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "September 26, 2024",
+      "date_normalised": "2024-09-26",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Ministry of Health, Order in Council 1271/2024",
+      "verbatim_snippet": "Following a Ministry-appointed investigation into the hospital’s governance, management and quality of care, the Lieutenant Governor in Council appointed Eric Hanna as Supervisor under subsection 9(1) of the Public Hospitals Act."
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 4,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "outgoing",
+      "date_raw": "revoked at the end of June 8, 2025",
+      "date_normalised": "2025-06-08",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Ministry of Health, Order in Council 767/2025",
+      "verbatim_snippet": "His appointment took effect on September 26, 2024 and was revoked at the end of June 8, 2025, when he stepped down and was succeeded by Carmine Stumpo."
+    },
+    {
+      "item_index": 2,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 4,
+      "person_or_issue": "Carmine Stumpo",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "June 9, 2025, with the Order approved June 5, 2025",
+      "date_normalised": "2025-06-09",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Ministry of Health, Order in Council 767/2025",
+      "verbatim_snippet": "After Eric Hanna indicated that he wished to step down, the Lieutenant Governor in Council appointed Carmine Stumpo to continue the Supervisor’s duties."
+    }
+  ],
+  "refusals": []
+}

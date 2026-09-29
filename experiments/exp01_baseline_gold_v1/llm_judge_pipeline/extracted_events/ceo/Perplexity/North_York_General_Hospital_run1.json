@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Karyn Popovich - President/CEO (outgoing)\",\n      \"person_name\": \"Karyn Popovich\",\n      \"role\": \"President/CEO\",\n      \"d",
+  "task": "ceo",
+  "model": "Perplexity",
+  "hospital": "North York General Hospital",
+  "run_number": 1
+}

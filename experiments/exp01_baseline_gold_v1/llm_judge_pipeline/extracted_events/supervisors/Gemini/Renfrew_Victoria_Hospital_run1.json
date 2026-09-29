@@ -1,0 +1,19 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Altaf Stationwala - Supervisor",
+      "person_name": "Altaf Stationwala",
+      "role": "Supervisor",
+      "appointment_date": "2024-07-08",
+      "termination_date": null,
+      "order_in_council": "Order in Council 886/2024",
+      "source": "Government of Ontario",
+      "link": null
+    }
+  ],
+  "task": "supervisors",
+  "model": "Gemini",
+  "hospital": "Renfrew Victoria Hospital",
+  "run_number": 1
+}

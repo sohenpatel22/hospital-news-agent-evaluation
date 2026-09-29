@@ -1,0 +1,16 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "PHIPA Decision 338: inadequate search for a child's personal health information (Complaint HA25-00348)",
+      "phipa_id": "PHIPA Decision 338",
+      "date": "2026-05-13",
+      "source": "Information and Privacy Commissioner of Ontario",
+      "link": "https://decisions.ipc.on.ca"
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 3
+}

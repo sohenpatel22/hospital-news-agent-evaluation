@@ -1,0 +1,30 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "AI-enabled Epic EHR implementation and information governance (generative AI for clinical documentation, discharge summaries, patient instructions; CIPO role identified)",
+      "phipa_id": null,
+      "date": "2026-06-30",
+      "source": "Canadian Healthcare Technology",
+      "link": "https://canhealth.com"
+    },
+    {
+      "name_or_issue": "Consolidated patient record, secure MyChart portal access, and responsible AI safeguards (single digital patient record, role-based disclosure, portal authentication, AI governance)",
+      "phipa_id": null,
+      "date": "2026-06-15",
+      "source": "William Osler Health System",
+      "link": "https://williamoslerhs.ca"
+    },
+    {
+      "name_or_issue": "Privacy, security, ethics, and human oversight for AI using clinical information in Epic HIS (clinician-led implementation with explicit privacy/security/ethical AI governance focus)",
+      "phipa_id": null,
+      "date": "2026-04-22",
+      "source": "Hospital News",
+      "link": "https://hospitalnews.com"
+    }
+  ],
+  "task": "phipa",
+  "model": "MS Copilot Agent",
+  "hospital": "William Osler Health System",
+  "run_number": 2
+}

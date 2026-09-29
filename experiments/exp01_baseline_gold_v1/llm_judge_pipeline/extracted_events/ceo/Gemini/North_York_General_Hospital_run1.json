@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Bert Clark - Board Chair (outgoing)\",\n      \"person_name\": \"Bert Clark\",\n      \"role\": \"Board Chair\",\n      \"direction\": \"",
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "North York General Hospital",
+  "run_number": 1
+}

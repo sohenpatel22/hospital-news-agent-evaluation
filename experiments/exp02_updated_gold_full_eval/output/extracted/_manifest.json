@@ -1,0 +1,731 @@
+[
+  {
+    "system": "ChatGPT",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\ChatGPT\\Arnprior Regional Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__ChatGPT__Arnprior_Regional_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__ChatGPT__Arnprior_Regional_Health__run1.json"
+  },
+  {
+    "system": "ChatGPT",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\ChatGPT\\Mackenzie Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__ChatGPT__Mackenzie_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__ChatGPT__Mackenzie_Health__run1.json"
+  },
+  {
+    "system": "ChatGPT",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\ChatGPT\\North York General Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__ChatGPT__North_York_General_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__ChatGPT__North_York_General_Hospital__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Claude\\Arnprior Regional Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Claude__Arnprior_Regional_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Claude__Arnprior_Regional_Health__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Claude\\Mackenzie Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Claude__Mackenzie_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Claude__Mackenzie_Health__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Claude\\North York General Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Claude__North_York_General_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Claude__North_York_General_Hospital__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Gemini\\Arnprior Regional Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Gemini__Arnprior_Regional_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Gemini__Arnprior_Regional_Health__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Gemini\\Mackenzie Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Gemini__Mackenzie_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Gemini__Mackenzie_Health__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Gemini\\North York General Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Gemini__North_York_General_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Gemini__North_York_General_Hospital__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Arnprior Regional Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Arnprior Regional Health\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run2.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Arnprior Regional Health\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run3.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Arnprior Regional Health\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run4.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Arnprior Regional Health\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run5.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run5.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Mackenzie Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Mackenzie_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Mackenzie_Health__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Mackenzie Health\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Mackenzie_Health__run2.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Mackenzie_Health__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Mackenzie Health\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Mackenzie_Health__run3.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Mackenzie_Health__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Mackenzie Health\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Mackenzie_Health__run4.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Mackenzie_Health__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\Mackenzie Health\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__Mackenzie_Health__run5.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__Mackenzie_Health__run5.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\North York General Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\North York General Hospital\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run2.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\North York General Hospital\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run3.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\North York General Hospital\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run4.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\MS Copilot Agent\\North York General Hospital\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run5.txt",
+    "expected_output_json": "output\\extracted\\ceo__MS_Copilot_Agent__North_York_General_Hospital__run5.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "ceo",
+    "hospital": "Arnprior Regional Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Perplexity\\Arnprior Regional Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Perplexity__Arnprior_Regional_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Perplexity__Arnprior_Regional_Health__run1.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "ceo",
+    "hospital": "Mackenzie Health",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Perplexity\\Mackenzie Health\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Perplexity__Mackenzie_Health__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Perplexity__Mackenzie_Health__run1.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "ceo",
+    "hospital": "North York General Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\CEOs\\Perplexity\\North York General Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\ceo__Perplexity__North_York_General_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\ceo__Perplexity__North_York_General_Hospital__run1.json"
+  },
+  {
+    "system": "ChatGPT",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\ChatGPT\\Baycrest Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__ChatGPT__Baycrest_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__ChatGPT__Baycrest_Hospital__run1.json"
+  },
+  {
+    "system": "ChatGPT",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\ChatGPT\\Hamilton Health Sciences Corporation\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__ChatGPT__Hamilton_Health_Sciences_Corporation__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__ChatGPT__Hamilton_Health_Sciences_Corporation__run1.json"
+  },
+  {
+    "system": "ChatGPT",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\ChatGPT\\The Ottawa Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__ChatGPT__The_Ottawa_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__ChatGPT__The_Ottawa_Hospital__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Claude\\Baycrest Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Claude__Baycrest_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Claude__Baycrest_Hospital__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Claude\\Hamilton Health Sciences Corporation\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Claude__Hamilton_Health_Sciences_Corporation__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Claude__Hamilton_Health_Sciences_Corporation__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Claude\\The Ottawa Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Claude__The_Ottawa_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Claude__The_Ottawa_Hospital__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Gemini\\Baycrest Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Gemini__Baycrest_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Gemini__Baycrest_Hospital__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Gemini\\Hamilton Health Sciences Corporation\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Gemini__Hamilton_Health_Sciences_Corporation__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Gemini__Hamilton_Health_Sciences_Corporation__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Gemini\\The Ottawa Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Gemini__The_Ottawa_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Gemini__The_Ottawa_Hospital__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Baycrest Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Baycrest Hospital\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run2.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Baycrest Hospital\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run3.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Baycrest Hospital\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run4.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Baycrest Hospital\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run5.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Baycrest_Hospital__run5.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run2.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run3.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run4.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run5.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__Hamilton_Health_Sciences_Corporation__run5.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\The Ottawa Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\The Ottawa Hospital\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run2.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\The Ottawa Hospital\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run3.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\The Ottawa Hospital\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run4.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\The Ottawa Hospital\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run5.txt",
+    "expected_output_json": "output\\extracted\\phipa__MS_Copilot_Agent__The_Ottawa_Hospital__run5.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "phipa",
+    "hospital": "Baycrest Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Perplexity\\Baycrest Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Perplexity__Baycrest_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Perplexity__Baycrest_Hospital__run1.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "phipa",
+    "hospital": "Hamilton Health Sciences Corporation",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Perplexity\\Hamilton Health Sciences Corporation\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Perplexity__Hamilton_Health_Sciences_Corporation__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Perplexity__Hamilton_Health_Sciences_Corporation__run1.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "phipa",
+    "hospital": "The Ottawa Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\PHIPA\\Perplexity\\The Ottawa Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\phipa__Perplexity__The_Ottawa_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\phipa__Perplexity__The_Ottawa_Hospital__run1.json"
+  },
+  {
+    "system": "ChatGPT",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\ChatGPT\\London Health Sciences Centre\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__ChatGPT__London_Health_Sciences_Centre__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__ChatGPT__London_Health_Sciences_Centre__run1.json"
+  },
+  {
+    "system": "ChatGPT",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\ChatGPT\\Renfrew Victoria Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__ChatGPT__Renfrew_Victoria_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__ChatGPT__Renfrew_Victoria_Hospital__run1.json"
+  },
+  {
+    "system": "ChatGPT",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\ChatGPT\\Stevenson Memorial Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__ChatGPT__Stevenson_Memorial_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__ChatGPT__Stevenson_Memorial_Hospital__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Claude\\London Health Sciences Centre\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Claude__London_Health_Sciences_Centre__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Claude__London_Health_Sciences_Centre__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Claude\\Renfrew Victoria Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Claude__Renfrew_Victoria_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Claude__Renfrew_Victoria_Hospital__run1.json"
+  },
+  {
+    "system": "Claude",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Claude\\Stevenson Memorial Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Claude__Stevenson_Memorial_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Claude__Stevenson_Memorial_Hospital__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Gemini\\London Health Sciences Centre\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Gemini__London_Health_Sciences_Centre__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Gemini__London_Health_Sciences_Centre__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Gemini\\Renfrew Victoria Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Gemini__Renfrew_Victoria_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Gemini__Renfrew_Victoria_Hospital__run1.json"
+  },
+  {
+    "system": "Gemini",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Gemini\\Stevenson Memorial Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Gemini__Stevenson_Memorial_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Gemini__Stevenson_Memorial_Hospital__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\London Health Sciences Centre\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\London Health Sciences Centre\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run2.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\London Health Sciences Centre\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run3.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\London Health Sciences Centre\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run4.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\London Health Sciences Centre\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run5.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__London_Health_Sciences_Centre__run5.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Renfrew Victoria Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Renfrew Victoria Hospital\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run2.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Renfrew Victoria Hospital\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run3.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Renfrew Victoria Hospital\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run4.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Renfrew Victoria Hospital\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run5.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Renfrew_Victoria_Hospital__run5.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run1.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 2,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 2.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run2.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run2.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 3,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 3.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run3.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run3.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 4,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 4.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run4.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run4.json"
+  },
+  {
+    "system": "MS Copilot Agent",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 5,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 5.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run5.txt",
+    "expected_output_json": "output\\extracted\\supervisor__MS_Copilot_Agent__Stevenson_Memorial_Hospital__run5.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "supervisor",
+    "hospital": "London Health Sciences Centre",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Perplexity\\London Health Sciences Centre\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Perplexity__London_Health_Sciences_Centre__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Perplexity__London_Health_Sciences_Centre__run1.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "supervisor",
+    "hospital": "Renfrew Victoria Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Perplexity\\Renfrew Victoria Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Perplexity__Renfrew_Victoria_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Perplexity__Renfrew_Victoria_Hospital__run1.json"
+  },
+  {
+    "system": "Perplexity",
+    "task": "supervisor",
+    "hospital": "Stevenson Memorial Hospital",
+    "run_number": 1,
+    "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Perplexity\\Stevenson Memorial Hospital\\Run 1.docx",
+    "staged_text_file": "output\\extracted\\_staging\\supervisor__Perplexity__Stevenson_Memorial_Hospital__run1.txt",
+    "expected_output_json": "output\\extracted\\supervisor__Perplexity__Stevenson_Memorial_Hospital__run1.json"
+  }
+]

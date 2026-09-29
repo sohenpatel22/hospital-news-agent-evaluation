@@ -1,0 +1,14 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "P1",
+    "match_confidence": "medium",
+    "match_reason": "Explicit 'PHIPA Decision 340' reference matches gold P1."
+  },
+  {
+    "item_index": 1,
+    "matched_gold_item_id": "P2",
+    "match_confidence": "medium",
+    "match_reason": "Explicit 'Order PO-4820' reference matches gold P2."
+  }
+]

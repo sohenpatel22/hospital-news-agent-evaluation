@@ -1,0 +1,16 @@
+system,tier,recall,ci_low,ci_high,n_gold
+ChatGPT,A - dated announcement,0.30994152046783624,0.24561403508771928,0.38011695906432746,171
+Claude,A - dated announcement,0.2573099415204678,0.19298245614035087,0.32748538011695905,171
+Gemini,A - dated announcement,0.18128654970760233,0.1286549707602339,0.23976608187134502,171
+MS Copilot Agent,A - dated announcement,0.34502923976608185,0.2807017543859649,0.4152046783625731,171
+Perplexity,A - dated announcement,0.3216374269005848,0.25146198830409355,0.391812865497076,171
+ChatGPT,"B - directory confirmed, undated",0.06976744186046512,0.0,0.16279069767441862,43
+Claude,"B - directory confirmed, undated",0.0,0.0,0.0,43
+Gemini,"B - directory confirmed, undated",0.0,0.0,0.0,43
+MS Copilot Agent,"B - directory confirmed, undated",0.023255813953488372,0.0,0.06976744186046512,43
+Perplexity,"B - directory confirmed, undated",0.0,0.0,0.0,43
+ChatGPT,C - inferred / approximate date,0.2413793103448276,0.10344827586206896,0.41379310344827586,29
+Claude,C - inferred / approximate date,0.0,0.0,0.0,29
+Gemini,C - inferred / approximate date,0.0,0.0,0.0,29
+MS Copilot Agent,C - inferred / approximate date,0.10344827586206896,0.0,0.2413793103448276,29
+Perplexity,C - inferred / approximate date,0.034482758620689655,0.0,0.10344827586206896,29

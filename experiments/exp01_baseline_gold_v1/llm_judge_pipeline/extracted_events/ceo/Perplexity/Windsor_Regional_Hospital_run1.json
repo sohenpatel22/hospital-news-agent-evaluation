@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Ian McLeod - Board Chair (incoming)\",\n      \"person_name\": \"Ian McLeod\",\n      \"role\": \"Board Chair\",\n      \"direction\": \"",
+  "task": "ceo",
+  "model": "Perplexity",
+  "hospital": "Windsor Regional Hospital",
+  "run_number": 1
+}

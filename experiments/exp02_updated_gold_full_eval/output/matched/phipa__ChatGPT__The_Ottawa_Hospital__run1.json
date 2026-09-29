@@ -1,0 +1,14 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "P6",
+    "match_confidence": "medium",
+    "match_reason": "Explicit 'PHIPA Decision 326' reference matches gold P6 (Decision 326 - correction request) for this hospital."
+  },
+  {
+    "item_index": 1,
+    "matched_gold_item_id": "P1",
+    "match_confidence": "medium",
+    "match_reason": "Explicit 'PHIPA Decision 340' reference matches gold P1 (Decision 340 - EMR screenshot access dispute)."
+  }
+]

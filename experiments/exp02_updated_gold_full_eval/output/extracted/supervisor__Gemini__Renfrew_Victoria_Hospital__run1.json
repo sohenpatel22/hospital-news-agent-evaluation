@@ -1,0 +1,25 @@
+{
+  "system": "Gemini",
+  "task": "supervisor",
+  "hospital": "Renfrew Victoria Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Gemini\\Renfrew Victoria Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Gemini",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 1,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "hospital supervisor",
+      "direction": "incoming",
+      "date_raw": "June 26, 2024 (Effective July 8, 2024)",
+      "date_normalised": "2024-06-26",
+      "citation_url": null,
+      "citation_text": "Government of Ontario (Order in Council 886/2024)",
+      "verbatim_snippet": "Following a comprehensive review by Ontario Health and an independent third party that uncovered concerning financial and management practices, the Government of Ontario appointed Altaf Stationwala—President and CEO of Mackenzie Health—as hospital supervisor."
+    }
+  ],
+  "refusals": []
+}

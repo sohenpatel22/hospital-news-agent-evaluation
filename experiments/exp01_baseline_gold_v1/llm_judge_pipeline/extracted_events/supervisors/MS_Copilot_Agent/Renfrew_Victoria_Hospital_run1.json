@@ -1,0 +1,19 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Altaf Stationwala - Supervisor (s.9)",
+      "person_name": "Altaf Stationwala",
+      "role": "Supervisor",
+      "appointment_date": "2024-06-26",
+      "termination_date": "2025-06-20",
+      "order_in_council": "Order in Council 886/2024 (appointment); Order in Council 766/2025 (termination)",
+      "source": "Government of Ontario, Ministry of Health; corroborated by the supervisor's final report, CBC News, and Mackenzie Health",
+      "link": "https://www.ontario.ca"
+    }
+  ],
+  "task": "supervisors",
+  "model": "MS Copilot Agent",
+  "hospital": "Renfrew Victoria Hospital",
+  "run_number": 1
+}

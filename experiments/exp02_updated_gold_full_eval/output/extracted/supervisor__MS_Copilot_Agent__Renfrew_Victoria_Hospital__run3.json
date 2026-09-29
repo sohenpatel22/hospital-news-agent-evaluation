@@ -1,0 +1,40 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "supervisor",
+  "hospital": "Renfrew Victoria Hospital",
+  "run_number": 3,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Renfrew Victoria Hospital\\Run 3.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 3,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "hospital supervisor",
+      "direction": "incoming",
+      "date_raw": "June 26, 2024",
+      "date_normalised": "2024-06-26",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Order in Council 886/2024; corroborated by CBC News and the supervisor’s final report",
+      "verbatim_snippet": "The Lieutenant Governor in Council concluded that supervision was in the public interest and appointed Altaf Stationwala under subsection 9(1) of the Public Hospitals Act."
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Renfrew Victoria Hospital",
+      "run_number": 3,
+      "person_or_issue": "Altaf Stationwala",
+      "role": "hospital supervisor",
+      "direction": "outgoing",
+      "date_raw": "June 20, 2025 at 11:59:59 p.m.",
+      "date_normalised": "2025-06-20",
+      "citation_url": null,
+      "citation_text": "Order in Council 766/2025, termination of appointment",
+      "verbatim_snippet": "Order in Council 766/2025 terminated the appointment effective June 20, 2025 at 11:59:59 p.m."
+    }
+  ],
+  "refusals": []
+}

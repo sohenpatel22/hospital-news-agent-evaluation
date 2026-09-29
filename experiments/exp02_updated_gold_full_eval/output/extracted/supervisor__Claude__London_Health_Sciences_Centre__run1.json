@@ -1,0 +1,25 @@
+{
+  "system": "Claude",
+  "task": "supervisor",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Claude\\London Health Sciences Centre\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Claude",
+      "task": "supervisor",
+      "hospital": "London Health Sciences Centre",
+      "run_number": 1,
+      "person_or_issue": "David Musyj",
+      "role": "formal Supervisor of LHSC",
+      "direction": "incoming",
+      "date_raw": "September 25, 2024",
+      "date_normalised": "2024-09-25",
+      "citation_url": "https://www.cbc.ca/news/canada/london/hospital-board-resigns-as-province-appoints-supervisor-to-clean-up-financial-mess-1.7333496",
+      "citation_text": "CBC News",
+      "verbatim_snippet": "In September 2024, Ontario's Ministry of Health appointed David Musyj — then serving as LHSC's Acting/Interim President and CEO (a role he'd held since May 2024, seconded from Windsor Regional Hospital) — as formal Supervisor of LHSC under the Public Hospitals Act."
+    }
+  ],
+  "refusals": []
+}

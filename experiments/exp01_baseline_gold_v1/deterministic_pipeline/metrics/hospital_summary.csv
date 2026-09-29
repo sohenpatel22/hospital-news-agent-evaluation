@@ -1,0 +1,163 @@
+tool,task,prompt_version,run_number,hospital,gold_items,extracted_items,matched,unmatched_gold_missed,flagged_possible_hallucination,recall,precision,f1,date_field_accuracy
+ChatGPT,ceo,v0,1,Arnprior Regional Health,13,12,8,5,4,0.615,0.667,0.64,0.125
+ChatGPT,ceo,v0,1,Mackenzie Health,14,16,1,13,15,0.071,0.062,0.067,1.0
+ChatGPT,ceo,v0,1,North York General Hospital,19,15,0,19,15,0.0,0.0,,
+ChatGPT,ceo,v0,1,Red Lake Margaret Cochenour Memorial Hospital,23,16,13,10,3,0.565,0.812,0.667,0.0
+ChatGPT,ceo,v0,1,Sensenbrenner Hospital,0,6,0,0,6,,0.0,,
+ChatGPT,ceo,v0,1,Windsor Regional Hospital,11,16,7,4,9,0.636,0.438,0.519,0.429
+ChatGPT,phipa,v0,1,Anson General Hospital,0,1,0,0,1,,0.0,,
+ChatGPT,phipa,v0,1,Baycrest Health Sciences,0,1,0,0,1,,0.0,,
+ChatGPT,phipa,v0,1,Geraldton District Hospital,0,1,0,0,1,,0.0,,
+ChatGPT,phipa,v0,1,Hamilton Health Sciences,1,3,0,1,3,0.0,0.0,,
+ChatGPT,phipa,v0,1,The Ottawa Hospital,2,2,1,1,1,0.5,0.5,0.5,1.0
+ChatGPT,phipa,v0,1,William Osler Health System,0,1,0,0,1,,0.0,,
+ChatGPT,supervisors,v0,1,London Health Sciences Centre,1,1,1,0,0,1.0,1.0,1.0,1.0
+ChatGPT,supervisors,v0,1,Renfrew Victoria Hospital,1,1,0,1,1,0.0,0.0,,
+ChatGPT,supervisors,v0,1,Sante Manitouwadge Health,0,1,0,0,1,,0.0,,
+ChatGPT,supervisors,v0,1,Sault Area Hospital,0,1,0,0,1,,0.0,,
+ChatGPT,supervisors,v0,1,Sinai Health System,0,1,0,0,1,,0.0,,
+ChatGPT,supervisors,v0,1,Stevenson Memorial Hospital,2,2,2,0,0,1.0,1.0,1.0,1.0
+Claude,ceo,v0,1,Arnprior Regional Health,13,4,1,12,3,0.077,0.25,0.118,1.0
+Claude,ceo,v0,1,Mackenzie Health,14,1,1,13,0,0.071,1.0,0.133,0.0
+Claude,ceo,v0,1,North York General Hospital,19,18,4,15,14,0.211,0.222,0.216,0.0
+Claude,ceo,v0,1,Red Lake Margaret Cochenour Memorial Hospital,23,7,4,19,3,0.174,0.571,0.267,0.0
+Claude,ceo,v0,1,Sensenbrenner Hospital,0,4,0,0,4,,0.0,,
+Claude,ceo,v0,1,Windsor Regional Hospital,11,11,6,5,5,0.545,0.545,0.545,0.167
+Claude,phipa,v0,1,Anson General Hospital,0,1,0,0,1,,0.0,,
+Claude,phipa,v0,1,Baycrest Health Sciences,0,1,0,0,1,,0.0,,
+Claude,phipa,v0,1,Geraldton District Hospital,0,1,0,0,1,,0.0,,
+Claude,phipa,v0,1,Hamilton Health Sciences,1,0,0,1,0,0.0,,,
+Claude,phipa,v0,1,The Ottawa Hospital,2,1,0,2,1,0.0,0.0,,
+Claude,phipa,v0,1,William Osler Health System,0,1,0,0,1,,0.0,,
+Claude,supervisors,v0,1,London Health Sciences Centre,1,1,1,0,0,1.0,1.0,1.0,1.0
+Claude,supervisors,v0,1,Renfrew Victoria Hospital,1,1,1,0,0,1.0,1.0,1.0,1.0
+Claude,supervisors,v0,1,Sante Manitouwadge Health,0,1,0,0,1,,0.0,,
+Claude,supervisors,v0,1,Sault Area Hospital,0,1,0,0,1,,0.0,,
+Claude,supervisors,v0,1,Sinai Health System,0,1,0,0,1,,0.0,,
+Claude,supervisors,v0,1,Stevenson Memorial Hospital,2,4,1,1,3,0.5,0.25,0.333,0.0
+Gemini,ceo,v0,1,Arnprior Regional Health,13,1,1,12,0,0.077,1.0,0.143,0.0
+Gemini,ceo,v0,1,Mackenzie Health,14,4,4,10,0,0.286,1.0,0.444,0.75
+Gemini,ceo,v0,1,North York General Hospital,19,9,4,15,5,0.211,0.444,0.286,0.75
+Gemini,ceo,v0,1,Red Lake Margaret Cochenour Memorial Hospital,23,1,0,23,1,0.0,0.0,,
+Gemini,ceo,v0,1,Sensenbrenner Hospital,0,1,0,0,1,,0.0,,
+Gemini,ceo,v0,1,Windsor Regional Hospital,11,4,2,9,2,0.182,0.5,0.267,0.5
+Gemini,phipa,v0,1,Anson General Hospital,0,1,0,0,1,,0.0,,
+Gemini,phipa,v0,1,Baycrest Health Sciences,0,1,0,0,1,,0.0,,
+Gemini,phipa,v0,1,Geraldton District Hospital,0,1,0,0,1,,0.0,,
+Gemini,phipa,v0,1,Hamilton Health Sciences,1,1,0,1,1,0.0,0.0,,
+Gemini,phipa,v0,1,The Ottawa Hospital,2,1,0,2,1,0.0,0.0,,
+Gemini,phipa,v0,1,William Osler Health System,0,1,0,0,1,,0.0,,
+Gemini,supervisors,v0,1,London Health Sciences Centre,1,1,1,0,0,1.0,1.0,1.0,1.0
+Gemini,supervisors,v0,1,Renfrew Victoria Hospital,1,1,1,0,0,1.0,1.0,1.0,1.0
+Gemini,supervisors,v0,1,Sante Manitouwadge Health,0,1,0,0,1,,0.0,,
+Gemini,supervisors,v0,1,Sault Area Hospital,0,2,0,0,2,,0.0,,
+Gemini,supervisors,v0,1,Sinai Health System,0,1,0,0,1,,0.0,,
+Gemini,supervisors,v0,1,Stevenson Memorial Hospital,2,2,2,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,ceo,v0,1,Arnprior Regional Health,13,12,3,10,9,0.231,0.25,0.24,0.667
+MS Copilot Agent,ceo,v0,1,Mackenzie Health,14,14,8,6,6,0.571,0.571,0.571,0.375
+MS Copilot Agent,ceo,v0,1,North York General Hospital,19,13,3,16,10,0.158,0.231,0.187,0.667
+MS Copilot Agent,ceo,v0,1,Red Lake Margaret Cochenour Memorial Hospital,23,18,12,11,6,0.522,0.667,0.585,0.083
+MS Copilot Agent,ceo,v0,1,Sensenbrenner Hospital,0,4,0,0,4,,0.0,,
+MS Copilot Agent,ceo,v0,1,Windsor Regional Hospital,11,15,6,5,9,0.545,0.4,0.462,0.333
+MS Copilot Agent,ceo,v0,2,Arnprior Regional Health,13,14,5,8,9,0.385,0.357,0.37,0.4
+MS Copilot Agent,ceo,v0,2,Mackenzie Health,14,14,6,8,8,0.429,0.429,0.429,0.5
+MS Copilot Agent,ceo,v0,2,North York General Hospital,19,14,5,14,9,0.263,0.357,0.303,0.4
+MS Copilot Agent,ceo,v0,2,Red Lake Margaret Cochenour Memorial Hospital,23,6,5,18,1,0.217,0.833,0.345,0.0
+MS Copilot Agent,ceo,v0,2,Sensenbrenner Hospital,0,6,0,0,6,,0.0,,
+MS Copilot Agent,ceo,v0,2,Windsor Regional Hospital,11,13,7,4,6,0.636,0.538,0.583,0.143
+MS Copilot Agent,ceo,v0,3,Arnprior Regional Health,13,13,5,8,8,0.385,0.385,0.385,0.4
+MS Copilot Agent,ceo,v0,3,Mackenzie Health,14,21,7,7,14,0.5,0.333,0.4,0.857
+MS Copilot Agent,ceo,v0,3,North York General Hospital,19,13,5,14,8,0.263,0.385,0.312,0.6
+MS Copilot Agent,ceo,v0,3,Red Lake Margaret Cochenour Memorial Hospital,23,15,12,11,3,0.522,0.8,0.632,0.0
+MS Copilot Agent,ceo,v0,3,Sensenbrenner Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,ceo,v0,3,Windsor Regional Hospital,11,14,8,3,6,0.727,0.571,0.64,0.125
+MS Copilot Agent,ceo,v0,4,Arnprior Regional Health,13,14,8,5,6,0.615,0.571,0.593,0.375
+MS Copilot Agent,ceo,v0,4,Mackenzie Health,14,16,6,8,10,0.429,0.375,0.4,0.667
+MS Copilot Agent,ceo,v0,4,North York General Hospital,19,12,6,13,6,0.316,0.5,0.387,0.667
+MS Copilot Agent,ceo,v0,4,Red Lake Margaret Cochenour Memorial Hospital,23,15,14,9,1,0.609,0.933,0.737,0.0
+MS Copilot Agent,ceo,v0,4,Sensenbrenner Hospital,0,8,0,0,8,,0.0,,
+MS Copilot Agent,ceo,v0,4,Windsor Regional Hospital,11,13,6,5,7,0.545,0.462,0.5,0.167
+MS Copilot Agent,ceo,v0,5,Arnprior Regional Health,13,24,13,0,11,1.0,0.542,0.703,0.538
+MS Copilot Agent,ceo,v0,5,Mackenzie Health,14,11,4,10,7,0.286,0.364,0.32,1.0
+MS Copilot Agent,ceo,v0,5,North York General Hospital,19,16,8,11,8,0.421,0.5,0.457,0.5
+MS Copilot Agent,ceo,v0,5,Red Lake Margaret Cochenour Memorial Hospital,23,9,5,18,4,0.217,0.556,0.312,0.0
+MS Copilot Agent,ceo,v0,5,Sensenbrenner Hospital,0,7,0,0,7,,0.0,,
+MS Copilot Agent,ceo,v0,5,Windsor Regional Hospital,11,15,7,4,8,0.636,0.467,0.538,0.286
+MS Copilot Agent,phipa,v0,1,Anson General Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,1,Baycrest Health Sciences,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,1,Geraldton District Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,1,Hamilton Health Sciences,1,1,1,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,phipa,v0,1,The Ottawa Hospital,2,1,0,2,1,0.0,0.0,,
+MS Copilot Agent,phipa,v0,1,William Osler Health System,0,3,0,0,3,,0.0,,
+MS Copilot Agent,phipa,v0,2,Anson General Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,2,Baycrest Health Sciences,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,2,Geraldton District Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,2,Hamilton Health Sciences,1,1,0,1,1,0.0,0.0,,
+MS Copilot Agent,phipa,v0,2,The Ottawa Hospital,2,1,1,1,0,0.5,1.0,0.667,1.0
+MS Copilot Agent,phipa,v0,2,William Osler Health System,0,2,0,0,2,,0.0,,
+MS Copilot Agent,phipa,v0,3,Anson General Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,3,Baycrest Health Sciences,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,3,Geraldton District Hospital,0,4,0,0,4,,0.0,,
+MS Copilot Agent,phipa,v0,3,Hamilton Health Sciences,1,1,1,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,phipa,v0,3,The Ottawa Hospital,2,2,1,1,1,0.5,0.5,0.5,1.0
+MS Copilot Agent,phipa,v0,3,William Osler Health System,0,4,0,0,4,,0.0,,
+MS Copilot Agent,phipa,v0,4,Anson General Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,4,Baycrest Health Sciences,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,4,Geraldton District Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,4,Hamilton Health Sciences,1,1,0,1,1,0.0,0.0,,
+MS Copilot Agent,phipa,v0,4,The Ottawa Hospital,2,3,0,2,3,0.0,0.0,,
+MS Copilot Agent,phipa,v0,4,William Osler Health System,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,5,Anson General Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,5,Baycrest Health Sciences,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,5,Geraldton District Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,phipa,v0,5,Hamilton Health Sciences,1,1,1,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,phipa,v0,5,The Ottawa Hospital,2,2,1,1,1,0.5,0.5,0.5,1.0
+MS Copilot Agent,phipa,v0,5,William Osler Health System,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,1,London Health Sciences Centre,1,1,1,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,supervisors,v0,1,Renfrew Victoria Hospital,1,3,1,0,2,1.0,0.333,0.5,0.0
+MS Copilot Agent,supervisors,v0,1,Sante Manitouwadge Health,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,1,Sault Area Hospital,0,3,0,0,3,,0.0,,
+MS Copilot Agent,supervisors,v0,1,Sinai Health System,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,1,Stevenson Memorial Hospital,2,2,2,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,supervisors,v0,2,London Health Sciences Centre,1,1,0,1,1,0.0,0.0,,
+MS Copilot Agent,supervisors,v0,2,Renfrew Victoria Hospital,1,1,0,1,1,0.0,0.0,,
+MS Copilot Agent,supervisors,v0,2,Sante Manitouwadge Health,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,2,Sault Area Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,2,Sinai Health System,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,2,Stevenson Memorial Hospital,2,5,0,2,5,0.0,0.0,,
+MS Copilot Agent,supervisors,v0,3,London Health Sciences Centre,1,1,1,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,supervisors,v0,3,Renfrew Victoria Hospital,1,2,0,1,2,0.0,0.0,,
+MS Copilot Agent,supervisors,v0,3,Sante Manitouwadge Health,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,3,Sault Area Hospital,0,2,0,0,2,,0.0,,
+MS Copilot Agent,supervisors,v0,3,Sinai Health System,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,3,Stevenson Memorial Hospital,2,3,0,2,3,0.0,0.0,,
+MS Copilot Agent,supervisors,v0,4,London Health Sciences Centre,1,1,1,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,supervisors,v0,4,Renfrew Victoria Hospital,1,1,1,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,supervisors,v0,4,Sante Manitouwadge Health,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,4,Sault Area Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,4,Sinai Health System,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,4,Stevenson Memorial Hospital,2,3,0,2,3,0.0,0.0,,
+MS Copilot Agent,supervisors,v0,5,London Health Sciences Centre,1,1,1,0,0,1.0,1.0,1.0,1.0
+MS Copilot Agent,supervisors,v0,5,Renfrew Victoria Hospital,1,1,0,1,1,0.0,0.0,,
+MS Copilot Agent,supervisors,v0,5,Sante Manitouwadge Health,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,5,Sault Area Hospital,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,5,Sinai Health System,0,1,0,0,1,,0.0,,
+MS Copilot Agent,supervisors,v0,5,Stevenson Memorial Hospital,2,1,0,2,1,0.0,0.0,,
+Perplexity,ceo,v0,1,Arnprior Regional Health,13,8,6,7,2,0.462,0.75,0.571,0.667
+Perplexity,ceo,v0,1,Mackenzie Health,14,10,1,13,9,0.071,0.1,0.083,1.0
+Perplexity,ceo,v0,1,North York General Hospital,19,1,1,18,0,0.053,1.0,0.1,1.0
+Perplexity,ceo,v0,1,Red Lake Margaret Cochenour Memorial Hospital,23,4,3,20,1,0.13,0.75,0.222,0.0
+Perplexity,ceo,v0,1,Sensenbrenner Hospital,0,29,0,0,29,,0.0,,
+Perplexity,ceo,v0,1,Windsor Regional Hospital,11,9,4,7,5,0.364,0.444,0.4,0.0
+Perplexity,phipa,v0,1,Anson General Hospital,0,1,0,0,1,,0.0,,
+Perplexity,phipa,v0,1,Baycrest Health Sciences,0,2,0,0,2,,0.0,,
+Perplexity,phipa,v0,1,Geraldton District Hospital,0,2,0,0,2,,0.0,,
+Perplexity,phipa,v0,1,Hamilton Health Sciences,1,1,0,1,1,0.0,0.0,,
+Perplexity,phipa,v0,1,The Ottawa Hospital,2,0,0,2,0,0.0,,,
+Perplexity,phipa,v0,1,William Osler Health System,0,6,0,0,6,,0.0,,
+Perplexity,supervisors,v0,1,London Health Sciences Centre,1,1,0,1,1,0.0,0.0,,
+Perplexity,supervisors,v0,1,Renfrew Victoria Hospital,1,1,0,1,1,0.0,0.0,,
+Perplexity,supervisors,v0,1,Sante Manitouwadge Health,0,0,0,0,0,,,,
+Perplexity,supervisors,v0,1,Sault Area Hospital,0,1,0,0,1,,0.0,,
+Perplexity,supervisors,v0,1,Sinai Health System,0,1,0,0,1,,0.0,,
+Perplexity,supervisors,v0,1,Stevenson Memorial Hospital,2,2,0,2,2,0.0,0.0,,

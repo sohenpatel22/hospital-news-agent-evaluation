@@ -1,0 +1,55 @@
+{
+  "system": "ChatGPT",
+  "task": "supervisor",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\ChatGPT\\Stevenson Memorial Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "ChatGPT",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "September 26, 2024",
+      "date_normalised": "2024-09-26",
+      "citation_url": null,
+      "citation_text": "Ontario Order in Council 1271/2024",
+      "verbatim_snippet": "Following an Ontario Ministry of Health investigation into Stevenson Memorial Hospital’s governance, management and quality of care, the Lieutenant Governor in Council appointed Eric Hanna as Supervisor under s. 9(1) of the Public Hospitals Act."
+    },
+    {
+      "item_index": 1,
+      "system": "ChatGPT",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "outgoing",
+      "date_raw": "June 8, 2025",
+      "date_normalised": "2025-06-08",
+      "citation_url": null,
+      "citation_text": "Ontario Order in Council 767/2025",
+      "verbatim_snippet": "Eric Hanna: September 26, 2024 → June 8, 2025. His appointment was expressly made under s. 9(1) of the Public Hospitals Act and was subsequently revoked when he stepped down."
+    },
+    {
+      "item_index": 2,
+      "system": "ChatGPT",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Carmine Stumpo",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "June 9, 2025 (OIC approved June 5, 2025)",
+      "date_normalised": "2025-06-09",
+      "citation_url": null,
+      "citation_text": "Ontario Order in Council 767/2025",
+      "verbatim_snippet": "Ontario appointed Carmine Stumpo to succeed Eric Hanna as Supervisor."
+    }
+  ],
+  "refusals": []
+}

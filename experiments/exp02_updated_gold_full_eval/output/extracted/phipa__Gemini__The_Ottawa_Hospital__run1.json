@@ -1,0 +1,14 @@
+{
+  "system": "Gemini",
+  "task": "phipa",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\Gemini\\The Ottawa Hospital\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "The Ottawa Hospital",
+      "refusal_text": "Based on my current knowledge base and operating without live web search capabilities, there are no documented or publicly indexed PHIPA-related news updates, privacy breaches, or Information and Privacy Commissioner (IPC) orders specifically concerning The Ottawa Hospital between January 16, 2026, and July 16, 2026."
+    }
+  ]
+}

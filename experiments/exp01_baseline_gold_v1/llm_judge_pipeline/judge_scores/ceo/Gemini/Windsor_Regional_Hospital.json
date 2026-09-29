@@ -1,0 +1,26 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by listing leadership changes at Windsor Regional Hospital, covering CEO transitions with dates and sources.",
+  "groundedness": 2,
+  "groundedness_reason": "Most claims cite named sources (Global News, Windsor News Today, Boyden) but no URLs are provided and source links are null, leaving some verifiability gaps.",
+  "completeness": 0.55,
+  "completeness_reason": "The model covers 6 of the 11 gold standard items (Musyj secondment, Riddell acting/incoming, Musyj permanent departure, Riddell retirement, Kennedy incoming) but entirely misses all board member changes including Anthony Paniccia, Patricia France, Ian McLeod, and the three 2022 AGM board directors.",
+  "missed_items": [
+    "Anthony Paniccia - Board Chair",
+    "Patricia France - Board Chair (incoming)",
+    "Ian McLeod - Board Chair (incoming)",
+    "Dr. Laurie Freeman - Board Director (elected 2022 AGM)",
+    "David Malian - Board Director (elected 2022 AGM)",
+    "Linda Staudt - Board Director (elected 2022 AGM)"
+  ],
+  "answer_relevancy": 0.67,
+  "answer_relevancy_reason": "Two of the three generated questions align with the original intent (CEO changes, leadership transitions), but the response cannot answer a question about board member changes, which was a core part of the user's request.",
+  "generated_questions": [
+    "Who has served as President and CEO of Windsor Regional Hospital in recent years?",
+    "When did David Musyj leave Windsor Regional Hospital and who replaced him?",
+    "What board member changes occurred at Windsor Regional Hospital in the last 5 years?"
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "Windsor Regional Hospital"
+}

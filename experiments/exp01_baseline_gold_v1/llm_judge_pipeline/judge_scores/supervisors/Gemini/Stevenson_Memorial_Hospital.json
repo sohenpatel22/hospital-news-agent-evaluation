@@ -1,0 +1,19 @@
+{
+  "relevance": 2,
+  "relevance_reason": "The response directly addresses the user's intent by listing supervisors appointed to Stevenson Memorial Hospital, but also includes an Investigator (Janice Skot) which is not a supervisor appointment and falls outside the specific scope requested.",
+  "groundedness": 3,
+  "groundedness_reason": "All significant claims are supported by cited sources, with Eric Hanna and Carmine Stumpo's appointments referencing specific Orders in Council (1271/2024 and 767/2025) with dates, while Janice Skot's entry lacks an order reference but is attributed to the Government of Ontario.",
+  "completeness": 1.0,
+  "completeness_reason": "Both gold standard items (Eric Hanna and Carmine Stumpo as Supervisors) are fully covered in the model's response with additional detail such as appointment dates and order numbers.",
+  "missed_items": [],
+  "answer_relevancy": 0.67,
+  "answer_relevancy_reason": "Two of the three generated questions align closely with the original intent about supervisor appointments, but one question about the investigator appointment is outside the scope of the original request for interim supervisors.",
+  "generated_questions": [
+    "Who were the interim supervisors appointed by the Government of Ontario to Stevenson Memorial Hospital in the last 5 years?",
+    "What Orders in Council were used to appoint supervisors to Stevenson Memorial Hospital?",
+    "Who was appointed as investigator to Stevenson Memorial Hospital by the Government of Ontario?"
+  ],
+  "task": "supervisors",
+  "model": "Gemini",
+  "hospital": "Stevenson Memorial Hospital"
+}

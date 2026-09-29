@@ -1,0 +1,6 @@
+system,recall,specificity_mean_0_3
+ChatGPT,0.3333333333333333,2.0
+Claude,0.0,
+Gemini,0.3333333333333333,2.0
+MS Copilot Agent,1.0,2.0
+Perplexity,0.0,

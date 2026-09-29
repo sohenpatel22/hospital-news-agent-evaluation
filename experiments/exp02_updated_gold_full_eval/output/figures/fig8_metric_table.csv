@@ -1,0 +1,16 @@
+System,Task,Recall,Precision,Hallucination,Specificity,Omission
+ChatGPT,ceo,0.26,1.00,0.00,2.73,1.00
+ChatGPT,phipa,0.33,0.33,0.50,2.00,1.00
+ChatGPT,supervisor,1.00,1.00,0.00,3.00,1.00
+Claude,ceo,0.18,1.00,0.00,2.79,0.10
+Claude,phipa,0.00,--,--,--,--
+Claude,supervisor,1.00,1.00,0.00,2.80,0.00
+Gemini,ceo,0.13,1.00,0.00,2.61,1.00
+Gemini,phipa,0.33,1.00,0.00,2.00,1.00
+Gemini,supervisor,1.00,1.00,0.00,2.80,1.00
+MS Copilot Agent,ceo,0.26,1.00,0.00,2.89,1.00
+MS Copilot Agent,phipa,1.00,1.00,0.00,2.00,1.00
+MS Copilot Agent,supervisor,1.00,1.00,0.00,3.00,1.00
+Perplexity,ceo,0.23,1.00,0.00,2.95,0.41
+Perplexity,phipa,0.00,--,--,--,--
+Perplexity,supervisor,1.00,1.00,0.00,2.50,0.50

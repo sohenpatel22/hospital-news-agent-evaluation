@@ -1,0 +1,54 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Sue LeBeau - President/CEO (outgoing)",
+      "person_name": "Sue LeBeau",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2023-04-04",
+      "source": "Red Lake Hospital newsroom; Your Sunset Country",
+      "link": null
+    },
+    {
+      "name_or_issue": "Sumeet Kumar - President/CEO (incoming)",
+      "person_name": "Sumeet Kumar",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2023-04-04",
+      "source": "Red Lake Hospital newsroom; Your Sunset Country",
+      "link": null
+    },
+    {
+      "name_or_issue": "Angela Bishop - Interim CEO (incoming)",
+      "person_name": "Angela Bishop",
+      "role": "Interim CEO",
+      "direction": "incoming",
+      "date": "2024-08-01",
+      "source": "Red Lake Margaret Cochenour Memorial Hospital",
+      "link": null
+    },
+    {
+      "name_or_issue": "Angela Bishop - Interim CEO (outgoing)",
+      "person_name": "Angela Bishop",
+      "role": "Interim CEO",
+      "direction": "outgoing",
+      "date": "2026-06-26",
+      "source": "NWOnewswatch",
+      "link": null
+    },
+    {
+      "name_or_issue": "Jennifer Lawrance - CEO (incoming)",
+      "person_name": "Jennifer Lawrance",
+      "role": "CEO",
+      "direction": "incoming",
+      "date": "2026-06-26",
+      "source": "NWOnewswatch",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "Perplexity",
+  "hospital": "Red Lake Margaret Cochenour Memorial Hospital",
+  "run_number": 1
+}

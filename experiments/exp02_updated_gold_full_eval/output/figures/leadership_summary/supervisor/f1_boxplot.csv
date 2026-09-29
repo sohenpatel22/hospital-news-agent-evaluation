@@ -1,0 +1,6 @@
+system,recall_point,precision_point,f1_point,f1_bootstrap_median,f1_ci_low,f1_ci_high
+ChatGPT,1.0,1.0,1.0,1.0,1.0,1.0
+Claude,1.0,1.0,1.0,1.0,1.0,1.0
+Gemini,1.0,1.0,1.0,1.0,1.0,1.0
+MS Copilot Agent,1.0,1.0,1.0,1.0,1.0,1.0
+Perplexity,1.0,1.0,1.0,1.0,1.0,1.0

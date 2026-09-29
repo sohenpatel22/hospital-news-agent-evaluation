@@ -1,0 +1,247 @@
+metric,system,task,subgroup,value,ci_low,ci_high,n
+recall_by_tier,ChatGPT,ceo,A - dated announcement,0.2631578947368421,0.19298245614035087,0.3333333333333333,171
+recall_by_tier,ChatGPT,ceo,"B - directory confirmed, undated",0.11627906976744186,0.023255813953488372,0.23255813953488372,43
+recall_by_tier,ChatGPT,ceo,C - inferred / approximate date,0.10344827586206896,0.0,0.20689655172413793,29
+recall_overall,ChatGPT,ceo,overall,0.21810699588477367,0.16872427983539096,0.2716049382716049,243
+recall_independent,ChatGPT,ceo,independent,0.1095890410958904,0.06164383561643835,0.1643835616438356,146
+recall_by_tier,Claude,ceo,A - dated announcement,0.19298245614035087,0.14035087719298245,0.2573099415204678,171
+recall_by_tier,Claude,ceo,"B - directory confirmed, undated",0.023255813953488372,0.0,0.06976744186046512,43
+recall_by_tier,Claude,ceo,C - inferred / approximate date,0.034482758620689655,0.0,0.10344827586206896,29
+recall_overall,Claude,ceo,overall,0.1440329218106996,0.10699588477366255,0.18930041152263374,243
+recall_independent,Claude,ceo,independent,0.04794520547945205,0.02054794520547945,0.08904109589041095,146
+recall_by_tier,Gemini,ceo,A - dated announcement,0.15789473684210525,0.09941520467836257,0.21637426900584794,171
+recall_by_tier,Gemini,ceo,"B - directory confirmed, undated",0.0,0.0,0.0,43
+recall_by_tier,Gemini,ceo,C - inferred / approximate date,0.0,0.0,0.0,29
+recall_overall,Gemini,ceo,overall,0.1111111111111111,0.07407407407407407,0.1522633744855967,243
+recall_independent,Gemini,ceo,independent,0.0136986301369863,0.0,0.03424657534246575,146
+recall_by_tier,MS Copilot Agent,ceo,A - dated announcement,0.3157894736842105,0.24561403508771928,0.391812865497076,171
+recall_by_tier,MS Copilot Agent,ceo,"B - directory confirmed, undated",0.046511627906976744,0.0,0.11627906976744186,43
+recall_by_tier,MS Copilot Agent,ceo,C - inferred / approximate date,0.0,0.0,0.0,29
+recall_overall,MS Copilot Agent,ceo,overall,0.23045267489711935,0.17695473251028807,0.2839506172839506,243
+recall_independent,MS Copilot Agent,ceo,independent,0.0958904109589041,0.0547945205479452,0.1506849315068493,146
+recall_by_tier,Perplexity,ceo,A - dated announcement,0.2807017543859649,0.21052631578947367,0.34502923976608185,171
+recall_by_tier,Perplexity,ceo,"B - directory confirmed, undated",0.023255813953488372,0.0,0.06976744186046512,43
+recall_by_tier,Perplexity,ceo,C - inferred / approximate date,0.0,0.0,0.0,29
+recall_overall,Perplexity,ceo,overall,0.20164609053497942,0.1522633744855967,0.25925925925925924,243
+recall_independent,Perplexity,ceo,independent,0.0958904109589041,0.0547945205479452,0.1506849315068493,146
+recall_overall,ChatGPT,phipa,overall,0.3333333333333333,0.0,1.0,3
+recall_independent,ChatGPT,phipa,independent,,,,0
+recall_overall,Claude,phipa,overall,0.0,0.0,0.0,3
+recall_independent,Claude,phipa,independent,,,,0
+recall_overall,Gemini,phipa,overall,0.3333333333333333,0.0,1.0,3
+recall_independent,Gemini,phipa,independent,,,,0
+recall_overall,MS Copilot Agent,phipa,overall,1.0,1.0,1.0,3
+recall_independent,MS Copilot Agent,phipa,independent,,,,0
+recall_overall,Perplexity,phipa,overall,0.0,0.0,0.0,3
+recall_independent,Perplexity,phipa,independent,,,,0
+recall_overall,ChatGPT,supervisor,overall,1.0,1.0,1.0,4
+recall_independent,ChatGPT,supervisor,independent,,,,0
+recall_overall,Claude,supervisor,overall,1.0,1.0,1.0,4
+recall_independent,Claude,supervisor,independent,,,,0
+recall_overall,Gemini,supervisor,overall,1.0,1.0,1.0,4
+recall_independent,Gemini,supervisor,independent,,,,0
+recall_overall,MS Copilot Agent,supervisor,overall,1.0,1.0,1.0,4
+recall_independent,MS Copilot Agent,supervisor,independent,,,,0
+recall_overall,Perplexity,supervisor,overall,1.0,1.0,1.0,4
+recall_independent,Perplexity,supervisor,independent,,,,0
+precision,ChatGPT,ceo,overall,1.0,1.0,1.0,67
+hallucination_rate,ChatGPT,ceo,overall,0.0,0.0,0.0,68
+precision,Claude,ceo,overall,1.0,1.0,1.0,48
+hallucination_rate,Claude,ceo,overall,0.0,0.0,0.0,49
+precision,Gemini,ceo,overall,1.0,1.0,1.0,31
+hallucination_rate,Gemini,ceo,overall,0.0,0.0,0.0,34
+precision,MS Copilot Agent,ceo,overall,1.0,1.0,1.0,64
+hallucination_rate,MS Copilot Agent,ceo,overall,0.0,0.0,0.0,66
+precision,Perplexity,ceo,overall,1.0,1.0,1.0,56
+hallucination_rate,Perplexity,ceo,overall,0.0,0.0,0.0,59
+precision,ChatGPT,phipa,overall,0.3333333333333333,0.0,1.0,3
+hallucination_rate,ChatGPT,phipa,overall,0.5,0.0,1.0,4
+precision,Claude,phipa,overall,,,,0
+hallucination_rate,Claude,phipa,overall,,,,0
+precision,Gemini,phipa,overall,1.0,1.0,1.0,1
+hallucination_rate,Gemini,phipa,overall,0.0,0.0,0.0,1
+precision,MS Copilot Agent,phipa,overall,1.0,1.0,1.0,3
+hallucination_rate,MS Copilot Agent,phipa,overall,0.0,0.0,0.0,3
+precision,Perplexity,phipa,overall,,,,0
+hallucination_rate,Perplexity,phipa,overall,,,,0
+precision,ChatGPT,supervisor,overall,1.0,1.0,1.0,6
+hallucination_rate,ChatGPT,supervisor,overall,0.0,0.0,0.0,6
+precision,Claude,supervisor,overall,1.0,1.0,1.0,5
+hallucination_rate,Claude,supervisor,overall,0.0,0.0,0.0,6
+precision,Gemini,supervisor,overall,1.0,1.0,1.0,5
+hallucination_rate,Gemini,supervisor,overall,0.0,0.0,0.0,5
+precision,MS Copilot Agent,supervisor,overall,1.0,1.0,1.0,6
+hallucination_rate,MS Copilot Agent,supervisor,overall,0.0,0.0,0.0,6
+precision,Perplexity,supervisor,overall,1.0,1.0,1.0,4
+hallucination_rate,Perplexity,supervisor,overall,0.0,0.0,0.0,4
+field_accuracy_role,ChatGPT,ceo,role,0.4626865671641791,,,67
+field_accuracy_date,ChatGPT,ceo,date,0.4262295081967213,,,61
+field_accuracy_direction,ChatGPT,ceo,direction,0.8,,,45
+specificity_mean,ChatGPT,ceo,overall,2.7313432835820897,,,67
+specificity_pct3,ChatGPT,ceo,overall,0.7313432835820896,,,67
+omission_rate,ChatGPT,ceo,overall,1.0,,,67
+field_accuracy_role,Claude,ceo,role,0.375,,,48
+field_accuracy_date,Claude,ceo,date,0.574468085106383,,,47
+field_accuracy_direction,Claude,ceo,direction,0.7428571428571429,,,35
+specificity_mean,Claude,ceo,overall,2.7916666666666665,,,48
+specificity_pct3,Claude,ceo,overall,0.8125,,,48
+omission_rate,Claude,ceo,overall,0.10416666666666667,,,48
+field_accuracy_role,Gemini,ceo,role,0.16129032258064516,,,31
+field_accuracy_date,Gemini,ceo,date,0.3870967741935484,,,31
+field_accuracy_direction,Gemini,ceo,direction,0.7857142857142857,,,28
+specificity_mean,Gemini,ceo,overall,2.6129032258064515,,,31
+specificity_pct3,Gemini,ceo,overall,0.7419354838709677,,,31
+omission_rate,Gemini,ceo,overall,1.0,,,31
+field_accuracy_role,MS Copilot Agent,ceo,role,0.390625,,,64
+field_accuracy_date,MS Copilot Agent,ceo,date,0.5161290322580645,,,62
+field_accuracy_direction,MS Copilot Agent,ceo,direction,0.82,,,50
+specificity_mean,MS Copilot Agent,ceo,overall,2.890625,,,64
+specificity_pct3,MS Copilot Agent,ceo,overall,0.9375,,,64
+omission_rate,MS Copilot Agent,ceo,overall,1.0,,,64
+field_accuracy_role,Perplexity,ceo,role,0.19642857142857142,,,56
+field_accuracy_date,Perplexity,ceo,date,0.41818181818181815,,,55
+field_accuracy_direction,Perplexity,ceo,direction,0.7872340425531915,,,47
+specificity_mean,Perplexity,ceo,overall,2.9464285714285716,,,56
+specificity_pct3,Perplexity,ceo,overall,0.9642857142857143,,,56
+omission_rate,Perplexity,ceo,overall,0.4107142857142857,,,56
+field_accuracy_role,ChatGPT,phipa,role,0.0,,,1
+field_accuracy_date,ChatGPT,phipa,date,1.0,,,1
+field_accuracy_direction,ChatGPT,phipa,direction,,,,0
+specificity_mean,ChatGPT,phipa,overall,2.0,,,1
+specificity_pct3,ChatGPT,phipa,overall,0.0,,,1
+omission_rate,ChatGPT,phipa,overall,1.0,,,1
+field_accuracy_role,Claude,phipa,role,,,,0
+field_accuracy_date,Claude,phipa,date,,,,0
+field_accuracy_direction,Claude,phipa,direction,,,,0
+specificity_mean,Claude,phipa,overall,,,,0
+specificity_pct3,Claude,phipa,overall,,,,0
+omission_rate,Claude,phipa,overall,,,,0
+field_accuracy_role,Gemini,phipa,role,0.0,,,1
+field_accuracy_date,Gemini,phipa,date,1.0,,,1
+field_accuracy_direction,Gemini,phipa,direction,,,,0
+specificity_mean,Gemini,phipa,overall,2.0,,,1
+specificity_pct3,Gemini,phipa,overall,0.0,,,1
+omission_rate,Gemini,phipa,overall,1.0,,,1
+field_accuracy_role,MS Copilot Agent,phipa,role,0.0,,,3
+field_accuracy_date,MS Copilot Agent,phipa,date,1.0,,,3
+field_accuracy_direction,MS Copilot Agent,phipa,direction,,,,0
+specificity_mean,MS Copilot Agent,phipa,overall,2.0,,,3
+specificity_pct3,MS Copilot Agent,phipa,overall,0.0,,,3
+omission_rate,MS Copilot Agent,phipa,overall,1.0,,,3
+field_accuracy_role,Perplexity,phipa,role,,,,0
+field_accuracy_date,Perplexity,phipa,date,,,,0
+field_accuracy_direction,Perplexity,phipa,direction,,,,0
+specificity_mean,Perplexity,phipa,overall,,,,0
+specificity_pct3,Perplexity,phipa,overall,,,,0
+omission_rate,Perplexity,phipa,overall,,,,0
+field_accuracy_role,ChatGPT,supervisor,role,0.5,,,6
+field_accuracy_date,ChatGPT,supervisor,date,0.5,,,6
+field_accuracy_direction,ChatGPT,supervisor,direction,,,,0
+specificity_mean,ChatGPT,supervisor,overall,3.0,,,6
+specificity_pct3,ChatGPT,supervisor,overall,1.0,,,6
+omission_rate,ChatGPT,supervisor,overall,1.0,,,6
+field_accuracy_role,Claude,supervisor,role,0.4,,,5
+field_accuracy_date,Claude,supervisor,date,0.2,,,5
+field_accuracy_direction,Claude,supervisor,direction,,,,0
+specificity_mean,Claude,supervisor,overall,2.8,,,5
+specificity_pct3,Claude,supervisor,overall,0.8,,,5
+omission_rate,Claude,supervisor,overall,0.0,,,5
+field_accuracy_role,Gemini,supervisor,role,0.6,,,5
+field_accuracy_date,Gemini,supervisor,date,0.4,,,5
+field_accuracy_direction,Gemini,supervisor,direction,,,,0
+specificity_mean,Gemini,supervisor,overall,2.8,,,5
+specificity_pct3,Gemini,supervisor,overall,0.8,,,5
+omission_rate,Gemini,supervisor,overall,1.0,,,5
+field_accuracy_role,MS Copilot Agent,supervisor,role,1.0,,,6
+field_accuracy_date,MS Copilot Agent,supervisor,date,0.5,,,6
+field_accuracy_direction,MS Copilot Agent,supervisor,direction,,,,0
+specificity_mean,MS Copilot Agent,supervisor,overall,3.0,,,6
+specificity_pct3,MS Copilot Agent,supervisor,overall,1.0,,,6
+omission_rate,MS Copilot Agent,supervisor,overall,1.0,,,6
+field_accuracy_role,Perplexity,supervisor,role,0.75,,,4
+field_accuracy_date,Perplexity,supervisor,date,0.75,,,4
+field_accuracy_direction,Perplexity,supervisor,direction,,,,0
+specificity_mean,Perplexity,supervisor,overall,2.5,,,4
+specificity_pct3,Perplexity,supervisor,overall,0.5,,,4
+omission_rate,Perplexity,supervisor,overall,0.5,,,4
+error_taxonomy_fabricated_person_or_event,ChatGPT,ceo,fabricated_person_or_event,0,,,68
+error_taxonomy_wrong_role,ChatGPT,ceo,wrong_role,36,,,68
+error_taxonomy_wrong_date,ChatGPT,ceo,wrong_date,35,,,68
+error_taxonomy_organisational_confusion,ChatGPT,ceo,organisational_confusion,0,,,68
+error_taxonomy_stale,ChatGPT,ceo,stale,0,,,68
+error_taxonomy_fabricated_person_or_event,Claude,ceo,fabricated_person_or_event,0,,,49
+error_taxonomy_wrong_role,Claude,ceo,wrong_role,30,,,49
+error_taxonomy_wrong_date,Claude,ceo,wrong_date,20,,,49
+error_taxonomy_organisational_confusion,Claude,ceo,organisational_confusion,0,,,49
+error_taxonomy_stale,Claude,ceo,stale,0,,,49
+error_taxonomy_fabricated_person_or_event,Gemini,ceo,fabricated_person_or_event,0,,,34
+error_taxonomy_wrong_role,Gemini,ceo,wrong_role,26,,,34
+error_taxonomy_wrong_date,Gemini,ceo,wrong_date,19,,,34
+error_taxonomy_organisational_confusion,Gemini,ceo,organisational_confusion,0,,,34
+error_taxonomy_stale,Gemini,ceo,stale,0,,,34
+error_taxonomy_fabricated_person_or_event,MS Copilot Agent,ceo,fabricated_person_or_event,0,,,66
+error_taxonomy_wrong_role,MS Copilot Agent,ceo,wrong_role,39,,,66
+error_taxonomy_wrong_date,MS Copilot Agent,ceo,wrong_date,30,,,66
+error_taxonomy_organisational_confusion,MS Copilot Agent,ceo,organisational_confusion,0,,,66
+error_taxonomy_stale,MS Copilot Agent,ceo,stale,0,,,66
+error_taxonomy_fabricated_person_or_event,Perplexity,ceo,fabricated_person_or_event,0,,,59
+error_taxonomy_wrong_role,Perplexity,ceo,wrong_role,45,,,59
+error_taxonomy_wrong_date,Perplexity,ceo,wrong_date,32,,,59
+error_taxonomy_organisational_confusion,Perplexity,ceo,organisational_confusion,0,,,59
+error_taxonomy_stale,Perplexity,ceo,stale,0,,,59
+error_taxonomy_fabricated_person_or_event,ChatGPT,phipa,fabricated_person_or_event,2,,,4
+error_taxonomy_wrong_role,ChatGPT,phipa,wrong_role,1,,,4
+error_taxonomy_wrong_date,ChatGPT,phipa,wrong_date,0,,,4
+error_taxonomy_organisational_confusion,ChatGPT,phipa,organisational_confusion,0,,,4
+error_taxonomy_stale,ChatGPT,phipa,stale,0,,,4
+error_taxonomy_fabricated_person_or_event,Claude,phipa,fabricated_person_or_event,0,,,0
+error_taxonomy_wrong_role,Claude,phipa,wrong_role,0,,,0
+error_taxonomy_wrong_date,Claude,phipa,wrong_date,0,,,0
+error_taxonomy_organisational_confusion,Claude,phipa,organisational_confusion,0,,,0
+error_taxonomy_stale,Claude,phipa,stale,0,,,0
+error_taxonomy_fabricated_person_or_event,Gemini,phipa,fabricated_person_or_event,0,,,1
+error_taxonomy_wrong_role,Gemini,phipa,wrong_role,1,,,1
+error_taxonomy_wrong_date,Gemini,phipa,wrong_date,0,,,1
+error_taxonomy_organisational_confusion,Gemini,phipa,organisational_confusion,0,,,1
+error_taxonomy_stale,Gemini,phipa,stale,0,,,1
+error_taxonomy_fabricated_person_or_event,MS Copilot Agent,phipa,fabricated_person_or_event,0,,,3
+error_taxonomy_wrong_role,MS Copilot Agent,phipa,wrong_role,3,,,3
+error_taxonomy_wrong_date,MS Copilot Agent,phipa,wrong_date,0,,,3
+error_taxonomy_organisational_confusion,MS Copilot Agent,phipa,organisational_confusion,0,,,3
+error_taxonomy_stale,MS Copilot Agent,phipa,stale,0,,,3
+error_taxonomy_fabricated_person_or_event,Perplexity,phipa,fabricated_person_or_event,0,,,0
+error_taxonomy_wrong_role,Perplexity,phipa,wrong_role,0,,,0
+error_taxonomy_wrong_date,Perplexity,phipa,wrong_date,0,,,0
+error_taxonomy_organisational_confusion,Perplexity,phipa,organisational_confusion,0,,,0
+error_taxonomy_stale,Perplexity,phipa,stale,0,,,0
+error_taxonomy_fabricated_person_or_event,ChatGPT,supervisor,fabricated_person_or_event,0,,,6
+error_taxonomy_wrong_role,ChatGPT,supervisor,wrong_role,3,,,6
+error_taxonomy_wrong_date,ChatGPT,supervisor,wrong_date,3,,,6
+error_taxonomy_organisational_confusion,ChatGPT,supervisor,organisational_confusion,0,,,6
+error_taxonomy_stale,ChatGPT,supervisor,stale,0,,,6
+error_taxonomy_fabricated_person_or_event,Claude,supervisor,fabricated_person_or_event,0,,,6
+error_taxonomy_wrong_role,Claude,supervisor,wrong_role,3,,,6
+error_taxonomy_wrong_date,Claude,supervisor,wrong_date,4,,,6
+error_taxonomy_organisational_confusion,Claude,supervisor,organisational_confusion,0,,,6
+error_taxonomy_stale,Claude,supervisor,stale,0,,,6
+error_taxonomy_fabricated_person_or_event,Gemini,supervisor,fabricated_person_or_event,0,,,5
+error_taxonomy_wrong_role,Gemini,supervisor,wrong_role,2,,,5
+error_taxonomy_wrong_date,Gemini,supervisor,wrong_date,3,,,5
+error_taxonomy_organisational_confusion,Gemini,supervisor,organisational_confusion,0,,,5
+error_taxonomy_stale,Gemini,supervisor,stale,0,,,5
+error_taxonomy_fabricated_person_or_event,MS Copilot Agent,supervisor,fabricated_person_or_event,0,,,6
+error_taxonomy_wrong_role,MS Copilot Agent,supervisor,wrong_role,0,,,6
+error_taxonomy_wrong_date,MS Copilot Agent,supervisor,wrong_date,3,,,6
+error_taxonomy_organisational_confusion,MS Copilot Agent,supervisor,organisational_confusion,0,,,6
+error_taxonomy_stale,MS Copilot Agent,supervisor,stale,0,,,6
+error_taxonomy_fabricated_person_or_event,Perplexity,supervisor,fabricated_person_or_event,0,,,4
+error_taxonomy_wrong_role,Perplexity,supervisor,wrong_role,1,,,4
+error_taxonomy_wrong_date,Perplexity,supervisor,wrong_date,1,,,4
+error_taxonomy_organisational_confusion,Perplexity,supervisor,organisational_confusion,0,,,4
+error_taxonomy_stale,Perplexity,supervisor,stale,0,,,4
+consistency_mean_jaccard,MS Copilot Agent,ceo,SINGLE_SYSTEM_ONLY,0.6073094077052301,,,10
+consistency_stability,MS Copilot Agent,ceo,SINGLE_SYSTEM_ONLY,0.3333333333333333,,,96
+consistency_mean_jaccard,MS Copilot Agent,phipa,SINGLE_SYSTEM_ONLY,0.9,,,10
+consistency_stability,MS Copilot Agent,phipa,SINGLE_SYSTEM_ONLY,0.75,,,4
+consistency_mean_jaccard,MS Copilot Agent,supervisor,SINGLE_SYSTEM_ONLY,1.0,,,10
+consistency_stability,MS Copilot Agent,supervisor,SINGLE_SYSTEM_ONLY,1.0,,,4

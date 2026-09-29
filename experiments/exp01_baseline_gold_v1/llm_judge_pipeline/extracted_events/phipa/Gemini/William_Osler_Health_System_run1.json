@@ -1,0 +1,16 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Hospital Information System (HIS) Digital Transformation, Patient Record Management, and Privacy Governance",
+      "phipa_id": null,
+      "date": "2026-06-15",
+      "source": "William Osler Health System News",
+      "link": "Osler to launch new hospital information system in October 2026"
+    }
+  ],
+  "task": "phipa",
+  "model": "Gemini",
+  "hospital": "William Osler Health System",
+  "run_number": 1
+}

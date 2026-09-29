@@ -1,0 +1,55 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "supervisor",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\MS Copilot Agent\\Stevenson Memorial Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "September 26, 2024",
+      "date_normalised": "2024-09-26",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Order in Council 1271/2024",
+      "verbatim_snippet": "The Lieutenant Governor in Council subsequently appointed Eric Hanna under subsection 9(1) of the Public Hospitals Act."
+    },
+    {
+      "item_index": 1,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "Supervisor",
+      "direction": "outgoing",
+      "date_raw": "revoked at the end of June 8, 2025",
+      "date_normalised": "2025-06-08",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Order in Council 767/2025",
+      "verbatim_snippet": "Hanna’s appointment remained in effect until it was revoked at the end of June 8, 2025, when he stepped down."
+    },
+    {
+      "item_index": 2,
+      "system": "MS Copilot Agent",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Carmine Stumpo",
+      "role": "Supervisor",
+      "direction": "incoming",
+      "date_raw": "June 9, 2025 effective date; Order approved June 5, 2025",
+      "date_normalised": "2025-06-09",
+      "citation_url": null,
+      "citation_text": "Government of Ontario, Order in Council 767/2025",
+      "verbatim_snippet": "Order in Council 767/2025 revoked Hanna’s appointment effective at the end of June 8, 2025 and appointed Stumpo effective at the beginning of June 9, 2025, under subsection 9(1) of the Public Hospitals Act."
+    }
+  ],
+  "refusals": []
+}

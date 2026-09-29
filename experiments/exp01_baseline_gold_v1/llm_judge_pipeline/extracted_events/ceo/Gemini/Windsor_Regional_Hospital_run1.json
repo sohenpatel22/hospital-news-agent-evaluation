@@ -1,0 +1,63 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "David Musyj - President and CEO (outgoing/secondment)",
+      "person_name": "David Musyj",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2024-05-23",
+      "source": "Global News / Windsor News Today",
+      "link": null
+    },
+    {
+      "name_or_issue": "Karen Riddell - Acting President and CEO (incoming)",
+      "person_name": "Karen Riddell",
+      "role": "Acting President/CEO",
+      "direction": "incoming",
+      "date": "2024-05-23",
+      "source": "Global News / Windsor News Today",
+      "link": null
+    },
+    {
+      "name_or_issue": "David Musyj - President and CEO (permanent departure)",
+      "person_name": "David Musyj",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2024-09-25",
+      "source": "Windsor News Today",
+      "link": null
+    },
+    {
+      "name_or_issue": "Karen Riddell - President and CEO (permanent confirmation)",
+      "person_name": "Karen Riddell",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2024-09-25",
+      "source": "Windsor News Today",
+      "link": null
+    },
+    {
+      "name_or_issue": "Karen Riddell - President and CEO (outgoing/retirement announced)",
+      "person_name": "Karen Riddell",
+      "role": "President/CEO",
+      "direction": "outgoing",
+      "date": "2025-12-29",
+      "source": "Boyden / Windsor Regional Hospital News",
+      "link": null
+    },
+    {
+      "name_or_issue": "Kristin Kennedy - President and CEO (incoming)",
+      "person_name": "Kristin Kennedy",
+      "role": "President/CEO",
+      "direction": "incoming",
+      "date": "2025-12-29",
+      "source": "Boyden / Windsor Regional Hospital News",
+      "link": null
+    }
+  ],
+  "task": "ceo",
+  "model": "Gemini",
+  "hospital": "Windsor Regional Hospital",
+  "run_number": 1
+}

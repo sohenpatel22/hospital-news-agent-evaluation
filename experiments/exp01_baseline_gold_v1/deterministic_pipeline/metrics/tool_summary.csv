@@ -1,0 +1,16 @@
+tool,task,prompt_version,total_gold,total_extracted,total_matched,total_missed,total_flagged,recall,precision,f1,hallucination_rate
+ChatGPT,ceo,v0,80,81,29,51,52,0.362,0.358,0.36,0.642
+ChatGPT,phipa,v0,3,9,1,2,8,0.333,0.111,0.166,0.889
+ChatGPT,supervisors,v0,4,7,3,1,4,0.75,0.429,0.546,0.571
+Claude,ceo,v0,80,45,16,64,29,0.2,0.356,0.256,0.644
+Claude,phipa,v0,3,5,0,3,5,0.0,0.0,,1.0
+Claude,supervisors,v0,4,9,3,1,6,0.75,0.333,0.461,0.667
+Gemini,ceo,v0,80,20,11,69,9,0.138,0.55,0.221,0.45
+Gemini,phipa,v0,3,6,0,3,6,0.0,0.0,,1.0
+Gemini,supervisors,v0,4,8,4,0,4,1.0,0.5,0.667,0.5
+MS Copilot Agent,ceo,v0,400,380,174,226,206,0.435,0.458,0.446,0.542
+MS Copilot Agent,phipa,v0,15,43,6,9,37,0.4,0.14,0.207,0.86
+MS Copilot Agent,supervisors,v0,20,45,8,12,37,0.4,0.178,0.246,0.822
+Perplexity,ceo,v0,80,61,15,65,46,0.188,0.246,0.213,0.754
+Perplexity,phipa,v0,3,12,0,3,12,0.0,0.0,,1.0
+Perplexity,supervisors,v0,4,6,0,4,6,0.0,0.0,,1.0

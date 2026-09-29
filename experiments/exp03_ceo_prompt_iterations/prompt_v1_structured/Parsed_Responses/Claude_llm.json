@@ -1,0 +1,58 @@
+[
+    {
+        "Hospital": "Hospital",
+        "Issue": "Issue",
+        "Paragraph blurb": "Blurb",
+        "Date": "Date",
+        "Source": "Source",
+        "Source link": "Link"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "President & CEO \u2014 Outgoing (Jeremy Stevenson)",
+        "Paragraph blurb": "Jeremy Stevenson stepped down from his role as President and CEO on June 2, 2026, after leading the organization's strategic goals and the regional Epic EMR rollout.",
+        "Date": "June 2, 2026",
+        "Source": "ARH Public Statement",
+        "Source link": "https://www.arnpriorregionalhealth.ca/public-statement/ [CONFIRMED \u2014 dated primary source]"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "President & CEO \u2014 Incoming, Interim (Pierre Noel)",
+        "Paragraph blurb": "The ARH Board of Directors appointed Pierre Noel as Interim President and CEO, effective July 13, 2026; Noel previously served 16 years as President and CEO of Pembroke Regional Hospital and is tasked with providing stability during the ongoing recruitment of a permanent President and CEO.",
+        "Date": "Announced July 9, 2026; effective July 13, 2026",
+        "Source": "ARH News Release",
+        "Source link": "https://www.arnpriorregionalhealth.ca/arh-appoints-pierre-noel-as-interim-president-and-ceo/ [CONFIRMED \u2014 dated primary source]"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Board Director \u2014 New Appointment (Dr. Matthew Dick, MBA, PharmD, RPh)",
+        "Paragraph blurb": "A healthcare consultant and clinical pharmacist bio newly appears on ARH's board roster; his profile image was uploaded to the ARH website in July 2026, indicating a recent appointment coinciding with the hospital's AGM cycle.",
+        "Date": "On roster as of July 2026 (exact appointment date not published)",
+        "Source": "ARH Board of Directors page",
+        "Source link": "https://www.arnpriorregionalhealth.ca/about-us/ourboard/ [PROBABLE \u2014 roster/LinkedIn/recruitment firm only]"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Board Director \u2014 New Appointment (Katrina Roberts, CPA, CGA)",
+        "Paragraph blurb": "A Chartered Professional Accountant and former ARH Resource Planning and Audit Committee (RPAC) member newly appears on ARH's board roster; her profile image was uploaded in July 2026.",
+        "Date": "On roster as of July 2026 (exact appointment date not published)",
+        "Source": "ARH Board of Directors page",
+        "Source link": "https://www.arnpriorregionalhealth.ca/about-us/ourboard/ [PROBABLE \u2014 roster/LinkedIn/recruitment firm only]"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Board Director \u2014 New Appointment (Bill Stevens)",
+        "Paragraph blurb": "A retired technology professional and long-time local sports volunteer newly appears on ARH's board roster; his profile image was uploaded in July 2026.",
+        "Date": "On roster as of July 2026 (exact appointment date not published)",
+        "Source": "ARH Board of Directors page",
+        "Source link": "https://www.arnpriorregionalhealth.ca/about-us/ourboard/ [PROBABLE \u2014 roster/LinkedIn/recruitment firm only]"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Board Director \u2014 Departure(s), unconfirmed",
+        "Paragraph blurb": "Given the 3-year term ending June 2026 for directors elected/re-elected in June 2023 (Oliver Jacob, Colleen MacPhee, Borys Koba, Rick Holock \u2014 with Kenny elected separately), an AGM turnover implies at least one departure to accommodate three new joiners, but no departing director names were confirmable \u2014 Colleen MacPhee and Borys Koba (2023 electees) no longer appear on the current roster, suggesting their terms lapsed, but no dated confirmation of their exit was located.",
+        "Date": "Presumed June 2026 AGM (unconfirmed)",
+        "Source": "Cross-reference of June 22, 2023 minutes vs. current roster",
+        "Source link": "https://www.arnpriorregionalhealth.ca/wp-content/uploads/2024/03/Minutes-Board-Meeting-June-22-2023_ARH-2.pdf ; https://www.arnpriorregionalhealth.ca/about-us/ourboard/ [UNCONFIRMED \u2014 secondary source only]"
+    }
+]

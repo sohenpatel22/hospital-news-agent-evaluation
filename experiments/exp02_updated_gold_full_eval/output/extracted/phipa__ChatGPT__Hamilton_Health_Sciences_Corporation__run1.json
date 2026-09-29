@@ -1,0 +1,40 @@
+{
+  "system": "ChatGPT",
+  "task": "phipa",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\ChatGPT\\Hamilton Health Sciences Corporation\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "ChatGPT",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 1,
+      "person_or_issue": "MyChart Terms and Conditions revised",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "March 11, 2026",
+      "date_normalised": "2026-03-11",
+      "citation_url": null,
+      "citation_text": "Hamilton Health Sciences — MyChart",
+      "verbatim_snippet": "Hamilton Health Sciences Corporation | MyChart Terms and Conditions revised | HHS’ MyChart Terms and Conditions state that they were last revised March 11, 2026. The terms address patient/proxy access, security, unauthorized access risks, PHI, privacy obligations, auditing, and the application of HHS’ privacy policies to registration information. (MyChart) | March 11, 2026 | Hamilton Health Sciences — MyChart | HHS MyChart Terms and Conditions"
+    },
+    {
+      "item_index": 1,
+      "system": "ChatGPT",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 1,
+      "person_or_issue": "Directory of Records / Personal Information Bank inventory published",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "February 2026",
+      "date_normalised": "2026-02",
+      "citation_url": null,
+      "citation_text": "Hamilton Health Sciences — Directory of Records & PIB Inventory",
+      "verbatim_snippet": "Hamilton Health Sciences Corporation | Directory of Records / Personal Information Bank inventory published | HHS published a 2025 Directory of Records & Personal Information Bank inventory in February 2026. The inventory identifies records containing personal health information and cites PHIPA/FIPPA authorities, including computer audit and utilization records used to investigate and monitor access to patient-care systems. (Hamilton Health Sciences) | February 2026 | Hamilton Health Sciences — Directory of Records & PIB Inventory | HHS Directory of Records & PIB Inventory"
+    }
+  ],
+  "refusals": []
+}

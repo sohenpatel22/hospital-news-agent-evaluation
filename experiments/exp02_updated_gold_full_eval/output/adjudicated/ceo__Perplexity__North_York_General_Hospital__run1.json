@@ -1,0 +1,9 @@
+[
+  {
+    "item_index": 11,
+    "bucket": "E",
+    "reason": "Author-confirmed 2026-08-31: same real person/event as the Gemini idx7 item (identical 4-person governor slate), correctly excluded (non-voting community-member board seat). WRONG-DATE ERROR: this item states 2024-06-13, but the actual election was 2022-06-13 (the 2024 AGM seated a different slate: Mackey/Akai/Fanjoy/Mavroudis) -- Perplexity has the right person/event but the wrong year. Tag this specifically as a 'wrong date' error-taxonomy item (section 1.7, category 3) for Perplexity even though it doesn't count against precision (still bucket E / out of scope).",
+    "confidence": 0.85,
+    "needs_human_check": true
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"France Dallaire - President/CEO (incoming)\",\n      \"person_name\": \"France Dallaire\",\n      \"role\": \"President/CEO\",\n      ",
+  "task": "ceo",
+  "model": "Perplexity",
+  "hospital": "Sensenbrenner Hospital",
+  "run_number": 1
+}

@@ -1,0 +1,16 @@
+system,field,correct,n,accuracy
+ChatGPT,role,33,74,0.44594594594594594
+ChatGPT,date,42,71,0.5915492957746479
+ChatGPT,direction,49,49,1.0
+Claude,role,20,53,0.37735849056603776
+Claude,date,36,53,0.6792452830188679
+Claude,direction,35,36,0.9722222222222222
+Gemini,role,11,37,0.2972972972972973
+Gemini,date,21,37,0.5675675675675675
+Gemini,direction,29,29,1.0
+MS Copilot Agent,role,32,73,0.4383561643835616
+MS Copilot Agent,date,43,72,0.5972222222222222
+MS Copilot Agent,direction,51,51,1.0
+Perplexity,role,12,60,0.2
+Perplexity,date,32,60,0.5333333333333333
+Perplexity,direction,45,45,1.0

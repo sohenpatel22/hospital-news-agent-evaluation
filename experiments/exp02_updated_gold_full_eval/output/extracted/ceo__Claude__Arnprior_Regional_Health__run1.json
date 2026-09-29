@@ -1,0 +1,94 @@
+{
+  "system": "Claude",
+  "task": "ceo",
+  "hospital": "Arnprior Regional Health",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\CEOs\\Claude\\Arnprior Regional Health\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Claude", "task": "ceo", "hospital": "Arnprior Regional Health", "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": null,
+      "direction": "outgoing",
+      "date_raw": "effective October 1, 2021, following Hanna's retirement on September 30, 2021",
+      "date_normalised": "2021-09-30",
+      "citation_url": "https://www.arnpriorregionalhealth.ca/arnprior-regional-health-will-welcome-new-president-and-ceo-this-fall/",
+      "citation_text": "Arnprior Regional Health press release",
+      "verbatim_snippet": "After 13 years leading ARH, Eric Hanna announced his retirement, with the board appointing Leah Levesque, then Vice President of Patient Care and Chief Nursing Executive at Queensway Carleton Hospital and a former six-year ARH senior leader, as his successor, effective October 1, 2021, following Hanna's retirement on September 30, 2021."
+    },
+    {
+      "item_index": 1,
+      "system": "Claude", "task": "ceo", "hospital": "Arnprior Regional Health", "run_number": 1,
+      "person_or_issue": "Leah Levesque",
+      "role": null,
+      "direction": "incoming",
+      "date_raw": "Announced August 19, 2021; effective October 1, 2021",
+      "date_normalised": "2021-10-01",
+      "citation_url": "https://www.arnpriorregionalhealth.ca/arnprior-regional-health-will-welcome-new-president-and-ceo-this-fall/",
+      "citation_text": "Arnprior Regional Health press release",
+      "verbatim_snippet": "After 13 years leading ARH, Eric Hanna announced his retirement, with the board appointing Leah Levesque, then Vice President of Patient Care and Chief Nursing Executive at Queensway Carleton Hospital and a former six-year ARH senior leader, as his successor, effective October 1, 2021, following Hanna's retirement on September 30, 2021. The board framed her mandate around steering ARH through post-COVID recovery, long-term care program growth, launch of the Ontario Health Team, and strategic technology investment."
+    },
+    {
+      "item_index": 2,
+      "system": "Claude", "task": "ceo", "hospital": "Arnprior Regional Health", "run_number": 1,
+      "person_or_issue": "Jeremy Stevenson",
+      "role": "President and CEO",
+      "direction": "incoming",
+      "date_raw": "Announced May 10, 2024; Stevenson joined in August 2024",
+      "date_normalised": "2024-08",
+      "citation_url": "https://www.arnpriorregionalhealth.ca/board-announces-new-ceo/",
+      "citation_text": "Arnprior Regional Health / Boyden press release",
+      "verbatim_snippet": "Following a formal search, ARH's Board of Directors announced Jeremy Stevenson as its next President and CEO, describing him as a results-oriented healthcare leader with acute and long-term care experience. Stevenson came from St. Joseph's General Hospital Elliot Lake, with prior roles as CEO of the North East LHIN, CEO of Mattawa Hospital and Algonquin Nursing Home, and COO of St. Francis Memorial Hospital in Barry's Bay."
+    },
+    {
+      "item_index": 3,
+      "system": "Claude", "task": "ceo", "hospital": "Arnprior Regional Health", "run_number": 1,
+      "person_or_issue": "Leah Levesque",
+      "role": null,
+      "direction": "outgoing",
+      "date_raw": null,
+      "date_normalised": null,
+      "citation_url": "https://www.arnpriorregionalhealth.ca/board-announces-new-ceo/",
+      "citation_text": "Arnprior Regional Health / Boyden press release",
+      "verbatim_snippet": "This transition replaced Levesque (who had led ARH since October 2021) — I did not find a separate public departure notice for Levesque specifically, so her departure timing should be verified directly with ARH."
+    },
+    {
+      "item_index": 4,
+      "system": "Claude", "task": "ceo", "hospital": "Arnprior Regional Health", "run_number": 1,
+      "person_or_issue": "Cathy Jordan",
+      "role": "Board Chair",
+      "direction": "outgoing",
+      "date_raw": "July 3, 2024 (post-AGM)",
+      "date_normalised": "2024-07-03",
+      "citation_url": "https://www.arnpriorregionalhealth.ca/arh-board-of-directors-appoints-new-board-chair/",
+      "citation_text": "Arnprior Regional Health press release",
+      "verbatim_snippet": "After serving as Board Chair for three years, Cathy Jordan completed her term and remained on the board as a director; the Board appointed Oliver Jacob (previously Vice Chair) as the new Chair for a three-year term until June 2027."
+    },
+    {
+      "item_index": 5,
+      "system": "Claude", "task": "ceo", "hospital": "Arnprior Regional Health", "run_number": 1,
+      "person_or_issue": "Oliver Jacob",
+      "role": "Chair",
+      "direction": "incoming",
+      "date_raw": "July 3, 2024 (post-AGM)",
+      "date_normalised": "2024-07-03",
+      "citation_url": "https://www.arnpriorregionalhealth.ca/arh-board-of-directors-appoints-new-board-chair/",
+      "citation_text": "Arnprior Regional Health press release",
+      "verbatim_snippet": "After serving as Board Chair for three years, Cathy Jordan completed her term and remained on the board as a director; the Board appointed Oliver Jacob (previously Vice Chair) as the new Chair for a three-year term until June 2027. This coincided with the onboarding of new CEO Jeremy Stevenson."
+    },
+    {
+      "item_index": 6,
+      "system": "Claude", "task": "ceo", "hospital": "Arnprior Regional Health", "run_number": 1,
+      "person_or_issue": "Jeremy Stevenson",
+      "role": "President and CEO",
+      "direction": "outgoing",
+      "date_raw": "June 2, 2026",
+      "date_normalised": "2026-06-02",
+      "citation_url": "https://www.arnpriorregionalhealth.ca/public-statement/",
+      "citation_text": "Arnprior Regional Health public statement (media contact: Taylor Holmes, Communications Lead)",
+      "verbatim_snippet": "Jeremy Stevenson stepped down as President and CEO on June 2, 2026, with ARH crediting his tenure for advancing the organization's strategic goals and the regional Epic EMR implementation. No successor or interim appointment was named in the public statement I could locate."
+    }
+  ],
+  "refusals": []
+}

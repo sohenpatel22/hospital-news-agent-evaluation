@@ -1,0 +1,58 @@
+[
+  {
+    "source_file": "ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run1.json",
+    "item_index": 18,
+    "bucket": "E",
+    "reason": "Committee-only member without a stated board seat \u2014 explicitly OUT of scope",
+    "confidence": 0.8
+  },
+  {
+    "source_file": "ceo__MS_Copilot_Agent__Arnprior_Regional_Health__run4.json",
+    "item_index": 25,
+    "bucket": "E",
+    "reason": "Administrative staff \u2014 explicitly OUT of scope",
+    "confidence": 0.8
+  },
+  {
+    "source_file": "ceo__MS_Copilot_Agent__North_York_General_Hospital__run1.json",
+    "item_index": 20,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8
+  },
+  {
+    "source_file": "ceo__MS_Copilot_Agent__North_York_General_Hospital__run2.json",
+    "item_index": 21,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8
+  },
+  {
+    "source_file": "ceo__MS_Copilot_Agent__North_York_General_Hospital__run3.json",
+    "item_index": 15,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8
+  },
+  {
+    "source_file": "ceo__MS_Copilot_Agent__North_York_General_Hospital__run4.json",
+    "item_index": 18,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8
+  },
+  {
+    "source_file": "ceo__MS_Copilot_Agent__North_York_General_Hospital__run5.json",
+    "item_index": 22,
+    "bucket": "E",
+    "reason": "Non-voting community member \u2014 explicitly OUT of scope",
+    "confidence": 0.8
+  },
+  {
+    "source_file": "ceo__Perplexity__Arnprior_Regional_Health__run1.json",
+    "item_index": 8,
+    "bucket": "E",
+    "reason": "Committee-only member without a stated board seat \u2014 explicitly OUT of scope",
+    "confidence": 0.8
+  }
+]

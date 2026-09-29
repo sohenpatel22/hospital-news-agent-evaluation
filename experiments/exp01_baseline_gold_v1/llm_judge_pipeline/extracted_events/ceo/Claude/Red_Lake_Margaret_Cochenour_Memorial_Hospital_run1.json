@@ -1,0 +1,9 @@
+{
+  "model_declared_none": false,
+  "events": [],
+  "parse_error": "{\n  \"model_declared_none\": false,\n  \"events\": [\n    {\n      \"name_or_issue\": \"Sue LeBeau - President/CEO (outgoing)\",\n      \"person_name\": \"Sue LeBeau\",\n      \"role\": \"President/CEO\",\n      \"direction",
+  "task": "ceo",
+  "model": "Claude",
+  "hospital": "Red Lake Margaret Cochenour Memorial Hospital",
+  "run_number": 1
+}

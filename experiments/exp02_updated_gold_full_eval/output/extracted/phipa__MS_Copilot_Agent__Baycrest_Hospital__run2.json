@@ -1,0 +1,14 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "Baycrest Hospital",
+  "run_number": 2,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Baycrest Hospital\\Run 2.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Baycrest Hospital",
+      "refusal_text": "Result: No qualifying Baycrest Hospital updates found"
+    }
+  ]
+}

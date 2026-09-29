@@ -1,0 +1,19 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "David Musyj - Supervisor (Public Hospitals Act)",
+      "person_name": "David Musyj",
+      "role": "Supervisor",
+      "appointment_date": "2024-09-25",
+      "termination_date": null,
+      "order_in_council": null,
+      "source": "CBC News",
+      "link": "https://www.cbc.ca/news/canada/london/hospital-board-resigns-as-province-appoints-supervisor-to-clean-up-financial-mess-1.7333496"
+    }
+  ],
+  "task": "supervisors",
+  "model": "Claude",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 1
+}

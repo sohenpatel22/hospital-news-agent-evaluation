@@ -1,0 +1,14 @@
+{
+  "system": "Gemini",
+  "task": "phipa",
+  "hospital": "Baycrest Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\Gemini\\Baycrest Hospital\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "Baycrest Hospital",
+      "refusal_text": "Based on public records, regulatory databases, and news archives for the specified period (January 16, 2026, to July 16, 2026), there are no PHIPA-related news updates, privacy breach investigations, or Information and Privacy Commissioner (IPC) enforcement actions recorded for Baycrest Hospital."
+    }
+  ]
+}

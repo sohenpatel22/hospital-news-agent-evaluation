@@ -1,0 +1,106 @@
+[
+    {
+        "Hospital": "Hospital",
+        "Issue": "Issue",
+        "Paragraph blurb": "Paragraph blurb",
+        "Date": "Date",
+        "Source": "Source",
+        "Source link": "Source link"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "President & CEO departure, Jeremy Stevenson",
+        "Paragraph blurb": "Arnprior Regional Health stated that Jeremy Stevenson stepped down as President and CEO on June 2, 2026. This is recorded as the outgoing CEO event, separately from subsequent acting and interim appointments.",
+        "Date": "June 2, 2026",
+        "Source": "Arnprior Regional Health, Public Statement",
+        "Source link": "Public Statement: Jeremy Stevenson stepped down as President and CEO****[CONFIRMED \u2014 dated primary source] [arnpriorre...lhealth.ca]"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Acting President & CEO assignment began, Raeline McGrath",
+        "Paragraph blurb": "A July 9 hospital announcement confirms that Raeline McGrath, while continuing as Vice President of Patient Care and Chief Nursing Executive, served as Acting President and CEO for \u201cthe few weeks\u201d preceding the arrival of the interim CEO. The hospital did not publish an exact first day for her acting assignment in the located source, so no specific start date should be inferred from Jeremy Stevenson\u2019s departure date.",
+        "Date": "Exact start date not stated; occurred between June 2 and July 13, 2026",
+        "Source": "Arnprior Regional Health, ARH Appoints Pierre Noel as Interim President and CEO",
+        "Source link": "ARH announcement acknowledging Raeline McGrath\u2019s acting CEO service****[CONFIRMED \u2014 dated primary source] [arnpriorre...lhealth.ca]"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Acting President & CEO assignment concluded, Raeline McGrath",
+        "Paragraph blurb": "The hospital thanked Raeline McGrath for serving as Acting President and CEO during the transition and announced that Pierre Noel would become Interim President and CEO effective July 13. The source establishes the succession but does not expressly identify Raeline McGrath\u2019s \u201clast day\u201d; July 13 is therefore recorded as the effective succession date rather than an independently stated last day.",
+        "Date": "July 13, 2026, effective succession date",
+        "Source": "Arnprior Regional Health, ARH Appoints Pierre Noel as Interim President and CEO",
+        "Source link": "ARH announcement concluding the acting-CEO transition****[CONFIRMED \u2014 dated primary source] [arnpriorre...lhealth.ca]"
+    },
+    {
+        "Hospital": "Arnprior Regional Health",
+        "Issue": "Interim President & CEO appointment, Pierre Noel",
+        "Paragraph blurb": "The Board of Directors appointed Pierre Noel Interim President and Chief Executive Officer, effective July 13, 2026, while recruitment continued for a permanent President and CEO. The announcement was issued July 9 and states the appointment\u2019s effective date explicitly.",
+        "Date": "July 13, 2026",
+        "Source": "Arnprior Regional Health, ARH Appoints Pierre Noel as Interim President and CEO",
+        "Source link": "ARH appointment announcement for Pierre Noel****[CONFIRMED \u2014 dated primary source] [arnpriorre...lhealth.ca]"
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Incoming President and CEO: Carmine Stumpo",
+        "Paragraph blurb": "Carmine Stumpo began as President and Chief Executive Officer of Mackenzie Health. The hospital\u2019s dated announcement expressly states that his appointment was effective April 13, 2026. This is reported separately from the conclusion of Mary-Agnes Wilson\u2019s interim assignment, in accordance with the dual-event rule.[CONFIRMED \u2014 dated primary source] [mackenziehealth.ca], [linkedin.com], [boyden.com]",
+        "Date": "April 13, 2026",
+        "Source": "Mackenzie Health; corroborated by Boyden",
+        "Source link": "Announcing Mackenzie Health\u2019s new President and CEO; Boyden appointment announcement"
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Outgoing interim President and CEO: Mary-Agnes Wilson",
+        "Paragraph blurb": "Mary-Agnes Wilson\u2019s interim President and CEO assignment concluded as Mackenzie Health transitioned to Carmine Stumpo on April 13, 2026. The hospital announcement thanks Wilson for serving in the interim position and gives April 13 as Stumpo\u2019s effective date, but it does not expressly identify Wilson\u2019s final calendar day. Accordingly, the date shown is the documented transition date rather than an inferred April 12 departure date.[CONFIRMED \u2014 dated primary source] [mackenziehealth.ca], [linkedin.com]",
+        "Date": "April 13, 2026 transition; Wilson\u2019s exact last day not stated",
+        "Source": "Mackenzie Health",
+        "Source link": "Announcing Mackenzie Health\u2019s new President and CEO"
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Secretary of the Corporation: Carmine Stumpo replaced Mary-Agnes Wilson as CEO ex officio",
+        "Paragraph blurb": "Following his April 13 start as President and CEO, Carmine Stumpo also appears on Mackenzie Health\u2019s board roster as Secretary of the Corporation. The June 18 AGM notice, dated May 27, 2026, is signed by \u201cCarmine Stumpo, Secretary,\u201d providing dated primary-source confirmation that he held the corporate office by that date.[CONFIRMED \u2014 dated primary source] [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca]",
+        "Date": "By May 27, 2026",
+        "Source": "Mackenzie Health",
+        "Source link": "Notice of Annual Meeting of Members; Mackenzie Health Board of Directors roster"
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Mary-Agnes Wilson ceased serving as CEO ex officio on the board",
+        "Paragraph blurb": "Wilson was listed with the board while serving as interim CEO in the February and March 2026 board agendas. Her ex officio participation associated with the interim CEO role ended with the April CEO transition. The sources do not establish that she held a separately elected director seat, so this is recorded as the conclusion of her executive-linked board service rather than the resignation of an elected director.[CONFIRMED \u2014 dated primary source] [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca]",
+        "Date": "April 13, 2026 transition; exact final board-service day not stated",
+        "Source": "Mackenzie Health",
+        "Source link": "March 26, 2026 board agenda; CEO transition announcement"
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Probable departure: Deryn Rizzi, Director",
+        "Paragraph blurb": "Deryn Rizzi appears among the directors in the February 12, March 26, and May 28, 2026 board materials but does not appear on the subsequently indexed Mackenzie Health board roster. The public material located does not provide a resignation resolution or effective date. Halifax announced on June 8 that Rizzi would become its Fire Chief on August 17, but that announcement does not expressly state when her Mackenzie Health directorship ended.[PROBABLE \u2014 roster/LinkedIn/recruitment firm only] [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca], [halifax.ca]",
+        "Date": "Exact date not located; present May 28, 2026 and absent from later roster",
+        "Source": "Mackenzie Health; Halifax Regional Municipality",
+        "Source link": "May 28, 2026 board agenda; Mackenzie Health Board of Directors roster; Halifax announcement concerning Deryn Rizzi"
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Probable departure: David Steinberg, Director",
+        "Paragraph blurb": "David Steinberg appears in Mackenzie Health\u2019s February, March, and May 2026 board materials but is absent from the subsequently indexed hospital board roster. No dated resignation notice, AGM election result, or other primary source expressly giving his last day was located. Because the later roster alone does not establish the effective date, this change cannot be assigned conclusively to June 18 or another specific day within the reporting window.[PROBABLE \u2014 roster/LinkedIn/recruitment firm only] [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca]",
+        "Date": "Exact date not located; present May 28, 2026 and absent from later roster",
+        "Source": "Mackenzie Health",
+        "Source link": "May 28, 2026 board agenda; Mackenzie Health Board of Directors roster"
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Incoming President, Professional Staff Association: Dr. Kimia Honarmand",
+        "Paragraph blurb": "The later Mackenzie Health board roster identifies Dr. Kimia Honarmand as President of the Professional Staff Association. However, dated board agendas through May 28 still identify Dr. Khizer Amin as the Professional Staff Association representative, and the June 18 AGM notice does not name the incoming professional-staff officers. This supports a leadership change, but the exact effective date within the requested period was not located in a dated primary source.[PROBABLE \u2014 roster/LinkedIn/recruitment firm only] [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca]",
+        "Date": "Exact date not located; after May 28, 2026 according to the roster sequence",
+        "Source": "Mackenzie Health",
+        "Source link": "May 28, 2026 board agenda; Mackenzie Health Board of Directors roster"
+    },
+    {
+        "Hospital": "Mackenzie Health",
+        "Issue": "Outgoing President, Professional Staff Association: Dr. Khizer Amin",
+        "Paragraph blurb": "Dr. Khizer Amin was still identified as the Professional Staff Association representative in the February, March, and May 2026 board agendas. The later hospital roster instead identifies Dr. Kimia Honarmand as President. The sources therefore indicate that Amin left the presidency, but no dated notice or minutes establishing his final day were located.[PROBABLE \u2014 roster/LinkedIn/recruitment firm only] [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca], [mackenziehealth.ca]",
+        "Date": "Exact date not located; after May 28, 2026 according to the roster sequence",
+        "Source": "Mackenzie Health",
+        "Source link": "May 28, 2026 board agenda; Mackenzie Health Board of Directors roster"
+    }
+]

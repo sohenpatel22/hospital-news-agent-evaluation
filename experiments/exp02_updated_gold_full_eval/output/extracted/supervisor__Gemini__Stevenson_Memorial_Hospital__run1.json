@@ -1,0 +1,55 @@
+{
+  "system": "Gemini",
+  "task": "supervisor",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Gemini\\Stevenson Memorial Hospital\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Gemini",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "supervisor",
+      "direction": "incoming",
+      "date_raw": "September 26, 2024",
+      "date_normalised": "2024-09-26",
+      "citation_url": null,
+      "citation_text": "Government of Ontario (Order in Council 1271/2024)",
+      "verbatim_snippet": "Following a formal review and final report by health investigator Janice Skot—which examined mounting concerns regarding the hospital's leadership, governance, and quality of care—the Government of Ontario appointed Eric Hanna as supervisor under subsection 9(1) of the Public Hospitals Act to oversee daily operations, stabilize management, and restore institutional accountability."
+    },
+    {
+      "item_index": 1,
+      "system": "Gemini",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Eric Hanna",
+      "role": "supervisor",
+      "direction": "outgoing",
+      "date_raw": null,
+      "date_normalised": null,
+      "citation_url": null,
+      "citation_text": "Government of Ontario (Order in Council 767/2025)",
+      "verbatim_snippet": "Following Eric Hanna's decision to step down from the role, the Government of Ontario appointed Carmine Stumpo as the new supervisor to maintain rigorous oversight of hospital operations, further advance governance and financial performance improvements, and guide the progress of the hospital's major $174 million redevelopment project."
+    },
+    {
+      "item_index": 2,
+      "system": "Gemini",
+      "task": "supervisor",
+      "hospital": "Stevenson Memorial Hospital",
+      "run_number": 1,
+      "person_or_issue": "Carmine Stumpo",
+      "role": "supervisor",
+      "direction": "incoming",
+      "date_raw": "June 9, 2025",
+      "date_normalised": "2025-06-09",
+      "citation_url": null,
+      "citation_text": "Government of Ontario (Order in Council 767/2025)",
+      "verbatim_snippet": "Following Eric Hanna's decision to step down from the role, the Government of Ontario appointed Carmine Stumpo as the new supervisor to maintain rigorous oversight of hospital operations, further advance governance and financial performance improvements, and guide the progress of the hospital's major $174 million redevelopment project."
+    }
+  ],
+  "refusals": []
+}

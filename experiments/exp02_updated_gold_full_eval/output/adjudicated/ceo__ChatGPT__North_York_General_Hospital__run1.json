@@ -1,0 +1,16 @@
+[
+  {
+    "item_index": 4,
+    "bucket": "E",
+    "reason": "Kept as E (Medical Staff Association President is not a board/Foundation/VP-Chief role per the literal scope rule). FLAG: this is now in tension with the confirmed Eyal Golan addition (C246, Mackenzie's Professional Staff Association President), which the gold sheet's own existing convention already treats as IN-scope 'ex-officio board seat' (see C23/C27/C165/C177/C211). NYGH's 'Medical Staff Association' may be the same kind of ex-officio body under a different name -- this needs an explicit author decision on whether to reclassify Bell as IN-scope for consistency with the Golan precedent, not a unilateral change by the adjudication script.",
+    "confidence": 0.55,
+    "needs_human_check": true
+  },
+  {
+    "item_index": 21,
+    "bucket": "A",
+    "reason": "Unchanged from prior read: IN-scope board seat, cross-corroborated across systems/runs, plausible gold gap given very recent date. Still not independently confirmed -- kept in needs_human_check.",
+    "confidence": 0.6,
+    "needs_human_check": true
+  }
+]

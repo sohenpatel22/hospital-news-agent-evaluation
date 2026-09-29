@@ -1,0 +1,16 @@
+System,Tier,Recall
+ChatGPT,Tier A (High),0.8303173925011884
+ChatGPT,Tier B (Medium),0.5624235444596561
+ChatGPT,Tier C (Low),0.14202437534111093
+Claude,Tier A (High),0.7354051100497714
+Claude,Tier B (Medium),0.6665563684378425
+Claude,Tier C (Low),0.19862352334546268
+Gemini,Tier A (High),0.8619502726131997
+Gemini,Tier B (Medium),0.4789736640706708
+Gemini,Tier C (Low),0.12746069721911124
+Perplexity,Tier A (High),0.8082811053875651
+Perplexity,Tier B (Medium),0.6518787011000942
+Perplexity,Tier C (Low),0.13337094890034096
+MS Copilot Agent,Tier A (High),0.7721237766058773
+MS Copilot Agent,Tier B (Medium),0.5951902627836174
+MS Copilot Agent,Tier C (Low),0.1459944574091728

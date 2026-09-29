@@ -1,0 +1,1 @@
+Figure 5: Citation validity scores (3=perfect link, 0=no/broken link). n=total extracted facts per system. Annotated values indicate the mean citation score. Limitation: Link rot may cause valid URLs to register as broken (Score 0) over time.

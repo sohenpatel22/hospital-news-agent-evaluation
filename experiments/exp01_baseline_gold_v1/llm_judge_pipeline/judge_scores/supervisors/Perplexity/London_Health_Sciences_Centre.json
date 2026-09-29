@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly answers the user's intent by identifying the interim supervisor appointed by the Government of Ontario to London Health Sciences Centre.",
+  "groundedness": 2,
+  "groundedness_reason": "The key claim about David Musyj's appointment is supported by multiple cited sources including the hospital's own website and media reports, though the specific appointment date (2024-09-25) lacks a direct Order in Council citation.",
+  "completeness": 1.0,
+  "completeness_reason": "The response covers the only gold standard item (David Musyj as Supervisor) fully.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of identifying government-appointed supervisors at London Health Sciences Centre.",
+  "generated_questions": [
+    "Who was appointed as supervisor of London Health Sciences Centre by the Ontario government?",
+    "When was David Musyj appointed as supervisor of London Health Sciences Centre?",
+    "What interim supervisors has the Ontario government appointed to London Health Sciences Centre in recent years?"
+  ],
+  "task": "supervisors",
+  "model": "Perplexity",
+  "hospital": "London Health Sciences Centre"
+}

@@ -1,0 +1,38 @@
+task,model,hospital,link,name_or_issue,valid,note,credibility_tier
+phipa,MS Copilot Agent,Hamilton Health Sciences Corporation,https://ipc.on.ca,PHIPA Decision 338 – unreasonable search for a child's personal health information (Complaint HA25-00348),False,http_403,1
+phipa,MS Copilot Agent,Hamilton Health Sciences Corporation,https://decisions.ipc.on.ca,Internal and external paediatric surgery review records withheld under the quality-of-care exemption (Order PO-4849),True,http_200,1
+phipa,MS Copilot Agent,The Ottawa Hospital,https://www.ipc.on.ca,Access to screenshots and displays from the Epic electronic medical record (PHIPA Decision 340),False,http_403,1
+phipa,MS Copilot Agent,The Ottawa Hospital,https://www.decisions.ipc.on.ca,"Access to records concerning a patient's care, interaction between PHIPA and FIPPA (Order PO-4820)",False,error_URLError,1
+phipa,MS Copilot Agent,William Osler Health System,https://www.williamoslerhs.ca,"Epic hospital information system launch announcement — digital health record modernization, information sharing and privacy governance",True,http_200,3
+phipa,MS Copilot Agent,William Osler Health System,https://canhealth.com,"AI-enabled Epic EHR implementation and information governance (generative AI for clinical documentation, discharge summaries, patient instructions; CIPO role identified)",True,http_200,4
+phipa,MS Copilot Agent,William Osler Health System,https://williamoslerhs.ca,"Consolidated patient record, secure MyChart portal access, and responsible AI safeguards (single digital patient record, role-based disclosure, portal authentication, AI governance)",True,http_200,3
+phipa,MS Copilot Agent,William Osler Health System,https://hospitalnews.com,"Privacy, security, ethics, and human oversight for AI using clinical information in Epic HIS (clinician-led implementation with explicit privacy/security/ethical AI governance focus)",True,http_200,4
+phipa,MS Copilot Agent,William Osler Health System,https://insauga.com,Patient online access to hospital records in Brampton and Etobicoke,True,http_200,4
+phipa,Perplexity,William Osler Health System,https://jobs.smartrecruiters.com/WilliamOslerHealthSystem1/744000128259218-manager-privacy,Privacy Manager recruitment and PHIPA program oversight,True,http_200,4
+phipa,Perplexity,William Osler Health System,https://www.williamoslerhs.ca/news/posts/osler-to-launch-new-hospital-information-system-in-october-2026/,"New Epic hospital information system, electronic records, MyChart access, and AI privacy safeguards",True,http_200,3
+phipa,Perplexity,William Osler Health System,https://www.williamoslerhs.ca/visiting-us/patient-privacy-and-safety/protecting-your-privacy/,Public statement of PHIPA information practices and patient privacy rights,True,http_200,3
+phipa,Perplexity,William Osler Health System,https://www.williamoslerhs.ca/privacy-policy/,Website privacy policy referencing PHIPA compliance,True,http_200,3
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,https://www.nwonewswatch.com,Jennifer Lawrance - President/CEO (incoming),True,http_200,4
+ceo,MS Copilot Agent,Red Lake Margaret Cochenour Memorial Hospital,https://www.redlakehospital.ca,Angela Bishop - Interim CEO (incoming),True,http_200,4
+ceo,MS Copilot Agent,Sensenbrenner Hospital,https://senhosp.ca,Natalie Côté-Tremblay - Board Chair (incoming),True,http_200,4
+ceo,Claude,Arnprior Regional Health,https://www.arnpriorregionalhealth.ca/arnprior-regional-health-will-welcome-new-president-and-ceo-this-fall/,Eric Hanna - President/CEO (outgoing),True,http_200,3
+ceo,Claude,Arnprior Regional Health,https://www.arnpriorregionalhealth.ca/board-announces-new-ceo/,Leah Levesque - President/CEO (outgoing),True,http_200,3
+ceo,Claude,Arnprior Regional Health,https://www.arnpriorregionalhealth.ca/arh-board-of-directors-appoints-new-board-chair/,Cathy Jordan - Board Chair (outgoing),True,http_200,3
+ceo,Claude,Arnprior Regional Health,https://www.arnpriorregionalhealth.ca/public-statement/,Jeremy Stevenson - President/CEO (outgoing),True,http_200,3
+ceo,Claude,Windsor Regional Hospital,https://wrh.on.ca/uploads/BoardMeetings/AGM_Board_Package_2023.pdf,Anthony Paniccia - Board Chair (outgoing),True,http_200,3
+ceo,Claude,Windsor Regional Hospital,https://www.cbc.ca/lite/story/1.7207391,Patti France - Board Chair (incoming),True,http_200,2
+ceo,Claude,Windsor Regional Hospital,https://www.cbc.ca/news/canada/windsor/windsor-regional-hospital-president-to-temporarily-take-helm-at-london-health-sciences-centre-1.7207391,David Musyj - President/CEO (outgoing to secondment),True,http_200,2
+ceo,Claude,Windsor Regional Hospital,https://www.cbc.ca/news/canada/windsor/windsor-regional-hospital-karen-riddell-1.7211553,Karen Riddell - Acting President/CEO (incoming),True,http_200,2
+ceo,Claude,Windsor Regional Hospital,https://www.boyden.com/media/new-president-and-ceo-appointed-at-windsor-regional-hospital-56784111/,Karen Riddell - President/CEO permanent (incoming),True,http_200,4
+ceo,Claude,Windsor Regional Hospital,https://www.cbc.ca/news/canada/windsor/kristin-kennedy-windsor-regional-hospita-9.7029476,Kristin Kennedy - President/CEO (incoming announced),True,http_200,2
+ceo,Claude,Windsor Regional Hospital,https://www.cbc.ca/news/canada/windsor/q-and-a-windsor-regional-hospital-new-ceo-kristin-kennedy-9.7168898,Kristin Kennedy - President/CEO (incoming assumed post),True,http_200,2
+supervisors,MS Copilot Agent,London Health Sciences Centre,https://www.ontario.ca,David Musyj - Supervisor (s.9(1) Public Hospitals Act),True,http_200,1
+supervisors,MS Copilot Agent,Renfrew Victoria Hospital,https://ontario.ca,Altaf Stationwala - Supervisor (s.9(1) Public Hospitals Act),True,http_200,1
+supervisors,Claude,London Health Sciences Centre,https://www.cbc.ca/news/canada/london/hospital-board-resigns-as-province-appoints-supervisor-to-clean-up-financial-mess-1.7333496,David Musyj - Supervisor (Public Hospitals Act),True,http_200,2
+supervisors,Claude,Renfrew Victoria Hospital,https://www.cbc.ca/news/canada/ottawa/province-appoints-supervisor-to-oversee-renfrew-hospital-amid-financial-concerns-1.7248464,Altaf Stationwala - Supervisor (Public Hospitals Act),True,http_200,2
+supervisors,Claude,Stevenson Memorial Hospital,https://www.southsimcoetoday.ca/2024/02/08/ontario-appoints-janice-skot-as-investigator-for-stevenson-memorial-hospital-review/,Janice Skot - Investigator,True,http_200,4
+supervisors,Claude,Stevenson Memorial Hospital,https://www.miltonnow.ca/2024/09/27/ontario-appoints-supervisor-for-stevenson-memorial-hospital/,Eric Hanna - Supervisor,True,http_200,4
+supervisors,Claude,Stevenson Memorial Hospital,https://www.bradfordtoday.ca/local-news/orillia-hospital-ceo-to-oversee-stevenson-memorial-hospital-operations-10774551,Carmine Stumpo - Supervisor (successor to Hanna),False,http_403,4
+supervisors,Perplexity,London Health Sciences Centre,https://www.lhsc.on.ca/strengthening-our-governance,David Musyj - Supervisor,False,http_404,3
+supervisors,Perplexity,Stevenson Memorial Hospital,https://www.southsimcoetoday.ca/2024/09/27/ontario-appoints-supervisor-for-stevenson-memorial-hospital/,Eric Hanna - Supervisor,True,http_200,4
+supervisors,Perplexity,Stevenson Memorial Hospital,https://news.ontario.ca/en/release/1006988/ontario-taking-the-next-step-to-expand-stevenson-memorial-hospital,Carmine Stumpo - Supervisor,True,http_200,1

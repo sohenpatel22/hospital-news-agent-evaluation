@@ -1,0 +1,25 @@
+{
+  "system": "MS Copilot Agent",
+  "task": "phipa",
+  "hospital": "Hamilton Health Sciences Corporation",
+  "run_number": 4,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\MS Copilot Agent\\Hamilton Health Sciences Corporation\\Run 4.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "MS Copilot Agent",
+      "task": "phipa",
+      "hospital": "Hamilton Health Sciences Corporation",
+      "run_number": 4,
+      "person_or_issue": "Inadequate search for a child’s personal-health-information records under PHIPA",
+      "role": null,
+      "direction": "unclear",
+      "date_raw": "May 13, 2026",
+      "date_normalised": "2026-05-13",
+      "citation_url": null,
+      "citation_text": "Information and Privacy Commissioner of Ontario",
+      "verbatim_snippet": "Hamilton Health Sciences Corporation → Inadequate search for a child’s personal-health-information records under PHIPA → In PHIPA Decision 338, the parents of a child complained that the hospital had not located all records responsive to their access request. The requested material included internal documentation concerning pending or inconclusive test results, pathology imaging, consultation records, consent documentation, and other records held outside the principal patient chart. The adjudicator found that the hospital had limited its search to the Health Records Department and the Epic electronic health-record system, rather than searching throughout the hospital for records in its custody or control. The search was therefore not reasonable under sections 53 and 54 of PHIPA. The hospital was ordered to conduct another search within 30 days, issue a new access decision for any further records found, describe the additional search and its results in writing, identify requested records that remained unlocated, and explain why they could not be found. → May 13, 2026 → Information and Privacy Commissioner of Ontario → PHIPA Decision 338: Hamilton Health Sciences [norma.lexum.com], [ipc.on.ca]"
+    }
+  ],
+  "refusals": []
+}

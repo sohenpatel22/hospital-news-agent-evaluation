@@ -1,0 +1,14 @@
+{
+  "system": "Perplexity",
+  "task": "phipa",
+  "hospital": "The Ottawa Hospital",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\PHIPA\\Perplexity\\The Ottawa Hospital\\Run 1.docx",
+  "items": [],
+  "refusals": [
+    {
+      "hospital": "The Ottawa Hospital",
+      "refusal_text": "Based on my comprehensive search of news sources, regulatory filings, and The Ottawa Hospital’s own communications between January 16, 2026 and July 16, 2026, I found no PHIPA-related news updates, privacy breaches, or data security incidents specifically involving The Ottawa Hospital during that period."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "system": "Gemini",
+  "task": "supervisor",
+  "hospital": "London Health Sciences Centre",
+  "run_number": 1,
+  "source_file": "data\\raw\\Prompt V0\\Interim Supervisor\\Gemini\\London Health Sciences Centre\\Run 1.docx",
+  "items": [
+    {
+      "item_index": 0,
+      "system": "Gemini",
+      "task": "supervisor",
+      "hospital": "London Health Sciences Centre",
+      "run_number": 1,
+      "person_or_issue": "David Musyj",
+      "role": "official supervisor of LHSC",
+      "direction": "incoming",
+      "date_raw": "September 25, 2024",
+      "date_normalised": "2024-09-25",
+      "citation_url": null,
+      "citation_text": "Government of Ontario / Ministry of Health News / CTV News",
+      "verbatim_snippet": "Following a third-party review highlighting mounting financial pressures and institutional instability, the Government of Ontario appointed David Musyj—then President and CEO of Windsor Regional Hospital—as official supervisor of LHSC on September 25, 2024."
+    }
+  ],
+  "refusals": []
+}

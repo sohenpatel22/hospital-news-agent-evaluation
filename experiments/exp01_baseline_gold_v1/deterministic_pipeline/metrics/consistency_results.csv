@@ -1,0 +1,91 @@
+tool,task,hospital,n_runs,mean_pairwise_jaccard
+ChatGPT,ceo,Arnprior Regional Health,1,
+ChatGPT,ceo,Mackenzie Health,1,
+ChatGPT,ceo,North York General Hospital,1,
+ChatGPT,ceo,Red Lake Margaret Cochenour Memorial Hospital,1,
+ChatGPT,ceo,Sensenbrenner Hospital,1,
+ChatGPT,ceo,Windsor Regional Hospital,1,
+ChatGPT,phipa,Anson General Hospital,1,
+ChatGPT,phipa,Baycrest Health Sciences,1,
+ChatGPT,phipa,Geraldton District Hospital,1,
+ChatGPT,phipa,Hamilton Health Sciences,1,
+ChatGPT,phipa,The Ottawa Hospital,1,
+ChatGPT,phipa,William Osler Health System,1,
+ChatGPT,supervisors,London Health Sciences Centre,1,
+ChatGPT,supervisors,Renfrew Victoria Hospital,1,
+ChatGPT,supervisors,Sante Manitouwadge Health,1,
+ChatGPT,supervisors,Sault Area Hospital,1,
+ChatGPT,supervisors,Sinai Health System,1,
+ChatGPT,supervisors,Stevenson Memorial Hospital,1,
+Claude,ceo,Arnprior Regional Health,1,
+Claude,ceo,Mackenzie Health,1,
+Claude,ceo,North York General Hospital,1,
+Claude,ceo,Red Lake Margaret Cochenour Memorial Hospital,1,
+Claude,ceo,Sensenbrenner Hospital,1,
+Claude,ceo,Windsor Regional Hospital,1,
+Claude,phipa,Anson General Hospital,1,
+Claude,phipa,Baycrest Health Sciences,1,
+Claude,phipa,Geraldton District Hospital,1,
+Claude,phipa,Hamilton Health Sciences,1,
+Claude,phipa,The Ottawa Hospital,1,
+Claude,phipa,William Osler Health System,1,
+Claude,supervisors,London Health Sciences Centre,1,
+Claude,supervisors,Renfrew Victoria Hospital,1,
+Claude,supervisors,Sante Manitouwadge Health,1,
+Claude,supervisors,Sault Area Hospital,1,
+Claude,supervisors,Sinai Health System,1,
+Claude,supervisors,Stevenson Memorial Hospital,1,
+Gemini,ceo,Arnprior Regional Health,1,
+Gemini,ceo,Mackenzie Health,1,
+Gemini,ceo,North York General Hospital,1,
+Gemini,ceo,Red Lake Margaret Cochenour Memorial Hospital,1,
+Gemini,ceo,Sensenbrenner Hospital,1,
+Gemini,ceo,Windsor Regional Hospital,1,
+Gemini,phipa,Anson General Hospital,1,
+Gemini,phipa,Baycrest Health Sciences,1,
+Gemini,phipa,Geraldton District Hospital,1,
+Gemini,phipa,Hamilton Health Sciences,1,
+Gemini,phipa,The Ottawa Hospital,1,
+Gemini,phipa,William Osler Health System,1,
+Gemini,supervisors,London Health Sciences Centre,1,
+Gemini,supervisors,Renfrew Victoria Hospital,1,
+Gemini,supervisors,Sante Manitouwadge Health,1,
+Gemini,supervisors,Sault Area Hospital,1,
+Gemini,supervisors,Sinai Health System,1,
+Gemini,supervisors,Stevenson Memorial Hospital,1,
+MS Copilot Agent,ceo,Arnprior Regional Health,5,0.38
+MS Copilot Agent,ceo,Mackenzie Health,5,0.466
+MS Copilot Agent,ceo,North York General Hospital,5,0.271
+MS Copilot Agent,ceo,Red Lake Margaret Cochenour Memorial Hospital,5,0.494
+MS Copilot Agent,ceo,Sensenbrenner Hospital,5,1.0
+MS Copilot Agent,ceo,Windsor Regional Hospital,5,0.768
+MS Copilot Agent,phipa,Anson General Hospital,5,1.0
+MS Copilot Agent,phipa,Baycrest Health Sciences,5,1.0
+MS Copilot Agent,phipa,Geraldton District Hospital,5,1.0
+MS Copilot Agent,phipa,Hamilton Health Sciences,5,0.4
+MS Copilot Agent,phipa,The Ottawa Hospital,5,0.4
+MS Copilot Agent,phipa,William Osler Health System,5,1.0
+MS Copilot Agent,supervisors,London Health Sciences Centre,5,0.6
+MS Copilot Agent,supervisors,Renfrew Victoria Hospital,5,0.4
+MS Copilot Agent,supervisors,Sante Manitouwadge Health,5,1.0
+MS Copilot Agent,supervisors,Sault Area Hospital,5,1.0
+MS Copilot Agent,supervisors,Sinai Health System,5,1.0
+MS Copilot Agent,supervisors,Stevenson Memorial Hospital,5,0.6
+Perplexity,ceo,Arnprior Regional Health,1,
+Perplexity,ceo,Mackenzie Health,1,
+Perplexity,ceo,North York General Hospital,1,
+Perplexity,ceo,Red Lake Margaret Cochenour Memorial Hospital,1,
+Perplexity,ceo,Sensenbrenner Hospital,1,
+Perplexity,ceo,Windsor Regional Hospital,1,
+Perplexity,phipa,Anson General Hospital,1,
+Perplexity,phipa,Baycrest Health Sciences,1,
+Perplexity,phipa,Geraldton District Hospital,1,
+Perplexity,phipa,Hamilton Health Sciences,1,
+Perplexity,phipa,The Ottawa Hospital,1,
+Perplexity,phipa,William Osler Health System,1,
+Perplexity,supervisors,London Health Sciences Centre,1,
+Perplexity,supervisors,Renfrew Victoria Hospital,1,
+Perplexity,supervisors,Sante Manitouwadge Health,1,
+Perplexity,supervisors,Sault Area Hospital,1,
+Perplexity,supervisors,Sinai Health System,1,
+Perplexity,supervisors,Stevenson Memorial Hospital,1,

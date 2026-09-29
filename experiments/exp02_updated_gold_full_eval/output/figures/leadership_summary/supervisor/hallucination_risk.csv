@@ -1,0 +1,6 @@
+system,bucket_B_count,total_returned,hallucination_rate
+ChatGPT,0,6,0.0
+Claude,0,6,0.0
+Gemini,0,5,0.0
+MS Copilot Agent,0,6,0.0
+Perplexity,0,4,0.0

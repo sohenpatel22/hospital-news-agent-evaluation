@@ -1,0 +1,19 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses the user's intent by correctly indicating no interim supervisors were appointed to Sinai Health System in the last 5 years.",
+  "groundedness": 3,
+  "groundedness_reason": "The model makes no factual claims requiring citation, and correctly returning an empty list is consistent with the ground truth of zero events.",
+  "completeness": 1.0,
+  "completeness_reason": "The gold standard contains zero events, and the model correctly identified no events, achieving full completeness.",
+  "missed_items": [],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of finding interim supervisors appointed to Sinai Health System.",
+  "generated_questions": [
+    "Has the Government of Ontario ever appointed an interim supervisor to Sinai Health System in the last 5 years?",
+    "Are there any records of government-appointed supervisors at Sinai Health System recently?",
+    "What interim supervisors has Ontario appointed to Sinai Health System since 2019?"
+  ],
+  "task": "supervisors",
+  "model": "ChatGPT",
+  "hospital": "Sinai Health System"
+}

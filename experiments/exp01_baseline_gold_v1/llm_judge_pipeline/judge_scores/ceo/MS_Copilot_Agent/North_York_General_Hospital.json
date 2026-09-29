@@ -1,0 +1,30 @@
+{
+  "relevance": 3,
+  "relevance_reason": "The response directly addresses hospital leadership changes at North York General Hospital, covering board governors, board chairs, and CEO transitions as requested.",
+  "groundedness": 2,
+  "groundedness_reason": "Most claims cite sources such as North York General Hospital, Mirams Becker, CNW, and The Globe and Mail, but no direct links are provided and some entries lack complete source attribution.",
+  "completeness": 0.63,
+  "completeness_reason": "The model covers 12 of 19 gold standard items, missing several board members and some incoming board governors including Bert Clark as incoming, Robert Sankey, Dr. Christine Williams, Toni Rossi, Karyn Popovich retirement, Sean Cohan, Christine Cruz-Clarke, Ted Garrard, Vince Imerti, and Richard So.",
+  "missed_items": [
+    "Bert Clark - Board Chair (incoming)",
+    "Robert Sankey - Board Governor (incoming)",
+    "Dr. Christine Williams - Board Governor (incoming)",
+    "Toni Rossi - Board Governor (incoming)",
+    "Karyn Popovich - President/CEO retirement announced",
+    "Sean Cohan - Board Member (incoming)",
+    "Christine Cruz-Clarke - Board Member (incoming)",
+    "Ted Garrard - Board Member (incoming)",
+    "Vince Imerti - Board Member (incoming)",
+    "Richard So - Board Member (incoming)"
+  ],
+  "answer_relevancy": 1.0,
+  "answer_relevancy_reason": "All three generated questions align directly with the original intent of identifying leadership and board changes at North York General Hospital in the last five years.",
+  "generated_questions": [
+    "Who were the incoming board governors at North York General Hospital in recent years?",
+    "Who became President and CEO of North York General Hospital and when?",
+    "Who replaced Bert Clark as Board Chair at North York General Hospital?"
+  ],
+  "task": "ceo",
+  "model": "MS Copilot Agent",
+  "hospital": "North York General Hospital"
+}

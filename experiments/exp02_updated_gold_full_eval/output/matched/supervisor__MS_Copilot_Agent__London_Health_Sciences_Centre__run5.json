@@ -1,0 +1,8 @@
+[
+  {
+    "item_index": 0,
+    "matched_gold_item_id": "S5",
+    "match_confidence": "high",
+    "match_reason": "exact after normalisation (matched form 'david musyj' == 'david musyj'); hospital agrees (London Health Sciences Centre)"
+  }
+]

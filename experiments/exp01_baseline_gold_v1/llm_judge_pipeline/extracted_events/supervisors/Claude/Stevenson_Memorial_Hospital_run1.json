@@ -1,0 +1,39 @@
+{
+  "model_declared_none": false,
+  "events": [
+    {
+      "name_or_issue": "Janice Skot - Investigator",
+      "person_name": "Janice Skot",
+      "role": "Investigator",
+      "appointment_date": "2024-02",
+      "termination_date": null,
+      "order_in_council": null,
+      "source": "South Simcoe Today",
+      "link": "https://www.southsimcoetoday.ca/2024/02/08/ontario-appoints-janice-skot-as-investigator-for-stevenson-memorial-hospital-review/"
+    },
+    {
+      "name_or_issue": "Eric Hanna - Supervisor",
+      "person_name": "Eric Hanna",
+      "role": "Supervisor",
+      "appointment_date": "2024-09-27",
+      "termination_date": null,
+      "order_in_council": null,
+      "source": "FM101 Milton Now",
+      "link": "https://www.miltonnow.ca/2024/09/27/ontario-appoints-supervisor-for-stevenson-memorial-hospital/"
+    },
+    {
+      "name_or_issue": "Carmine Stumpo - Supervisor (successor to Hanna)",
+      "person_name": "Carmine Stumpo",
+      "role": "Supervisor",
+      "appointment_date": "2025-06",
+      "termination_date": null,
+      "order_in_council": null,
+      "source": "Bradford Today",
+      "link": "https://www.bradfordtoday.ca/local-news/orillia-hospital-ceo-to-oversee-stevenson-memorial-hospital-operations-10774551"
+    }
+  ],
+  "task": "supervisors",
+  "model": "Claude",
+  "hospital": "Stevenson Memorial Hospital",
+  "run_number": 1
+}
